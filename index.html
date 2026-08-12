@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Strategic Investment Monitor</title>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+<header>
+  <div><small>STRATEGIC INVESTMENT</small><h1>Monitoring Cockpit</h1></div>
+  <span id="today"></span>
+</header>
+
+<section class="summary">
+  <div class="s a"><span>Critical</span><b id="aCnt"></b></div>
+  <div class="s b"><span>Watch</span><b id="bCnt"></b></div>
+  <div class="s c"><span>Normal</span><b id="cCnt"></b></div>
+</section>
+
+<div class="head">
+  <h2>Portfolio</h2>
+  <div class="filters">
+    <button class="chip on" data-f="ALL">전체</button>
+    <button class="chip" data-f="A">A급</button>
+    <button class="chip" data-f="B">B급</button>
+    <button class="chip" data-f="C">C급</button>
+  </div>
+</div>
+<div id="list"></div>
+
+<h2 class="mt">Management Attention</h2>
+<section class="attention">
+  <small>금일 핵심</small>
+  <h3>차AI헬스케어</h3>
+  <p>관계기업 투자 확대와 현금 감소가 동시에 진행. 카카오헬스케어 수익성 및 추가 자금조달 여부 우선 점검.</p>
+</section>
+</div>
+
+<div id="backdrop">
+  <div id="sheet">
+    <div class="handle"></div>
+    <button id="close">닫기</button>
+    <div id="detail"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
