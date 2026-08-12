@@ -15,6 +15,8 @@ let payload = FALLBACK;
 let chartInst = null;
 const list = document.getElementById('list');
 
+const GRADE_LABEL = { A: '높음', B: '중간', C: '낮음' };
+
 function kpiCell([label, value, sub]) {
   return `<div class="kpi"><span>${label}</span><b>${value}</b>${sub ? `<div class="kpi-sub">${sub}</div>` : ''}</div>`;
 }
@@ -25,7 +27,7 @@ function render(f = 'ALL') {
     <div class="card" data-id="${x.id}">
       <div class="top">
         <div><div class="name">${x.name}</div><div class="ticker">${x.ticker}</div></div>
-        <span class="badge ${x.g}">${x.g}급</span>
+        <span class="badge ${x.g}">${GRADE_LABEL[x.g] || x.g}</span>
       </div>
       <div class="event">${x.event}</div>
       <div class="tags">${x.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>
