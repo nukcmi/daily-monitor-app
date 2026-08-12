@@ -3,25 +3,29 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title>Strategic Investment Monitor</title>
+<title>일일 모니터링</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
+<script src="chart.min.js"></script>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="app">
 <header>
-  <div><small>STRATEGIC INVESTMENT</small><h1>Monitoring Cockpit</h1></div>
-  <span id="today"></span>
+  <div>
+    <small>DAILY MONITOR</small>
+    <h1>일일 모니터링</h1>
+    <div class="sub" id="subLine"></div>
+  </div>
 </header>
 
 <section class="summary">
-  <div class="s a"><span>Critical</span><b id="aCnt"></b></div>
-  <div class="s b"><span>Watch</span><b id="bCnt"></b></div>
-  <div class="s c"><span>Normal</span><b id="cCnt"></b></div>
+  <div class="s a"><span>A급</span><b id="aCnt"></b></div>
+  <div class="s b"><span>B급</span><b id="bCnt"></b></div>
+  <div class="s c"><span>C급</span><b id="cCnt"></b></div>
 </section>
 
 <div class="head">
-  <h2>Portfolio</h2>
+  <h2>종목 현황</h2>
   <div class="filters">
     <button class="chip on" data-f="ALL">전체</button>
     <button class="chip" data-f="A">A급</button>
@@ -31,7 +35,7 @@
 </div>
 <div id="list"></div>
 
-<h2 class="mt">Management Attention</h2>
+<h2 class="mt">핵심 확인사항</h2>
 <section class="attention">
   <small>금일 핵심</small>
   <h3 id="attnCompany">차AI헬스케어</h3>
