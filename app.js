@@ -17,8 +17,16 @@ const list = document.getElementById('list');
 
 const GRADE_LABEL = { A: '높음', B: '중간', C: '낮음' };
 
+function signClass(v) {
+  if (typeof v !== 'string') return '';
+  if (v.startsWith('+')) return 'val-up';
+  if (v.startsWith('-')) return 'val-down';
+  return '';
+}
+
 function kpiCell([label, value, sub]) {
-  return `<div class="kpi"><span>${label}</span><b>${value}</b>${sub ? `<div class="kpi-sub">${sub}</div>` : ''}</div>`;
+  const cls = signClass(value);
+  return `<div class="kpi"><span>${label}</span><b class="${cls}">${value}</b>${sub ? `<div class="kpi-sub">${sub}</div>` : ''}</div>`;
 }
 
 function render(f = 'ALL') {
@@ -30,7 +38,7 @@ function render(f = 'ALL') {
         <span class="badge ${x.g}">${GRADE_LABEL[x.g] || x.g}</span>
       </div>
       <div class="event">${x.event}</div>
-      <div class="tags">${x.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>
+      <div class="tags">${x.tags.map((t, i) => `<span class="tag ${i === 0 ? signClass(t) : ''}">${t}</span>`).join('')}</div>
     </div>`).join('');
   document.querySelectorAll('.card').forEach(c => c.onclick = () => detail(c.dataset.id));
 }
@@ -68,6 +76,14 @@ function drawChart(spark, avgCost) {
   });
 }
 
+function sourceRow(s, i) {
+  return `<div class="src-row" data-idx="${i}">
+    <div class="src-top"><span class="src-tag">${s.source || '출처'}</span>
+      ${s.date ? `<span class="src-date">${s.date}</span>` : ''}</div>
+    <div class="src-title">${s.title}</div>
+  </div>`;
+}
+
 function detail(id) {
   const x = payload.companies.find(v => v.id === id);
   const hasSpark = x.spark && x.spark.length > 1;
@@ -75,19 +91,28 @@ function detail(id) {
   const fxLine = isForeign
     ? `<div class="fxline">${payload.fx || ''}${x.marketCloseCaption ? ' · ' + x.marketCloseCaption : ''}</div>`
     : '';
+  const hasSources = x.sources && x.sources.length > 0;
+  const eventsHtml = hasSources
+    ? x.sources.map(sourceRow).join('')
+    : x.events.map(e => `<div class="tl">${e}</div>`).join('');
   document.getElementById('detail').innerHTML = `
     <div class="dt">${x.name}</div>
     <div class="dd">${x.thesis}</div>
     ${fxLine}
     ${hasSpark ? `<div class="sec"><h4>3개월 추세 ${x.avgCost ? '<span class="legend-dash">- - 취득가</span>' : ''}</h4>
       <div style="height:120px"><canvas id="priceChart"></canvas></div></div>` : ''}
-    <div class="sec"><h4>Key KPI</h4>
+    <div class="sec"><h4>핵심 지표</h4>
       <div class="kpis">${x.kpis.map(kpiCell).join('')}</div>
     </div>
-    <div class="sec"><h4>Recent Events</h4>${x.events.map(e => `<div class="tl">${e}</div>`).join('')}</div>
-    ${x.watch.length ? `<div class="sec"><h4>Current Watch Point</h4><ul>${x.watch.map(w => `<li>${w}</li>`).join('')}</ul></div>` : ''}`;
+    <div class="sec"><h4>최근 공시·기사</h4>${eventsHtml}</div>
+    ${x.watch.length ? `<div class="sec"><h4>앞으로 볼 포인트</h4><ul>${x.watch.map(w => `<li>${w}</li>`).join('')}</ul></div>` : ''}`;
   document.getElementById('backdrop').classList.add('open');
   if (hasSpark) drawChart(x.spark, x.avgCost);
+  if (hasSources) {
+    document.querySelectorAll('.src-row').forEach(el => {
+      el.onclick = () => openExternal(x.sources[+el.dataset.idx].url);
+    });
+  }
   if (window.Telegram?.WebApp?.HapticFeedback) Telegram.WebApp.HapticFeedback.impactOccurred('light');
 }
 
@@ -98,17 +123,39 @@ document.querySelectorAll('.chip').forEach(b => b.onclick = () => {
   render(b.dataset.f);
 });
 
+function openExternal(url) {
+  if (!url) return;
+  if (window.Telegram?.WebApp?.openLink) {
+    Telegram.WebApp.openLink(url);
+  } else {
+    window.open(url, '_blank');
+  }
+}
+
 function applyPayload() {
   const sub = document.getElementById('subLine');
   if (sub) sub.textContent = `${payload.asOf} 장마감 기준 · 업데이트 ${payload.updated}`;
   document.getElementById('aCnt').textContent = payload.companies.filter(x => x.g === 'A').length;
   document.getElementById('bCnt').textContent = payload.companies.filter(x => x.g === 'B').length;
   document.getElementById('cCnt').textContent = payload.companies.filter(x => x.g === 'C').length;
+
+  const attnBox = document.getElementById('attnBox');
   const attnCompany = document.getElementById('attnCompany');
   const attnText = document.getElementById('attnText');
-  if (attnCompany && attnText && payload.attention) {
+  const attnLink = document.getElementById('attnLink');
+  if (attnBox && attnCompany && attnText && payload.attention) {
     attnCompany.textContent = payload.attention.company;
     attnText.textContent = payload.attention.text;
+    const url = payload.attention.url;
+    if (url) {
+      attnBox.classList.add('clickable');
+      attnLink.style.display = 'block';
+      attnBox.onclick = () => openExternal(url);
+    } else {
+      attnBox.classList.remove('clickable');
+      attnLink.style.display = 'none';
+      attnBox.onclick = null;
+    }
   }
   render();
 }
