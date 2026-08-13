@@ -3,27 +3,30 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title>일일 모니터링</title>
+<title>Strategic Intelligence</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
 <script src="chart.min.js"></script>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="app">
-<header>
-  <div>
-    <small>자동 모니터링 리포트</small>
-    <h1>일일 모니터링</h1>
-    <div class="sub" id="subLine"></div>
-  </div>
+<header class="brand">
+  <div class="brand-name">Strategic Intelligence</div>
+  <div class="brand-sub">Powered by AI</div>
+  <div class="brand-updated" id="updatedLine">Updated · -</div>
 </header>
 
-<section class="summary">
-  <div class="s a"><span>높음</span><b id="aCnt"></b></div>
-  <div class="s b"><span>중간</span><b id="bCnt"></b></div>
-  <div class="s c"><span>낮음</span><b id="cCnt"></b></div>
+<section class="impact-summary">
+  <div class="impact-summary-head">
+    <div class="impact-summary-title">당사 영향도</div>
+    <div class="impact-summary-desc">공시·기사·재무 변동이 당사 투자 및 사업에 미치는 영향</div>
+  </div>
+  <div class="impact-summary-counts">
+    <div class="cnt cnt-high"><span class="cnt-dot"></span>높음 <b id="aCnt">0</b></div>
+    <div class="cnt cnt-mid"><span class="cnt-dot"></span>중간 <b id="bCnt">0</b></div>
+    <div class="cnt cnt-low"><span class="cnt-dot"></span>낮음 <b id="cCnt">0</b></div>
+  </div>
 </section>
-<div class="grade-legend">높음: 당사 투자판단·지분가치에 직접 영향 · 중간: 주시 필요 · 낮음: 참고 수준</div>
 
 <div class="head">
   <h2>종목 현황</h2>
@@ -39,8 +42,8 @@
 <h2 class="mt">핵심 확인사항</h2>
 <section class="attention" id="attnBox">
   <small>금일 핵심</small>
-  <h3 id="attnCompany">차AI헬스케어</h3>
-  <p id="attnText">관계기업 투자 확대와 현금 감소가 동시에 진행. 카카오헬스케어 수익성 및 추가 자금조달 여부 우선 점검.</p>
+  <h3 id="attnCompany">-</h3>
+  <p id="attnText">-</p>
   <div class="attn-link" id="attnLink" style="display:none">원문 보기 →</div>
 </section>
 </div>
