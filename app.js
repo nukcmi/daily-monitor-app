@@ -130,27 +130,65 @@ function cardKpiRow(x) {
   </div>`;
 }
 
+function miniSpark(spark, up) {
+  if (!spark || spark.length < 2) return '';
+  const closes = spark.map(p => p.close);
+  const min = Math.min(...closes), max = Math.max(...closes);
+  const range = (max - min) || 1;
+  const w = 64, h = 28;
+  const pts = closes.map((v, i) => {
+    const x = (i / (closes.length - 1)) * w;
+    const y = h - ((v - min) / range) * h;
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(' ');
+  const color = up ? '#D92D20' : '#175CD3';
+  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" class="mini-spark">
+    <polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.6"
+      stroke-linejoin="round" stroke-linecap="round"/>
+  </svg>`;
+}
+
 function render(f = 'ALL') {
   const arr = payload.companies.filter(x => f === 'ALL' || x.g === f);
-  list.innerHTML = arr.map(x => {
+  const rows = arr.map(x => {
     const priceCls = signClass(x.tags && x.tags[0]);
+    const up = priceCls !== 'val-down';
+    const spark = x.spark || [];
     return `
-    <div class="card" data-id="${x.id}">
-      <div class="top">
-        <div class="name-block"><div class="name">${x.name}</div>
-          <div class="ticker">${x.ticker}</div>
-          ${x.exchangeLine ? `<div class="exline">${x.exchangeLine}</div>` : ''}
-        </div>
-        ${impactBadge(x.g)}
-      </div>
-      <div class="event">${x.event}</div>
-      <div class="price-row">
-        <div class="price-col"><span class="price-label">현재가</span><b>${x.priceText || '-'}</b></div>
-        <div class="price-col right"><span class="price-label">일간 등락률</span><b class="${priceCls}">${(x.tags && x.tags[0]) || '-'}</b></div>
-      </div>
-    </div>`;
+    <tr class="wl-row" data-id="${x.id}">
+      <td class="wl-code">
+        <div class="wl-code-top">${x.id}${impactBadge(x.g)}</div>
+        <div class="wl-name">${x.name}${x.ticker && x.ticker !== x.id ? ` <span class="wl-sub">${x.ticker}</span>` : ''}</div>
+      </td>
+      <td class="wl-spark">${miniSpark(spark, up)}</td>
+      <td class="wl-num wl-price">${x.priceText || '-'}</td>
+      <td class="wl-num ${priceCls}">${x.changeText || '-'}</td>
+      <td class="wl-num ${priceCls}">${(x.tags && x.tags[0]) || '-'}</td>
+      <td class="wl-num wl-mut">${x.prevCloseText || '-'}</td>
+      <td class="wl-num wl-mut">${x.openText || '-'}</td>
+      <td class="wl-num wl-mut">${x.highText || '-'}</td>
+      <td class="wl-num wl-mut">${x.lowText || '-'}</td>
+    </tr>`;
   }).join('');
-  document.querySelectorAll('.card').forEach(c => c.onclick = () => detail(c.dataset.id));
+
+  list.innerHTML = `
+  <div class="wl-scroll">
+    <table class="wl-table">
+      <thead><tr>
+        <th class="wl-code">종목</th>
+        <th class="wl-spark">추세</th>
+        <th class="wl-num">현재가</th>
+        <th class="wl-num">변동</th>
+        <th class="wl-num">변동률</th>
+        <th class="wl-num">전일종가</th>
+        <th class="wl-num">시가</th>
+        <th class="wl-num">고가</th>
+        <th class="wl-num">저가</th>
+      </tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>`;
+  document.querySelectorAll('.wl-row').forEach(c => c.onclick = () => detail(c.dataset.id));
 }
 
 function drawChart(spark, avgCost) {

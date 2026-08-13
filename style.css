@@ -7,8 +7,6 @@ body{background:#F4F6F8;color:#101828;font-family:-apple-system,'Noto Sans KR',s
 @media (min-width:880px){
   .app{max-width:1040px;padding:40px 48px 64px}
   .impact-summary{padding:20px 24px}
-  #list{display:grid;grid-template-columns:1fr 1fr;gap:16px}
-  .card{margin-bottom:0}
   #attnList{display:grid;grid-template-columns:1fr 1fr;gap:14px}
   .attention{margin-bottom:0}
   #sheet{max-width:640px}
@@ -207,3 +205,34 @@ h2.mt{font-size:15px;font-weight:700;color:#101828;margin:26px 0 12px}
 .req-submit{width:100%;margin-top:22px;padding:13px;background:#F37321;color:#fff;
             border:none;border-radius:9px;font-weight:700;font-size:14px;cursor:pointer}
 .req-submit:active{opacity:.85}
+
+/* ── 종목 현황: 구글 파이낸스 스타일 워치리스트 테이블 ── */
+.wl-scroll{background:#FFFFFF;border:1px solid #E4E7EC;border-radius:12px;overflow-x:auto}
+.wl-table{width:100%;border-collapse:collapse;font-size:12.5px;white-space:nowrap}
+.wl-table thead th{text-align:right;font-size:10.5px;font-weight:600;color:#98A2B3;
+                   padding:11px 14px;border-bottom:1px solid #E4E7EC;background:#FAFBFC}
+.wl-table thead th.wl-code,.wl-table thead th.wl-spark{text-align:left}
+.wl-row{cursor:pointer;border-bottom:1px solid #EEF1F4}
+.wl-row:last-child{border-bottom:none}
+.wl-row:hover,.wl-row:active{background:#FAFBFC}
+.wl-table td{padding:10px 14px;vertical-align:middle}
+.wl-code{min-width:140px}
+.wl-code-top{display:flex;align-items:center;gap:8px;font-weight:700;color:#101828;font-size:13px}
+.wl-name{font-size:11px;color:#98A2B3;margin-top:2px}
+.wl-sub{color:#C0C7D1}
+.wl-spark{padding-top:6px;padding-bottom:6px}
+.mini-spark{display:block}
+.wl-num{text-align:right;font-variant-numeric:tabular-nums;color:#101828;font-weight:600}
+.wl-mut{color:#98A2B3;font-weight:400}
+.wl-price{font-weight:800}
+.wl-num.val-up{color:#D92D20}
+.wl-num.val-down{color:#175CD3}
+.wl-code .impact-badge{font-size:9.5px}
+
+/* 좁은 화면에서는 보조 컬럼(시가/고가/저가) 숨겨서 스크롤 최소화 */
+@media (max-width:600px){
+  .wl-table th:nth-child(6),.wl-table td:nth-child(6),
+  .wl-table th:nth-child(7),.wl-table td:nth-child(7),
+  .wl-table th:nth-child(8),.wl-table td:nth-child(8),
+  .wl-table th:nth-child(9),.wl-table td:nth-child(9){display:none}
+}
