@@ -1,19 +1,30 @@
 {
   "asOf": "2026-08-13",
-  "updated": "2026-08-13 14:33",
-  "fx": "환율 2026-08-13 · 시장환율   1 USD = ₩1,414.98   |   1 USD = 17,865.00 IDR   |   1 IDR = ₩0.07920",
-  "attention": {
-    "company": "차AI헬스케어",
-    "text": "2026년 상반기 반기보고서 DART 공시. 실적·재무구조 확인 가능.",
-    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000798"
-  },
+  "updated": "2026-08-13 14:46",
+  "fx": "환율 2026-08-13 · 시장환율   1 USD = ₩1,414.88   |   1 USD = 17,865.00 IDR   |   1 IDR = ₩0.07920",
+  "attentionItems": [
+    {
+      "company": "차바이오텍",
+      "text": "차바이오그룹과 한화손보, 의료·바이오-금융·보험 연계 헬스케어 협력 및 Longevity 동맹 공식화",
+      "impact": "당사 보유 지분이 단순 재무투자에서 전략적 파트너십으로 격상되어 지분가치 보호 외 사업 시너지 창출 경로 확보",
+      "level": "high",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCelN5allMMUZhU0hSWElXai1fSG9rN3ZmUS1RV2Y5ejJyQzBXXy1lYXBKRzd6MjNEajIyeFdlSVVUQzF3ZzZ4TnB6VnZhWE54NEJjR2l0bEdkUjJVVWdKZXhSM0FnTFh4NkE?oc=5"
+    },
+    {
+      "company": "차AI헬스케어",
+      "text": "차바이오그룹·한화손보 헬스케어 협력 발표로 차AI헬스케어도 그룹 차원 협력 구도에 편입",
+      "impact": "당사와의 협력이 그룹 전체로 확장됨에 따라 차AI헬스케어 외부사업 확장에 당사가 실질적 파트너 역할 수행 가능성",
+      "level": "high",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000798"
+    }
+  ],
   "companies": [
     {
       "id": "085660",
       "name": "차바이오텍",
       "ticker": "085660",
-      "g": "C",
-      "event": "주요 변동 없음",
+      "g": "B",
+      "event": "한화손보와 헬스케어 시너지 본격화",
       "tags": [
         "-0.51%",
         "당사 투자"
@@ -73,12 +84,13 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "당사와의 Longevity 협력은 지분 투자를 전략적 파트너십으로 격상시키는 신호로, 단순 재무적 보유 이상의 관계 형성",
+        "CGT 기술 고도화 방향성은 유지되나 구체적 계약·임상 진척 공시는 부재해 사업가치 재평가 트리거는 아직 미발현"
       ],
       "watch": [
-        "CGT 임상 진척 여부",
-        "CDMO 신규 수주 공시",
-        "CB·유상증자 등 자금조달 동향"
+        "CGT/CDMO 임상·계약 공시 발생 여부",
+        "Longevity 협력의 구체적 사업화 범위 확정",
+        "유상증자·CB 등 자금조달 계획 공시"
       ],
       "spark": [
         {
@@ -337,21 +349,46 @@
       "avgCost": 12805,
       "currency": "KRW",
       "exchangeLine": "KRX · 8/12 종가",
-      "sourceUrl": null,
-      "sources": []
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCelN5allMMUZhU0hSWElXai1fSG9rN3ZmUS1RV2Y5ejJyQzBXXy1lYXBKRzd6MjNEajIyeFdlSVVUQzF3ZzZ4TnB6VnZhWE54NEJjR2l0bEdkUjJVVWdKZXhSM0FnTFh4NkE?oc=5",
+      "sources": [
+        {
+          "title": "차바이오그룹·한화손보, 의료·바이오와 금융·보험 연계 헬스케어 협력",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCelN5allMMUZhU0hSWElXai1fSG9rN3ZmUS1RV2Y5ejJyQzBXXy1lYXBKRzd6MjNEajIyeFdlSVVUQzF3ZzZ4TnB6VnZhWE54NEJjR2l0bEdkUjJVVWdKZXhSM0FnTFh4NkE?oc=5",
+          "source": "의학신문",
+          "date": "08/13"
+        },
+        {
+          "title": "차광렬 차병원·차바이오그룹 연구소장 “K-Cell 고도화로 글로벌 세포치료제 시장 선도”",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wdGdUbmFPQnUxZThVZmVFTUtkRWtuV1JmeDZ6MXVXX1RzZGR5UkZDSkV1bFZ3WF9oU0k3bnhGZkg0QUVfTlZndUFlWFhUTkZxRGJnM2d6NzlCWWo0VGxCR3VfUlRURmhiNGRRUVhn?oc=5",
+          "source": "아시아투데이",
+          "date": "08/13"
+        },
+        {
+          "title": "보험사가 '수명'을 공부한다…차바이오·한화손보, 'Longevity 동맹' 시동",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0b0hoS1BzeWw0SV91NlBjZzR5elk3ajdYakFMWl9xd0V2TENTd2NhNzVrY0laR1Z6a3h0VExYbXd5am1lMHhoeEtzSTQ5LU0?oc=5",
+          "source": "v.daum.net",
+          "date": "08/13"
+        },
+        {
+          "title": "한화손보 2분기 순이익 1164억 45.6% 증가…신계약 CSM 3272억",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pMmw4d0lmY3ZkSEs4Z3JkRlRHdG1RUXFWMTZNLWFCNko2QTRtR2lnNUFfR3Vvbmx6SlQtWEFQX20tN0g3dmNuYkpqSDlIblFaMlhDRkFjVk14eWFLYTl2RnJuY3N1ckE?oc=5",
+          "source": "자본시장뉴스",
+          "date": "08/13"
+        }
+      ]
     },
     {
       "id": "025620",
       "name": "차AI헬스케어",
       "ticker": "025620",
       "g": "B",
-      "event": "반기보고서 공시 완료",
+      "event": "반기보고서·헬스케어 자산배분 구조 확인",
       "tags": [
         "+1.40%",
         "당사 투자"
       ],
       "priceText": "₩5,080",
-      "thesis": "당사 투자 지분 보유. 외부사업 확장 및 IPO 준비 상황 중점",
+      "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
@@ -385,7 +422,7 @@
         ],
         [
           "시가총액",
-          "913억",
+          "911억",
           null
         ],
         [
@@ -405,13 +442,13 @@
         }
       ],
       "events": [
-        "2026년 상반기 반기보고서 DART 공시 확인",
-        "실적·재무구조 변화 내용 검토 필요"
+        "자산의 58%를 헬스케어에 배치한 것은 사업모델 전환 의지의 정량적 확인이나, 수익화 속도가 관건",
+        "당사와의 그룹 차원 협력 구도 편입은 외부사업 확장의 구조적 지원군으로 작용할 수 있어 지분가치에 긍정적"
       ],
       "watch": [
-        "상반기 매출·영업손익 개선 여부",
-        "신규 고객사·파트너십 계약 현황",
-        "IPO 준비 일정 진행 상황"
+        "반기 매출·영업손익 개선 추이 확인",
+        "헬스케어 배치 자산의 수익 기여 시점",
+        "당사 협력 기반 신규 고객·파트너십 계약 여부"
       ],
       "spark": [
         {
@@ -677,6 +714,24 @@
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000798",
           "source": "DART",
           "date": "20260812"
+        },
+        {
+          "title": "차바이오그룹·한화손보, 의료·바이오와 금융·보험 연계 헬스케어 협력",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCelN5allMMUZhU0hSWElXai1fSG9rN3ZmUS1RV2Y5ejJyQzBXXy1lYXBKRzd6MjNEajIyeFdlSVVUQzF3ZzZ4TnB6VnZhWE54NEJjR2l0bEdkUjJVVWdKZXhSM0FnTFh4NkE?oc=5",
+          "source": "의학신문",
+          "date": "08/13"
+        },
+        {
+          "title": "보험사가 '수명'을 공부한다…차바이오·한화손보, 'Longevity 동맹' 시동",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0b0hoS1BzeWw0SV91NlBjZzR5elk3ajdYakFMWl9xd0V2TENTd2NhNzVrY0laR1Z6a3h0VExYbXd5am1lMHhoeEtzSTQ5LU0?oc=5",
+          "source": "v.daum.net",
+          "date": "08/13"
+        },
+        {
+          "title": "차AI헬스케어, 자산 58% 헬스케어에 배치…차병원·바이오그룹 확장 전면에",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQem9iVndaUGRDZFZIY2VQTDd2R05Ld29zZ1pfTmhGMUgwaXVkTkw4Wll6UnZpc0N1UFUwdWFoeFI1ZmxQOUlscmw1RmRjemowczhmdzVBdE9kdERUcjZhVGtxQUk?oc=5",
+          "source": "PRESS9",
+          "date": "08/13"
         }
       ]
     },
@@ -696,7 +751,7 @@
         [
           "종가",
           "$51.64",
-          "₩73,070"
+          "₩73,064"
         ],
         [
           "취득가",
@@ -726,7 +781,7 @@
         [
           "시가총액",
           "$4.00B",
-          "5.66조"
+          "5.65조"
         ],
         [
           "52주 고점대비",
@@ -748,9 +803,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "IFP 성장률 분기 추이",
+        "IFP 성장률 분기 추이 확인",
         "Loss Ratio 구조적 개선 여부",
-        "EBITDA 흑자전환 시점 가이던스"
+        "EBITDA 흑자전환 가이던스 변경 여부"
       ],
       "spark": [
         {
@@ -1009,8 +1064,15 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 8/12 종가 (ET)",
-      "sourceUrl": null,
-      "sources": []
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkZKTU5SMHJpOHVxbXhCQjVoREtoUUxiNFhDSEJuQnM0Vld4d1plb0d1QlhmenlIYTNFbGRKZ1lYZVpWOWE3TmNCQU11dHVZZjhHMjFsQkNNMXlsTDhoc1RkblJZMm1zZjNZTVhzOTB3RXVTc3NMREZBcDhqZkFBR3k4N3VtcUVtdTNRMTdXTXc4TnhaLVNzN1QyVQ?oc=5",
+      "sources": [
+        {
+          "title": "루멘 Insurance rewards drivers with The Slow Sign",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkZKTU5SMHJpOHVxbXhCQjVoREtoUUxiNFhDSEJuQnM0Vld4d1plb0d1QlhmenlIYTNFbGRKZ1lYZVpWOWE3TmNCQU11dHVZZjhHMjFsQkNNMXlsTDhoc1RkblJZMm1zZjNZTVhzOTB3RXVTc3NMREZBcDhqZkFBR3k4N3VtcUVtdTNRMTdXTXc4TnhaLVNzN1QyVQ?oc=5",
+          "source": "shots.net",
+          "date": "08/11"
+        }
+      ]
     },
     {
       "id": "LPGI",
@@ -1080,9 +1142,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 모니터링",
-        "RBC 비율 적정성 유지 여부",
-        "PIKK 개정 관련 영향 동향"
+        "OJK 신규 규제 발표 여부",
+        "RBC 비율 분기 보고 내용",
+        "PIKK 개정 관련 영향 범위 확정"
       ],
       "spark": [
         {
