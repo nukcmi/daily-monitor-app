@@ -1,11 +1,11 @@
 {
   "asOf": "2026-08-13",
-  "updated": "2026-08-13 08:59",
-  "fx": "환율 2026-08-12 · 시장환율   1 USD = ₩1,417.35   |   1 USD = 17,822.00 IDR   |   1 IDR = ₩0.07953",
+  "updated": "2026-08-13 12:42",
+  "fx": "환율 2026-08-13 · 시장환율   1 USD = ₩1,415.98   |   1 USD = 17,870.00 IDR   |   1 IDR = ₩0.07924",
   "attention": {
     "company": "차바이오텍",
-    "text": "미국 자회사 마티카바이오, 글로벌 CGT 임상 허브 도약 보도",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wMmdkS28za1liZ3lpNlhWd1pzQ24zQ3hhbUtEWTBLZ1E2a014U2VudkFrZ0k1bWVNZnFKQmZEM0p3TDJaT2lkQW1hbzN2TnoxTkx0UndQRG5KQUdiUFgtSWR1OA?oc=5"
+    "text": "차바이오그룹-한화손보, 의료·바이오-금융·보험 연계 헬스케어 협력 공식화",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCelN5allMMUZhU0hSWElXai1fSG9rN3ZmUS1RV2Y5ejJyQzBXXy1lYXBKRzd6MjNEajIyeFdlSVVUQzF3ZzZ4TnB6VnZhWE54NEJjR2l0bEdkUjJVVWdKZXhSM0FnTFh4NkE?oc=5"
   },
   "companies": [
     {
@@ -13,11 +13,12 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "CGT 글로벌 허브 포지셔닝",
+      "event": "한화손보·차바이오 협력 공식화",
       "tags": [
         "-0.51%",
         "당사 투자"
       ],
+      "priceText": "₩9,670",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
@@ -52,7 +53,7 @@
         ],
         [
           "시가총액",
-          "8,990억",
+          "8,851억",
           null
         ],
         [
@@ -61,14 +62,24 @@
           null
         ]
       ],
+      "cardKpis": [
+        {
+          "label": "Matica 수주",
+          "value": "TBD"
+        },
+        {
+          "label": "추가 자금조달",
+          "value": "Watch"
+        }
+      ],
       "events": [
-        "미국 자회사 마티카바이오, 글로벌 CGT 임상 허브 역할 부각 보도",
-        "주가 전일대비 -0.51% 소폭 하락, 별도 자금조달 공시 없음"
+        "차바이오그룹-한화손보 의료·바이오-금융·보험 연계 헬스케어 협력 공식화",
+        "마티카바이오, 글로벌 CGT 임상 허브 전략 추진 중 (매출 기여 시점 미확정)"
       ],
       "watch": [
-        "마티카바이오 수주 계약 공시 여부",
-        "CB·유상증자 등 자금조달 공시 발생",
-        "CDMO 신규 고객사 확보 동향"
+        "마티카바이오 CGT CDMO 수주 계약 공시 여부",
+        "협력 MOU 이후 구체적 사업 연계 조건 확인",
+        "유상증자·CB 등 추가 자금조달 공시 여부"
       ],
       "spark": [
         14890.0,
@@ -137,9 +148,21 @@
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "marketCloseCaption": "",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wMmdkS28za1liZ3lpNlhWd1pzQ24zQ3hhbUtEWTBLZ1E2a014U2VudkFrZ0k1bWVNZnFKQmZEM0p3TDJaT2lkQW1hbzN2TnoxTkx0UndQRG5KQUdiUFgtSWR1OA?oc=5",
+      "exchangeLine": "KRX · 8/12 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCelN5allMMUZhU0hSWElXai1fSG9rN3ZmUS1RV2Y5ejJyQzBXXy1lYXBKRzd6MjNEajIyeFdlSVVUQzF3ZzZ4TnB6VnZhWE54NEJjR2l0bEdkUjJVVWdKZXhSM0FnTFh4NkE?oc=5",
       "sources": [
+        {
+          "title": "차바이오그룹·한화손보, 의료·바이오와 금융·보험 연계 헬스케어 협력",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCelN5allMMUZhU0hSWElXai1fSG9rN3ZmUS1RV2Y5ejJyQzBXXy1lYXBKRzd6MjNEajIyeFdlSVVUQzF3ZzZ4TnB6VnZhWE54NEJjR2l0bEdkUjJVVWdKZXhSM0FnTFh4NkE?oc=5",
+          "source": "의학신문",
+          "date": "08/13"
+        },
+        {
+          "title": "차광렬 차병원·차바이오그룹 연구소장, 한화손보 임직원 대상 특별강연",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1STFpRUm1IMWRpWmZpVWlyRThVaUhWcHFmekRsQjBEdWloMEFMSnJoOUNKbWJOVXR5U3d0akdpSkZtdmZqYmJ1dG03YmhrZmRjOUNza3g5UC12NlpOOU40RTZ3RQ?oc=5",
+          "source": "보건신문",
+          "date": "08/13"
+        },
         {
           "title": "'차바이오텍 美 자회사' 마티카바이오, 'K바이오' 글로벌 CGT 임상 허브로",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wMmdkS28za1liZ3lpNlhWd1pzQ24zQ3hhbUtEWTBLZ1E2a014U2VudkFrZ0k1bWVNZnFKQmZEM0p3TDJaT2lkQW1hbzN2TnoxTkx0UndQRG5KQUdiUFgtSWR1OA?oc=5",
@@ -147,10 +170,10 @@
           "date": "08/11"
         },
         {
-          "title": "차바이오텍 50원 하락 후 장마감",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pUnVvRWxTWG9PcFZFSGNadlZ5U28yelpSbVBiT1R3RDRIcU5VMWp2emVZT1NTRXFEWkVraXlmOGVzVU5UTmtaX0swZ3dRQ2lndFlfa3ByakhRazd2Z3JIWVpuUGZCU2VuOTBQWXllWk5YRzN2?oc=5",
-          "source": "아시아뉴스통신",
-          "date": "08/12"
+          "title": "차광렬 차병원·차바이오그룹 연구소장, 한화손보 임직원 대상 특별강연",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xTC1FSzlBR19IcE80Q256RjZJdlJyT1cyRHB3NTJSdUhha3V0OHFhaHNtMGo1aWlManJzVVdUZktBUWM0a1pJci16T3hGaWc1ZkVj?oc=5",
+          "source": "네이트",
+          "date": "08/13"
         }
       ]
     },
@@ -159,11 +182,12 @@
       "name": "차AI헬스케어",
       "ticker": "025620",
       "g": "B",
-      "event": "화장품 테마 수혜 단기 급등",
+      "event": "반기보고서 공개·헬스케어 자산 집중",
       "tags": [
         "+1.40%",
         "당사 투자"
       ],
+      "priceText": "₩5,080",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 및 IPO 준비 상황 중점",
       "kpis": [
         [
@@ -198,7 +222,7 @@
         ],
         [
           "시가총액",
-          "924억",
+          "910억",
           null
         ],
         [
@@ -207,14 +231,24 @@
           null
         ]
       ],
+      "cardKpis": [
+        {
+          "label": "현금",
+          "value": "108.7억"
+        },
+        {
+          "label": "관계기업투자",
+          "value": "700.4억"
+        }
+      ],
       "events": [
-        "화장품 테마 상승세에 편승, 장중 +7.98% 급등 기록",
-        "반기보고서(2026.06) DART 공시, 실적 내용 확인 필요"
+        "반기보고서 공시: 자산 58%를 헬스케어에 배치, 차병원·바이오그룹 확장 전면 수행",
+        "화장품 테마 연동 주가 급등(+7.98%) 발생, 펀더멘털 연관성 불명확"
       ],
       "watch": [
-        "반기보고서 매출·영업손익 수치 확인",
+        "반기보고서 매출·영업손익 전기 대비 증감 확인",
         "IPO 준비 일정 및 주관사 선정 여부",
-        "신규 고객사·파트너십 공시 발생"
+        "헬스케어 외 신규 고객사·파트너십 계약 공시 여부"
       ],
       "spark": [
         7490.0,
@@ -283,7 +317,7 @@
       ],
       "avgCost": null,
       "currency": "KRW",
-      "marketCloseCaption": "",
+      "exchangeLine": "KRX · 8/12 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000798",
       "sources": [
         {
@@ -291,6 +325,12 @@
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000798",
           "source": "DART",
           "date": "20260812"
+        },
+        {
+          "title": "차AI헬스케어, 자산 58% 헬스케어에 배치…차병원·바이오그룹 확장 전면에",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQem9iVndaUGRDZFZIY2VQTDd2R05Ld29zZ1pfTmhGMUgwaXVkTkw4Wll6UnZpc0N1UFUwdWFoeFI1ZmxQOUlscmw1RmRjemowczhmdzVBdE9kdERUcjZhVGtxQUk?oc=5",
+          "source": "PRESS9",
+          "date": "08/13"
         },
         {
           "title": "특징주, 차AI헬스케어-화장품 테마 상승세에 7.98% ↑",
@@ -301,7 +341,7 @@
         {
           "title": "차AI헬스케어 투자분석 2026. 08. 12",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lYjUwRlJZak45a2ZhX3JjMnN0OUpjcXdhRVBaN25aVXhPQUV3RTIteThpSHltZ3NfTXltMDNhNmhiM0xldHhacUpqUTN0aG5UTElTQ1Q4YlRVdFNSNWJiT1FfR1FIeXFUTjFPekJodU9KN1U?oc=5",
-          "source": "주달",
+          "source": "judal.co.kr",
           "date": "08/12"
         }
       ]
@@ -311,17 +351,18 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "C",
-      "event": "운전자 리워드 캠페인 공개",
+      "event": "마케팅 캠페인 외 주요 변동 없음",
       "tags": [
         "-2.33%",
         "벤치마크"
       ],
+      "priceText": "$51.64",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
           "$51.64",
-          "₩73,192"
+          "₩73,121"
         ],
         [
           "취득가",
@@ -345,7 +386,7 @@
         ],
         [
           "거래량(20일比)",
-          "102.37만 · 0.63x",
+          "102.37만 · 0.64x",
           null
         ],
         [
@@ -359,16 +400,26 @@
           null
         ]
       ],
+      "cardKpis": [
+        {
+          "label": "IFP 성장률",
+          "value": "TBD"
+        },
+        {
+          "label": "Loss Ratio",
+          "value": "TBD"
+        }
+      ],
       "events": [
-        "안전운전 리워드 프로그램 'The Slow Sign' 캠페인 보도",
-        "IFP·Loss Ratio 등 핵심 재무지표 관련 공시 없음"
+        "안전 운전 리워드 캠페인(The Slow Sign) 광고 기사 외 실적·지표 관련 공시 없음"
       ],
       "watch": [
-        "IFP 성장률 및 Loss Ratio 분기 발표",
-        "EBITDA 흑자전환 시점 가이던스",
-        "리워드 프로그램의 Loss Ratio 개선 효과"
+        "IFP 성장률 및 분기 실적 공시 시점 확인",
+        "Loss Ratio 개선 추이 및 EBITDA 흑자전환 여부",
+        "벤치마크 대비 당사 디지털 손보 모델 시사점 도출"
       ],
       "spark": [
+        55.14,
         52.87,
         53.78,
         51.35,
@@ -415,7 +466,6 @@
         64.57,
         67.18,
         67.45,
-        68.62,
         63.42,
         60.71,
         60.14,
@@ -435,11 +485,11 @@
       ],
       "avgCost": null,
       "currency": "USD",
-      "marketCloseCaption": "8/12 16:00 EDT 마감 기준",
+      "exchangeLine": "NYSE · 8/12 종가 (ET)",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkZKTU5SMHJpOHVxbXhCQjVoREtoUUxiNFhDSEJuQnM0Vld4d1plb0d1QlhmenlIYTNFbGRKZ1lYZVpWOWE3TmNCQU11dHVZZjhHMjFsQkNNMXlsTDhoc1RkblJZMm1zZjNZTVhzOTB3RXVTc3NMREZBcDhqZkFBR3k4N3VtcUVtdTNRMTdXTXc4TnhaLVNzN1QyVQ?oc=5",
       "sources": [
         {
-          "title": "Lemonade Insurance rewards drivers with The Slow Sign",
+          "title": "루멘 Insurance rewards drivers with The Slow Sign",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkZKTU5SMHJpOHVxbXhCQjVoREtoUUxiNFhDSEJuQnM0Vld4d1plb0d1QlhmenlIYTNFbGRKZ1lYZVpWOWE3TmNCQU11dHVZZjhHMjFsQkNNMXlsTDhoc1RkblJZMm1zZjNZTVhzOTB3RXVTc3NMREZBcDhqZkFBR3k4N3VtcUVtdTNRMTdXTXc4TnhaLVNzN1QyVQ?oc=5",
           "source": "shots.net",
           "date": "08/11"
@@ -456,12 +506,13 @@
         "-0.80%",
         "관계사"
       ],
+      "priceText": "Rp620",
       "thesis": "당사 관계사. GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
           "Rp620",
-          "₩49.3"
+          "₩49.1"
         ],
         [
           "취득가",
@@ -491,7 +542,7 @@
         [
           "시가총액",
           "Rp1.9조",
-          "1,479억"
+          "1,509억"
         ],
         [
           "52주 고점대비",
@@ -499,13 +550,23 @@
           null
         ]
       ],
+      "cardKpis": [
+        {
+          "label": "GWP YoY",
+          "value": "TBD"
+        },
+        {
+          "label": "Loss Ratio",
+          "value": "TBD"
+        }
+      ],
       "events": [
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 개정 공시 발생 여부",
-        "RBC 비율 분기 공시 확인",
-        "PIKK 개정안 시행 일정 동향"
+        "OJK 자본 규제 개정 내용 및 적용 일정",
+        "RBC 비율 최신 수치 공시 여부",
+        "PIKK 개정 관련 대응 방안 공시 여부"
       ],
       "spark": [
         695.0,
@@ -574,7 +635,7 @@
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "marketCloseCaption": "8/12 16:00 WIB 마감 기준",
+      "exchangeLine": "IDX · 8/12 종가 (WIB)",
       "sourceUrl": null,
       "sources": []
     }
