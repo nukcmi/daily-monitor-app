@@ -9,6 +9,15 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div id="pwGate" class="pw-gate">
+  <div class="pw-box">
+    <h3>Strategic Intelligence</h3>
+    <p>사내 전용 페이지입니다. 접근 비밀번호를 입력하세요.</p>
+    <input id="pwInput" type="password" placeholder="비밀번호" autocomplete="off">
+    <button id="pwSubmit">확인</button>
+    <div id="pwError" class="pw-error" style="display:none">비밀번호가 올바르지 않습니다</div>
+  </div>
+</div>
 <div class="app">
 <header class="brand">
   <div class="brand-name">Strategic Intelligence</div>
@@ -41,6 +50,12 @@
 
 <h2 class="mt">핵심 확인사항</h2>
 <div id="attnList"></div>
+
+<footer class="legal">
+  <p>본 정보는 한화손해보험 내부 참고용이며, 외부 유출 및 무단 공유를 금지합니다.</p>
+  <p>본 서비스는 로그인 및 개인정보를 수집하지 않으며, 표시되는 데이터는 공개된 시세·공시·기사를 AI로 요약한 참고 자료입니다.</p>
+  <p>본 정보는 투자 판단의 참고 자료일 뿐이며, 투자 권유 또는 자문을 목적으로 하지 않습니다.</p>
+</footer>
 </div>
 
 <div id="backdrop">

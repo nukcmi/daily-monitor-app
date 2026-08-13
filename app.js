@@ -1,3 +1,37 @@
+// ── 웹 접근 비밀번호 게이트 ──
+// 텔레그램 봇을 통해 Mini App으로 들어온 경우(initData 존재)는 통과시킨다.
+// 일반 브라우저로 URL을 직접 열었을 때만 비밀번호를 요구한다.
+// 주의: 이건 클라이언트 코드로 걸러지는 약한 차단이다 — 개발자도구로 소스를
+// 보면 우회 가능하다. "URL을 안다고 아무나 바로 못 열게" 하는 수준의
+// 최소한의 장치이며, 실제 정보보호가 필요하면 별도 인증 서버가 필요하다.
+const WEB_PASSWORD = "hanwha2026";   // 필요 시 이 값만 바꾸면 된다
+
+function initPasswordGate() {
+  const insideTelegram = !!(window.Telegram?.WebApp?.initData);
+  if (insideTelegram) return;
+  if (sessionStorage.getItem('pw_ok') === '1') return;
+
+  const gate = document.getElementById('pwGate');
+  const input = document.getElementById('pwInput');
+  const err = document.getElementById('pwError');
+  gate.style.display = 'flex';
+
+  const tryPw = () => {
+    if (input.value === WEB_PASSWORD) {
+      sessionStorage.setItem('pw_ok', '1');
+      gate.style.display = 'none';
+    } else {
+      err.style.display = 'block';
+      input.value = '';
+      input.focus();
+    }
+  };
+  document.getElementById('pwSubmit').onclick = tryPw;
+  input.onkeydown = (e) => { if (e.key === 'Enter') tryPw(); };
+  input.focus();
+}
+initPasswordGate();
+
 // ── 폴백 샘플 데이터 (data/latest.json fetch 실패 시에만 사용) ──
 const FALLBACK = {
   updated: "-", fx: "",
