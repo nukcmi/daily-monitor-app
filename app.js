@@ -130,65 +130,52 @@ function cardKpiRow(x) {
   </div>`;
 }
 
-function miniSpark(spark, up) {
+function miniSpark(spark, up, w = 96, h = 40) {
   if (!spark || spark.length < 2) return '';
   const closes = spark.map(p => p.close);
   const min = Math.min(...closes), max = Math.max(...closes);
   const range = (max - min) || 1;
-  const w = 64, h = 28;
   const pts = closes.map((v, i) => {
     const x = (i / (closes.length - 1)) * w;
     const y = h - ((v - min) / range) * h;
     return `${x.toFixed(1)},${y.toFixed(1)}`;
   }).join(' ');
-  const color = up ? '#D92D20' : '#175CD3';
-  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" class="mini-spark">
-    <polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.6"
+  const color = up ? '#F0616D' : '#6FA8F5';
+  return `<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" class="scard-spark-svg">
+    <polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.8"
       stroke-linejoin="round" stroke-linecap="round"/>
   </svg>`;
 }
 
 function render(f = 'ALL') {
-  const arr = payload.companies.filter(x => f === 'ALL' || x.g === f);
-  const rows = arr.map(x => {
+  const arr = payload.companies.filter(x => x.g === f || f === 'ALL');
+  list.innerHTML = arr.map(x => {
     const priceCls = signClass(x.tags && x.tags[0]);
     const up = priceCls !== 'val-down';
-    const spark = x.spark || [];
+    const metrics = (x.kpis || []).slice(2, 8); // 취득가대비~52주고점대비 6개
     return `
-    <tr class="wl-row" data-id="${x.id}">
-      <td class="wl-code">
-        <div class="wl-code-top">${x.id}${impactBadge(x.g)}</div>
-        <div class="wl-name">${x.name}${x.ticker && x.ticker !== x.id ? ` <span class="wl-sub">${x.ticker}</span>` : ''}</div>
-      </td>
-      <td class="wl-spark">${miniSpark(spark, up)}</td>
-      <td class="wl-num wl-price">${x.priceText || '-'}</td>
-      <td class="wl-num ${priceCls}">${x.changeText || '-'}</td>
-      <td class="wl-num ${priceCls}">${(x.tags && x.tags[0]) || '-'}</td>
-      <td class="wl-num wl-mut">${x.prevCloseText || '-'}</td>
-      <td class="wl-num wl-mut">${x.openText || '-'}</td>
-      <td class="wl-num wl-mut">${x.highText || '-'}</td>
-      <td class="wl-num wl-mut">${x.lowText || '-'}</td>
-    </tr>`;
+    <div class="scard" data-id="${x.id}">
+      <div class="scard-top">
+        <div class="scard-spark">${miniSpark(x.spark, up)}</div>
+        <div class="scard-id">
+          <div class="scard-code">${x.id}${impactBadge(x.g)}</div>
+          <div class="scard-name">${x.name}${x.ticker && x.ticker !== x.id ? ` <span class="scard-sub">${x.ticker}</span>` : ''}</div>
+          ${x.exchangeLine ? `<div class="scard-ex">${x.exchangeLine}</div>` : ''}
+        </div>
+        <div class="scard-price-block">
+          <div class="scard-price">${x.priceText || '-'}</div>
+          <div class="scard-change ${priceCls}">${x.changeText || ''} ${(x.tags && x.tags[0]) || ''}</div>
+        </div>
+      </div>
+      <div class="scard-event">${x.event}</div>
+      <div class="scard-grid">
+        ${metrics.map(([label, value]) => `
+          <div class="scard-metric"><span>${label}</span><b class="${signClass(value)}">${value}</b></div>
+        `).join('')}
+      </div>
+    </div>`;
   }).join('');
-
-  list.innerHTML = `
-  <div class="wl-scroll">
-    <table class="wl-table">
-      <thead><tr>
-        <th class="wl-code">종목</th>
-        <th class="wl-spark">추세</th>
-        <th class="wl-num">현재가</th>
-        <th class="wl-num">변동</th>
-        <th class="wl-num">변동률</th>
-        <th class="wl-num">전일종가</th>
-        <th class="wl-num">시가</th>
-        <th class="wl-num">고가</th>
-        <th class="wl-num">저가</th>
-      </tr></thead>
-      <tbody>${rows}</tbody>
-    </table>
-  </div>`;
-  document.querySelectorAll('.wl-row').forEach(c => c.onclick = () => detail(c.dataset.id));
+  document.querySelectorAll('.scard').forEach(c => c.onclick = () => detail(c.dataset.id));
 }
 
 function drawChart(spark, avgCost) {
