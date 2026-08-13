@@ -130,52 +130,84 @@ function cardKpiRow(x) {
   </div>`;
 }
 
-function miniSpark(spark, up, w = 96, h = 40) {
+function miniSpark(spark, up, avgCost, w = 100, h = 36) {
   if (!spark || spark.length < 2) return '';
   const closes = spark.map(p => p.close);
-  const min = Math.min(...closes), max = Math.max(...closes);
+  let min = Math.min(...closes), max = Math.max(...closes);
+  if (avgCost) { min = Math.min(min, avgCost); max = Math.max(max, avgCost); }
   const range = (max - min) || 1;
-  const pts = closes.map((v, i) => {
-    const x = (i / (closes.length - 1)) * w;
-    const y = h - ((v - min) / range) * h;
-    return `${x.toFixed(1)},${y.toFixed(1)}`;
-  }).join(' ');
+  const yOf = (v) => h - ((v - min) / range) * h;
+  const pts = closes.map((v, i) => `${((i / (closes.length - 1)) * w).toFixed(1)},${yOf(v).toFixed(1)}`);
   const color = up ? '#F0616D' : '#6FA8F5';
-  return `<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" class="scard-spark-svg">
-    <polyline points="${pts}" fill="none" stroke="${color}" stroke-width="1.8"
+  const fillId = `sf${Math.random().toString(36).slice(2, 8)}`;
+  const areaPath = `M${pts[0]} L${pts.join(' L')} L${w},${h} L0,${h} Z`;
+  const costLine = avgCost
+    ? `<line x1="0" y1="${yOf(avgCost).toFixed(1)}" x2="${w}" y2="${yOf(avgCost).toFixed(1)}"
+        stroke="#7B8494" stroke-width="1" stroke-dasharray="3,2"/>` : '';
+  return `<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" class="mini-spark">
+    <defs><linearGradient id="${fillId}" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="${color}" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="${color}" stop-opacity="0"/>
+    </linearGradient></defs>
+    <path d="${areaPath}" fill="url(#${fillId})" stroke="none"/>
+    ${costLine}
+    <polyline points="${pts.join(' ')}" fill="none" stroke="${color}" stroke-width="1.8"
       stroke-linejoin="round" stroke-linecap="round"/>
   </svg>`;
 }
 
 function render(f = 'ALL') {
   const arr = payload.companies.filter(x => x.g === f || f === 'ALL');
-  list.innerHTML = arr.map(x => {
+  const rows = arr.map(x => {
     const priceCls = signClass(x.tags && x.tags[0]);
     const up = priceCls !== 'val-down';
-    const metrics = (x.kpis || []).slice(2, 8); // 취득가대비~52주고점대비 6개
+    // kpis: [종가,취득가,취득가대비,전일대비,전주대비,거래량,시가총액,52주고점대비]
+    const kpiMap = {};
+    (x.kpis || []).forEach(([label, value]) => { kpiMap[label] = value; });
+
     return `
-    <div class="scard" data-id="${x.id}">
-      <div class="scard-top">
-        <div class="scard-spark">${miniSpark(x.spark, up)}</div>
-        <div class="scard-id">
-          <div class="scard-code">${x.id}${impactBadge(x.g)}</div>
-          <div class="scard-name">${x.name}${x.ticker && x.ticker !== x.id ? ` <span class="scard-sub">${x.ticker}</span>` : ''}</div>
-          ${x.exchangeLine ? `<div class="scard-ex">${x.exchangeLine}</div>` : ''}
-        </div>
-        <div class="scard-price-block">
-          <div class="scard-price">${x.priceText || '-'}</div>
-          <div class="scard-change ${priceCls}">${x.changeText || ''} ${(x.tags && x.tags[0]) || ''}</div>
-        </div>
-      </div>
-      <div class="scard-event">${x.event}</div>
-      <div class="scard-grid">
-        ${metrics.map(([label, value]) => `
-          <div class="scard-metric"><span>${label}</span><b class="${signClass(value)}">${value}</b></div>
-        `).join('')}
-      </div>
-    </div>`;
+    <tr class="wl-row" data-id="${x.id}">
+      <td class="wl-code">
+        <div class="wl-code-top">${x.id}${impactBadge(x.g)}</div>
+        <div class="wl-name">${x.name}${x.ticker && x.ticker !== x.id ? ` <span class="wl-sub">${x.ticker}</span>` : ''}</div>
+      </td>
+      <td class="wl-spark">${miniSpark(x.spark, up, x.avgCost)}</td>
+      <td class="wl-num wl-price">${x.priceText || '-'}</td>
+      <td class="wl-num ${priceCls}">${x.changeText || '-'}</td>
+      <td class="wl-num ${priceCls}">${(x.tags && x.tags[0]) || '-'}</td>
+      <td class="wl-num wl-mut">${x.prevCloseText || '-'}</td>
+      <td class="wl-num wl-mut">${x.openText || '-'}</td>
+      <td class="wl-num wl-mut">${x.highText || '-'}</td>
+      <td class="wl-num wl-mut">${x.lowText || '-'}</td>
+    </tr>
+    <tr class="wl-sub-row" data-id="${x.id}">
+      <td colspan="9" class="wl-info">
+        ${x.event} &nbsp;·&nbsp;
+        취득가대비 <b class="${signClass(kpiMap['취득가대비'])}">${kpiMap['취득가대비'] || '-'}</b> &nbsp;·&nbsp;
+        시가총액 <b>${kpiMap['시가총액'] || '-'}</b> &nbsp;·&nbsp;
+        52주 고점대비 <b class="${signClass(kpiMap['52주 고점대비'])}">${kpiMap['52주 고점대비'] || '-'}</b>
+      </td>
+    </tr>`;
   }).join('');
-  document.querySelectorAll('.scard').forEach(c => c.onclick = () => detail(c.dataset.id));
+
+  list.innerHTML = `
+  <div class="wl-wrap">
+    <table class="wl-table">
+      <thead><tr>
+        <th class="wl-code">종목</th>
+        <th class="wl-spark">추세</th>
+        <th class="wl-num">현재가</th>
+        <th class="wl-num">변동</th>
+        <th class="wl-num">변동률</th>
+        <th class="wl-num">전일종가</th>
+        <th class="wl-num">시가</th>
+        <th class="wl-num">고가</th>
+        <th class="wl-num">저가</th>
+      </tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>`;
+  document.querySelectorAll('.wl-row, .wl-sub-row').forEach(c => c.onclick = () => detail(c.dataset.id));
 }
 
 function drawChart(spark, avgCost) {
@@ -191,14 +223,14 @@ function drawChart(spark, avgCost) {
   const closes = spark.map(p => p.close);
   const labels = spark.map(p => p.date);
   const up = closes[closes.length - 1] >= closes[0];
-  const color = up ? '#D92D20' : '#175CD3';
+  const color = up ? '#F0616D' : '#6FA8F5';
   const datasets = [{
-    data: closes, borderColor: color, borderWidth: 1.6, pointRadius: 0, fill: true,
-    backgroundColor: up ? 'rgba(217,45,32,.07)' : 'rgba(23,92,211,.07)', tension: 0.15,
+    data: closes, borderColor: color, borderWidth: 1.8, pointRadius: 0, fill: true,
+    backgroundColor: up ? 'rgba(240,97,109,.12)' : 'rgba(111,168,245,.12)', tension: 0.15,
   }];
   if (avgCost) {
     datasets.push({
-      data: closes.map(() => avgCost), borderColor: '#98A2B3', borderWidth: 1,
+      data: closes.map(() => avgCost), borderColor: '#7B8494', borderWidth: 1,
       borderDash: [4, 3], pointRadius: 0, fill: false,
     });
   }
@@ -214,14 +246,14 @@ function drawChart(spark, avgCost) {
         x: {
           display: true, grid: { display: false },
           ticks: {
-            color: '#98A2B3', font: { size: 9 }, maxRotation: 0,
+            color: '#7B8494', font: { size: 9 }, maxRotation: 0,
             callback: (val, i) => (i % tickStep === 0 ? labels[i] : ''),
           },
         },
         y: {
           display: true, position: 'right',
-          grid: { color: '#EEF1F4' },
-          ticks: { color: '#98A2B3', font: { size: 9 }, maxTicksLimit: 4 },
+          grid: { color: 'rgba(255,255,255,.06)' },
+          ticks: { color: '#7B8494', font: { size: 9 }, maxTicksLimit: 4 },
         },
       },
     },

@@ -1,11 +1,11 @@
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:#F4F6F8;color:#101828;font-family:-apple-system,'Noto Sans KR',sans-serif;
+body{background:#0B0E14;color:#E7E9ED;font-family:-apple-system,'Noto Sans KR',sans-serif;
      -webkit-font-smoothing:antialiased}
 .app{max-width:520px;margin:0 auto;padding:20px 16px 40px}
 
 /* ── PC 웹 브라우저용 (텔레그램 인앱 WebView는 항상 좁은 폭이라 영향 없음) ── */
 @media (min-width:880px){
-  .app{max-width:1040px;padding:40px 48px 64px}
+  .app{max-width:1360px;padding:36px 40px 60px}
   .impact-summary{padding:20px 24px}
   #attnList{display:grid;grid-template-columns:1fr 1fr;gap:14px}
   .attention{margin-bottom:0}
@@ -15,136 +15,181 @@ body{background:#F4F6F8;color:#101828;font-family:-apple-system,'Noto Sans KR',s
 
 /* ── 브랜드 영역 ── */
 .brand{padding:4px 0 22px}
-.brand-name{font-size:20px;font-weight:800;color:#0B0E14;letter-spacing:-.2px}
-.brand-sub{font-size:12px;color:#98A2B3;margin-top:2px;font-weight:500}
-.brand-updated{font-size:12px;color:#667085;margin-top:14px}
+.brand-top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
+.brand-name{font-size:20px;font-weight:800;color:#FFFFFF;letter-spacing:-.2px}
+.brand-sub{font-size:12px;color:#7B8494;margin-top:2px;font-weight:500}
+.brand-updated{font-size:12px;color:#7B8494;margin-top:14px}
+.add-req-btn{background:#F37321;color:#fff;border:none;border-radius:20px;
+             padding:8px 14px;font-size:11.5px;font-weight:700;cursor:pointer;
+             white-space:nowrap;flex-shrink:0}
+.add-req-btn:active{opacity:.85}
 
 /* ── 당사 영향도 요약 ── */
-.impact-summary{background:#FFFFFF;border:1px solid #E4E7EC;border-radius:12px;
+.impact-summary{background:#12151C;border:1px solid rgba(255,255,255,.07);border-radius:12px;
                 padding:16px;margin-bottom:20px}
-.impact-summary-title{font-size:14px;font-weight:700;color:#101828}
-.impact-summary-desc{font-size:11.5px;color:#667085;margin-top:3px;line-height:1.5}
+.impact-summary-title{font-size:14px;font-weight:700;color:#FFFFFF}
+.impact-summary-desc{font-size:11.5px;color:#7B8494;margin-top:3px;line-height:1.5}
 .impact-summary-counts{display:flex;gap:18px;margin-top:14px}
-.cnt{font-size:12.5px;color:#344054;display:flex;align-items:center;gap:6px;font-weight:600}
-.cnt b{font-size:15px;margin-left:2px}
-.cnt-dot{width:7px;height:7px;border-radius:50%;display:inline-block}
-.cnt-high .cnt-dot{background:#D92D20}
+.cnt{font-size:12.5px;color:#C4C9D2;display:flex;align-items:center;gap:6px;font-weight:600}
+.cnt b{font-size:15px;margin-left:2px;color:#fff}
+.cnt-dot{width:7px;height:7px;border-radius:50%;display:inline-block;flex-shrink:0}
+.cnt-high .cnt-dot{background:#F0616D}
 .cnt-mid .cnt-dot{background:#F79009}
 .cnt-low .cnt-dot{background:#12B76A}
 
 /* ── 섹션 헤더 / 필터 ── */
 .head{display:flex;align-items:center;justify-content:space-between;margin:22px 0 12px}
-.head h2{font-size:15px;font-weight:700;color:#101828}
-h2.mt{font-size:15px;font-weight:700;color:#101828;margin:26px 0 12px}
+.head h2{font-size:15px;font-weight:700;color:#FFFFFF}
+h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
 .filters{display:flex;gap:6px}
-.chip{border:1px solid #E4E7EC;background:#FFFFFF;color:#667085;font-size:11.5px;
+.chip{border:1px solid rgba(255,255,255,.1);background:#12151C;color:#8B94A3;font-size:11.5px;
       font-weight:600;padding:5px 12px;border-radius:20px;cursor:pointer}
-.chip.on{background:#101828;color:#fff;border-color:#101828}
+.chip.on{background:#F37321;color:#fff;border-color:#F37321}
 
-/* ── 종목 카드 ── */
-.card{background:#FFFFFF;border:1px solid #E4E7EC;border-radius:12px;
-      padding:16px;margin-bottom:12px;cursor:pointer}
-.card:active{background:#FAFBFC}
-.top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
-.name-block{min-width:0;flex:1}
-.name{font-size:16px;font-weight:700;color:#101828;line-height:1.3;
-      overflow-wrap:break-word}
-.ticker{font-size:11.5px;color:#98A2B3;margin-top:2px}
-.exline{font-size:11px;color:#98A2B3;margin-top:1px}
-
-/* ── 영향도 dot 뱃지 (원형 배지 대체) ── */
+/* ── 영향도 dot 뱃지 (정렬 명확히 - flex 중앙정렬만 사용, 별도 상단여백 없음) ── */
 .impact-badge{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;
-              font-weight:700;white-space:nowrap;flex-shrink:0;padding-top:2px}
-.impact-dot{width:7px;height:7px;border-radius:50%;display:inline-block}
-.impact-high{color:#D92D20}
-.impact-high .impact-dot{background:#D92D20}
-.impact-mid{color:#B54708}
+              font-weight:700;white-space:nowrap;line-height:1}
+.impact-dot{width:7px;height:7px;border-radius:50%;display:inline-block;flex-shrink:0}
+.impact-high{color:#F0616D}
+.impact-high .impact-dot{background:#F0616D}
+.impact-mid{color:#F79009}
 .impact-mid .impact-dot{background:#F79009}
-.impact-low{color:#067647}
+.impact-low{color:#12B76A}
 .impact-low .impact-dot{background:#12B76A}
 
-.event{font-size:13.5px;font-weight:600;color:#1D2939;margin-top:12px;line-height:1.45}
+/* ── 종목 현황: 구글 파이낸스 스타일 다크 워치리스트 테이블 ── */
+.wl-wrap{background:#12151C;border:1px solid rgba(255,255,255,.07);border-radius:12px;overflow-x:auto}
+.wl-table{width:100%;border-collapse:collapse;font-size:12.5px;white-space:nowrap}
+.wl-table thead th{text-align:right;font-size:10.5px;font-weight:600;color:#7B8494;
+                   padding:12px 14px;border-bottom:1px solid rgba(255,255,255,.07)}
+.wl-table thead th.wl-code,.wl-table thead th.wl-spark{text-align:left}
+.wl-row{cursor:pointer;border-bottom:1px solid rgba(255,255,255,.05)}
+.wl-row:hover,.wl-row:active{background:rgba(255,255,255,.03)}
+.wl-sub-row{border-bottom:1px solid rgba(255,255,255,.05)}
+.wl-sub-row:hover,.wl-sub-row:active{background:rgba(255,255,255,.03)}
+.wl-table td{padding:11px 14px;vertical-align:middle}
+.wl-code{min-width:150px}
+.wl-code-top{display:flex;align-items:center;gap:8px;font-weight:700;color:#FFFFFF;font-size:13px}
+.wl-name{font-size:11px;color:#7B8494;margin-top:2px}
+.wl-sub{color:#4E5867}
+.wl-spark{padding-top:6px;padding-bottom:6px}
+.mini-spark{display:block}
+.wl-num{text-align:right;font-variant-numeric:tabular-nums;color:#E7E9ED;font-weight:600}
+.wl-mut{color:#7B8494;font-weight:400}
+.wl-price{font-weight:800;color:#fff}
+.wl-num.val-up{color:#F0616D}
+.wl-num.val-down{color:#6FA8F5}
+.wl-code .impact-badge{font-size:9.5px}
+.wl-info{padding:2px 14px 12px;font-size:11px;color:#8B94A3;line-height:1.6}
+.wl-info b{color:#C4C9D2;font-weight:600}
+.wl-info .val-up{color:#F0616D;font-weight:700}
+.wl-info .val-down{color:#6FA8F5;font-weight:700}
 
-/* ── 현재가 / 일간 등락률 (의미 라벨 포함, 덜 강조) ── */
-.price-row{display:flex;justify-content:space-between;align-items:flex-end;margin-top:12px}
-.price-col{display:flex;flex-direction:column;gap:2px}
-.price-col.right{align-items:flex-end}
-.price-label{font-size:10px;color:#98A2B3;font-weight:500}
-.price-col b{font-size:14px;font-weight:700;color:#344054}
-.price-col b.val-up{color:#D92D20}
-.price-col b.val-down{color:#175CD3}
-
-.card-divider{border-top:1px solid #EEF1F4;margin-top:12px}
-
-/* ── 카드 하단 핵심 지표 2개 (회사마다 다름) ── */
-.card-kpis{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px}
-.card-kpi{display:flex;flex-direction:column;gap:2px}
-.card-kpi b{font-size:19px;font-weight:800;color:#101828;line-height:1.2}
-.card-kpi span{font-size:11px;color:#667085;font-weight:500}
+/* 좁은 화면: 보조 컬럼(시가/고가/저가) 숨겨서 스크롤 최소화 */
+@media (max-width:760px){
+  .wl-table th:nth-child(7),.wl-table td:nth-child(7),
+  .wl-table th:nth-child(8),.wl-table td:nth-child(8),
+  .wl-table th:nth-child(9),.wl-table td:nth-child(9){display:none}
+}
 
 /* ── 핵심 확인사항 카드 ── */
-.attention{background:#101828;border-radius:12px;padding:18px;color:#fff;margin-bottom:10px}
+.attention{background:#12151C;border:1px solid rgba(255,255,255,.07);border-radius:12px;
+           padding:18px;color:#fff;margin-bottom:10px}
 .attention:last-child{margin-bottom:0}
-.attn-impact{margin-top:8px;font-size:11.5px;color:#F89B5C;font-weight:600;line-height:1.5}
-.attention .impact-badge{font-size:10px;vertical-align:middle}
-.attention .impact-high{color:#FDA29B}
-.attention .impact-mid{color:#FEC84B}
-.attention .impact-low{color:#6CE9A6}
 .attention.clickable{cursor:pointer}
-.attention small{font-size:10.5px;color:#98A2B3;font-weight:600;letter-spacing:.3px}
-.attention h3{font-size:16px;font-weight:700;margin-top:6px}
-.attention p{font-size:12.5px;color:#CBD2DB;margin-top:8px;line-height:1.5}
+.attention small{font-size:10.5px;color:#7B8494;font-weight:600;letter-spacing:.3px;
+                 display:inline-flex;align-items:center;gap:5px}
+.attention h3{font-size:16px;font-weight:700;margin-top:8px}
+.attention p{font-size:12.5px;color:#C4C9D2;margin-top:8px;line-height:1.5}
+.attn-impact{margin-top:8px;font-size:11.5px;color:#F89B5C;font-weight:600;line-height:1.5}
 .attn-link{margin-top:10px;font-size:11px;color:#F89B5C;font-weight:600}
+.attention .impact-badge{font-size:10px}
+.attention .impact-high{color:#F87171}
+.attention .impact-mid{color:#FBBF6B}
+.attention .impact-low{color:#6EE7B7}
 
 /* ── 상세화면(바텀시트) ── */
-#backdrop{position:fixed;inset:0;background:rgba(16,24,40,.5);opacity:0;
+#backdrop{position:fixed;inset:0;background:rgba(0,0,0,.6);opacity:0;
           pointer-events:none;transition:opacity .2s;z-index:50}
 #backdrop.open{opacity:1;pointer-events:auto}
 #sheet{position:fixed;left:0;right:0;bottom:0;max-width:520px;margin:0 auto;
-       background:#fff;border-radius:16px 16px 0 0;max-height:88vh;overflow-y:auto;
-       transform:translateY(100%);transition:transform .25s;padding:14px 18px 28px}
+       background:#12151C;border-radius:16px 16px 0 0;max-height:88vh;overflow-y:auto;
+       transform:translateY(100%);transition:transform .25s;padding:14px 18px 28px;
+       border:1px solid rgba(255,255,255,.08);border-bottom:none}
 #backdrop.open #sheet{transform:translateY(0)}
-.handle{width:36px;height:4px;background:#E4E7EC;border-radius:4px;margin:0 auto 10px}
-#close{position:absolute;top:16px;right:16px;background:#F4F6F8;border:none;
-       color:#667085;font-size:12px;font-weight:600;padding:6px 12px;border-radius:20px}
-.dt{font-size:19px;font-weight:800;color:#101828;display:flex;align-items:center;gap:10px}
-.dsub{font-size:12px;color:#98A2B3;margin-top:3px}
-.dd{font-size:12.5px;color:#667085;margin-top:10px;line-height:1.55}
+.handle{width:36px;height:4px;background:rgba(255,255,255,.15);border-radius:4px;margin:0 auto 10px}
+#close{position:absolute;top:16px;right:16px;background:rgba(255,255,255,.06);border:none;
+       color:#C4C9D2;font-size:12px;font-weight:600;padding:6px 12px;border-radius:20px}
+.dt{font-size:19px;font-weight:800;color:#fff;display:flex;align-items:center;gap:10px}
+.dsub{font-size:12px;color:#7B8494;margin-top:3px}
+.dd{font-size:12.5px;color:#C4C9D2;margin-top:10px;line-height:1.55}
 .sec{margin-top:20px}
-.sec h4{font-size:12.5px;font-weight:700;color:#101828;margin-bottom:10px}
+.sec h4{font-size:12.5px;font-weight:700;color:#fff;margin-bottom:10px}
 .kpis{display:grid;grid-template-columns:1fr 1fr;gap:8px}
-.kpi{background:#F9FAFB;border-radius:10px;padding:10px 12px}
-.kpi span{font-size:10.5px;color:#98A2B3;display:block;margin-bottom:3px}
-.kpi b{font-size:14px;font-weight:700;color:#101828}
-.kpi b.val-up{color:#D92D20}
-.kpi b.val-down{color:#175CD3}
-.kpi-sub{font-size:10px;color:#98A2B3;margin-top:2px}
-.val-up{color:#D92D20}
-.val-down{color:#175CD3}
-.tl{font-size:12.5px;color:#344054;padding:8px 0;border-bottom:1px solid #EEF1F4}
+.kpi{background:#171B21;border-radius:10px;padding:10px 12px}
+.kpi span{font-size:10.5px;color:#7B8494;display:block;margin-bottom:3px}
+.kpi b{font-size:14px;font-weight:700;color:#E7E9ED}
+.kpi b.val-up{color:#F0616D}
+.kpi b.val-down{color:#6FA8F5}
+.kpi-sub{font-size:10px;color:#7B8494;margin-top:2px}
+.val-up{color:#F0616D}
+.val-down{color:#6FA8F5}
+.tl{font-size:12.5px;color:#C4C9D2;padding:8px 0;border-bottom:1px solid rgba(255,255,255,.06)}
 .tl:last-child{border-bottom:none}
 .sec ul{padding-left:18px}
-.sec li{font-size:12.5px;color:#344054;margin-bottom:6px;line-height:1.5}
-.legend-dash{font-size:10px;color:#98A2B3;font-weight:400;margin-left:6px}
-.fxline{font-size:11px;color:#98A2B3;margin-top:6px}
+.sec li{font-size:12.5px;color:#C4C9D2;margin-bottom:6px;line-height:1.5}
+.legend-dash{font-size:10px;color:#7B8494;font-weight:400;margin-left:6px}
+.fxline{font-size:11px;color:#7B8494;margin-top:6px}
 .chart-fallback{height:120px;display:flex;align-items:center;justify-content:center;
-                color:#98A2B3;font-size:11px;background:#F9FAFB;border-radius:10px}
+                color:#7B8494;font-size:11px;background:#171B21;border-radius:10px}
+.grade-legend{font-size:11px;color:#7B8494;margin:-10px 0 18px;line-height:1.6}
 
 /* ── 원문 링크 리스트 ── */
-.src-row{padding:10px 0;border-bottom:1px solid #EEF1F4;cursor:pointer}
+.src-row{padding:10px 0;border-bottom:1px solid rgba(255,255,255,.06);cursor:pointer}
 .src-row:last-child{border-bottom:none}
 .src-top{display:flex;gap:8px;align-items:center;margin-bottom:3px}
-.src-tag{font-size:9.5px;color:#175CD3;background:#EFF4FF;padding:1.5px 7px;
+.src-tag{font-size:9.5px;color:#8FBBFA;background:rgba(111,168,245,.12);padding:1.5px 7px;
         border-radius:4px;font-weight:600}
-.src-date{font-size:10px;color:#98A2B3}
-.src-title{font-size:12.5px;color:#1A1A1A;line-height:1.45}
+.src-date{font-size:10px;color:#7B8494}
+.src-title{font-size:12.5px;color:#E7E9ED;line-height:1.45}
 .src-row:active{opacity:.6}
-.legal{margin-top:28px;padding-top:16px;border-top:1px solid #E4E7EC;text-align:center}
-.legal p{font-size:10px;color:#98A2B3;line-height:1.6;margin-bottom:6px}
-.legal p:last-child{margin-bottom:0}
-.legal-brand{font-size:11px;color:#667085;font-weight:700;margin-top:10px}
 
-/* ── 웹 접근 비밀번호 게이트 (텔레그램 안에서는 자동 통과) ── */
+/* ── 종목 추가 요청 폼 ── */
+.req-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.6);opacity:0;
+              pointer-events:none;transition:opacity .2s;z-index:60}
+.req-backdrop.open{opacity:1;pointer-events:auto}
+.req-sheet{position:fixed;left:0;right:0;bottom:0;max-width:520px;margin:0 auto;
+           background:#12151C;border-radius:16px 16px 0 0;max-height:90vh;overflow-y:auto;
+           transform:translateY(100%);transition:transform .25s;padding:14px 20px 32px;
+           border:1px solid rgba(255,255,255,.08);border-bottom:none}
+.req-backdrop.open .req-sheet{transform:translateY(0)}
+.req-close{position:absolute;top:16px;right:18px;background:rgba(255,255,255,.06);border:none;
+           color:#C4C9D2;font-size:12px;font-weight:600;padding:6px 12px;border-radius:20px}
+.req-title{font-size:18px;font-weight:800;color:#fff;margin-top:6px}
+.req-desc{font-size:11.5px;color:#7B8494;margin-top:6px;margin-bottom:20px;line-height:1.5}
+#reqForm label{display:block;font-size:11.5px;font-weight:700;color:#C4C9D2;
+              margin:14px 0 6px}
+#reqForm label:first-child{margin-top:0}
+#reqForm input,#reqForm select,#reqForm textarea{width:100%;padding:10px 12px;
+              border:1px solid rgba(255,255,255,.12);border-radius:8px;font-size:13.5px;
+              color:#E7E9ED;background:#171B21;box-sizing:border-box;font-family:inherit}
+#reqForm input::placeholder,#reqForm textarea::placeholder{color:#5B6472}
+#reqForm textarea{resize:vertical}
+.req-star{color:#F0616D}
+.req-row{display:flex;gap:8px}
+#reqForm .req-row input{flex:1;width:auto}
+#reqForm .req-row select{width:96px;flex-shrink:0}
+.req-submit{width:100%;margin-top:22px;padding:13px;background:#F37321;color:#fff;
+            border:none;border-radius:9px;font-weight:700;font-size:14px;cursor:pointer}
+.req-submit:active{opacity:.85}
+
+/* ── 하단 고지 ── */
+.legal{margin-top:28px;padding-top:16px;border-top:1px solid rgba(255,255,255,.07);text-align:center}
+.legal p{font-size:10px;color:#5B6472;line-height:1.6;margin-bottom:6px}
+.legal p:last-child{margin-bottom:0}
+.legal-brand{font-size:11px;color:#8B94A3;font-weight:700;margin-top:10px}
+
+/* ── 웹 접근 비밀번호 게이트 ── */
 .pw-gate{position:fixed;inset:0;z-index:999;display:none;align-items:center;justify-content:center;
          padding:20px;
          background:
@@ -171,105 +216,3 @@ h2.mt{font-size:15px;font-weight:700;color:#101828;margin:26px 0 12px}
 .pw-error{color:#F97066;font-size:11.5px;margin-top:12px}
 .pw-copyright{font-size:10px;color:#6B7280!important;margin-top:34px;
               letter-spacing:.2px;text-decoration:none!important;font-weight:400}
-
-/* ── 브랜드 헤더 - 요청 버튼 ── */
-.brand-top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px}
-.add-req-btn{background:#101828;color:#fff;border:none;border-radius:20px;
-             padding:8px 14px;font-size:11.5px;font-weight:600;cursor:pointer;
-             white-space:nowrap;flex-shrink:0}
-.add-req-btn:active{opacity:.85}
-
-/* ── 종목 추가 요청 폼 ── */
-.req-backdrop{position:fixed;inset:0;background:rgba(16,24,40,.5);opacity:0;
-              pointer-events:none;transition:opacity .2s;z-index:60}
-.req-backdrop.open{opacity:1;pointer-events:auto}
-.req-sheet{position:fixed;left:0;right:0;bottom:0;max-width:520px;margin:0 auto;
-           background:#fff;border-radius:16px 16px 0 0;max-height:90vh;overflow-y:auto;
-           transform:translateY(100%);transition:transform .25s;padding:14px 20px 32px}
-.req-backdrop.open .req-sheet{transform:translateY(0)}
-.req-close{position:absolute;top:16px;right:18px;background:#F4F6F8;border:none;
-           color:#667085;font-size:12px;font-weight:600;padding:6px 12px;border-radius:20px}
-.req-title{font-size:18px;font-weight:800;color:#101828;margin-top:6px}
-.req-desc{font-size:11.5px;color:#98A2B3;margin-top:6px;margin-bottom:20px;line-height:1.5}
-#reqForm label{display:block;font-size:11.5px;font-weight:700;color:#344054;
-              margin:14px 0 6px}
-#reqForm label:first-child{margin-top:0}
-#reqForm input,#reqForm select,#reqForm textarea{width:100%;padding:10px 12px;
-              border:1px solid #E4E7EC;border-radius:8px;font-size:13.5px;color:#101828;
-              box-sizing:border-box;font-family:inherit;background:#fff}
-#reqForm textarea{resize:vertical}
-.req-star{color:#D92D20}
-.req-row{display:flex;gap:8px}
-#reqForm .req-row input{flex:1;width:auto}
-#reqForm .req-row select{width:96px;flex-shrink:0}
-.req-submit{width:100%;margin-top:22px;padding:13px;background:#F37321;color:#fff;
-            border:none;border-radius:9px;font-weight:700;font-size:14px;cursor:pointer}
-.req-submit:active{opacity:.85}
-
-/* ── 종목 현황: 구글 파이낸스 스타일 워치리스트 테이블 ── */
-.wl-scroll{background:#FFFFFF;border:1px solid #E4E7EC;border-radius:12px;overflow-x:auto}
-.wl-table{width:100%;border-collapse:collapse;font-size:12.5px;white-space:nowrap}
-.wl-table thead th{text-align:right;font-size:10.5px;font-weight:600;color:#98A2B3;
-                   padding:11px 14px;border-bottom:1px solid #E4E7EC;background:#FAFBFC}
-.wl-table thead th.wl-code,.wl-table thead th.wl-spark{text-align:left}
-.wl-row{cursor:pointer;border-bottom:1px solid #EEF1F4}
-.wl-row:last-child{border-bottom:none}
-.wl-row:hover,.wl-row:active{background:#FAFBFC}
-.wl-table td{padding:10px 14px;vertical-align:middle}
-.wl-code{min-width:140px}
-.wl-code-top{display:flex;align-items:center;gap:8px;font-weight:700;color:#101828;font-size:13px}
-.wl-name{font-size:11px;color:#98A2B3;margin-top:2px}
-.wl-sub{color:#C0C7D1}
-.wl-spark{padding-top:6px;padding-bottom:6px}
-.mini-spark{display:block}
-.wl-num{text-align:right;font-variant-numeric:tabular-nums;color:#101828;font-weight:600}
-.wl-mut{color:#98A2B3;font-weight:400}
-.wl-price{font-weight:800}
-.wl-num.val-up{color:#D92D20}
-.wl-num.val-down{color:#175CD3}
-.wl-code .impact-badge{font-size:9.5px}
-
-/* 좁은 화면에서는 보조 컬럼(시가/고가/저가) 숨겨서 스크롤 최소화 */
-@media (max-width:600px){
-  .wl-table th:nth-child(6),.wl-table td:nth-child(6),
-  .wl-table th:nth-child(7),.wl-table td:nth-child(7),
-  .wl-table th:nth-child(8),.wl-table td:nth-child(8),
-  .wl-table th:nth-child(9),.wl-table td:nth-child(9){display:none}
-}
-
-/* ── 종목 현황: PNG 리포트 느낌의 다크 카드 ── */
-#list{display:grid;grid-template-columns:1fr;gap:14px}
-.scard{background:#101828;border-radius:14px;padding:18px 18px 16px;cursor:pointer;
-       border:1px solid rgba(255,255,255,.06)}
-.scard:active{opacity:.92}
-.scard-top{display:flex;align-items:flex-start;gap:14px}
-.scard-spark{flex-shrink:0;width:88px;height:38px;margin-top:3px}
-.scard-spark-svg{width:100%;height:100%;display:block}
-.scard-id{flex:1;min-width:0}
-.scard-code{display:flex;align-items:center;gap:8px;font-size:14px;font-weight:800;color:#fff}
-.scard-name{font-size:11.5px;color:#8B94A3;margin-top:3px}
-.scard-sub{color:#5B6472}
-.scard-ex{font-size:10.5px;color:#5B6472;margin-top:1px}
-.scard-price-block{text-align:right;flex-shrink:0}
-.scard-price{font-size:19px;font-weight:800;color:#fff}
-.scard-change{font-size:11.5px;font-weight:700;margin-top:3px;white-space:nowrap}
-.scard-change.val-up{color:#F0616D}
-.scard-change.val-down{color:#6FA8F5}
-.scard-event{font-size:12.5px;color:#C8CCD3;margin-top:14px;line-height:1.5}
-.scard-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:14px}
-.scard-metric{background:#171B21;border-radius:8px;padding:9px 10px}
-.scard-metric span{display:block;font-size:9.5px;color:#7B828D;margin-bottom:4px}
-.scard-metric b{font-size:12.5px;font-weight:700;color:#E4E7EC}
-.scard-metric b.val-up{color:#F0616D}
-.scard-metric b.val-down{color:#6FA8F5}
-
-/* impact-badge는 라이트 카드용 색상이라 다크 카드 안에서는 살짝 밝게 보정 */
-.scard .impact-badge{font-size:9.5px;padding:2px 7px;border-radius:20px;background:rgba(255,255,255,.06)}
-.scard .impact-high{color:#F87171}
-.scard .impact-mid{color:#FBBF6B}
-.scard .impact-low{color:#6EE7B7}
-
-@media (min-width:880px){
-  #list{grid-template-columns:1fr 1fr;gap:16px}
-  .scard-grid{grid-template-columns:repeat(3,1fr)}
-}
