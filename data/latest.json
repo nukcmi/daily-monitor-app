@@ -1,19 +1,19 @@
 {
   "asOf": "2026-08-13",
-  "updated": "2026-08-13 17:41",
-  "fx": "환율 2026-08-13 · 시장환율   1 USD = ₩1,424.68   |   1 USD = 17,863.00 IDR   |   1 IDR = ₩0.07976",
+  "updated": "2026-08-13 22:41",
+  "fx": "환율 2026-08-13 · 시장환율   1 USD = ₩1,418.31   |   1 USD = 17,877.00 IDR   |   1 IDR = ₩0.07934",
   "attentionItems": [
     {
-      "company": "차바이오텍",
-      "text": "차바이오그룹·한화손보, 의료·바이오와 금융·보험 연계 헬스케어 협력 발표",
-      "impact": "당사 보유 지분 기업과의 직접 협력으로, 투자 시너지가 사업 관계로 실현되는 신호",
+      "company": "차AI헬스케어",
+      "text": "차바이오그룹과 한화손보가 의료·바이오와 금융·보험을 연계한 헬스케어 협력 계획을 발표",
+      "impact": "당사 보유 지분의 단순 재무 수익을 넘어 사업 시너지가 실현되는 단계로, 협력 심화 시 지분가치 재평가 가능성",
       "level": "high",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001660"
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000798"
     },
     {
       "company": "차바이오텍",
-      "text": "차바이오·한화손보, 수명 연장(Longevity) 분야 동맹 협력 보도",
-      "impact": "보험 상품·서비스와 CGT 기술의 연계 사업화 가능성이 외부에서도 인지되며 지분 전략적 가치 부각",
+      "text": "차바이오그룹과 한화손보, 의료·바이오와 금융·보험 연계 헬스케어 협력 발표",
+      "impact": "당사 지분 보유 종목과의 협력 공식화로 지분가치 보호 및 시너지 실현 근거 확보",
       "level": "high",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001660"
     }
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "헬스케어 협력 본격화, 반기 실적 공시",
+      "event": "매출 성장 속 영업손실 지속",
       "tags": [
         "-1.86%",
         "당사 투자"
@@ -59,7 +59,7 @@
         ],
         [
           "거래량(20일比)",
-          "20.63만 · 0.70x",
+          "20.07만 · 0.68x",
           null
         ],
         [
@@ -84,13 +84,13 @@
         }
       ],
       "events": [
-        "한화손보와의 Longevity 협력은 단순 홍보를 넘어 CGT 사업의 보험 연계 수익화 경로가 열리는 신호",
-        "반기보고서 연결매출 6461억원 공시로 CDMO·CGT 사업 재무 기반 점검 가능"
+        "상반기 매출 7% 성장에도 영업손실 589억 유지 — CGT/CDMO 투자 비용 부담이 수익화보다 앞서는 구조 지속",
+        "순이익 흑자전환은 일회성 요인 가능성 있어, 영업 펀더멘털 개선 여부는 2H 추이로 재확인 필요"
       ],
       "watch": [
-        "반기보고서상 CGT/CDMO 부문 매출·손익 추이",
-        "협력 구체화 여부(계약·MOU 등 공식화)",
-        "CB 상환·신규 자금조달 일정"
+        "CGT/CDMO 수주 계약 및 매출 인식 시점",
+        "하반기 추가 자금조달(CB·유상증자) 계획",
+        "영업손실 축소 경로 및 흑자전환 시점"
       ],
       "spark": [
         {
@@ -358,21 +358,21 @@
           "date": "20260813"
         },
         {
+          "title": "차바이오텍, 2Q 매출 전년비 6%↑…글로벌 사업 성장",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NZ2tRZ05NYmZaS1pQR0ZOSjZTRXFxYWswWG56NkdCZzZrc0JSbm1saHg2bEhoS24xYWdPZzcway1zQm92RXVGSU9wWjJ2bU96?oc=5",
+          "source": "데일리팜",
+          "date": "08/13"
+        },
+        {
+          "title": "차바이오텍, 상반기 영업손실 589억원…매출은 7% 증가",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WRFI2M1MzWm9Ob1JQZ2E1amhjam5BSTg3dzdwdi1HT0h0VGRaUUR4cVpxaVRjQjFUZnM2M0JrdE9ESExvR1VVTDJaWEpYVldWZHVJdW8xdnJIVnZYQ2lqZNIBYEFVX3lxTE9WRFI2M1MzWm9Ob1JQZ2E1amhjam5BSTg3dzdwdi1HT0h0VGRaUUR4cVpxaVRjQjFUZnM2M0JrdE9ESExvR1VVTDJaWEpYVldWZHVJdW8xdnJIVnZYQ2lqZA?oc=5",
+          "source": "연합뉴스",
+          "date": "08/13"
+        },
+        {
           "title": "차바이오그룹·한화손보, 의료·바이오와 금융·보험 연계 헬스케어 협력",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCelN5allMMUZhU0hSWElXai1fSG9rN3ZmUS1RV2Y5ejJyQzBXXy1lYXBKRzd6MjNEajIyeFdlSVVUQzF3ZzZ4TnB6VnZhWE54NEJjR2l0bEdkUjJVVWdKZXhSM0FnTFh4NkE?oc=5",
           "source": "의학신문",
-          "date": "08/13"
-        },
-        {
-          "title": "차광렬 차바이오 연구소장, 한화손보서 K-Cell 특별강연",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CTzZuLW9vZVZEdlIyV1pxLXhhcGhGaFBKR0xJeGk2eHR4X18wZ2tVcDN5azFIeDRJbnBuN1RPcl9Pd2FoSko1MHZfQm9DQXJ5SF93MnVQWS1UbFlmZHBtN09HNEI?oc=5",
-          "source": "서울경제TV",
-          "date": "08/13"
-        },
-        {
-          "title": "차광렬 차병원·차바이오그룹 연구소장 “K-Cell 고도화로 글로벌 세포치료제 시장 선도”",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wdGdUbmFPQnUxZThVZmVFTUtkRWtuV1JmeDZ6MXVXX1RzZGR5UkZDSkV1bFZ3WF9oU0k3bnhGZkg0QUVfTlZndUFlWFhUTkZxRGJnM2d6NzlCWWo0VGxCR3VfUlRURmhiNGRRUVhn?oc=5",
-          "source": "아시아투데이",
           "date": "08/13"
         }
       ]
@@ -381,8 +381,8 @@
       "id": "025620",
       "name": "차AI헬스케어",
       "ticker": "025620",
-      "g": "B",
-      "event": "자산 58% 헬스케어 배치, 전환 진척",
+      "g": "A",
+      "event": "한화손보와 헬스케어 협력 공식화",
       "tags": [
         "-0.79%",
         "당사 투자"
@@ -417,7 +417,7 @@
         ],
         [
           "거래량(20일比)",
-          "9.34천 · 0.39x",
+          "9.42천 · 0.39x",
           null
         ],
         [
@@ -442,13 +442,13 @@
         }
       ],
       "events": [
-        "자산의 58%를 헬스케어에 집중 배치한 것은 사업모델 전환이 재무구조 수준에서 실질화되고 있음을 시사",
-        "한화손보와의 협력 관계가 헬스케어 확장 전면에 등장하며, 당사 지분의 전략적 가치가 높아지는 국면"
+        "당사와의 협력이 기사화 — 지분 투자에서 사업 시너지 실현 단계로 전환 중인 신호",
+        "반기보고서 공시로 실적 및 사업 확장 현황 점검 가능, 파트너십 지속성과 수익화 여부가 관건"
       ],
       "watch": [
-        "반기보고서 매출·영업손익 개선 여부",
-        "헬스케어 배치 자산의 수익화 시점",
-        "한화손보 협력의 공식 계약 전환 여부"
+        "헬스케어 협력의 구체적 수익모델 확정 여부",
+        "상반기 매출·영업손익 개선 폭",
+        "신규 고객사·파트너십 추가 여부"
       ],
       "spark": [
         {
@@ -751,7 +751,7 @@
         [
           "종가",
           "$51.64",
-          "₩73,570"
+          "₩73,242"
         ],
         [
           "취득가",
@@ -780,8 +780,8 @@
         ],
         [
           "시가총액",
-          "$4.00B",
-          "5.69조"
+          "$4.08B",
+          "5.79조"
         ],
         [
           "52주 고점대비",
@@ -805,7 +805,7 @@
       "watch": [
         "IFP 성장률 분기 추이",
         "Loss Ratio 구조적 개선 여부",
-        "EBITDA 흑자전환 시점 공시"
+        "EBITDA 흑자전환 시점 및 밸류에이션 변화"
       ],
       "spark": [
         {
@@ -1081,16 +1081,16 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-0.80%",
+        "+1.61%",
         "자회사"
       ],
-      "priceText": "Rp620",
+      "priceText": "Rp630",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp620",
-          "₩49.4"
+          "Rp630",
+          "₩50.0"
         ],
         [
           "취득가",
@@ -1099,32 +1099,32 @@
         ],
         [
           "취득가대비",
-          "-5.17%",
+          "-3.64%",
           null
         ],
         [
           "전일대비",
-          "-0.80%",
+          "+1.61%",
           null
         ],
         [
           "전주대비",
-          "-4.62%",
+          "-3.08%",
           null
         ],
         [
           "거래량(20일比)",
-          "2.31만 · 0.48x",
+          "1.63만 · 0.33x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,507억"
+          "1,499억"
         ],
         [
           "52주 고점대비",
-          "-34.47%",
+          "-33.41%",
           null
         ]
       ],
@@ -1144,13 +1144,9 @@
       "watch": [
         "OJK 규제 변화 및 PIKK 개정 동향",
         "RBC 비율 적정성 유지 여부",
-        "GWP 성장률 및 손해율 추이"
+        "GWP 성장 및 손해율 추이"
       ],
       "spark": [
-        {
-          "date": "5/14",
-          "close": 695.0
-        },
         {
           "date": "5/15",
           "close": 695.0
@@ -1398,11 +1394,15 @@
         {
           "date": "8/12",
           "close": 620.0
+        },
+        {
+          "date": "8/13",
+          "close": 630.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 8/12 종가 (WIB)",
+      "exchangeLine": "IDX · 8/13 종가 (WIB)",
       "sourceUrl": null,
       "sources": []
     }
