@@ -1,0 +1,146 @@
+{
+  "week_ref_mode": "last_week_close",
+  "fx_mode": "auto",
+  "fx": {
+    "KRW": 1.0,
+    "USD": 1385.0,
+    "IDR": 0.0855
+  },
+  "items": [
+    {
+      "id": "085660",
+      "name": "차바이오텍",
+      "ticker": "085660.KQ",
+      "market": "KOSDAQ",
+      "currency": "KRW",
+      "tag": "당사 투자",
+      "avg_cost": 12805,
+      "dart_code": "085660",
+      "keywords": [
+        "차바이오텍",
+        "마티카바이오",
+        "차바이오그룹",
+        "한화손보"
+      ],
+      "role": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
+      "watch_axes": [
+        "신규 공시 발생 여부",
+        "핵심기술(CGT/CDMO) 진척",
+        "유상증자·CB 등 자금조달 동향"
+      ],
+      "cardKpis": [
+        {
+          "label": "Matica 수주",
+          "value": "TBD"
+        },
+        {
+          "label": "추가 자금조달",
+          "value": "Watch"
+        }
+      ],
+      "purpose": "당사가 실제 자금을 투입한 보유 지분. 목적은 지분가치 보호·성장 추적이다. \"큰 그림\"은 사업가치를 근본적으로 바꾸는 변화(핵심기술 진척, 자금조달 성패, 지분구조 변동)이며, 단기 주가 반응이나 개별 계약 하나하나는 아니다."
+    },
+    {
+      "id": "025620",
+      "name": "차AI헬스케어",
+      "ticker": "025620.KS",
+      "market": "KOSPI",
+      "currency": "KRW",
+      "tag": "당사 투자",
+      "dart_code": "025620",
+      "keywords": [
+        "차AI헬스케어",
+        "제이준코스메틱",
+        "한화손보"
+      ],
+      "role": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
+      "watch_axes": [
+        "실적(매출·영업손익) 추이",
+        "사업확장(고객사·파트너십) 여부"
+      ],
+      "cardKpis": [
+        {
+          "label": "현금",
+          "value": "108.7억"
+        },
+        {
+          "label": "관계기업투자",
+          "value": "700.4억"
+        }
+      ],
+      "cardKpisAsOf": "2026 반기보고서 기준 (수동 입력값, 분기마다 갱신 필요)",
+      "purpose": "당사가 실제 자금을 투입한 보유 지분. 목적은 지분가치 보호·성장 추적이다. \"큰 그림\"은 사업모델 전환의 성패(헬스케어 전환, 수익성 개선, 자금조달)이며, 테마성 주가 등락이나 일회성 뉴스는 아니다."
+    },
+    {
+      "id": "LUMN",
+      "name": "루멘",
+      "ticker": "LMND",
+      "market": "NYSE",
+      "currency": "USD",
+      "tag": "벤치마크",
+      "sub": "(미국)",
+      "sec_cik": "1691421",
+      "keywords": [
+        "Lemonade insurance"
+      ],
+      "news_lang": "en",
+      "role": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
+      "hide_terms": [
+        "Lemonade, Inc.",
+        "Lemonade Inc.",
+        "Lemonade",
+        "LMND"
+      ],
+      "watch_axes": [
+        "투자 검토 관점의 밸류에이션 매력도",
+        "IFP·Loss Ratio 등 핵심 지표 추이",
+        "벤치마크 대비 당사 사업모델 시사점"
+      ],
+      "cardKpis": [
+        {
+          "label": "IFP 성장률",
+          "value": "TBD"
+        },
+        {
+          "label": "Loss Ratio",
+          "value": "TBD"
+        }
+      ],
+      "purpose": "당사가 아직 투자하지 않은 검토 대상. 목적은 신규 투자 여부 판단과 사업모델 벤치마킹이다. \"큰 그림\"은 투자 매력도를 바꾸는 변화(밸류에이션 급변, 핵심 지표의 구조적 개선/악화)이며, 일간 주가나 마케팅성 뉴스는 아니다."
+    },
+    {
+      "id": "LPGI",
+      "name": "Lippo General Insurance Tbk",
+      "ticker": "LPGI.JK",
+      "market": "IDX",
+      "currency": "IDR",
+      "tag": "자회사",
+      "sub": "(인도네시아)",
+      "keywords": [
+        "Lippo General Insurance",
+        "asuransi Lippo"
+      ],
+      "news_lang": "en",
+      "role": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
+      "avg_cost": 653.8,
+      "acq_fx": 0.085,
+      "acq_label": "23.3월",
+      "watch_axes": [
+        "OJK 규제 변화",
+        "자본적정성(RBC) 동향",
+        "PIKK 개정 관련 동향"
+      ],
+      "cardKpis": [
+        {
+          "label": "GWP YoY",
+          "value": "TBD"
+        },
+        {
+          "label": "Loss Ratio",
+          "value": "TBD"
+        }
+      ],
+      "purpose": "당사가 지분 61.5%를 보유한 연결 자회사(2025.12 지분 추가 인수로 관계사에서 자회사로 전환, 2026.1Q 재무제표 연결 편입 완료). 목적은 그룹 시너지와 자회사 경영 건전성 관리다. \"큰 그림\"은 그룹 차원의 의사결정이 필요한 변화(규제 리스크, 자본건전성 위협, 그룹 전략과의 정합성, 추가 지분 변동)이며, 통상적 실적 등락은 아니다."
+    }
+  ]
+}
