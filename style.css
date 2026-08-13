@@ -73,7 +73,13 @@ h2.mt{font-size:15px;font-weight:700;color:#101828;margin:26px 0 12px}
 .card-kpi span{font-size:11px;color:#667085;font-weight:500}
 
 /* ── 핵심 확인사항 카드 ── */
-.attention{background:#101828;border-radius:12px;padding:18px;color:#fff}
+.attention{background:#101828;border-radius:12px;padding:18px;color:#fff;margin-bottom:10px}
+.attention:last-child{margin-bottom:0}
+.attn-impact{margin-top:8px;font-size:11.5px;color:#F89B5C;font-weight:600;line-height:1.5}
+.attention .impact-badge{font-size:10px;vertical-align:middle}
+.attention .impact-high{color:#FDA29B}
+.attention .impact-mid{color:#FEC84B}
+.attention .impact-low{color:#6CE9A6}
 .attention.clickable{cursor:pointer}
 .attention small{font-size:10.5px;color:#98A2B3;font-weight:600;letter-spacing:.3px}
 .attention h3{font-size:16px;font-weight:700;margin-top:6px}

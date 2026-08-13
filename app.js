@@ -1,7 +1,7 @@
 // ── 폴백 샘플 데이터 (data/latest.json fetch 실패 시에만 사용) ──
 const FALLBACK = {
   updated: "-", fx: "",
-  attention: { company: "-", text: "데이터를 불러오는 중입니다.", url: null },
+  attentionItems: [{ company: "-", text: "데이터를 불러오는 중입니다.", impact: "", level: "low", url: null }],
   companies: [],
 };
 
@@ -172,23 +172,23 @@ function applyPayload() {
   document.getElementById('bCnt').textContent = payload.companies.filter(x => x.g === 'B').length;
   document.getElementById('cCnt').textContent = payload.companies.filter(x => x.g === 'C').length;
 
-  const attnBox = document.getElementById('attnBox');
-  const attnCompany = document.getElementById('attnCompany');
-  const attnText = document.getElementById('attnText');
-  const attnLink = document.getElementById('attnLink');
-  if (attnBox && attnCompany && attnText && payload.attention) {
-    attnCompany.textContent = payload.attention.company;
-    attnText.textContent = payload.attention.text;
-    const url = payload.attention.url;
-    if (url) {
-      attnBox.classList.add('clickable');
-      attnLink.style.display = 'block';
-      attnBox.onclick = () => openExternal(url);
-    } else {
-      attnBox.classList.remove('clickable');
-      attnLink.style.display = 'none';
-      attnBox.onclick = null;
-    }
+  const attnList = document.getElementById('attnList');
+  if (attnList && payload.attentionItems) {
+    attnList.innerHTML = payload.attentionItems.map((a, i) => {
+      const cls = GRADE_CLASS[{ high: 'A', mid: 'B', low: 'C' }[a.level]] || 'low';
+      const clickable = a.url ? ' clickable' : '';
+      return `<section class="attention${clickable}" data-idx="${i}">
+        <small>${i === 0 ? '금일 핵심' : '함께 볼 이슈'} · <span class="impact-badge impact-${cls}"><span class="impact-dot"></span>${GRADE_LABEL[{ high: 'A', mid: 'B', low: 'C' }[a.level]] || ''}</span></small>
+        <h3>${a.company}</h3>
+        <p>${a.text}</p>
+        ${a.impact ? `<div class="attn-impact">당사 영향 · ${a.impact}</div>` : ''}
+        ${a.url ? '<div class="attn-link">원문 보기 →</div>' : ''}
+      </section>`;
+    }).join('');
+    attnList.querySelectorAll('.attention.clickable').forEach(el => {
+      const item = payload.attentionItems[+el.dataset.idx];
+      el.onclick = () => openExternal(item.url);
+    });
   }
   render();
 }
