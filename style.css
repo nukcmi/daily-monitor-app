@@ -178,6 +178,7 @@ h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
 .legal p{font-size:10px;color:#5B6472;line-height:1.6;margin-bottom:6px}
 .legal p:last-child{margin-bottom:0}
 .legal-brand{font-size:11px;color:#8B94A3;font-weight:700;margin-top:10px}
+.legal-version{font-size:9px;color:#3D4552;margin-top:8px;font-family:monospace}
 
 /* ── 웹 접근 비밀번호 게이트 ── */
 .pw-gate{position:fixed;inset:0;z-index:999;display:none;align-items:center;justify-content:center;

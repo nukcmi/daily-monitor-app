@@ -6,6 +6,10 @@
 // 최소한의 장치이며, 실제 정보보호가 필요하면 별도 인증 서버가 필요하다.
 const WEB_PASSWORD = "hanwha2026";   // 필요 시 이 값만 바꾸면 된다
 
+// 배포 버전 표시 (하단 고지에 노출). 파일 올릴 때마다 갱신하면
+// "지금 보는 화면이 최신인지 캐시인지"를 화면에서 바로 확인할 수 있다.
+const APP_VERSION = "v1.0 · 2026-08-13";
+
 function initPasswordGate() {
   const insideTelegram = !!(window.Telegram?.WebApp?.initData);
   if (insideTelegram) return;
@@ -31,6 +35,10 @@ function initPasswordGate() {
   input.focus();
 }
 initPasswordGate();
+{
+  const v = document.getElementById('appVersion');
+  if (v) v.textContent = APP_VERSION;
+}
 
 // ── 종목 추가 요청 폼 ──
 // 이 요청은 저장되지 않는다. 제출하면 담당자(지호님) 텔레그램으로 바로
