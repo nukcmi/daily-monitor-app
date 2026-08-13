@@ -100,6 +100,8 @@ h2.mt{font-size:15px;font-weight:700;color:#101828;margin:26px 0 12px}
 .kpi{background:#F9FAFB;border-radius:10px;padding:10px 12px}
 .kpi span{font-size:10.5px;color:#98A2B3;display:block;margin-bottom:3px}
 .kpi b{font-size:14px;font-weight:700;color:#101828}
+.kpi b.val-up{color:#D92D20}
+.kpi b.val-down{color:#175CD3}
 .kpi-sub{font-size:10px;color:#98A2B3;margin-top:2px}
 .val-up{color:#D92D20}
 .val-down{color:#175CD3}

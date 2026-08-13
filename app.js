@@ -13,9 +13,9 @@ const GRADE_LABEL = { A: '높음', B: '중간', C: '낮음' };
 const GRADE_CLASS = { A: 'high', B: 'mid', C: 'low' };
 
 function signClass(v) {
-  if (typeof v !== 'string') return '';
+  if (typeof v !== 'string' || v === '-') return '';
   if (v.startsWith('+')) return 'val-up';
-  if (v.startsWith('-')) return 'val-down';
+  if (v.startsWith('-') && v.length > 1 && /\d/.test(v[1])) return 'val-down';
   return '';
 }
 
@@ -57,8 +57,6 @@ function render(f = 'ALL') {
         <div class="price-col"><span class="price-label">현재가</span><b>${x.priceText || '-'}</b></div>
         <div class="price-col right"><span class="price-label">일간 등락률</span><b class="${priceCls}">${(x.tags && x.tags[0]) || '-'}</b></div>
       </div>
-      <div class="card-divider"></div>
-      ${cardKpiRow(x)}
     </div>`;
   }).join('');
   document.querySelectorAll('.card').forEach(c => c.onclick = () => detail(c.dataset.id));
@@ -74,25 +72,42 @@ function drawChart(spark, avgCost) {
     return;
   }
   if (chartInst) { chartInst.destroy(); chartInst = null; }
-  const up = spark[spark.length - 1] >= spark[0];
-  const color = up ? '#b42318' : '#175cd3';
+  const closes = spark.map(p => p.close);
+  const labels = spark.map(p => p.date);
+  const up = closes[closes.length - 1] >= closes[0];
+  const color = up ? '#D92D20' : '#175CD3';
   const datasets = [{
-    data: spark, borderColor: color, borderWidth: 1.6, pointRadius: 0, fill: true,
-    backgroundColor: up ? 'rgba(180,35,24,.07)' : 'rgba(23,92,211,.07)', tension: 0.15,
+    data: closes, borderColor: color, borderWidth: 1.6, pointRadius: 0, fill: true,
+    backgroundColor: up ? 'rgba(217,45,32,.07)' : 'rgba(23,92,211,.07)', tension: 0.15,
   }];
   if (avgCost) {
     datasets.push({
-      data: spark.map(() => avgCost), borderColor: '#98a2b3', borderWidth: 1,
+      data: closes.map(() => avgCost), borderColor: '#98A2B3', borderWidth: 1,
       borderDash: [4, 3], pointRadius: 0, fill: false,
     });
   }
+  // X축: 약 5개 눈금만 골라 표시 (매일 찍으면 겹쳐서 안 보임)
+  const tickStep = Math.max(1, Math.round(labels.length / 5));
   chartInst = new Chart(canvas.getContext('2d'), {
     type: 'line',
-    data: { labels: spark.map((_, i) => i), datasets },
+    data: { labels, datasets },
     options: {
       responsive: true, maintainAspectRatio: false, animation: false,
       plugins: { legend: { display: false }, tooltip: { enabled: false } },
-      scales: { x: { display: false }, y: { display: false } },
+      scales: {
+        x: {
+          display: true, grid: { display: false },
+          ticks: {
+            color: '#98A2B3', font: { size: 9 }, maxRotation: 0,
+            callback: (val, i) => (i % tickStep === 0 ? labels[i] : ''),
+          },
+        },
+        y: {
+          display: true, position: 'right',
+          grid: { color: '#EEF1F4' },
+          ticks: { color: '#98A2B3', font: { size: 9 }, maxTicksLimit: 4 },
+        },
+      },
     },
   });
 }
