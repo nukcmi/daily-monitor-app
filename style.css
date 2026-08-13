@@ -47,39 +47,67 @@ h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
 .impact-low{color:#12B76A}
 .impact-low .impact-dot{background:#12B76A}
 
-/* ── 종목 현황: 구글 파이낸스 스타일 다크 워치리스트 테이블 ── */
+/* ── 종목 현황: 구글 파이낸스 스타일 다크 워치리스트 테이블 (PC/태블릿) ── */
 .wl-wrap{background:#12151C;border:1px solid rgba(255,255,255,.07);border-radius:12px;overflow-x:auto}
-.wl-table{width:100%;border-collapse:collapse;font-size:12.5px;white-space:nowrap}
+.wl-table{width:100%;border-collapse:collapse;font-size:12.5px;white-space:nowrap;table-layout:fixed}
 .wl-table thead th{text-align:right;font-size:10.5px;font-weight:600;color:#7B8494;
-                   padding:12px 14px;border-bottom:1px solid rgba(255,255,255,.07)}
+                   padding:12px 16px;border-bottom:1px solid rgba(255,255,255,.07)}
 .wl-table thead th.wl-code,.wl-table thead th.wl-spark{text-align:left}
+.wl-table th:nth-child(1){width:20%}
+.wl-table th:nth-child(2){width:12%}
+.wl-table th:nth-child(n+3){width:9.71%}
 .wl-row{cursor:pointer;border-bottom:1px solid rgba(255,255,255,.05)}
 .wl-row:hover,.wl-row:active{background:rgba(255,255,255,.03)}
 .wl-sub-row{border-bottom:1px solid rgba(255,255,255,.05)}
 .wl-sub-row:hover,.wl-sub-row:active{background:rgba(255,255,255,.03)}
-.wl-table td{padding:11px 14px;vertical-align:middle}
+.wl-table td{padding:11px 16px;vertical-align:middle}
 .wl-code{min-width:150px}
 .wl-code-top{display:flex;align-items:center;gap:8px;font-weight:700;color:#FFFFFF;font-size:13px}
 .wl-name{font-size:11px;color:#7B8494;margin-top:2px}
 .wl-sub{color:#4E5867}
 .wl-spark{padding-top:6px;padding-bottom:6px}
-.mini-spark{display:block}
+.mini-spark{display:block;width:100%;height:36px}
 .wl-num{text-align:right;font-variant-numeric:tabular-nums;color:#E7E9ED;font-weight:600}
 .wl-mut{color:#7B8494;font-weight:400}
 .wl-price{font-weight:800;color:#fff}
 .wl-num.val-up{color:#F0616D}
 .wl-num.val-down{color:#6FA8F5}
 .wl-code .impact-badge{font-size:9.5px}
-.wl-info{padding:2px 14px 12px;font-size:11px;color:#8B94A3;line-height:1.6}
+.wl-info{padding:2px 16px 12px;font-size:11px;color:#8B94A3;line-height:1.6}
 .wl-info b{color:#C4C9D2;font-weight:600}
 .wl-info .val-up{color:#F0616D;font-weight:700}
 .wl-info .val-down{color:#6FA8F5;font-weight:700}
 
-/* 좁은 화면: 보조 컬럼(시가/고가/저가) 숨겨서 스크롤 최소화 */
-@media (max-width:760px){
-  .wl-table th:nth-child(7),.wl-table td:nth-child(7),
-  .wl-table th:nth-child(8),.wl-table td:nth-child(8),
-  .wl-table th:nth-child(9),.wl-table td:nth-child(9){display:none}
+/* ── 종목 현황: 모바일 전용 카드 (좌우 스크롤 없이 세로로만) ── */
+.mc-list{display:none}
+.mc-card{background:#12151C;border:1px solid rgba(255,255,255,.07);border-radius:12px;
+         padding:16px;margin-bottom:12px;cursor:pointer}
+.mc-card:last-child{margin-bottom:0}
+.mc-card:active{background:#171B21}
+.mc-top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px}
+.mc-code{display:flex;align-items:center;gap:8px;font-weight:700;color:#FFFFFF;font-size:14px}
+.mc-name{font-size:11.5px;color:#7B8494;margin-top:3px}
+.mc-price-block{text-align:right;flex-shrink:0}
+.mc-price{font-size:16px;font-weight:800;color:#fff}
+.mc-change{font-size:11px;font-weight:700;margin-top:2px;white-space:nowrap}
+.mc-change.val-up{color:#F0616D}
+.mc-change.val-down{color:#6FA8F5}
+.mc-spark{width:100%;height:50px;margin-top:12px}
+.mc-spark .mini-spark{width:100%;height:100%}
+.mc-event{font-size:12px;color:#C4C9D2;margin-top:10px;line-height:1.5}
+.mc-info{font-size:10.5px;color:#8B94A3;margin-top:10px;line-height:1.6}
+.mc-info b{color:#C4C9D2;font-weight:600}
+.mc-info .val-up{color:#F0616D;font-weight:700}
+.mc-info .val-down{color:#6FA8F5;font-weight:700}
+.mc-row{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:12px;
+        padding-top:12px;border-top:1px solid rgba(255,255,255,.06)}
+.mc-cell span{display:block;font-size:9.5px;color:#7B8494;margin-bottom:3px}
+.mc-cell b{font-size:11.5px;font-weight:700;color:#E7E9ED}
+
+/* 스마트폰: 테이블 대신 카드로만 표시 (좌우 스크롤 제거). 웹/PC는 기존 테이블 유지 */
+@media (max-width:600px){
+  .wl-wrap{display:none}
+  .mc-list{display:block}
 }
 
 /* ── 핵심 확인사항 카드 ── */

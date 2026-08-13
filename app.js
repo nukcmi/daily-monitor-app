@@ -8,7 +8,7 @@ const WEB_PASSWORD = "hanwha2026";   // 필요 시 이 값만 바꾸면 된다
 
 // 배포 버전 표시 (하단 고지에 노출). 파일 올릴 때마다 갱신하면
 // "지금 보는 화면이 최신인지 캐시인지"를 화면에서 바로 확인할 수 있다.
-const APP_VERSION = "v1.0 · 2026-08-13";
+const APP_VERSION = "v1.1 · 2026-08-13";
 
 function initPasswordGate() {
   const insideTelegram = !!(window.Telegram?.WebApp?.initData);
@@ -198,6 +198,40 @@ function render(f = 'ALL') {
     </tr>`;
   }).join('');
 
+  // 모바일 전용 카드 — 좌우 스크롤 없이 세로로만 모든 정보 확인 가능
+  const cards = arr.map(x => {
+    const priceCls = signClass(x.tags && x.tags[0]);
+    const up = priceCls !== 'val-down';
+    const kpiMap = {};
+    (x.kpis || []).forEach(([label, value]) => { kpiMap[label] = value; });
+    return `
+    <div class="mc-card" data-id="${x.id}">
+      <div class="mc-top">
+        <div class="mc-id">
+          <div class="mc-code">${x.id}${impactBadge(x.g)}</div>
+          <div class="mc-name">${x.name}${x.ticker && x.ticker !== x.id ? ` <span class="wl-sub">${x.ticker}</span>` : ''}</div>
+        </div>
+        <div class="mc-price-block">
+          <div class="mc-price">${x.priceText || '-'}</div>
+          <div class="mc-change ${priceCls}">${x.changeText || ''} ${(x.tags && x.tags[0]) || ''}</div>
+        </div>
+      </div>
+      <div class="mc-spark">${miniSpark(x.spark, up, x.avgCost, 320, 60)}</div>
+      <div class="mc-event">${x.event}</div>
+      <div class="mc-info">
+        취득가대비 <b class="${signClass(kpiMap['취득가대비'])}">${kpiMap['취득가대비'] || '-'}</b> &nbsp;·&nbsp;
+        시가총액 <b>${kpiMap['시가총액'] || '-'}</b> &nbsp;·&nbsp;
+        52주 고점대비 <b class="${signClass(kpiMap['52주 고점대비'])}">${kpiMap['52주 고점대비'] || '-'}</b>
+      </div>
+      <div class="mc-row">
+        <div class="mc-cell"><span>전일종가</span><b>${x.prevCloseText || '-'}</b></div>
+        <div class="mc-cell"><span>시가</span><b>${x.openText || '-'}</b></div>
+        <div class="mc-cell"><span>고가</span><b>${x.highText || '-'}</b></div>
+        <div class="mc-cell"><span>저가</span><b>${x.lowText || '-'}</b></div>
+      </div>
+    </div>`;
+  }).join('');
+
   list.innerHTML = `
   <div class="wl-wrap">
     <table class="wl-table">
@@ -214,8 +248,9 @@ function render(f = 'ALL') {
       </tr></thead>
       <tbody>${rows}</tbody>
     </table>
-  </div>`;
-  document.querySelectorAll('.wl-row, .wl-sub-row').forEach(c => c.onclick = () => detail(c.dataset.id));
+  </div>
+  <div class="mc-list">${cards}</div>`;
+  document.querySelectorAll('.wl-row, .wl-sub-row, .mc-card').forEach(c => c.onclick = () => detail(c.dataset.id));
 }
 
 function drawChart(spark, avgCost) {
