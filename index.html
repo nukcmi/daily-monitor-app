@@ -11,17 +11,24 @@
 <body>
 <div id="pwGate" class="pw-gate">
   <div class="pw-box">
+    <div class="pw-mark">한화손해보험</div>
     <h3>Strategic Intelligence</h3>
-    <p>사내 전용 페이지입니다. 접근 비밀번호를 입력하세요.</p>
+    <p class="pw-sub">비밀번호를 입력하세요</p>
     <input id="pwInput" type="password" placeholder="비밀번호" autocomplete="off">
     <button id="pwSubmit">확인</button>
     <div id="pwError" class="pw-error" style="display:none">비밀번호가 올바르지 않습니다</div>
+    <div class="pw-copyright">Copyright © Hanwha Insurance</div>
   </div>
 </div>
 <div class="app">
 <header class="brand">
-  <div class="brand-name">Strategic Intelligence</div>
-  <div class="brand-sub">Powered by AI</div>
+  <div class="brand-top">
+    <div>
+      <div class="brand-name">Strategic Intelligence</div>
+      <div class="brand-sub">Powered by AI</div>
+    </div>
+    <button id="addReqBtn" class="add-req-btn">+ 종목 추가 요청</button>
+  </div>
   <div class="brand-updated" id="updatedLine">Updated · -</div>
 </header>
 
@@ -55,6 +62,8 @@
   <p>본 정보는 한화손해보험 내부 참고용이며, 외부 유출 및 무단 공유를 금지합니다.</p>
   <p>본 서비스는 로그인 및 개인정보를 수집하지 않으며, 표시되는 데이터는 공개된 시세·공시·기사를 AI로 요약한 참고 자료입니다.</p>
   <p>본 정보는 투자 판단의 참고 자료일 뿐이며, 투자 권유 또는 자문을 목적으로 하지 않습니다.</p>
+  <p class="legal-brand">Hanwha Insurance</p>
+  <p>© 2026 Hanwha Insurance. All rights reserved.</p>
 </footer>
 </div>
 
@@ -63,6 +72,64 @@
     <div class="handle"></div>
     <button id="close">닫기</button>
     <div id="detail"></div>
+  </div>
+</div>
+
+<div id="reqBackdrop" class="req-backdrop">
+  <div id="reqSheet" class="req-sheet">
+    <div class="handle"></div>
+    <button id="reqClose" class="req-close">닫기</button>
+    <h3 class="req-title">종목 추가 요청</h3>
+    <p class="req-desc">입력하신 내용은 전략팀 담당자에게 텔레그램으로 전달됩니다. 실제 반영은 담당자 확인 후 이뤄집니다.</p>
+
+    <form id="reqForm">
+      <label>회사명 <span class="req-star">*</span></label>
+      <input type="text" id="rf_name" required placeholder="예: OO바이오">
+
+      <label>티커 / 종목코드</label>
+      <input type="text" id="rf_ticker" placeholder="예: 085660 또는 AAPL">
+
+      <label>거래소</label>
+      <select id="rf_market">
+        <option value="KRX">KRX (코스피)</option>
+        <option value="KOSDAQ">KOSDAQ</option>
+        <option value="NYSE">NYSE</option>
+        <option value="NASDAQ">NASDAQ</option>
+        <option value="IDX">IDX (인도네시아)</option>
+        <option value="기타">기타</option>
+      </select>
+
+      <label>구분 <span class="req-star">*</span></label>
+      <select id="rf_tag" required>
+        <option value="">선택하세요</option>
+        <option value="당사 투자">당사 투자 (실제 지분 보유)</option>
+        <option value="자회사">자회사</option>
+        <option value="벤치마크">벤치마크 (투자 검토용)</option>
+        <option value="관심종목">관심종목</option>
+      </select>
+
+      <div id="rf_costFields">
+        <label>취득가</label>
+        <div class="req-row">
+          <input type="text" id="rf_avgCost" placeholder="예: 12805">
+          <select id="rf_currency">
+            <option value="KRW">KRW</option>
+            <option value="USD">USD</option>
+            <option value="IDR">IDR</option>
+          </select>
+        </div>
+        <label>취득 시기</label>
+        <input type="text" id="rf_acqLabel" placeholder="예: 26.3월">
+      </div>
+
+      <label>추가 이유 / 모니터링 포인트</label>
+      <textarea id="rf_comment" rows="3" placeholder="왜 이 종목을 추가하고 싶은지, 무엇을 지켜봐야 하는지 간단히 적어주세요"></textarea>
+
+      <label>요청자 <span class="req-star">*</span></label>
+      <input type="text" id="rf_requester" required placeholder="이름 또는 팀">
+
+      <button type="submit" class="req-submit">요청 보내기</button>
+    </form>
   </div>
 </div>
 

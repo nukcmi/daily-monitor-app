@@ -32,6 +32,63 @@ function initPasswordGate() {
 }
 initPasswordGate();
 
+// ── 종목 추가 요청 폼 ──
+// 이 요청은 저장되지 않는다. 제출하면 담당자(지호님) 텔레그램으로 바로
+// 메시지 창이 열리고, 보내는 사람이 "전송"을 눌러야 실제로 전달된다.
+// 실제 config 반영은 담당자가 수동으로 처리한다 (승인 큐/DB 없음).
+const ADMIN_TG_USERNAME = "nukcmi";
+
+function initRequestForm() {
+  const openBtn = document.getElementById('addReqBtn');
+  const backdrop = document.getElementById('reqBackdrop');
+  const closeBtn = document.getElementById('reqClose');
+  const tagSelect = document.getElementById('rf_tag');
+  const costFields = document.getElementById('rf_costFields');
+  const form = document.getElementById('reqForm');
+  if (!openBtn) return;
+
+  const toggleCostFields = () => {
+    const needsCost = ['당사 투자', '자회사'].includes(tagSelect.value);
+    costFields.style.display = needsCost ? 'block' : 'none';
+  };
+  tagSelect.onchange = toggleCostFields;
+  toggleCostFields();
+
+  openBtn.onclick = () => backdrop.classList.add('open');
+  closeBtn.onclick = () => backdrop.classList.remove('open');
+
+  form.onsubmit = (e) => {
+    e.preventDefault();
+    const val = (id) => document.getElementById(id).value.trim();
+    const name = val('rf_name');
+    const tag = val('rf_tag');
+    const requester = val('rf_requester');
+    if (!name || !tag || !requester) return;
+
+    const lines = [
+      '[종목 추가 요청]',
+      `회사명: ${name}`,
+      val('rf_ticker') ? `티커: ${val('rf_ticker')} (${val('rf_market')})` : `거래소: ${val('rf_market')}`,
+      `구분: ${tag}`,
+    ];
+    if (['당사 투자', '자회사'].includes(tag)) {
+      if (val('rf_avgCost')) lines.push(`취득가: ${val('rf_avgCost')} ${val('rf_currency')}`);
+      if (val('rf_acqLabel')) lines.push(`취득 시기: ${val('rf_acqLabel')}`);
+    }
+    if (val('rf_comment')) lines.push(`추가 이유: ${val('rf_comment')}`);
+    lines.push(`요청자: ${requester}`);
+
+    const text = encodeURIComponent(lines.join('\n'));
+    const url = `https://t.me/${ADMIN_TG_USERNAME}?text=${text}`;
+    openExternal(url);
+    backdrop.classList.remove('open');
+    form.reset();
+    toggleCostFields();
+  };
+}
+
+// ── 종목 추가 요청 폼 끝 ──
+
 // ── 폴백 샘플 데이터 (data/latest.json fetch 실패 시에만 사용) ──
 const FALLBACK = {
   updated: "-", fx: "",
@@ -238,4 +295,5 @@ async function load() {
 }
 
 if (window.Telegram?.WebApp) { Telegram.WebApp.ready(); Telegram.WebApp.expand(); }
+initRequestForm();
 load();
