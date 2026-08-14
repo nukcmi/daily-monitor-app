@@ -1,21 +1,21 @@
 {
   "asOf": "2026-08-14",
-  "updated": "2026-08-14 16:19",
-  "fx": "환율 2026-08-14 · 시장환율   1 USD = ₩1,417.48   |   1 USD = 17,820.00 IDR   |   1 IDR = ₩0.07954",
+  "updated": "2026-08-14 16:27",
+  "fx": "환율 2026-08-14 · 시장환율   1 USD = ₩1,417.07   |   1 USD = 17,820.00 IDR   |   1 IDR = ₩0.07952",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "차병원·차바이오그룹과 한화손보가 의료·바이오-보험 분야 협력 관계를 공식화",
-      "impact": "당사 보유 지분 발행사와 사업 협력이 가시화되어 지분 시너지 실현 가능성 상승",
+      "text": "차병원·차바이오그룹과 한화손보 간 의료·바이오-보험 협력 발표",
+      "impact": "당사 보유 지분 투자가 실질 사업 협력으로 연결되는 첫 공식 신호. 시너지 구체화 여부에 따라 지분가치 재평가 가능",
       "level": "high",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001660"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJbWhWRHg1Sk9WdGpYS0NRWTFuR1lZSjRvSW52QUl5RXZCd3JkU1A4REV6cUc4TjJhYzV3N2M4ZTJBLW5yeWJ6clBDbkx2c3czaXN4d2liOXdyaU11cjdQNTdvM2JGQnph?oc=5"
     },
     {
       "company": "차바이오텍",
-      "text": "반기보고서(2026.06) 제출로 CGT/CDMO 사업 실적 및 재무 현황 확인 가능",
-      "impact": "CGT/CDMO 매출 진척 및 자금조달 잔액 등 핵심 지분가치 판단 지표 점검 필요",
-      "level": "mid",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001660"
+      "text": "차바이오그룹 연구소장이 한화손보 임직원 대상으로 K-Cell 특별강연 진행",
+      "impact": "당사 내부의 CGT 분야 이해도 제고로, 향후 협력 사업 설계 및 지분 가치 판단 역량 강화에 기여",
+      "level": "high",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJbWhWRHg1Sk9WdGpYS0NRWTFuR1lZSjRvSW52QUl5RXZCd3JkU1A4REV6cUc4TjJhYzV3N2M4ZTJBLW5yeWJ6clBDbkx2c3czaXN4d2liOXdyaU11cjdQNTdvM2JGQnph?oc=5"
     }
   ],
   "companies": [
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "한화손보와 협력 관계 가시화",
+      "event": "한화손보와 사업 협력 공식화",
       "tags": [
         "+0.42%",
         "당사 투자"
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "반기보고서 공시 및 한화손보와의 협력 공식화로 투자자 관점 사업 시너지 현실화 신호",
-        "CGT/CDMO 진척·자금조달 관련 추가 공시는 미확인, 실질 사업가치 변화 여부는 반기보고서 검토 필요"
+        "의료·바이오-보험 협력 발표는 단순 홍보를 넘어 지분 투자 관계가 실질 사업 시너지로 전환되는 신호",
+        "CGT/CDMO 사업 진척이나 자금조달 관련 공시는 이번 기간 없어 사업가치 변동 요인은 제한적"
       ],
       "watch": [
-        "반기보고서 내 CGT/CDMO 매출·수주 현황",
-        "CB 등 자금조달 계획 및 잔여 상환 재원",
-        "한화손보 협력의 구체적 계약·MOU 공시 여부"
+        "의료·바이오-보험 협력의 구체적 계약·MOU 체결 여부",
+        "CGT/CDMO 임상·수주 진척 공시 발생 여부",
+        "유상증자·CB 등 자금조달 공시 여부"
       ],
       "spark": [
         {
@@ -354,14 +354,8 @@
       "avgCost": 12805,
       "currency": "KRW",
       "exchangeLine": "KRX · 8/14 종가",
-      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001660",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJbWhWRHg1Sk9WdGpYS0NRWTFuR1lZSjRvSW52QUl5RXZCd3JkU1A4REV6cUc4TjJhYzV3N2M4ZTJBLW5yeWJ6clBDbkx2c3czaXN4d2liOXdyaU11cjdQNTdvM2JGQnph?oc=5",
       "sources": [
-        {
-          "title": "반기보고서 (2026.06)",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001660",
-          "source": "DART",
-          "date": "20260813"
-        },
         {
           "title": "차병원·차바이오–한화손보, 의료·바이오-보험 협력",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJbWhWRHg1Sk9WdGpYS0NRWTFuR1lZSjRvSW52QUl5RXZCd3JkU1A4REV6cUc4TjJhYzV3N2M4ZTJBLW5yeWJ6clBDbkx2c3czaXN4d2liOXdyaU11cjdQNTdvM2JGQnph?oc=5",
@@ -379,6 +373,12 @@
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vc3NyLUpPUVF0cmQxaXlxV2Y0SjFtekkzdTVaVWFjckgtWVFkWWRLTHM4Q3c3VVZuTkJIbUZzbWluRFdTeXc?oc=5",
           "source": "v.daum.net",
           "date": "08/13"
+        },
+        {
+          "title": "차광렬 차바이오 연구소장, 한화손보서 K-Cell 특별강연",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CTzZuLW9vZVZEdlIyV1pxLXhhcGhGaFBKR0xJeGk2eHR4X18wZ2tVcDN5azFIeDRJbnBuN1RPcl9Pd2FoSko1MHZfQm9DQXJ5SF93MnVQWS1UbFlmZHBtN09HNEI?oc=5",
+          "source": "서울경제TV",
+          "date": "08/13"
         }
       ]
     },
@@ -386,8 +386,8 @@
       "id": "025620",
       "name": "차AI헬스케어",
       "ticker": "025620",
-      "g": "B",
-      "event": "주요주주 지분 변동 공시",
+      "g": "C",
+      "event": "주요 변동 없음",
       "tags": [
         "+0.79%",
         "당사 투자"
@@ -452,13 +452,12 @@
         }
       ],
       "events": [
-        "단기간 내 복수의 주요주주 지분변동 보고서 제출은 지분구조 변화 가능성을 시사, 경영 안정성 모니터링 필요",
-        "반기보고서 공시로 매출·손익 추이 확인 가능, 사업모델 전환 성과 점검 시점"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "반기 매출·영업손익 개선 여부",
-        "주요주주 지분 변동의 방향(매수/매도) 및 규모",
-        "헬스케어 신규 고객사·파트너십 공시 여부"
+        "반기 매출·영업손익 실적 발표 내용",
+        "헬스케어 전환 관련 신규 고객사·파트너십 공시",
+        "추가 자금조달 또는 유동성 관련 공시 여부"
       ],
       "spark": [
         {
@@ -717,33 +716,8 @@
       "avgCost": null,
       "currency": "KRW",
       "exchangeLine": "KRX · 8/14 종가",
-      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002431",
-      "sources": [
-        {
-          "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002431",
-          "source": "DART",
-          "date": "20260814"
-        },
-        {
-          "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002313",
-          "source": "DART",
-          "date": "20260814"
-        },
-        {
-          "title": "주식등의대량보유상황보고서(일반)",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002230",
-          "source": "DART",
-          "date": "20260814"
-        },
-        {
-          "title": "반기보고서 (2026.06)",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260812000798",
-          "source": "DART",
-          "date": "20260812"
-        }
-      ]
+      "sourceUrl": null,
+      "sources": []
     },
     {
       "id": "LUMN",
@@ -766,7 +740,7 @@
         [
           "종가",
           "$52.98",
-          "₩75,098"
+          "₩75,076"
         ],
         [
           "취득가",
@@ -790,7 +764,7 @@
         ],
         [
           "거래량(20일比)",
-          "94.39만 · 0.57x",
+          "94.39만 · 0.58x",
           null
         ],
         [
@@ -818,15 +792,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "IFP 성장률 분기 추이 확인",
-        "Loss Ratio 구조적 개선 여부",
-        "EBITDA 흑자전환 시점 가이던스"
+        "분기 IFP 성장률 및 Loss Ratio 공시 발표",
+        "EBITDA 흑자전환 시점 관련 가이던스 업데이트",
+        "밸류에이션 급변을 유발할 구조적 사업 변화 여부"
       ],
       "spark": [
-        {
-          "date": "5/13",
-          "close": 52.87
-        },
         {
           "date": "5/14",
           "close": 53.78
@@ -1008,6 +978,10 @@
           "close": 67.45
         },
         {
+          "date": "7/21",
+          "close": 68.62
+        },
+        {
           "date": "7/22",
           "close": 63.42
         },
@@ -1162,9 +1136,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 신규 규제 변화 여부",
-        "RBC 비율 분기 업데이트",
-        "PIKK 개정 관련 현지 입법 진행 상황"
+        "OJK 신규 규제 발표 및 PIKK 개정 동향",
+        "분기 RBC 비율 및 자본적정성 지표 공시",
+        "GWP 성장률 및 손해율 실적 발표"
       ],
       "spark": [
         {
