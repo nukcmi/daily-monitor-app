@@ -1,19 +1,19 @@
 {
   "asOf": "2026-08-14",
-  "updated": "2026-08-14 10:49",
-  "fx": "환율 2026-08-13 · 시장환율   1 USD = ₩1,413.28   |   1 USD = 17,853.00 IDR   |   1 IDR = ₩0.07916",
+  "updated": "2026-08-14 15:09",
+  "fx": "환율 2026-08-14 · 시장환율   1 USD = ₩1,414.18   |   1 USD = 17,833.00 IDR   |   1 IDR = ₩0.07930",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "차바이오그룹과 한화손보가 의료·바이오와 금융·보험을 연계한 헬스케어 협력을 발표했다.",
-      "impact": "당사 보유 지분 기업과의 사업 시너지가 협력 형태로 실현되는 단계로 진입, 지분가치 외 전략적 가치 부각.",
+      "text": "차병원·차바이오그룹과 한화손보 간 의료·바이오-보험 협력 추진이 공식 보도됨",
+      "impact": "당사 보유 지분 투자처와의 사업 시너지가 외부에 공식화되며 협력 구체화 가능성 부각",
       "level": "high",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001660"
     },
     {
       "company": "차바이오텍 · 차AI헬스케어",
-      "text": "2026년 상반기 반기보고서가 DART에 공시됐다.",
-      "impact": "CGT/CDMO 사업 진척도 및 자금조달 구조를 공식 수치로 확인할 수 있는 시점, 지분가치 평가 업데이트 필요.",
+      "text": "반기보고서(2026.06) 공시됨",
+      "impact": "CGT/CDMO 사업 매출·수주 실적 및 현금 유동성 등 지분가치 점검 기초 자료 확보",
       "level": "mid",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001660"
     }
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "한화손보 협력 가시화, 반기보고서 공시",
+      "event": "한화손보 협력 공식화, 반기보고서 주목",
       "tags": [
         "-1.86%",
         "당사 투자"
@@ -69,7 +69,7 @@
         ],
         [
           "시가총액",
-          "8,758억",
+          "8,832억",
           null
         ],
         [
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "차바이오그룹-한화손보 간 헬스케어 협력이 강연·MOU 형태로 가시화되어, 지분 투자 이상의 사업 시너지로 발전할 가능성 확인",
-        "반기보고서 공시로 CGT/CDMO 사업 진척 및 자금조달 현황 점검 필요"
+        "의료·바이오-보험 협력 공식화는 단순 홍보를 넘어 당사 지분투자의 사업 시너지가 가시화되는 신호",
+        "반기보고서 공시로 CGT/CDMO 사업 진척 및 재무 건전성 실질 점검이 가능해진 시점"
       ],
       "watch": [
-        "반기보고서상 CGT/CDMO 매출 및 수주 현황",
-        "유상증자·CB 등 자금조달 계획 여부",
-        "한화손보 협력의 구체적 사업화 일정"
+        "반기보고서상 CGT/CDMO 매출·수주 현황",
+        "반기 기준 현금성 자산 및 추가 자금조달 계획",
+        "협력 MOU 등 후속 공식 계약 체결 여부"
       ],
       "spark": [
         {
@@ -363,21 +363,21 @@
           "date": "20260813"
         },
         {
-          "title": "차바이오그룹·한화손보, 의료·바이오와 금융·보험 연계 헬스케어 협력",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCelN5allMMUZhU0hSWElXai1fSG9rN3ZmUS1RV2Y5ejJyQzBXXy1lYXBKRzd6MjNEajIyeFdlSVVUQzF3ZzZ4TnB6VnZhWE54NEJjR2l0bEdkUjJVVWdKZXhSM0FnTFh4NkE?oc=5",
-          "source": "의학신문",
+          "title": "차병원·차바이오–한화손보, 의료·바이오-보험 협력",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJbWhWRHg1Sk9WdGpYS0NRWTFuR1lZSjRvSW52QUl5RXZCd3JkU1A4REV6cUc4TjJhYzV3N2M4ZTJBLW5yeWJ6clBDbkx2c3czaXN4d2liOXdyaU11cjdQNTdvM2JGQnph?oc=5",
+          "source": "데일리메디",
+          "date": "08/14"
+        },
+        {
+          "title": "차광렬 차병원·차바이오그룹 연구소장, 한화손보 임직원 대상 특별강연",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xMHM1blFnU0dBU1BvOFo2elZ6Rm1USW0zT2g3RVhxenZPWEkxdjNUV0pLeXFDbV9meW91Y05UWUR4VnV3bEVXak5EY1F3LThfckRzUzV3Y2t3dkp1VVhkY09n?oc=5",
+          "source": "아시아경제",
           "date": "08/13"
         },
         {
           "title": "차광렬 차바이오 연구소장, 한화손보서 K-Cell 특별강연",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CTzZuLW9vZVZEdlIyV1pxLXhhcGhGaFBKR0xJeGk2eHR4X18wZ2tVcDN5azFIeDRJbnBuN1RPcl9Pd2FoSko1MHZfQm9DQXJ5SF93MnVQWS1UbFlmZHBtN09HNEI?oc=5",
           "source": "서울경제TV",
-          "date": "08/13"
-        },
-        {
-          "title": "차광렬 차병원·차바이오그룹 연구소장, 한화손보 임직원 대상 특별강연",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xMHM1blFnU0dBU1BvOFo2elZ6Rm1USW0zT2g3RVhxenZPWEkxdjNUV0pLeXFDbV9meW91Y05UWUR4VnV3bEVXak5EY1F3LThfckRzUzV3Y2t3dkp1VVhkY09n?oc=5",
-          "source": "아시아경제",
           "date": "08/13"
         }
       ]
@@ -387,7 +387,7 @@
       "name": "차AI헬스케어",
       "ticker": "025620",
       "g": "B",
-      "event": "반기보고서 공시, 실적 점검 필요",
+      "event": "반기보고서 공시, 사업전환 진행 점검",
       "tags": [
         "-0.79%",
         "당사 투자"
@@ -432,7 +432,7 @@
         ],
         [
           "시가총액",
-          "937억",
+          "919억",
           null
         ],
         [
@@ -452,13 +452,13 @@
         }
       ],
       "events": [
-        "반기보고서 공시로 헬스케어 전환 과정의 매출·손익 흐름 점검이 가능해진 시점",
-        "공시 외 사업 확장 관련 기사·계약 뉴스 없어 외부 모멘텀 확인 불가"
+        "반기보고서로 헬스케어 전환 성패를 가늠할 실질 지표(매출·영업손익) 확인 가능",
+        "추가 공시·파트너십 뉴스 부재로 사업확장 모멘텀은 미확인 상태"
       ],
       "watch": [
-        "반기보고서상 매출·영업손익 추이",
-        "헬스케어 부문 고객사·파트너십 신규 체결 여부",
-        "운전자본 및 자금소요 현황"
+        "반기 매출·영업손익 개선 추이",
+        "헬스케어 신규 고객사·파트너십 계약 여부",
+        "추가 자금조달 또는 CB 관련 공시 발생 여부"
       ],
       "spark": [
         {
@@ -739,7 +739,7 @@
       ],
       "priceText": "$52.98",
       "openText": "$52.41",
-      "highText": "$53.57",
+      "highText": "$53.58",
       "lowText": "$51.64",
       "prevCloseText": "$51.64",
       "changeText": "+$1.34",
@@ -748,7 +748,7 @@
         [
           "종가",
           "$52.98",
-          "₩74,876"
+          "₩74,923"
         ],
         [
           "취득가",
@@ -772,7 +772,7 @@
         ],
         [
           "거래량(20일比)",
-          "94.14만 · 0.58x",
+          "94.39만 · 0.58x",
           null
         ],
         [
@@ -800,9 +800,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "IFP 성장률 분기 추이",
-        "Loss Ratio 구조적 개선 여부",
-        "EBITDA 흑자전환 시점 가이던스"
+        "IFP 성장률 분기 공시 발표 시점",
+        "Loss Ratio 구조적 개선 여부 확인",
+        "EBITDA 흑자전환 가이던스 변경 여부"
       ],
       "spark": [
         {
@@ -1092,7 +1092,7 @@
         [
           "종가",
           "Rp630",
-          "₩49.9"
+          "₩50.0"
         ],
         [
           "취득가",
@@ -1122,7 +1122,7 @@
         [
           "시가총액",
           "Rp1.9조",
-          "1,496억"
+          "1,511억"
         ],
         [
           "52주 고점대비",
@@ -1144,9 +1144,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 및 신규 지침 발표 여부",
-        "RBC 비율 분기 동향",
-        "PIKK 개정 관련 영향 범위"
+        "OJK 규제 변화 및 PIKK 개정 동향",
+        "분기 RBC 비율 공시 확인",
+        "추가 지분 변동 관련 공시 여부"
       ],
       "spark": [
         {
