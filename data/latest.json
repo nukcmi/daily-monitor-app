@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-08-15",
-  "updated": "2026-08-15 17:46",
-  "fx": "환율 2026-08-15 · 시장환율   1 USD = ₩1,412.00   |   1 USD = 17,820.00 IDR   |   1 IDR = ₩0.07924",
+  "asOf": "2026-08-17",
+  "updated": "2026-08-17 16:58",
+  "fx": "환율 2026-08-17 · 시장환율   1 USD = ₩1,412.80   |   1 USD = 17,820.00 IDR   |   1 IDR = ₩0.07928",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "차바이오그룹·한화손보, 의료·바이오와 금융·보험 연계 헬스케어 협력 발표",
-      "impact": "당사 보유 지분 기업과의 공식 협력 구축으로 지분 투자의 사업 시너지 실현 가능성 제고",
+      "text": "차광렬 차병원 연구소장이 한화손보에서 '한국 바이오 미래' 강연을 진행하고 헬스케어 협력을 모색함",
+      "impact": "당사와의 헬스케어 협력 접점이 공개적으로 확인되어 지분 시너지 실현의 초기 신호로 해석 가능",
       "level": "high",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCelN5allMMUZhU0hSWElXai1fSG9rN3ZmUS1RV2Y5ejJyQzBXXy1lYXBKRzd6MjNEajIyeFdlSVVUQzF3ZzZ4TnB6VnZhWE54NEJjR2l0bEdkUjJVVWdKZXhSM0FnTFh4NkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CeW50bi1xU0F2MUpabG43c1RMT1Y2Q2NGS3ViS0JvMnJBVFNNX25WbW5OTW1LT1JIQ1AxTjlxRjBzY1JXakJHTkhjOUxhVEZyUmZlaDUzTEhwNTZJZUtnaTg2ZjY2WVRPeXRYdU9hT2jSAXRBVV95cUxNOUtxX3d2TElGYVV2TW14Z1VTSk1Ha0pTam00c2VRWHJIc3d0Ykw4bXZHUlE5UWxVQWp5R0Uwa3dSTEVfMjlnT2VBQ2QxWnBnR0gwaUNnMlNYek0wYmNRQmJteWlQNHFGNFh5WGxUU2tfMm0yaA?oc=5"
     },
     {
       "company": "차바이오텍 · 차AI헬스케어",
-      "text": "반기보고서(2026.06) 공시",
-      "impact": "CGT/CDMO 매출 진척, 부채 구조, 자금 여력 등 지분가치 판단을 위한 핵심 재무 데이터 확인 가능",
+      "text": "2026년 상반기 반기보고서 공시",
+      "impact": "CGT/CDMO 사업 매출 및 재무 현황 점검을 통해 당사 보유 지분가치 평가 근거 갱신 필요",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCelN5allMMUZhU0hSWElXai1fSG9rN3ZmUS1RV2Y5ejJyQzBXXy1lYXBKRzd6MjNEajIyeFdlSVVUQzF3ZzZ4TnB6VnZhWE54NEJjR2l0bEdkUjJVVWdKZXhSM0FnTFh4NkE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CeW50bi1xU0F2MUpabG43c1RMT1Y2Q2NGS3ViS0JvMnJBVFNNX25WbW5OTW1LT1JIQ1AxTjlxRjBzY1JXakJHTkhjOUxhVEZyUmZlaDUzTEhwNTZJZUtnaTg2ZjY2WVRPeXRYdU9hT2jSAXRBVV95cUxNOUtxX3d2TElGYVV2TW14Z1VTSk1Ha0pTam00c2VRWHJIc3d0Ykw4bXZHUlE5UWxVQWp5R0Uwa3dSTEVfMjlnT2VBQ2QxWnBnR0gwaUNnMlNYek0wYmNRQmJteWlQNHFGNFh5WGxUU2tfMm0yaA?oc=5"
     }
   ],
   "companies": [
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "한화손보 협력 시너지 가시화",
+      "event": "반기보고서 공시·당사 협력 접점 확인",
       "tags": [
         "+0.42%",
         "당사 투자"
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "당사와 헬스케어·바이오 협력 공식화는 단순 홍보를 넘어 보유 지분의 사업 시너지 실현 신호",
-        "반기보고서 공시로 CGT/CDMO 진척 및 재무 현황 점검 필요"
+        "반기보고서 공시로 CGT/CDMO 사업 진척 및 재무 현황 점검 필요 시점",
+        "당사와의 헬스케어 협력 모색 공개는 지분 시너지 실현 가능성의 초기 신호"
       ],
       "watch": [
-        "반기보고서 내 CGT/CDMO 매출·계약 현황",
-        "협력 MOU의 구체적 사업화 일정",
-        "유상증자·CB 등 추가 자금조달 여부"
+        "반기보고서상 CGT/CDMO 매출 및 수주 현황",
+        "당사-차병원 헬스케어 협력 구체화 여부",
+        "유상증자·CB 등 자금조달 계획 공시 여부"
       ],
       "spark": [
         {
@@ -363,21 +363,15 @@
           "date": "20260813"
         },
         {
-          "title": "차바이오그룹·한화손보, 의료·바이오와 금융·보험 연계 헬스케어 협력",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCelN5allMMUZhU0hSWElXai1fSG9rN3ZmUS1RV2Y5ejJyQzBXXy1lYXBKRzd6MjNEajIyeFdlSVVUQzF3ZzZ4TnB6VnZhWE54NEJjR2l0bEdkUjJVVWdKZXhSM0FnTFh4NkE?oc=5",
-          "source": "의학신문",
+          "title": "차광렬 차병원 연구소장, 한화손보서 ‘한국 바이오 미래’ 강연…헬스케어 협력 모색",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CeW50bi1xU0F2MUpabG43c1RMT1Y2Q2NGS3ViS0JvMnJBVFNNX25WbW5OTW1LT1JIQ1AxTjlxRjBzY1JXakJHTkhjOUxhVEZyUmZlaDUzTEhwNTZJZUtnaTg2ZjY2WVRPeXRYdU9hT2jSAXRBVV95cUxNOUtxX3d2TElGYVV2TW14Z1VTSk1Ha0pTam00c2VRWHJIc3d0Ykw4bXZHUlE5UWxVQWp5R0Uwa3dSTEVfMjlnT2VBQ2QxWnBnR0gwaUNnMlNYek0wYmNRQmJteWlQNHFGNFh5WGxUU2tfMm0yaA?oc=5",
+          "source": "더퍼스트미디어",
           "date": "08/13"
         },
         {
-          "title": "차광렬 차병원·차바이오그룹 연구소장, 한화손보 임직원 대상 특별강연",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xMHM1blFnU0dBU1BvOFo2elZ6Rm1USW0zT2g3RVhxenZPWEkxdjNUV0pLeXFDbV9meW91Y05UWUR4VnV3bEVXak5EY1F3LThfckRzUzV3Y2t3dkp1VVhkY09n?oc=5",
-          "source": "아시아경제",
-          "date": "08/13"
-        },
-        {
-          "title": "차광렬 차바이오 연구소장, 한화손보서 K-Cell 특별강연",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CTzZuLW9vZVZEdlIyV1pxLXhhcGhGaFBKR0xJeGk2eHR4X18wZ2tVcDN5azFIeDRJbnBuN1RPcl9Pd2FoSko1MHZfQm9DQXJ5SF93MnVQWS1UbFlmZHBtN09HNEI?oc=5",
-          "source": "서울경제TV",
+          "title": "[제약·바이오 트렌드] 한미약품, 임직원 자녀 초청해 ‘부모의 일터’ 체험 진행 外",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4WGdZWGZDNVQza3VCMHhWQjZsRHRRb1V4aFpIdEJXVzNYZWdpRUJ1aU9HSnFnU1FsT2lWZTR0azlSbHBBSzktNDJWdE9mbnFPZXFxTVcyQmc0aHEyR2Y2VFZDS0FCN3oxY3Q3MQ?oc=5",
+          "source": "베이비뉴스",
           "date": "08/13"
         }
       ]
@@ -387,7 +381,7 @@
       "name": "차AI헬스케어",
       "ticker": "025620",
       "g": "B",
-      "event": "주요주주 지분 변동 공시",
+      "event": "지분 변동 공시 및 반기보고서 발표",
       "tags": [
         "+0.79%",
         "당사 투자"
@@ -452,13 +446,13 @@
         }
       ],
       "events": [
-        "단기간 내 임원·주요주주 소유상황 및 대량보유 보고서 복수 제출은 지분구조 변동 신호로 해석 필요",
-        "반기보고서와 병행해 사업 전환 진행 여부를 재무 수치로 확인해야 할 시점"
+        "임원·주요주주 지분 변동 및 대량보유 보고는 지분구조 변화 가능성을 시사하며 당사 지분가치에 간접 영향",
+        "반기보고서를 통해 헬스케어 전환 진행 속도와 수익성 개선 여부를 구체적으로 확인해야 할 시점"
       ],
       "watch": [
-        "대량보유 보고서상 신규 주주 정체 및 목적",
-        "반기 매출·영업손익 개선 여부",
-        "헬스케어 전환 관련 신규 파트너십 여부"
+        "반기보고서상 매출·영업손익 추이",
+        "대량보유 보고 주체 및 보유 목적 확인",
+        "신규 고객사·파트너십 계약 여부"
       ],
       "spark": [
         {
@@ -766,7 +760,7 @@
         [
           "종가",
           "$52.64",
-          "₩74,328"
+          "₩74,370"
         ],
         [
           "취득가",
@@ -796,7 +790,7 @@
         [
           "시가총액",
           "$4.07B",
-          "5.75조"
+          "5.76조"
         ],
         [
           "52주 고점대비",
@@ -818,11 +812,15 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "IFP 성장률 분기 추이",
-        "Loss Ratio 구조적 개선 여부",
-        "EBITDA 흑자전환 시점 전망"
+        "IFP 성장률 및 Loss Ratio 분기 추이",
+        "EBITDA 흑자전환 시점 업데이트",
+        "밸류에이션 변동 및 투자 매력도"
       ],
       "spark": [
+        {
+          "date": "5/14",
+          "close": 53.78
+        },
         {
           "date": "5/15",
           "close": 51.35
@@ -1000,10 +998,6 @@
           "close": 67.45
         },
         {
-          "date": "7/21",
-          "close": 68.62
-        },
-        {
           "date": "7/22",
           "close": 63.42
         },
@@ -1079,15 +1073,8 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 8/14 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkZKTU5SMHJpOHVxbXhCQjVoREtoUUxiNFhDSEJuQnM0Vld4d1plb0d1QlhmenlIYTNFbGRKZ1lYZVpWOWE3TmNCQU11dHVZZjhHMjFsQkNNMXlsTDhoc1RkblJZMm1zZjNZTVhzOTB3RXVTc3NMREZBcDhqZkFBR3k4N3VtcUVtdTNRMTdXTXc4TnhaLVNzN1QyVQ?oc=5",
-      "sources": [
-        {
-          "title": "루멘 Insurance rewards drivers with The Slow Sign",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkZKTU5SMHJpOHVxbXhCQjVoREtoUUxiNFhDSEJuQnM0Vld4d1plb0d1QlhmenlIYTNFbGRKZ1lYZVpWOWE3TmNCQU11dHVZZjhHMjFsQkNNMXlsTDhoc1RkblJZMm1zZjNZTVhzOTB3RXVTc3NMREZBcDhqZkFBR3k4N3VtcUVtdTNRMTdXTXc4TnhaLVNzN1QyVQ?oc=5",
-          "source": "shots.net",
-          "date": "08/11"
-        }
-      ]
+      "sourceUrl": null,
+      "sources": []
     },
     {
       "id": "LPGI",
@@ -1163,7 +1150,7 @@
       ],
       "watch": [
         "OJK 규제 변화 및 PIKK 개정 동향",
-        "자본적정성(RBC) 수준 유지 여부",
+        "RBC 비율 적정성 유지 여부",
         "GWP 성장 및 손해율 추이"
       ],
       "spark": [
