@@ -1,19 +1,19 @@
 {
-  "asOf": "2026-08-18",
-  "updated": "2026-08-18 18:34",
-  "fx": "환율 2026-08-18 · 시장환율   1 USD = ₩1,410.83   |   1 USD = 17,850.00 IDR   |   1 IDR = ₩0.07904",
+  "asOf": "2026-08-19",
+  "updated": "2026-08-19 16:52",
+  "fx": "환율 2026-08-19 · 시장환율   1 USD = ₩1,396.98   |   1 USD = 17,830.00 IDR   |   1 IDR = ₩0.07835",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "타법인 주식 및 출자증권 취득 결정 공시",
-      "impact": "자금 배분 방향 변화로 CGT/CDMO 투자 재원 및 당사 보유 지분가치에 직접 영향 가능",
+      "text": "타법인 주식 및 출자증권 취득 결정 공시 제출",
+      "impact": "지분구조 변동은 당사 보유 지분 희석 또는 사업 방향성 변화로 연결될 수 있어 내용 확인 필요",
       "level": "high",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900476"
     },
     {
       "company": "차바이오텍",
-      "text": "전환사채 발행 후 만기 전 자사 CB 취득 결정 공시",
-      "impact": "부채 구조 변화로 재무건전성 및 당사 지분가치에 직접 영향; CB 조건·규모 상세 확인 필요",
+      "text": "전환사채 만기 전 자사 취득 결정 공시 제출",
+      "impact": "CB 조기 취득은 재무구조 변화 신호 — 당사 지분가치에 영향하는 자본구조 변동 여부 점검 필요",
       "level": "high",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900497"
     }
@@ -26,20 +26,20 @@
       "g": "A",
       "event": "자금조달·지분변동 동시 발생",
       "tags": [
-        "-6.93%",
+        "-4.17%",
         "당사 투자"
       ],
-      "priceText": "₩8,870",
-      "openText": "₩9,460",
-      "highText": "₩9,490",
-      "lowText": "₩8,800",
-      "prevCloseText": "₩9,530",
-      "changeText": "-₩660",
+      "priceText": "₩8,500",
+      "openText": "₩8,750",
+      "highText": "₩8,760",
+      "lowText": "₩8,360",
+      "prevCloseText": "₩8,870",
+      "changeText": "-₩370",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,870",
+          "₩8,500",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-30.73%",
+          "-33.62%",
           null
         ],
         [
           "전일대비",
-          "-6.93%",
+          "-4.17%",
           null
         ],
         [
           "전주대비",
-          "-6.93%",
+          "-10.81%",
           null
         ],
         [
           "거래량(20일比)",
-          "41.15만 · 1.40x",
+          "34.75만 · 1.15x",
           null
         ],
         [
           "시가총액",
-          "8,246억",
+          "7,902억",
           null
         ],
         [
           "52주 고점대비",
-          "-62.96%",
+          "-64.51%",
           null
         ]
       ],
@@ -89,19 +89,15 @@
         }
       ],
       "events": [
-        "CB 취득과 타법인 지분 취득이 동일일 공시된 것은 자본 배분 전략의 변화 신호로, 지분가치에 직접 영향",
-        "반기보고서상 CGT/CDMO 사업 진척 및 수익성 확인이 선행 과제"
+        "CB 취득과 타법인 지분취득이 동시 공시 — 자본구조 및 지분구조 변동 가능성 점검 필요",
+        "반기보고서와 병행 확인 시 CGT/CDMO 사업 진척 및 현금 소진 속도 파악 가능"
       ],
       "watch": [
-        "CB 취득 목적 및 상환 조건 확인",
-        "타법인 지분 취득 대상·규모 확인",
-        "반기 CGT/CDMO 매출·손익 추이"
+        "CB 만기 전 취득 규모·조건 및 상환 재원",
+        "타법인 지분취득 대상·금액·전략적 목적",
+        "반기보고서상 CGT/CDMO 매출·수주 현황"
       ],
       "spark": [
-        {
-          "date": "5/18",
-          "close": 14310.0
-        },
         {
           "date": "5/19",
           "close": 13930.0
@@ -349,11 +345,15 @@
         {
           "date": "8/18",
           "close": 8870.0
+        },
+        {
+          "date": "8/19",
+          "close": 8500.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 8/18 종가",
+      "exchangeLine": "KRX · 8/19 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900476",
       "sources": [
         {
@@ -387,22 +387,22 @@
       "name": "차AI헬스케어",
       "ticker": "025620",
       "g": "B",
-      "event": "주요주주 지분 변동 확인 필요",
+      "event": "주요주주 지분 변동 발생",
       "tags": [
-        "-6.00%",
+        "-1.57%",
         "당사 투자"
       ],
-      "priceText": "₩4,775",
-      "openText": "₩5,000",
-      "highText": "₩5,000",
-      "lowText": "₩4,700",
-      "prevCloseText": "₩5,080",
-      "changeText": "-₩305",
+      "priceText": "₩4,700",
+      "openText": "₩4,780",
+      "highText": "₩4,920",
+      "lowText": "₩4,635",
+      "prevCloseText": "₩4,775",
+      "changeText": "-₩75",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩4,775",
+          "₩4,700",
           null
         ],
         [
@@ -417,27 +417,27 @@
         ],
         [
           "전일대비",
-          "-6.00%",
+          "-1.57%",
           null
         ],
         [
           "전주대비",
-          "-6.00%",
+          "-7.48%",
           null
         ],
         [
           "거래량(20일比)",
-          "9.04천 · 0.44x",
+          "4.38천 · 0.23x",
           null
         ],
         [
           "시가총액",
-          "869억",
+          "855억",
           null
         ],
         [
           "52주 고점대비",
-          "-75.86%",
+          "-76.24%",
           null
         ]
       ],
@@ -452,19 +452,15 @@
         }
       ],
       "events": [
-        "임원·주요주주 보고서 복수 제출과 대량보유 보고는 지분구조 변동 가능성을 시사하며 당사 보유 지분의 상대적 위상에 영향 가능",
-        "반기보고서 기준 헬스케어 전환 진척 및 수익성 개선 여부가 지분가치 판단의 핵심"
+        "대량보유 보고 및 임원·주요주주 소유 변동이 동시 제출 — 지배구조 변화 여부 확인 필요",
+        "반기보고서 기준 헬스케어 전환 진행 속도·수익성 개선 여부가 핵심 판단 기준"
       ],
       "watch": [
-        "대량보유 보고 주체·지분율 변화",
-        "반기 매출·영업손익 추이",
-        "헬스케어 신규 고객사·파트너십 현황"
+        "대량보유 보고 주체·지분율 변동 내용",
+        "반기 매출·영업손익 추이 및 헬스케어 매출 비중",
+        "신규 고객사·파트너십 체결 여부"
       ],
       "spark": [
-        {
-          "date": "5/18",
-          "close": 6960.0
-        },
         {
           "date": "5/19",
           "close": 6840.0
@@ -712,11 +708,15 @@
         {
           "date": "8/18",
           "close": 4775.0
+        },
+        {
+          "date": "8/19",
+          "close": 4700.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 8/18 종가",
+      "exchangeLine": "KRX · 8/19 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002431",
       "sources": [
         {
@@ -752,21 +752,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-0.64%",
+        "+0.34%",
         "벤치마크"
       ],
-      "priceText": "$52.64",
-      "openText": "$53.04",
-      "highText": "$54.40",
-      "lowText": "$52.45",
-      "prevCloseText": "$52.98",
-      "changeText": "-$0.34",
+      "priceText": "$50.12",
+      "openText": "$49.02",
+      "highText": "$51.44",
+      "lowText": "$48.84",
+      "prevCloseText": "$49.95",
+      "changeText": "+$0.17",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$52.64",
-          "₩74,266"
+          "$50.12",
+          "₩70,017"
         ],
         [
           "취득가",
@@ -780,27 +780,27 @@
         ],
         [
           "전일대비",
-          "-0.64%",
+          "+0.34%",
           null
         ],
         [
           "전주대비",
-          "-0.57%",
+          "-4.79%",
           null
         ],
         [
           "거래량(20일比)",
-          "76.96만 · 0.48x",
+          "95.91만 · 0.61x",
           null
         ],
         [
           "시가총액",
-          "$3.87B",
-          "5.45조"
+          "$3.88B",
+          "5.42조"
         ],
         [
           "52주 고점대비",
-          "-47.31%",
+          "-49.83%",
           null
         ]
       ],
@@ -818,19 +818,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "IFP 성장률 분기 업데이트",
+        "IFP 성장률 분기 추이",
         "Loss Ratio 구조적 개선 여부",
-        "EBITDA 흑자전환 시점 가이던스"
+        "EBITDA 흑자전환 시점 가시화 여부"
       ],
       "spark": [
-        {
-          "date": "5/15",
-          "close": 51.35
-        },
-        {
-          "date": "5/18",
-          "close": 54.48
-        },
         {
           "date": "5/19",
           "close": 53.97
@@ -1074,11 +1066,19 @@
         {
           "date": "8/14",
           "close": 52.64
+        },
+        {
+          "date": "8/17",
+          "close": 49.95
+        },
+        {
+          "date": "8/18",
+          "close": 50.12
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 8/14 종가 (ET)",
+      "exchangeLine": "NYSE · 8/18 종가 (ET)",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlh2aWZwQlZIOGVSczJHOUcxV3Bma1RHc204akh0OXVkRUpyYjRVTzlSc1hJaUxQMjlwcXBQaFU1a0tYeHFrTDR2WDJpUnNHNm1tcTY2NGdEN1BzWWZfaXlnMktYOFk2NlhMcTFqRW9LWVBDaTZzSENCRG1HdFVJTUlQUm1ybTJINzFkNDlsX2FFbkMwQmVpMzFDZ1JxemhGTnFza3p2NE1Ka2EwYXBna1NFVQ?oc=5",
       "sources": [
         {
@@ -1093,8 +1093,8 @@
       "id": "LPGI",
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
-      "g": "C",
-      "event": "주요 변동 없음",
+      "g": "B",
+      "event": "AM Best 신용등급 재확인",
       "tags": [
         "+0.00%",
         "자회사"
@@ -1110,7 +1110,7 @@
         [
           "종가",
           "Rp630",
-          "₩49.8"
+          "₩49.4"
         ],
         [
           "취득가",
@@ -1140,7 +1140,7 @@
         [
           "시가총액",
           "Rp1.9조",
-          "1,494억"
+          "1,469억"
         ],
         [
           "52주 고점대비",
@@ -1159,12 +1159,13 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "AM Best 등급 유지는 자회사 자본건전성이 외부 기관 기준을 충족함을 의미 — OJK 규제 대응력 훼손 없음 확인",
+        "연결 편입 이후 첫 외부 신용평가 결과로, 그룹 차원의 자회사 리스크 관리 기준선 역할"
       ],
       "watch": [
-        "OJK 규제 변화 모니터링",
-        "RBC 비율 분기 동향",
-        "PIKK 개정 관련 영향 확인"
+        "AM Best 등급 전망(Outlook) 변화 여부",
+        "OJK 자본적정성(RBC) 최신 수치",
+        "PIKK 개정 관련 규제 대응 현황"
       ],
       "spark": [
         {
@@ -1423,8 +1424,15 @@
       "avgCost": 653.8,
       "currency": "IDR",
       "exchangeLine": "IDX · 8/18 종가 (WIB)",
-      "sourceUrl": null,
-      "sources": []
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlZFNTZjWDhBZ20xVHdlU0tQeGNoMjZlR2t3Zi0xcm1JS0NmaFB4aXZ3QTRCVUhhNXhpT3hsOXlTem9fbVNQRkt2d1JNWnZoTDA3SXUwRVlkOWJTcU8yWU9HbU9hLWVHSVNjWDQ5VFFobGpKT0x1TkxmQUU1NVgyR1NxRmdiUjdZQXJDWWZCOFJwQ080OHBqdE1Qek5Sd0pvS2RmcG5JaUYwdnVocUdhaWoyR1FlQjNobjREazZRUQ?oc=5",
+      "sources": [
+        {
+          "title": "AM Best Affirms Credit Ratings of PT Lippo General Insurance Tbk.",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlZFNTZjWDhBZ20xVHdlU0tQeGNoMjZlR2t3Zi0xcm1JS0NmaFB4aXZ3QTRCVUhhNXhpT3hsOXlTem9fbVNQRkt2d1JNWnZoTDA3SXUwRVlkOWJTcU8yWU9HbU9hLWVHSVNjWDQ5VFFobGpKT0x1TkxmQUU1NVgyR1NxRmdiUjdZQXJDWWZCOFJwQ080OHBqdE1Qek5Sd0pvS2RmcG5JaUYwdnVocUdhaWoyR1FlQjNobjREazZRUQ?oc=5",
+          "source": "Business Wire",
+          "date": "08/18"
+        }
+      ]
     }
   ]
 }
