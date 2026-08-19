@@ -1,19 +1,19 @@
 {
   "asOf": "2026-08-19",
-  "updated": "2026-08-19 19:15",
-  "fx": "환율 2026-08-19 · 시장환율   1 USD = ₩1,389.68   |   1 USD = 17,825.00 IDR   |   1 IDR = ₩0.07796",
+  "updated": "2026-08-19 19:22",
+  "fx": "환율 2026-08-19 · 시장환율   1 USD = ₩1,389.90   |   1 USD = 17,825.00 IDR   |   1 IDR = ₩0.07797",
   "attentionItems": [
     {
       "company": "차바이오텍",
       "text": "타법인 주식·출자증권 취득 결정 공시",
-      "impact": "투자 대상 및 규모에 따라 당사 보유 지분가치에 영향을 줄 수 있어 내용 확인 필요",
+      "impact": "취득 대상이 CGT/CDMO 사업 연관성을 가질 경우 당사 지분가치에 직접 영향 — 목적·규모 확인 필요",
       "level": "high",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900476"
     },
     {
       "company": "차바이오텍",
-      "text": "전환사채 만기 전 자사 사채 취득 공시",
-      "impact": "CB 조기 상환은 재무부담 완화 신호이나 사용 재원 규모에 따라 현금흐름에 영향",
+      "text": "만기 전 전환사채 자사 취득 결정 공시",
+      "impact": "CB 조기 취득은 재무 레버리지 축소 또는 희석 방어 신호 — 잔여 CB 규모와 향후 자금조달 여력에 영향",
       "level": "high",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900497"
     }
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "A",
-      "event": "자금조달·지분변동 동시 발생",
+      "event": "자금조달·타법인 취득 공시 동시 발생",
       "tags": [
         "-4.17%",
         "당사 투자"
@@ -64,7 +64,7 @@
         ],
         [
           "거래량(20일比)",
-          "34.75만 · 1.15x",
+          "35.50만 · 1.17x",
           null
         ],
         [
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "타법인 지분취득과 CB 만기 전 사채취득이 동시 공시되어 재무 구조 변화 가능성 주시 필요",
-        "반기보고서 공시와 맞물려 CGT/CDMO 사업 현황 및 현금흐름 점검이 요구되는 시점"
+        "CB 만기 전 자사 취득과 타법인 주식 취득이 같은 날 공시 — 자금 운용 방향과 재무 여력을 동시에 점검할 필요",
+        "당사와의 임직원 특강은 지분투자 파트너십의 가시적 시너지 신호로, 관계 심화 여부 주목"
       ],
       "watch": [
-        "CB 만기 전 취득 규모 및 잔여 CB 부담",
-        "타법인 지분취득 대상·목적의 CGT/CDMO 연관성",
-        "반기보고서상 영업현금흐름 및 자금 여력"
+        "CB 만기 전 취득 규모·잔액 및 상환 재원",
+        "타법인 주식 취득 대상·목적의 CGT/CDMO 연관성",
+        "반기보고서상 현금 및 차입금 구조 변화"
       ],
       "spark": [
         {
@@ -377,7 +377,7 @@
         {
           "title": "차광렬 차병원·차바이오그룹 연구소장, 한화손보 임직원 대상 특강",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44MVhhNDV2cWlXeUNFQW9fVDRrQjdZRDlSVmVHSlMweWNIR2hYQ2laSXh2eDY4NHJOSHd5X3p2eWxpRXYtMVp6am5TcFhidHpEdGg4MGJ2Nmd2NVJ3RUFDUlNSM3pLSUh5M2ZhLdIBb0FVX3lxTE9BeERFTXp5MTZySXhvRFEzUVlTVUtBMFZ5MFgtcm1OOHVTZC1LRXBvVks4LWdaay00OFRyMnBGLTdNVG84NXZhRUk3ZERGbGpIaHliRWl0NFM5RG5jdUdtaXNJR0xMQTNOSUczU0UtTQ?oc=5",
-          "source": "fetimes.co.kr",
+          "source": "금융경제신문",
           "date": "08/18"
         }
       ]
@@ -387,7 +387,7 @@
       "name": "차AI헬스케어",
       "ticker": "025620",
       "g": "B",
-      "event": "주요주주 지분 변동 공시",
+      "event": "대량보유·임원 지분 변동 공시 집중",
       "tags": [
         "-1.57%",
         "당사 투자"
@@ -452,13 +452,13 @@
         }
       ],
       "events": [
-        "임원·주요주주 소유상황 및 대량보유 보고서가 동시 제출되어 지분구조 변동 여부 확인 필요",
-        "반기보고서 공시와 함께 헬스케어 전환 진행 상황 및 수익성 추이 점검 시점"
+        "동일 날짜 임원 보유 보고서 2건과 대량보유 보고서 1건 — 지분구조 변동 가능성 확인 필요",
+        "반기보고서 제출 시점과 겹쳐 실적 추이와 지분 변동 맥락을 함께 검토해야 함"
       ],
       "watch": [
-        "주요주주 지분율 변동 방향 및 신규 주주 등장 여부",
-        "반기 매출·영업손익 추이 및 흑자 전환 시점",
-        "헬스케어 사업 고객사·파트너십 추가 여부"
+        "대량보유 보고서상 지분율 변동 방향 및 주체",
+        "반기 매출·영업손익 전기 대비 개선 여부",
+        "헬스케어 신규 고객사·파트너십 계약 공시 여부"
       ],
       "spark": [
         {
@@ -749,8 +749,8 @@
       "id": "LUMN",
       "name": "루멘",
       "ticker": "(미국)",
-      "g": "C",
-      "event": "주요 변동 없음",
+      "g": "B",
+      "event": "내부자 매도 집중 — 투자 매력 재검토",
       "tags": [
         "+0.34%",
         "벤치마크"
@@ -766,7 +766,7 @@
         [
           "종가",
           "$50.12",
-          "₩69,651"
+          "₩69,662"
         ],
         [
           "취득가",
@@ -815,12 +815,13 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "내부자 대규모 매도(약 44억 원)가 복수 매체에서 동시 포착 — 핵심 지표 개선 여부와 무관하게 투자 타이밍 판단에 부정적 신호",
+        "Morgan Stanley의 자율주행 보험 지지 언급은 사업모델 방향성 긍정 신호이나 확정 정보 아님 — IFP·Loss Ratio 실적으로 검증 필요"
       ],
       "watch": [
-        "IFP 성장률 및 분기 실적 발표 일정",
-        "Loss Ratio 개선 추이 및 EBITDA 흑자전환 시점",
-        "밸류에이션 변화 및 목표주가 조정 근거"
+        "최근 분기 IFP 성장률 및 Loss Ratio 추이",
+        "내부자 매도 이후 EBITDA 흑자전환 시점 변화 여부",
+        "자율주행 보험 신상품의 실제 GWP 기여 규모"
       ],
       "spark": [
         {
@@ -1079,31 +1080,31 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 8/18 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaC1kaUNjSExwZjI4cWwzaXJnazVsd3c4NFVzRVd2TTdrRWVFbkk5amxQMHdCUGI4ZFdTYzlCekdKb1hMdzBnOV9lcl9MeXBWdl91NGE3S05KbndqdjJGTHBMek1ZOWo5aHVFSm8yd2VrWFIzVWF3VGJRRHRjSnNVTktOVHV4cnlicm1jeTRXZXFjT2dMNFc5OFhYd29lRmFROVExMkQzNVJfN0ttTVY5a21jMnJ0bVBINjcxdnlUQzdsSVRGeXRGajloekF6Wi10?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFZvSHhvUEtNR1d4cW1DQVprbG9PVFJQUGVsbVd3Tk53ZFRhblAtdmdRMlFDd2I4cVRveFM4NU9kLXZKUDdZR28xSGVlVkhLYWVPVWNzOEhsM0F6OGlhVm04bElieUMxOVZQM05GTWw3a0tBM2RzZU03M3d4U21UTExkM3U0UFFXM0pYdWtudWxnVVhYd094RURueVFKc2ZXVEkwR1BhWkl3TE9WRnfSAbMBQVVfeXFMTi1qUzVMbWlQWjBrOFgydHlZQWFINkMzcGlCRVRqeUlHeEtCaFI5Nkk3VV9NeFBaQVduMWMxLUViYm9nZXZCQ2NVMGFCLU9GdkJmTEFjQ2lYSk1LVDQ3TV9hdTE2WExsTE50bzdvRmJla1pCNjlDd0oxUnMwdFRxakpWd2FNeGtQVGRLUmlmLTFMYUVhVExGbXZRRWZiLVNGdUJiN1g2dFM5TWJQeTZFb2o2b3M?oc=5",
       "sources": [
         {
-          "title": "How a 10-year-old's 루멘 stand in Somersworth helped feed 10 people",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaC1kaUNjSExwZjI4cWwzaXJnazVsd3c4NFVzRVd2TTdrRWVFbkk5amxQMHdCUGI4ZFdTYzlCekdKb1hMdzBnOV9lcl9MeXBWdl91NGE3S05KbndqdjJGTHBMek1ZOWo5aHVFSm8yd2VrWFIzVWF3VGJRRHRjSnNVTktOVHV4cnlicm1jeTRXZXFjT2dMNFc5OFhYd29lRmFROVExMkQzNVJfN0ttTVY5a21jMnJ0bVBINjcxdnlUQzdsSVRGeXRGajloekF6Wi10?oc=5",
-          "source": "Foster's Daily Democrat",
+          "title": "Don't Ignore The Insider Selling In 루멘",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFZvSHhvUEtNR1d4cW1DQVprbG9PVFJQUGVsbVd3Tk53ZFRhblAtdmdRMlFDd2I4cVRveFM4NU9kLXZKUDdZR28xSGVlVkhLYWVPVWNzOEhsM0F6OGlhVm04bElieUMxOVZQM05GTWw3a0tBM2RzZU03M3d4U21UTExkM3U0UFFXM0pYdWtudWxnVVhYd094RURueVFKc2ZXVEkwR1BhWkl3TE9WRnfSAbMBQVVfeXFMTi1qUzVMbWlQWjBrOFgydHlZQWFINkMzcGlCRVRqeUlHeEtCaFI5Nkk3VV9NeFBaQVduMWMxLUViYm9nZXZCQ2NVMGFCLU9GdkJmTEFjQ2lYSk1LVDQ3TV9hdTE2WExsTE50bzdvRmJla1pCNjlDd0oxUnMwdFRxakpWd2FNeGtQVGRLUmlmLTFMYUVhVExGbXZRRWZiLVNGdUJiN1g2dFM5TWJQeTZFb2o2b3M?oc=5",
+          "source": "simplywall.st",
           "date": "08/19"
         },
         {
-          "title": "Mother speaks out after man threatens daughter at local 루멘 stand",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3c3alREZnN6eHZ5ZERqM1ZBdFNrWTU2V3NTdWpKYmdpc3daZzV6VHpyc3Myc0Y2VG5ibjQzSDh1TkZHSktIV3B2bG84X0VJVnlYYnBYUXlTTFNXQTZSMmJHdGRacmg1aFc4eG4yZHJNZjVOWkVQMDJ1R2hBc0FhNVBNOVFZYnRzUEpjSWFDTzlhUkFwTldFRTJZNE1zYW1FaEJyTm1PdnlsZw?oc=5",
-          "source": "WSMV",
+          "title": "1 Insurance Stock Worth Your Attention and 2 That Underwhelm",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFAya2tSTDZmVlE1aUJocW14TG5DV3YxUXYzLUdZaHotenhGTmo4UFBXbGtLbUIwQTVWRHgweUZjdEVFUmJVRjBKTUZObVo0bHlzakN4NG5oMzdTTHNGNzU0eEt3WHc1WDRsZ3FlckJiM21jb3lGdWxUamF2eTRWNmdoWnlVcnJRVk1DbG1tSnBZUkhqTTBSbWM4Vjh2TUFLb05RWkNBcGFha25MbmwyTjBrZ2MtYUZTSW1DOHZLMA?oc=5",
+          "source": "StockStory",
           "date": "08/19"
         },
         {
-          "title": "Mother speaks out after man threatens daughter at local 루멘 stand",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWxnZWVpbmtoa3pjczFMMlN5UGU5akV2Zm1rTTQwWjJYVHhwTnI5RU5xMnhJWGkybmdxZHJhekM0b3NOalNoZW8tYzctYjhIYnU3d2ZWNEpQTnR0ZUVrQzdEbm1SWnk3ZDkzN1NqbUljdjFyMHM4Y2pmNFhBRXozTUVweXZFNmVadzMyRHJfREE0bFV4QWs1cnlhQnVTam5zbmZIQWEzNzFRenlMV3RJ?oc=5",
-          "source": "AZ Family",
-          "date": "08/19"
+          "title": "Bank of America Corp DE Buys 123,484 Shares of 루멘 $루멘",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenExa2ltMXNnems2TldnQzFpQlpuaHFuemVPbElLelhwRkt2SDNLd1lqYmNWYjM4bzZBd2dKb1REd3V0Wkc5a2xIbEkwbThXSmp0WU9FVEZ0ZTN3YW9FVWNTZWEtN1lXNUFLSFdfZkU3UVJXMWd0a2s5c0xPSlB6QWUwdXdrVTE0T3ZQbFdjQzRMVlcwZUM4elRNck12Vk5BcVczMm03UFFJQ0RPTkRXZkdlMzFwc09vdWZtbnA2a3M1UQ?oc=5",
+          "source": "MarketBeat",
+          "date": "08/18"
         },
         {
-          "title": "루멘 Stock 12‑Month Price Target Cut to $59.22, Implies 18% Upside",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU0h2TTFmMFM5TUt2RnFvUXM0TktWd1RCQ3JMbFdOMkQ0b0ExM3NTMlZTeC1zNUJoNnR4M1BnX3BXdXVtVnIwcVlEVDFHdHJRRGh1aXJyV1pELTlCSFF1NXdwYXhuaGNHeEJqV293cFpXZGVGUUFvV2tFckdrZllQTndiekpJLUpQYWRTa1djX3dERUV5RUJwdENYQUlQZ3NHa3ZENzFaeFJpdHFlU0dZbnNrSkxnOENhN1hoaGF2ZW0zZ1g5SUdtREhoWmhPdw?oc=5",
-          "source": "TradingView",
-          "date": "08/19"
+          "title": "루멘 Stock Rises Pre-Market: Morgan Stanley Backs Its Early Bet On Autonomous Vehicle Insurance",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMlhYREFoVU5jdEFyRzFaa3B3NzBKSUlFNFctbzlJejRxSjdDMkNLMzRMM2pXZXdnczQ4UlFoSDNiaGRCOVU3WUdSQ2MtcTlwTXZaVXNScEloRnpHZ211VkpuSXVTcE9GZlJuQ2VaWVYyS0dRMUVTRTdGdmktMDl4ZjgxSndXTTZhVDcweW9MV0dVVldtSTBzb05kVzBQQjA4UlRFMFFkYXZMeDZPblJfLXVYUUxNVk91TVEwNWRaYzlUREJaSWxHZjltMk92YVFwR1E1akJyQ2g0MFdfMVBzanNCRTczZjFHY1pFYXcySQ?oc=5",
+          "source": "Stocktwits",
+          "date": "08/18"
         }
       ]
     },
@@ -1177,13 +1178,12 @@
         }
       ],
       "events": [
-        "공시·기사 기준 LPGI 직접 관련 사안 없음",
-        "인도네시아 OJK 관련 기사는 광물거래소 파생상품 규제로 보험업 직접 영향 없음"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 보험업 규제 및 PIKK 개정 동향",
-        "자본적정성(RBC) 분기 수치 변화",
-        "자회사 GWP 성장 및 손해율 추이"
+        "OJK 신규 규제 도입 일정 및 자본적정성 영향",
+        "PIKK 개정 관련 추가 가이던스 발표 여부",
+        "반기 GWP 성장률 및 손해율 변동 확인"
       ],
       "spark": [
         {
