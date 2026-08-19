@@ -1,19 +1,19 @@
 {
   "asOf": "2026-08-19",
-  "updated": "2026-08-19 16:52",
-  "fx": "환율 2026-08-19 · 시장환율   1 USD = ₩1,396.98   |   1 USD = 17,830.00 IDR   |   1 IDR = ₩0.07835",
+  "updated": "2026-08-19 19:15",
+  "fx": "환율 2026-08-19 · 시장환율   1 USD = ₩1,389.68   |   1 USD = 17,825.00 IDR   |   1 IDR = ₩0.07796",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "타법인 주식 및 출자증권 취득 결정 공시 제출",
-      "impact": "지분구조 변동은 당사 보유 지분 희석 또는 사업 방향성 변화로 연결될 수 있어 내용 확인 필요",
+      "text": "타법인 주식·출자증권 취득 결정 공시",
+      "impact": "투자 대상 및 규모에 따라 당사 보유 지분가치에 영향을 줄 수 있어 내용 확인 필요",
       "level": "high",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900476"
     },
     {
       "company": "차바이오텍",
-      "text": "전환사채 만기 전 자사 취득 결정 공시 제출",
-      "impact": "CB 조기 취득은 재무구조 변화 신호 — 당사 지분가치에 영향하는 자본구조 변동 여부 점검 필요",
+      "text": "전환사채 만기 전 자사 사채 취득 공시",
+      "impact": "CB 조기 상환은 재무부담 완화 신호이나 사용 재원 규모에 따라 현금흐름에 영향",
       "level": "high",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900497"
     }
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "CB 취득과 타법인 지분취득이 동시 공시 — 자본구조 및 지분구조 변동 가능성 점검 필요",
-        "반기보고서와 병행 확인 시 CGT/CDMO 사업 진척 및 현금 소진 속도 파악 가능"
+        "타법인 지분취득과 CB 만기 전 사채취득이 동시 공시되어 재무 구조 변화 가능성 주시 필요",
+        "반기보고서 공시와 맞물려 CGT/CDMO 사업 현황 및 현금흐름 점검이 요구되는 시점"
       ],
       "watch": [
-        "CB 만기 전 취득 규모·조건 및 상환 재원",
-        "타법인 지분취득 대상·금액·전략적 목적",
-        "반기보고서상 CGT/CDMO 매출·수주 현황"
+        "CB 만기 전 취득 규모 및 잔여 CB 부담",
+        "타법인 지분취득 대상·목적의 CGT/CDMO 연관성",
+        "반기보고서상 영업현금흐름 및 자금 여력"
       ],
       "spark": [
         {
@@ -377,7 +377,7 @@
         {
           "title": "차광렬 차병원·차바이오그룹 연구소장, 한화손보 임직원 대상 특강",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44MVhhNDV2cWlXeUNFQW9fVDRrQjdZRDlSVmVHSlMweWNIR2hYQ2laSXh2eDY4NHJOSHd5X3p2eWxpRXYtMVp6am5TcFhidHpEdGg4MGJ2Nmd2NVJ3RUFDUlNSM3pLSUh5M2ZhLdIBb0FVX3lxTE9BeERFTXp5MTZySXhvRFEzUVlTVUtBMFZ5MFgtcm1OOHVTZC1LRXBvVks4LWdaay00OFRyMnBGLTdNVG84NXZhRUk3ZERGbGpIaHliRWl0NFM5RG5jdUdtaXNJR0xMQTNOSUczU0UtTQ?oc=5",
-          "source": "금융경제신문",
+          "source": "fetimes.co.kr",
           "date": "08/18"
         }
       ]
@@ -387,7 +387,7 @@
       "name": "차AI헬스케어",
       "ticker": "025620",
       "g": "B",
-      "event": "주요주주 지분 변동 발생",
+      "event": "주요주주 지분 변동 공시",
       "tags": [
         "-1.57%",
         "당사 투자"
@@ -427,7 +427,7 @@
         ],
         [
           "거래량(20일比)",
-          "4.38천 · 0.23x",
+          "4.54천 · 0.23x",
           null
         ],
         [
@@ -452,13 +452,13 @@
         }
       ],
       "events": [
-        "대량보유 보고 및 임원·주요주주 소유 변동이 동시 제출 — 지배구조 변화 여부 확인 필요",
-        "반기보고서 기준 헬스케어 전환 진행 속도·수익성 개선 여부가 핵심 판단 기준"
+        "임원·주요주주 소유상황 및 대량보유 보고서가 동시 제출되어 지분구조 변동 여부 확인 필요",
+        "반기보고서 공시와 함께 헬스케어 전환 진행 상황 및 수익성 추이 점검 시점"
       ],
       "watch": [
-        "대량보유 보고 주체·지분율 변동 내용",
-        "반기 매출·영업손익 추이 및 헬스케어 매출 비중",
-        "신규 고객사·파트너십 체결 여부"
+        "주요주주 지분율 변동 방향 및 신규 주주 등장 여부",
+        "반기 매출·영업손익 추이 및 흑자 전환 시점",
+        "헬스케어 사업 고객사·파트너십 추가 여부"
       ],
       "spark": [
         {
@@ -766,7 +766,7 @@
         [
           "종가",
           "$50.12",
-          "₩70,017"
+          "₩69,651"
         ],
         [
           "취득가",
@@ -796,7 +796,7 @@
         [
           "시가총액",
           "$3.88B",
-          "5.42조"
+          "5.39조"
         ],
         [
           "52주 고점대비",
@@ -818,9 +818,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "IFP 성장률 분기 추이",
-        "Loss Ratio 구조적 개선 여부",
-        "EBITDA 흑자전환 시점 가시화 여부"
+        "IFP 성장률 및 분기 실적 발표 일정",
+        "Loss Ratio 개선 추이 및 EBITDA 흑자전환 시점",
+        "밸류에이션 변화 및 목표주가 조정 근거"
       ],
       "spark": [
         {
@@ -1079,13 +1079,31 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 8/18 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlh2aWZwQlZIOGVSczJHOUcxV3Bma1RHc204akh0OXVkRUpyYjRVTzlSc1hJaUxQMjlwcXBQaFU1a0tYeHFrTDR2WDJpUnNHNm1tcTY2NGdEN1BzWWZfaXlnMktYOFk2NlhMcTFqRW9LWVBDaTZzSENCRG1HdFVJTUlQUm1ybTJINzFkNDlsX2FFbkMwQmVpMzFDZ1JxemhGTnFza3p2NE1Ka2EwYXBna1NFVQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaC1kaUNjSExwZjI4cWwzaXJnazVsd3c4NFVzRVd2TTdrRWVFbkk5amxQMHdCUGI4ZFdTYzlCekdKb1hMdzBnOV9lcl9MeXBWdl91NGE3S05KbndqdjJGTHBMek1ZOWo5aHVFSm8yd2VrWFIzVWF3VGJRRHRjSnNVTktOVHV4cnlicm1jeTRXZXFjT2dMNFc5OFhYd29lRmFROVExMkQzNVJfN0ttTVY5a21jMnJ0bVBINjcxdnlUQzdsSVRGeXRGajloekF6Wi10?oc=5",
       "sources": [
         {
-          "title": "If You Actually Drive The Speed Limit (Or Lower) In Texas, This Sign Will Hype You Up",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlh2aWZwQlZIOGVSczJHOUcxV3Bma1RHc204akh0OXVkRUpyYjRVTzlSc1hJaUxQMjlwcXBQaFU1a0tYeHFrTDR2WDJpUnNHNm1tcTY2NGdEN1BzWWZfaXlnMktYOFk2NlhMcTFqRW9LWVBDaTZzSENCRG1HdFVJTUlQUm1ybTJINzFkNDlsX2FFbkMwQmVpMzFDZ1JxemhGTnFza3p2NE1Ka2EwYXBna1NFVQ?oc=5",
-          "source": "SlashGear",
-          "date": "08/17"
+          "title": "How a 10-year-old's 루멘 stand in Somersworth helped feed 10 people",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaC1kaUNjSExwZjI4cWwzaXJnazVsd3c4NFVzRVd2TTdrRWVFbkk5amxQMHdCUGI4ZFdTYzlCekdKb1hMdzBnOV9lcl9MeXBWdl91NGE3S05KbndqdjJGTHBMek1ZOWo5aHVFSm8yd2VrWFIzVWF3VGJRRHRjSnNVTktOVHV4cnlicm1jeTRXZXFjT2dMNFc5OFhYd29lRmFROVExMkQzNVJfN0ttTVY5a21jMnJ0bVBINjcxdnlUQzdsSVRGeXRGajloekF6Wi10?oc=5",
+          "source": "Foster's Daily Democrat",
+          "date": "08/19"
+        },
+        {
+          "title": "Mother speaks out after man threatens daughter at local 루멘 stand",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa3c3alREZnN6eHZ5ZERqM1ZBdFNrWTU2V3NTdWpKYmdpc3daZzV6VHpyc3Myc0Y2VG5ibjQzSDh1TkZHSktIV3B2bG84X0VJVnlYYnBYUXlTTFNXQTZSMmJHdGRacmg1aFc4eG4yZHJNZjVOWkVQMDJ1R2hBc0FhNVBNOVFZYnRzUEpjSWFDTzlhUkFwTldFRTJZNE1zYW1FaEJyTm1PdnlsZw?oc=5",
+          "source": "WSMV",
+          "date": "08/19"
+        },
+        {
+          "title": "Mother speaks out after man threatens daughter at local 루멘 stand",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWxnZWVpbmtoa3pjczFMMlN5UGU5akV2Zm1rTTQwWjJYVHhwTnI5RU5xMnhJWGkybmdxZHJhekM0b3NOalNoZW8tYzctYjhIYnU3d2ZWNEpQTnR0ZUVrQzdEbm1SWnk3ZDkzN1NqbUljdjFyMHM4Y2pmNFhBRXozTUVweXZFNmVadzMyRHJfREE0bFV4QWs1cnlhQnVTam5zbmZIQWEzNzFRenlMV3RJ?oc=5",
+          "source": "AZ Family",
+          "date": "08/19"
+        },
+        {
+          "title": "루멘 Stock 12‑Month Price Target Cut to $59.22, Implies 18% Upside",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU0h2TTFmMFM5TUt2RnFvUXM0TktWd1RCQ3JMbFdOMkQ0b0ExM3NTMlZTeC1zNUJoNnR4M1BnX3BXdXVtVnIwcVlEVDFHdHJRRGh1aXJyV1pELTlCSFF1NXdwYXhuaGNHeEJqV293cFpXZGVGUUFvV2tFckdrZllQTndiekpJLUpQYWRTa1djX3dERUV5RUJwdENYQUlQZ3NHa3ZENzFaeFJpdHFlU0dZbnNrSkxnOENhN1hoaGF2ZW0zZ1g5SUdtREhoWmhPdw?oc=5",
+          "source": "TradingView",
+          "date": "08/19"
         }
       ]
     },
@@ -1093,24 +1111,24 @@
       "id": "LPGI",
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
-      "g": "B",
-      "event": "AM Best 신용등급 재확인",
+      "g": "C",
+      "event": "주요 변동 없음",
       "tags": [
-        "+0.00%",
+        "+1.59%",
         "자회사"
       ],
-      "priceText": "Rp630",
-      "openText": "Rp640",
+      "priceText": "Rp640",
+      "openText": "Rp625",
       "highText": "Rp645",
-      "lowText": "Rp610",
+      "lowText": "Rp620",
       "prevCloseText": "Rp630",
-      "changeText": "+Rp0",
+      "changeText": "+Rp10",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp630",
-          "₩49.4"
+          "Rp640",
+          "₩49.9"
         ],
         [
           "취득가",
@@ -1119,32 +1137,32 @@
         ],
         [
           "취득가대비",
-          "-3.64%",
+          "-2.11%",
           null
         ],
         [
           "전일대비",
-          "+0.00%",
+          "+1.59%",
           null
         ],
         [
           "전주대비",
-          "+0.00%",
+          "+1.59%",
           null
         ],
         [
           "거래량(20일比)",
-          "2.78만 · 0.55x",
+          "1.15만 · 0.23x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,469억"
+          "1,497억"
         ],
         [
           "52주 고점대비",
-          "-33.41%",
+          "-32.35%",
           null
         ]
       ],
@@ -1159,19 +1177,15 @@
         }
       ],
       "events": [
-        "AM Best 등급 유지는 자회사 자본건전성이 외부 기관 기준을 충족함을 의미 — OJK 규제 대응력 훼손 없음 확인",
-        "연결 편입 이후 첫 외부 신용평가 결과로, 그룹 차원의 자회사 리스크 관리 기준선 역할"
+        "공시·기사 기준 LPGI 직접 관련 사안 없음",
+        "인도네시아 OJK 관련 기사는 광물거래소 파생상품 규제로 보험업 직접 영향 없음"
       ],
       "watch": [
-        "AM Best 등급 전망(Outlook) 변화 여부",
-        "OJK 자본적정성(RBC) 최신 수치",
-        "PIKK 개정 관련 규제 대응 현황"
+        "OJK 보험업 규제 및 PIKK 개정 동향",
+        "자본적정성(RBC) 분기 수치 변화",
+        "자회사 GWP 성장 및 손해율 추이"
       ],
       "spark": [
-        {
-          "date": "5/19",
-          "close": 685.0
-        },
         {
           "date": "5/20",
           "close": 685.0
@@ -1419,17 +1433,33 @@
         {
           "date": "8/18",
           "close": 630.0
+        },
+        {
+          "date": "8/19",
+          "close": 640.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 8/18 종가 (WIB)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlZFNTZjWDhBZ20xVHdlU0tQeGNoMjZlR2t3Zi0xcm1JS0NmaFB4aXZ3QTRCVUhhNXhpT3hsOXlTem9fbVNQRkt2d1JNWnZoTDA3SXUwRVlkOWJTcU8yWU9HbU9hLWVHSVNjWDQ5VFFobGpKT0x1TkxmQUU1NVgyR1NxRmdiUjdZQXJDWWZCOFJwQ080OHBqdE1Qek5Sd0pvS2RmcG5JaUYwdnVocUdhaWoyR1FlQjNobjREazZRUQ?oc=5",
+      "exchangeLine": "IDX · 8/19 종가 (WIB)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WNlozb0RXTHBmWjI2Y1otUHdSN1llRUtoR2FENk4yNHVIQi1XckxFal9keFpTZzN6aWYxNWNwc0h0a05uNEk2ZTMwWHRUek5iVGc?oc=5",
       "sources": [
         {
-          "title": "AM Best Affirms Credit Ratings of PT Lippo General Insurance Tbk.",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlZFNTZjWDhBZ20xVHdlU0tQeGNoMjZlR2t3Zi0xcm1JS0NmaFB4aXZ3QTRCVUhhNXhpT3hsOXlTem9fbVNQRkt2d1JNWnZoTDA3SXUwRVlkOWJTcU8yWU9HbU9hLWVHSVNjWDQ5VFFobGpKT0x1TkxmQUU1NVgyR1NxRmdiUjdZQXJDWWZCOFJwQ080OHBqdE1Qek5Sd0pvS2RmcG5JaUYwdnVocUdhaWoyR1FlQjNobjREazZRUQ?oc=5",
-          "source": "Business Wire",
+          "title": "KB Kookmin Bank has been approved by the Indonesian Financial Supervisory Service (OJK) to establish..",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WNlozb0RXTHBmWjI2Y1otUHdSN1llRUtoR2FENk4yNHVIQi1XckxFal9keFpTZzN6aWYxNWNwc0h0a05uNEk2ZTMwWHRUek5iVGc?oc=5",
+          "source": "매일경제",
+          "date": "08/17"
+        },
+        {
+          "title": "Indonesia's OJK Prepares Rules for Strategic Mineral Exchange Ahead of 2027 Launch",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnlGT0pZRlhCVmdXVmE0RFY4emJOc0dKQWtCTTY1M2Zfd2NJd2JydXdLZDJuU3FPWDc4NExOLW9mVkFNVzdOdkpBY1E0b0hkbTBRclhJR1pxM0FDRTRLOHoyTVh5U0haWl81SGR2ZC1ieFctVEFZb05sbjVvVnBzaFZIRl9OM29ZRk5Yb1VrZHNRLXViR1U4aWozQ2lvUmtVWXlfdjBHLXRPY1Z1Z1phYkd1MVQ?oc=5",
+          "source": "Tempo.co English",
+          "date": "08/16"
+        },
+        {
+          "title": "Indonesia Prepares Strategic Mineral Exchange, OJK Chase Derivative Rules",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ES2JwcFpHM2RxbDZWbUdsYjRNSkgxNWNsZndDcWJQTVFDa1BmV0VLV01NekFNOXFXN1ltVkk2Wkd5cHl3UDY40gFCQVVfeXFMT0UwWUxERFI5SVJZaDZmaWNqMlNaenNNaG5xMV9DOFlrc3pMY3N6Ukt4V0cyeUNHU2xndktQNDBwZ0hn?oc=5",
+          "source": "VOI.ID",
           "date": "08/18"
         }
       ]
