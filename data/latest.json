@@ -1,21 +1,21 @@
 {
   "asOf": "2026-08-20",
-  "updated": "2026-08-20 16:52",
-  "fx": "환율 2026-08-20 · 시장환율   1 USD = ₩1,393.42   |   1 USD = 17,750.00 IDR   |   1 IDR = ₩0.07850",
+  "updated": "2026-08-20 17:30",
+  "fx": "환율 2026-08-20 · 시장환율   1 USD = ₩1,392.68   |   1 USD = 17,740.00 IDR   |   1 IDR = ₩0.07851",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "타법인 주식 및 출자증권 취득 결정 공시 제출",
-      "impact": "지분 구조 변동 가능성, 당사 보유 지분가치에 간접 영향 검토 필요",
+      "text": "전환사채 만기 전 조기취득 결정 공시",
+      "impact": "CB 조기취득은 재무구조 변동을 수반; 당사 지분가치 희석 또는 자금 소진 여부 확인 필요",
       "level": "high",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900476"
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900497"
     },
     {
       "company": "차바이오텍",
-      "text": "전환사채 만기 전 자사 CB 취득 결정 공시 제출",
-      "impact": "부채 조기 상환 또는 재무 조정 의도 확인 필요, 현금 소요가 당사 지분가치 변동 요인",
+      "text": "타법인 주식 및 출자증권 취득 결정 공시",
+      "impact": "지분투자 확대는 자본 배분 방향을 시사; 투자 대상·규모에 따라 당사 보유 지분가치 영향 가능",
       "level": "high",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900497"
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900476"
     }
   ],
   "companies": [
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "A",
-      "event": "자금조달·지분변동 동시 발생",
+      "event": "자금조달·지분변동 복합 공시",
       "tags": [
         "+1.76%",
         "당사 투자"
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "CB 취득과 타법인 지분 취득이 동일일 발생, 자본 배분 방향 확인 필요",
-        "당사와의 직접 시너지 활동(임직원 특강)은 지분투자 관계의 실질 연결 신호"
+        "CB 취득과 타법인 지분 취득이 동시 공시돼 자본구조 변동 가능성 존재; 당사 지분가치 희석 여부 정밀 검토 필요",
+        "당사 임직원 대상 그룹 연구소장 특강은 투자 관계사와의 실질 시너지 진전 신호"
       ],
       "watch": [
-        "CB 만기전 취득 규모와 상환 재원 확보 여부",
-        "타법인 지분 취득 대상·금액 및 사업 연관성",
-        "반기보고서상 CGT/CDMO 매출 및 현금 잔고 추이"
+        "CB 조기취득 규모 및 상환 재원 확인",
+        "타법인 지분취득 대상·목적 및 당사 지분 희석 여부",
+        "반기보고서상 CGT/CDMO 매출 및 수주 현황"
       ],
       "spark": [
         {
@@ -427,7 +427,7 @@
         ],
         [
           "거래량(20일比)",
-          "3.39천 · 0.24x",
+          "3.52천 · 0.24x",
           null
         ],
         [
@@ -452,13 +452,13 @@
         }
       ],
       "events": [
-        "임원·주요주주 지분 변동 및 대량보유 보고가 동시 제출, 지분구조 변화 모니터링 필요",
-        "사업확장·실적 관련 공시는 부재, 헬스케어 전환 진척 여부는 미확인 상태"
+        "주요주주 대량보유 보고서 제출은 지분구조 변화 가능성을 시사; 경영권 안정성 모니터링 필요",
+        "사업 확장·실적 관련 공시는 부재해 현시점 모멘텀 확인 불가"
       ],
       "watch": [
-        "대량보유 보고의 주체 및 취득·처분 목적",
-        "헬스케어 전환 관련 신규 계약·파트너십 공시 여부",
-        "차기 분기 매출·영업손익 개선 여부"
+        "대량보유 변동 주체·목적 및 지분율 변화",
+        "헬스케어 전환 관련 신규 계약·파트너십 여부",
+        "다음 분기 매출·영업손익 추이 확인"
       ],
       "spark": [
         {
@@ -744,7 +744,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "내부자 매도 집중, 투자 매력 점검 필요",
+      "event": "내부자 매도·월가 주의 병존",
       "tags": [
         "+2.25%",
         "벤치마크"
@@ -760,7 +760,7 @@
         [
           "종가",
           "$51.25",
-          "₩71,413"
+          "₩71,375"
         ],
         [
           "취득가",
@@ -790,7 +790,7 @@
         [
           "시가총액",
           "$3.97B",
-          "5.53조"
+          "5.52조"
         ],
         [
           "52주 고점대비",
@@ -809,13 +809,13 @@
         }
       ],
       "events": [
-        "내부자 순매도 440만 달러 수준 집중, 경영진 자사주 확신도 저하 신호로 해석 가능",
-        "핵심 수익지표(IFP·Loss Ratio·EBITDA) 구조적 개선 확인 전까지 신규 투자 진입 근거 미흡"
+        "내부자 순매도 $4.4m와 월가 보수적 시각이 겹쳐 투자 매력도 판단 시 하방 리스크 반영 필요",
+        "핵심 수익 성장 가시성 미확인 상태; IFP·EBITDA 확정 지표 없이 투자 결정 유보 타당"
       ],
       "watch": [
-        "IFP 성장률 및 Loss Ratio 최신 분기 추이",
-        "EBITDA 흑자전환 시점 가이던스 변경 여부",
-        "내부자 매도 지속 여부 및 규모 추이"
+        "IFP 성장률 및 Loss Ratio 공식 발표 시점",
+        "EBITDA 흑자전환 가이던스 업데이트 여부",
+        "내부자 추가 매도 지속 여부 모니터링"
       ],
       "spark": [
         {
@@ -1074,18 +1074,18 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 8/19 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFZvSHhvUEtNR1d4cW1DQVprbG9PVFJQUGVsbVd3Tk53ZFRhblAtdmdRMlFDd2I4cVRveFM4NU9kLXZKUDdZR28xSGVlVkhLYWVPVWNzOEhsM0F6OGlhVm04bElieUMxOVZQM05GTWw3a0tBM2RzZU03M3d4U21UTExkM3U0UFFXM0pYdWtudWxnVVhYd094RURueVFKc2ZXVEkwR1BhWkl3TE9WRnfSAbMBQVVfeXFMTi1qUzVMbWlQWjBrOFgydHlZQWFINkMzcGlCRVRqeUlHeEtCaFI5Nkk3VV9NeFBaQVduMWMxLUViYm9nZXZCQ2NVMGFCLU9GdkJmTEFjQ2lYSk1LVDQ3TV9hdTE2WExsTE50bzdvRmJla1pCNjlDd0oxUnMwdFRxakpWd2FNeGtQVGRLUmlmLTFMYUVhVExGbXZRRWZiLVNGdUJiN1g2dFM5TWJQeTZFb2o2b3M?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5",
       "sources": [
+        {
+          "title": "루멘 Stock Faces Wall Street Caution As Core Profit Growth Comes Into Focus",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5",
+          "source": "Stocktwits",
+          "date": "08/17"
+        },
         {
           "title": "Don't Ignore The Insider Selling In 루멘",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFZvSHhvUEtNR1d4cW1DQVprbG9PVFJQUGVsbVd3Tk53ZFRhblAtdmdRMlFDd2I4cVRveFM4NU9kLXZKUDdZR28xSGVlVkhLYWVPVWNzOEhsM0F6OGlhVm04bElieUMxOVZQM05GTWw3a0tBM2RzZU03M3d4U21UTExkM3U0UFFXM0pYdWtudWxnVVhYd094RURueVFKc2ZXVEkwR1BhWkl3TE9WRnfSAbMBQVVfeXFMTi1qUzVMbWlQWjBrOFgydHlZQWFINkMzcGlCRVRqeUlHeEtCaFI5Nkk3VV9NeFBaQVduMWMxLUViYm9nZXZCQ2NVMGFCLU9GdkJmTEFjQ2lYSk1LVDQ3TV9hdTE2WExsTE50bzdvRmJla1pCNjlDd0oxUnMwdFRxakpWd2FNeGtQVGRLUmlmLTFMYUVhVExGbXZRRWZiLVNGdUJiN1g2dFM5TWJQeTZFb2o2b3M?oc=5",
           "source": "simplywall.st",
-          "date": "08/19"
-        },
-        {
-          "title": "1 Insurance Stock Worth Your Attention and 2 That Underwhelm",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFAya2tSTDZmVlE1aUJocW14TG5DV3YxUXYzLUdZaHotenhGTmo4UFBXbGtLbUIwQTVWRHgweUZjdEVFUmJVRjBKTUZObVo0bHlzakN4NG5oMzdTTHNGNzU0eEt3WHc1WDRsZ3FlckJiM21jb3lGdWxUamF2eTRWNmdoWnlVcnJRVk1DbG1tSnBZUkhqTTBSbWM4Vjh2TUFLb05RWkNBcGFha25MbmwyTjBrZ2MtYUZTSW1DOHZLMA?oc=5",
-          "source": "StockStory",
           "date": "08/19"
         },
         {
@@ -1095,10 +1095,10 @@
           "date": "08/18"
         },
         {
-          "title": "루멘 Insiders Sold US$4.4m Of Shares Suggesting Hesitancy",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYm05eHVmSGFmZXF4Nk1rWFBXMnQ0ZXc4dkdXMXBORDV4ZDBCX184OEhkYkZpcEhxLWcxbmhYZnZUUVFPM1NjQ29BN25fU3pxV01rcmNfZWxFZ21wcVptbkhDTUNVYldWTXNia1NDSTUxQng5U25vNXRsMkRYejRZMDFsOThobUVoNlZYU0d6aGlEOTZUbWlXOWExSXc1S3FWVjdQejd3?oc=5",
-          "source": "Moomoo",
-          "date": "08/18"
+          "title": "1 Insurance Stock Worth Your Attention and 2 That Underwhelm",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFAya2tSTDZmVlE1aUJocW14TG5DV3YxUXYzLUdZaHotenhGTmo4UFBXbGtLbUIwQTVWRHgweUZjdEVFUmJVRjBKTUZObVo0bHlzakN4NG5oMzdTTHNGNzU0eEt3WHc1WDRsZ3FlckJiM21jb3lGdWxUamF2eTRWNmdoWnlVcnJRVk1DbG1tSnBZUkhqTTBSbWM4Vjh2TUFLb05RWkNBcGFha25MbmwyTjBrZ2MtYUZTSW1DOHZLMA?oc=5",
+          "source": "StockStory",
+          "date": "08/19"
         }
       ]
     },
@@ -1106,8 +1106,8 @@
       "id": "LPGI",
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
-      "g": "C",
-      "event": "주요 변동 없음",
+      "g": "B",
+      "event": "AM Best 신용등급 유지·프리미엄 성장 확인",
       "tags": [
         "+1.59%",
         "자회사"
@@ -1172,12 +1172,13 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "AM Best 등급 유지와 인도네시아 시장 대비 초과 성장은 자회사 자본건전성·사업경쟁력이 양호함을 동시 확인",
+        "OJK 규제 환경 변화 없는 상황에서 성장률 우위 지속 시 당사 연결 실적 기여도 확대 여지"
       ],
       "watch": [
-        "OJK 파생상품 규정 개정 일정 및 보험사 적용 범위",
-        "자본적정성(RBC) 분기 보고 동향",
-        "PIKK 개정 관련 추가 규제 공시 여부"
+        "OJK PIKK 개정 및 RBC 기준 변화 동향",
+        "GWP 성장률의 분기별 지속성 여부",
+        "추가 지분 변동 및 연결 자본적정성 추이"
       ],
       "spark": [
         {
@@ -1436,19 +1437,19 @@
       "avgCost": 653.8,
       "currency": "IDR",
       "exchangeLine": "IDX · 8/19 종가 (WIB)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WNlozb0RXTHBmWjI2Y1otUHdSN1llRUtoR2FENk4yNHVIQi1XckxFal9keFpTZzN6aWYxNWNwc0h0a05uNEk2ZTMwWHRUek5iVGc?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlZFNTZjWDhBZ20xVHdlU0tQeGNoMjZlR2t3Zi0xcm1JS0NmaFB4aXZ3QTRCVUhhNXhpT3hsOXlTem9fbVNQRkt2d1JNWnZoTDA3SXUwRVlkOWJTcU8yWU9HbU9hLWVHSVNjWDQ5VFFobGpKT0x1TkxmQUU1NVgyR1NxRmdiUjdZQXJDWWZCOFJwQ080OHBqdE1Qek5Sd0pvS2RmcG5JaUYwdnVocUdhaWoyR1FlQjNobjREazZRUQ?oc=5",
       "sources": [
         {
-          "title": "KB Kookmin Bank has been approved by the Indonesian Financial Supervisory Service (OJK) to establish..",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WNlozb0RXTHBmWjI2Y1otUHdSN1llRUtoR2FENk4yNHVIQi1XckxFal9keFpTZzN6aWYxNWNwc0h0a05uNEk2ZTMwWHRUek5iVGc?oc=5",
-          "source": "매일경제",
-          "date": "08/17"
+          "title": "AM Best Affirms Credit Ratings of PT Lippo General Insurance Tbk.",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlZFNTZjWDhBZ20xVHdlU0tQeGNoMjZlR2t3Zi0xcm1JS0NmaFB4aXZ3QTRCVUhhNXhpT3hsOXlTem9fbVNQRkt2d1JNWnZoTDA3SXUwRVlkOWJTcU8yWU9HbU9hLWVHSVNjWDQ5VFFobGpKT0x1TkxmQUU1NVgyR1NxRmdiUjdZQXJDWWZCOFJwQ080OHBqdE1Qek5Sd0pvS2RmcG5JaUYwdnVocUdhaWoyR1FlQjNobjREazZRUQ?oc=5",
+          "source": "businesswire.com",
+          "date": "08/18"
         },
         {
-          "title": "Indonesia Prepares Strategic Mineral Exchange, OJK Chase Derivative Rules",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ES2JwcFpHM2RxbDZWbUdsYjRNSkgxNWNsZndDcWJQTVFDa1BmV0VLV01NekFNOXFXN1ltVkk2Wkd5cHl3UDY40gFCQVVfeXFMT0UwWUxERFI5SVJZaDZmaWNqMlNaenNNaG5xMV9DOFlrc3pMY3N6Ukt4V0cyeUNHU2xndktQNDBwZ0hn?oc=5",
-          "source": "VOI.ID",
-          "date": "08/18"
+          "title": "Lippo General Insurance outpaces Indonesia premium growth",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEVjMkdCYWp2cGdQdDNlUGhqemV3RjVjSkNfaDlvVmNLWXg1SDc4ZkVmeFc3UExGSmx2Z0pOaWhhUXp1dlpHcXc1M1pTbzJNQ0ptTFpUWGJOLWJsenlIRWN2U3czaUdnY2lQTEpnTUxGSFVxU08zcUt6YnFqR2R4cTZkekxaa3lLZjNKVW81VWdoS0NoQTBmQjlFeDh3Wm8?oc=5",
+          "source": "Insurance Asia",
+          "date": "08/19"
         }
       ]
     }
