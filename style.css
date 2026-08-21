@@ -272,6 +272,8 @@ h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
   #researchList{display:grid;grid-template-columns:1fr 1fr;gap:14px}
   .research-card{margin-bottom:0}
 }
-.research-bullets{margin:0 0 10px 16px;padding:0}
-.research-bullets li{font-size:11px;color:#7B8494;line-height:1.5;margin-bottom:3px}
+.research-bullets{list-style:none;margin:0 0 10px;padding:0}
+.research-bullets li{font-size:10px;color:#7B8494;line-height:1.5;margin-bottom:3px;
+                     padding-left:12px;position:relative}
+.research-bullets li::before{content:"·";position:absolute;left:0;color:#5B6472}
 .research-bullets li:last-child{margin-bottom:0}
