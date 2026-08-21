@@ -1,19 +1,86 @@
 {
-  "updated": "2026-08-21 12:56",
+  "updated": "2026-08-21 13:19",
   "articles": [
     {
       "publisher": "Bain",
+      "type": "consulting",
       "title": "현대적 데이터 플랫폼이란 무엇인가?",
-      "takeaway": "BI·보고 중심으로 설계된 기존 데이터 플랫폼은 AI 시대에 한계를 드러내며, AI 친화적으로 재설계된 플랫폼이 보험사의 장기 경쟁우위를 결정할 것이다.",
+      "takeaway": "AI 시대에 맞는 데이터 플랫폼 구축이 보험사 경쟁력의 핵심",
+      "bullets": [
+        "기존 플랫폼은 BI·보고 중심으로 AI 활용에 구조적 한계",
+        "AI 최적화 플랫폼 보유사가 장기 경쟁우위 확보"
+      ],
       "url": "https://www.bain.com/insights/what-is-a-modern-data-platform/",
-      "date": "08/19"
+      "date": "08/19",
+      "collected_at": "2026-08-21"
     },
     {
       "publisher": "Bain",
-      "title": "명확한 전략 없이는 AI도 게임을 구하지 못한다",
-      "takeaway": "AI는 명확한 타깃과 전략을 갖춘 조직의 성과를 증폭시키지만, 방향성 없는 조직의 손실도 가속화한다는 점에서 보험사의 AI 도입 전략 수립에 시사점을 준다.",
+      "type": "consulting",
+      "title": "AI는 전략 없는 게임을 구하지 못한다",
+      "takeaway": "AI 도입 전 명확한 전략·타깃 설정이 선행되어야 효과 발현",
+      "bullets": [
+        "AI는 명확한 타깃 고객층 보유 기업에만 성과 증폭",
+        "전략 부재 시 AI가 오히려 손실을 가속화"
+      ],
       "url": "https://www.bain.com/insights/ai-wont-save-an-unfocused-game-gaming-report-2026/",
-      "date": "08/18"
+      "date": "08/18",
+      "collected_at": "2026-08-21"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "스테이블코인과 보험산업 과제",
+      "takeaway": "스테이블코인 확산이 보험산업에 미치는 리스크와 기회 분석",
+      "bullets": [
+        "스테이블코인 결제 일반화 시 보험료 수납·지급 방식 변화 가능",
+        "디지털 자산 관련 새로운 보험 상품·담보 수요 발생 전망",
+        "규제 불확실성으로 인한 보험사 자산운용 리스크 존재"
+      ],
+      "url": "https://www.kiri.or.krreportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
+      "date": "2026-06",
+      "collected_at": "2026-08-21"
+    },
+    {
+      "publisher": "NAIC",
+      "type": "regulator",
+      "title": "NAIC, 제프 알러스를 최고재무책임자로 임명",
+      "takeaway": "미국 보험감독 총괄기구 NAIC의 재무 리더십 변화 주목",
+      "bullets": [
+        "NAIC CFO 교체로 규제 재원 운용 방향 변화 가능성",
+        "보험 감독 행정 안정성 및 재정 전략에 영향 예상"
+      ],
+      "url": "https://content.naic.org/article/naic-names-jeff-ahlers-chief-financial-officer",
+      "date": "",
+      "collected_at": "2026-08-21"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "기업 경영환경 변화와 임원배상책임보험(D&O) 시장의 과제",
+      "takeaway": "ESG·지배구조 강화로 D&O 보험 수요와 리스크가 동시 증가",
+      "bullets": [
+        "경영 불확실성 확대로 임원 개인 법적 책임 범위 확장",
+        "국내 D&O 시장 성장성과 보험사 인수심사 고도화 필요",
+        "기후·공급망 리스크 등 신규 임원 배상 사유 증가"
+      ],
+      "url": "https://www.kiri.or.krreportList.do?docId=805489&catId=7&searchCon=&searchWord=&page=1",
+      "date": "2026-03",
+      "collected_at": "2026-08-21"
+    },
+    {
+      "publisher": "NAIC",
+      "type": "regulator",
+      "title": "NAIC 2026 하계 전국회의에서 4개 보험 감독국 재인증 획득",
+      "takeaway": "미국 주(州) 보험감독 재인증이 상호 규제 신뢰성 유지의 근거",
+      "bullets": [
+        "NAIC 재인증(Reaccreditation)은 감독 기준 적합성 공식 확인",
+        "미인증 주와의 보험 규제 격차 발생 시 시장 접근 제한 가능",
+        "국내 보험 당국의 동등성(Equivalence) 협상 시 참고 기준"
+      ],
+      "url": "https://content.naic.org/article/four-insurance-departments-achieve-reaccreditation-during-naic-2026-summer-national-meeting",
+      "date": "",
+      "collected_at": "2026-08-21"
     },
     {
       "publisher": "보험연구원(KIRI)",
@@ -23,24 +90,10 @@
       "date": ""
     },
     {
-      "publisher": "보험연구원(KIRI)",
-      "title": "CEO 리포트: 스테이블코인과 보험산업 과제 (조영현, 2026.06)",
-      "takeaway": "스테이블코인 확산이 보험료 납입·보험금 지급 등 보험 결제 인프라와 규제 환경에 미치는 영향을 점검한 국내 최신 보고서로 주목할 만하다.",
-      "url": "https://www.kiri.or.krreportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
-      "date": "2026-06"
-    },
-    {
       "publisher": "NAIC",
       "title": "NAIC 관련 기사 더 보기",
       "takeaway": "제목·설명 정보가 충분하지 않아 핵심 시사점을 특정하기 어렵다.",
       "url": "https://content.naic.org/article/naic-releases-first-its-kind-national-analysis-homeowners-insurance-market-trends",
-      "date": ""
-    },
-    {
-      "publisher": "NAIC",
-      "title": "NAIC, Jeff Ahlers 최고재무책임자(CFO) 선임 발표 (2026.08.17)",
-      "takeaway": "미국 보험감독협의회(NAIC)의 CFO 교체는 향후 재무·규제 정책 방향 변화의 신호일 수 있어 글로벌 보험규제 동향 모니터링 차원에서 주목할 필요가 있다.",
-      "url": "https://content.naic.org/article/naic-names-jeff-ahlers-chief-financial-officer",
       "date": ""
     }
   ]
