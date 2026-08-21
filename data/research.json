@@ -1,1 +1,89 @@
-{"updated": "", "articles": []}
+{
+  "updated": "2026-08-21 18:12",
+  "articles": [
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "What Is A Modern Data Platform?",
+      "takeaway": "AI 시대 경쟁력은 데이터 플랫폼 설계 방식에서 갈린다.",
+      "bullets": [
+        "기존 플랫폼은 BI·보고 중심으로 AI 활용에 구조적 한계",
+        "AI 전용 설계 플랫폼은 장기 경쟁우위로 직결됨",
+        "보험사 데이터 인프라 재설계 필요성에 시사점"
+      ],
+      "url": "https://www.bain.com/insights/what-is-a-modern-data-platform/",
+      "date": "08/19",
+      "collected_at": "2026-08-21"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "AI Won’t Save an Unfocused Game",
+      "takeaway": "AI는 전략이 명확한 기업의 우위를 가속화하고 불명확한 기업의 손실도 가속화한다.",
+      "bullets": [
+        "포화 시장에서 AI는 방향성 없는 투자의 리스크를 증폭",
+        "명확한 타깃 고객 정의가 AI 도입 효과의 선결 조건",
+        "보험사 AI 전략 수립 시 세그먼트 집중도 점검 필요"
+      ],
+      "url": "https://www.bain.com/insights/ai-wont-save-an-unfocused-game-gaming-report-2026/",
+      "date": "08/18",
+      "collected_at": "2026-08-21"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "스테이블코인과 보험산업 과제",
+      "takeaway": "스테이블코인 확산이 보험산업에 새로운 리스크와 규제 과제를 제기한다.",
+      "bullets": [
+        "스테이블코인의 결제·담보 활용 확대로 보험사 익스포저 증가",
+        "디페깅(가치 이탈) 등 새로운 손실 시나리오 등장",
+        "국내 보험규제 체계의 디지털자산 대응 방안 마련 시급"
+      ],
+      "url": "https://www.kiri.or.kr/report/reportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
+      "date": "2026-06",
+      "collected_at": "2026-08-21"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "기업 경영환경 변화와 임원배상책임보험 시장의 과제",
+      "takeaway": "경영환경 불확실성 증가로 D&O(임원배상책임) 보험 시장 재편이 가속화된다.",
+      "bullets": [
+        "ESG·공급망 리스크 등 임원 책임 범위가 지속 확대",
+        "소송 증가·판결 금액 상승으로 손해율 관리 난이도 상승",
+        "국내 D&O 상품 구조 및 언더라이팅 기준 재검토 필요"
+      ],
+      "url": "https://www.kiri.or.kr/report/reportList.do?docId=805489&catId=7&searchCon=&searchWord=&page=1",
+      "date": "2026-03",
+      "collected_at": "2026-08-21"
+    },
+    {
+      "publisher": "NAIC",
+      "type": "regulator",
+      "title": "NAIC Names Jeff Ahlers Chief Financial Officer",
+      "takeaway": "NAIC CFO 교체는 미국 보험규제 기관의 재무 거버넌스 변화 신호다.",
+      "bullets": [
+        "Jeff Ahlers가 NAIC 최고재무책임자로 신규 선임",
+        "NAIC 재무 운영·예산 전략 방향 변화 가능성",
+        "국내 보험당국과의 협력 채널 담당자 변동 모니터링 필요"
+      ],
+      "url": "https://content.naic.org/article/naic-names-jeff-ahlers-chief-financial-officer",
+      "date": "Aug. 17, 2026",
+      "collected_at": "2026-08-21"
+    },
+    {
+      "publisher": "NAIC",
+      "type": "regulator",
+      "title": "The Power of Innovation to Drive Change: NAIC President White’s 2026 Summer National Meeting Keynote",
+      "takeaway": "NAIC 의장이 혁신을 2026년 핵심 규제 의제로 공식화했다.",
+      "bullets": [
+        "보험 규제 혁신을 통한 소비자 보호·시장 발전 강조",
+        "AI·데이터 활용 등 신기술 규제 프레임워크 정비 시사",
+        "글로벌 규제 동향으로 국내 감독 정책에 참고 가능"
+      ],
+      "url": "https://content.naic.org/article/power-innovation-drive-change-naic-president-whites-2026-summer-national-meeting-keynote",
+      "date": "Aug. 12, 2026",
+      "collected_at": "2026-08-21"
+    }
+  ]
+}
