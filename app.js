@@ -8,7 +8,7 @@ const WEB_PASSWORD = "hanwha2026";   // 필요 시 이 값만 바꾸면 된다
 
 // 배포 버전 표시 (하단 고지에 노출). 파일 올릴 때마다 갱신하면
 // "지금 보는 화면이 최신인지 캐시인지"를 화면에서 바로 확인할 수 있다.
-const APP_VERSION = "v1.1 · 2026-08-13";
+const APP_VERSION = "v1.20 · 2026-08-21";
 
 function initPasswordGate() {
   const insideTelegram = !!(window.Telegram?.WebApp?.initData);
