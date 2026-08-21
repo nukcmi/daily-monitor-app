@@ -394,6 +394,62 @@ async function load() {
   applyPayload();
 }
 
+// ── 리서치 트렌드 탭 ──
+let researchPayload = null;
+let researchLoaded = false;
+
+function renderResearch() {
+  const arr = (researchPayload && researchPayload.articles) || [];
+  const container = document.getElementById('researchList');
+  const updLine = document.getElementById('researchUpdatedLine');
+  if (updLine) {
+    updLine.textContent = researchPayload && researchPayload.updated
+      ? `Updated · ${researchPayload.updated} KST`
+      : '-';
+  }
+  if (!arr.length) {
+    container.innerHTML = `<div class="research-empty">이번 주 신규 아티클이 없습니다.</div>`;
+    return;
+  }
+  container.innerHTML = arr.map((a, i) => `
+    <div class="research-card" data-idx="${i}">
+      <div class="research-top">
+        <span class="research-pub">${a.publisher}</span>
+        ${a.date ? `<span class="research-date">${a.date}</span>` : ''}
+      </div>
+      <div class="research-title">${a.title}</div>
+      ${a.takeaway ? `<div class="research-takeaway">${a.takeaway}</div>` : ''}
+      <div class="research-link">원문 보기 →</div>
+    </div>`).join('');
+  container.querySelectorAll('.research-card').forEach(el => {
+    el.onclick = () => openExternal(arr[+el.dataset.idx].url);
+  });
+}
+
+async function loadResearch() {
+  if (researchLoaded) return;
+  try {
+    const res = await fetch('./data/research.json', { cache: 'no-store' });
+    if (res.ok) researchPayload = await res.json();
+  } catch (e) {
+    console.warn('리서치 데이터 로드 실패:', e);
+  }
+  researchLoaded = true;
+  renderResearch();
+}
+
+document.querySelectorAll('.view-tab').forEach(btn => {
+  btn.onclick = () => {
+    document.querySelectorAll('.view-tab').forEach(b => b.classList.remove('on'));
+    btn.classList.add('on');
+    const view = btn.dataset.view;
+    document.getElementById('stocksView').style.display = view === 'stocks' ? '' : 'none';
+    document.getElementById('researchView').style.display = view === 'research' ? '' : 'none';
+    if (view === 'research') loadResearch();
+  };
+});
+// ── 리서치 트렌드 탭 끝 ──
+
 if (window.Telegram?.WebApp) { Telegram.WebApp.ready(); Telegram.WebApp.expand(); }
 initRequestForm();
 load();
