@@ -277,3 +277,7 @@ h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
                      padding-left:12px;position:relative}
 .research-bullets li::before{content:"·";position:absolute;left:0;color:#5B6472}
 .research-bullets li:last-child{margin-bottom:0}
+
+.research-disclaimer{font-size:10px;color:#5B6472;line-height:1.6;margin-bottom:14px;
+                     padding:10px 12px;background:rgba(255,255,255,.03);
+                     border-radius:8px;border:1px solid rgba(255,255,255,.05)}
