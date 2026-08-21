@@ -418,6 +418,7 @@ function renderResearch() {
         ${a.collected_at ? `<span class="research-date">${a.collected_at}</span>` : ''}
       </div>
       <div class="research-title">${a.title}</div>
+          ${a.takeaway ? `<div class="research-takeaway">${a.takeaway}</div>` : ''}
       ${(a.bullets && a.bullets.length)
         ? `<ul class="research-bullets">${a.bullets.map(b => `<li>${b}</li>`).join('')}</ul>`
         : ''}
