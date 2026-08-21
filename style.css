@@ -247,3 +247,28 @@ h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
   .kpis{grid-template-columns:repeat(4,1fr)}
   #priceChart{max-height:220px}
 }
+/* ── 리서치 트렌드 탭 ── */
+.view-tabs{display:flex;gap:8px;margin:22px 0 4px}
+.view-tab{flex:1;padding:10px 0;border:1px solid rgba(255,255,255,.1);border-radius:20px;
+          background:#12151C;color:#8B94A3;font-size:12.5px;font-weight:600;cursor:pointer}
+.view-tab.on{background:#F37321;color:#fff;border-color:#F37321}
+
+.research-updated{font-size:11px;color:#7B8494;margin:14px 0 12px}
+
+.research-card{background:#12151C;border:1px solid rgba(255,255,255,.07);border-radius:12px;
+               padding:16px;margin-bottom:10px;cursor:pointer}
+.research-card:last-child{margin-bottom:0}
+.research-card:active{background:#171B21}
+.research-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.research-pub{font-size:10.5px;color:#F89B5C;font-weight:700;letter-spacing:.2px}
+.research-date{font-size:10.5px;color:#7B8494}
+.research-title{font-size:14px;font-weight:700;color:#FFFFFF;line-height:1.45;margin-bottom:6px}
+.research-takeaway{font-size:12.5px;color:#C4C9D2;line-height:1.5;margin-bottom:10px}
+.research-link{font-size:11px;color:#F89B5C;font-weight:600}
+.research-empty{text-align:center;color:#7B8494;font-size:12.5px;padding:50px 0}
+
+/* PC 웹: 2열 그리드 (기존 #attnList 패턴과 동일) */
+@media (min-width:880px){
+  #researchList{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  .research-card{margin-bottom:0}
+}
