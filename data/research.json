@@ -1,0 +1,47 @@
+{
+  "updated": "2026-08-21 12:56",
+  "articles": [
+    {
+      "publisher": "Bain",
+      "title": "현대적 데이터 플랫폼이란 무엇인가?",
+      "takeaway": "BI·보고 중심으로 설계된 기존 데이터 플랫폼은 AI 시대에 한계를 드러내며, AI 친화적으로 재설계된 플랫폼이 보험사의 장기 경쟁우위를 결정할 것이다.",
+      "url": "https://www.bain.com/insights/what-is-a-modern-data-platform/",
+      "date": "08/19"
+    },
+    {
+      "publisher": "Bain",
+      "title": "명확한 전략 없이는 AI도 게임을 구하지 못한다",
+      "takeaway": "AI는 명확한 타깃과 전략을 갖춘 조직의 성과를 증폭시키지만, 방향성 없는 조직의 손실도 가속화한다는 점에서 보험사의 AI 도입 전략 수립에 시사점을 준다.",
+      "url": "https://www.bain.com/insights/ai-wont-save-an-unfocused-game-gaming-report-2026/",
+      "date": "08/18"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "title": "보험연구원 보고서 다운로드",
+      "takeaway": "제목·설명 정보가 충분하지 않아 핵심 시사점을 특정하기 어렵다.",
+      "url": "https://www.kiri.or.krdownloadFile.do?docId=836539",
+      "date": ""
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "title": "CEO 리포트: 스테이블코인과 보험산업 과제 (조영현, 2026.06)",
+      "takeaway": "스테이블코인 확산이 보험료 납입·보험금 지급 등 보험 결제 인프라와 규제 환경에 미치는 영향을 점검한 국내 최신 보고서로 주목할 만하다.",
+      "url": "https://www.kiri.or.krreportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
+      "date": "2026-06"
+    },
+    {
+      "publisher": "NAIC",
+      "title": "NAIC 관련 기사 더 보기",
+      "takeaway": "제목·설명 정보가 충분하지 않아 핵심 시사점을 특정하기 어렵다.",
+      "url": "https://content.naic.org/article/naic-releases-first-its-kind-national-analysis-homeowners-insurance-market-trends",
+      "date": ""
+    },
+    {
+      "publisher": "NAIC",
+      "title": "NAIC, Jeff Ahlers 최고재무책임자(CFO) 선임 발표 (2026.08.17)",
+      "takeaway": "미국 보험감독협의회(NAIC)의 CFO 교체는 향후 재무·규제 정책 방향 변화의 신호일 수 있어 글로벌 보험규제 동향 모니터링 차원에서 주목할 필요가 있다.",
+      "url": "https://content.naic.org/article/naic-names-jeff-ahlers-chief-financial-officer",
+      "date": ""
+    }
+  ]
+}
