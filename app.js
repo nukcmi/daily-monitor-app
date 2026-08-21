@@ -415,10 +415,12 @@ function renderResearch() {
     <div class="research-card" data-idx="${i}">
       <div class="research-top">
         <span class="research-pub">${a.publisher}</span>
-        ${a.date ? `<span class="research-date">${a.date}</span>` : ''}
+        ${a.collected_at ? `<span class="research-date">${a.collected_at}</span>` : ''}
       </div>
       <div class="research-title">${a.title}</div>
-      ${a.takeaway ? `<div class="research-takeaway">${a.takeaway}</div>` : ''}
+      ${(a.bullets && a.bullets.length)
+        ? `<ul class="research-bullets">${a.bullets.map(b => `<li>${b}</li>`).join('')}</ul>`
+        : ''}
       <div class="research-link">원문 보기 →</div>
     </div>`).join('');
   container.querySelectorAll('.research-card').forEach(el => {
