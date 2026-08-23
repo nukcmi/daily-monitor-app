@@ -1,75 +1,89 @@
 {
-  "updated": "2026-08-21 18:12",
+  "updated": "2026-08-24 08:28",
   "articles": [
     {
       "publisher": "Bain",
       "type": "consulting",
       "title": "What Is A Modern Data Platform?",
-      "takeaway": "AI 시대 경쟁력은 데이터 플랫폼 설계 방식에서 갈린다.",
+      "takeaway": "AI 시대 경쟁우위는 데이터 플랫폼 현대화에서 결정된다.",
       "bullets": [
-        "기존 플랫폼은 BI·보고 중심으로 AI 활용에 구조적 한계",
-        "AI 전용 설계 플랫폼은 장기 경쟁우위로 직결됨",
-        "보험사 데이터 인프라 재설계 필요성에 시사점"
+        "기존 플랫폼은 BI·리포팅 중심으로 AI 활용에 구조적 한계",
+        "AI용 플랫폼은 실시간 데이터 통합·거버넌스 설계가 핵심",
+        "보험사도 언더라이팅·클레임 AI 고도화를 위해 플랫폼 재설계 필요"
       ],
       "url": "https://www.bain.com/insights/what-is-a-modern-data-platform/",
       "date": "08/19",
-      "collected_at": "2026-08-21"
+      "collected_at": "2026-08-24"
     },
     {
       "publisher": "Bain",
       "type": "consulting",
       "title": "AI Won’t Save an Unfocused Game",
-      "takeaway": "AI는 전략이 명확한 기업의 우위를 가속화하고 불명확한 기업의 손실도 가속화한다.",
+      "takeaway": "전략적 집중 없이 AI를 도입하면 오히려 손실을 가속화한다.",
       "bullets": [
-        "포화 시장에서 AI는 방향성 없는 투자의 리스크를 증폭",
-        "명확한 타깃 고객 정의가 AI 도입 효과의 선결 조건",
-        "보험사 AI 전략 수립 시 세그먼트 집중도 점검 필요"
+        "AI는 명확한 타깃 전략이 있는 기업의 성과만 복리로 증폭",
+        "방향성 없는 AI 투자는 비용만 늘리고 경쟁력 격차 심화",
+        "보험사도 AI 도입 전 핵심 고객·상품 세그먼트 선택과 집중 필수"
       ],
       "url": "https://www.bain.com/insights/ai-wont-save-an-unfocused-game-gaming-report-2026/",
       "date": "08/18",
-      "collected_at": "2026-08-21"
+      "collected_at": "2026-08-24"
     },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "스테이블코인과 보험산업 과제",
-      "takeaway": "스테이블코인 확산이 보험산업에 새로운 리스크와 규제 과제를 제기한다.",
+      "takeaway": "스테이블코인 확산이 보험산업의 새로운 리스크·기회를 동시에 창출한다.",
       "bullets": [
-        "스테이블코인의 결제·담보 활용 확대로 보험사 익스포저 증가",
-        "디페깅(가치 이탈) 등 새로운 손실 시나리오 등장",
-        "국내 보험규제 체계의 디지털자산 대응 방안 마련 시급"
+        "스테이블코인 관련 커스터디·디페깅 리스크의 보험 인수 필요성 부상",
+        "보험료 결제·보험금 지급 수단으로 스테이블코인 활용 가능성 검토",
+        "규제 불확실성으로 상품 개발 및 자산운용 전략 수립에 주의 요구"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-06",
-      "collected_at": "2026-08-21"
+      "collected_at": "2026-08-24"
     },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "기업 경영환경 변화와 임원배상책임보험 시장의 과제",
-      "takeaway": "경영환경 불확실성 증가로 D&O(임원배상책임) 보험 시장 재편이 가속화된다.",
+      "takeaway": "경영환경 변화로 D&O(임원배상책임) 보험 수요와 인수 난도가 동시에 상승 중이다.",
       "bullets": [
-        "ESG·공급망 리스크 등 임원 책임 범위가 지속 확대",
-        "소송 증가·판결 금액 상승으로 손해율 관리 난이도 상승",
-        "국내 D&O 상품 구조 및 언더라이팅 기준 재검토 필요"
+        "ESG·공급망 리스크 등 신규 임원 책임 영역 확대로 클레임 증가",
+        "국내 주주대표소송·집단소송 활성화로 D&O 보험 가입 필요성 증대",
+        "복잡한 리스크 평가 기준 마련과 요율 적정화가 시장 과제로 지목"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=805489&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-03",
-      "collected_at": "2026-08-21"
+      "collected_at": "2026-08-24"
     },
     {
       "publisher": "NAIC",
       "type": "regulator",
       "title": "NAIC Names Jeff Ahlers Chief Financial Officer",
-      "takeaway": "NAIC CFO 교체는 미국 보험규제 기관의 재무 거버넌스 변화 신호다.",
+      "takeaway": "NAIC CFO 교체로 미국 보험규제기관의 재무 거버넌스 변화에 주목 필요.",
       "bullets": [
-        "Jeff Ahlers가 NAIC 최고재무책임자로 신규 선임",
-        "NAIC 재무 운영·예산 전략 방향 변화 가능성",
-        "국내 보험당국과의 협력 채널 담당자 변동 모니터링 필요"
+        "Jeff Ahlers가 신임 CFO로 임명되어 NAIC 재무 총괄",
+        "NAIC 내부 재무 전략 변화가 규제 정책 방향에 영향 가능",
+        "국내 보험사의 미국 규제 동향 모니터링 포인트로 활용 가능"
       ],
       "url": "https://content.naic.org/article/naic-names-jeff-ahlers-chief-financial-officer",
       "date": "Aug. 17, 2026",
-      "collected_at": "2026-08-21"
+      "collected_at": "2026-08-24"
+    },
+    {
+      "publisher": "NAIC",
+      "type": "regulator",
+      "title": "Four Insurance Departments Achieve Reaccreditation During NAIC 2026 Summer National Meeting",
+      "takeaway": "미국 4개 보험 감독부서 재인증으로 규제 품질 기준 준수를 재확인했다.",
+      "bullets": [
+        "NAIC 인증(Accreditation)은 주 보험 감독체계의 최소 기준 충족 의미",
+        "2026 하계 총회에서 재인증 완료로 감독 일관성 강화",
+        "국내 감독당국의 국제 규제 협력·기준 벤치마킹 시 참고 가능"
+      ],
+      "url": "https://content.naic.org/article/four-insurance-departments-achieve-reaccreditation-during-naic-2026-summer-national-meeting",
+      "date": "Aug. 12, 2026",
+      "collected_at": "2026-08-24"
     },
     {
       "publisher": "NAIC",
