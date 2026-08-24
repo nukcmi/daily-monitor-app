@@ -1,21 +1,21 @@
 {
   "asOf": "2026-08-24",
-  "updated": "2026-08-24 17:03",
-  "fx": "환율 2026-08-24 · 시장환율   1 USD = ₩1,383.92   |   1 USD = 17,710.00 IDR   |   1 IDR = ₩0.07814",
+  "updated": "2026-08-24 17:43",
+  "fx": "환율 2026-08-24 · 시장환율   1 USD = ₩1,384.72   |   1 USD = 17,705.00 IDR   |   1 IDR = ₩0.07821",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "만기 전 전환사채 조기 취득 결정 공시",
-      "impact": "CB 조기상환은 이자 비용 절감 효과가 있으나, 현금 유출로 CGT/CDMO 투자 재원 압박 여부 점검 필요",
-      "level": "mid",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900497"
+      "text": "타법인 주식 및 출자증권 취득 결정 공시 발생",
+      "impact": "당사 보유 지분가치에 영향을 줄 수 있는 지분구조 변동 — 취득 대상·규모에 따라 CGT/CDMO 사업 방향성 판단 필요",
+      "level": "high",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900476"
     },
     {
       "company": "차바이오텍",
-      "text": "타법인 주식 및 출자증권 신규 취득 결정 공시",
-      "impact": "CB 조기상환과 동시 발생한 지분 취득으로, 자금 배분 우선순위 및 핵심 사업 투자 여력 영향 확인 필요",
-      "level": "mid",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900476"
+      "text": "전환사채 만기 전 조기 취득 결정 공시 발생",
+      "impact": "CB 조기상환은 부채 축소 또는 전환권 희석 방지 효과 — 자금 여력 및 재무구조 변화가 당사 지분가치에 직접 연동",
+      "level": "high",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900497"
     }
   ],
   "companies": [
@@ -23,8 +23,8 @@
       "id": "085660",
       "name": "차바이오텍",
       "ticker": "085660",
-      "g": "B",
-      "event": "CB 조기상환·신규 지분 취득 병행",
+      "g": "A",
+      "event": "CB 조기취득·타법인 출자 공시 동시 발생",
       "tags": [
         "-1.34%",
         "당사 투자"
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "CB 만기 전 취득과 타법인 출자 결정이 동시 발생 — 자금 운용 방향 재편 가능성",
-        "조달 여력 소진 여부에 따라 CGT/CDMO 투자 지속성 영향 가능"
+        "CB 만기 전 취득과 신규 지분 취득이 같은 날 공시 — 재무구조 및 지분 변동 가능성 동시 점검 필요",
+        "자금 운용 방향성과 자본 배분 우선순위 변화 여부를 종합 판단해야 할 시점"
       ],
       "watch": [
-        "CB 조기상환 후 잔여 현금 규모",
-        "타법인 취득 대상 및 CGT/CDMO 연관성",
-        "추가 자금조달(증자·CB) 일정"
+        "CB 조기취득 규모·재원 출처 확인",
+        "타법인 출자 대상 및 전략적 목적 파악",
+        "추가 자금조달(유상증자 등) 계획 여부"
       ],
       "spark": [
         {
@@ -443,9 +443,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "반기 실적(매출·영업손익) 공시 여부",
-        "헬스케어 신규 고객사·파트너십 발표",
-        "사업모델 전환 관련 추가 공시"
+        "분기 실적(매출·영업손익) 발표 시점 모니터링",
+        "신규 고객사·파트너십 계약 공시 여부",
+        "사업모델 전환 관련 추가 공시 발생 여부"
       ],
       "spark": [
         {
@@ -712,7 +712,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "C",
-      "event": "월가 Sell 강등·핵심이익 주목",
+      "event": "주요 변동 없음",
       "tags": [
         "+5.25%",
         "벤치마크"
@@ -728,7 +728,7 @@
         [
           "종가",
           "$53.37",
-          "₩73,860"
+          "₩73,903"
         ],
         [
           "취득가",
@@ -777,13 +777,13 @@
         }
       ],
       "events": [
-        "Sell 등급 강등과 핵심이익 성장 불확실성 — 투자 검토 시 밸류에이션 하방 리스크 유의",
-        "IFP·Loss Ratio 등 구조적 지표 확인 전 신규 투자 판단 보류 적절"
+        "제공된 기사는 기관 포지션 진입·투자의견 하향·주가 랠리 평가 등 투자심리 관련 내용으로 IFP·Loss Ratio 등 핵심 지표 변화 없음",
+        "벤치마크 관점의 실질적 변화 신호 부재 — 다음 실적 공시 전까지 관망 유지 적절"
       ],
       "watch": [
-        "IFP 성장률 분기 추이",
-        "Loss Ratio 개선 여부",
-        "EBITDA 흑자전환 시점"
+        "IFP 성장률 및 Loss Ratio 분기 실적 발표 확인",
+        "EBITDA 흑자전환 시점 가이던스 변화 여부",
+        "기관 지분 변동이 밸류에이션에 미치는 영향"
       ],
       "spark": [
         {
@@ -1051,12 +1051,6 @@
           "date": "08/22"
         },
         {
-          "title": "루멘 Stock Faces Wall Street Caution As Core Profit Growth Comes Into Focus",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5",
-          "source": "Stocktwits",
-          "date": "08/21"
-        },
-        {
           "title": "루멘 Stock And Other Climate Risk Insurers Repricing US Property Coverage",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnVoTmVtdXMzN0xyMkkzbldWSVdFaDViaVVLX2dMYzFFaTBvdmVpdlJ3RmNxYTdxSXhzWDBXd3dIWnZYTzU5a055Y2FCMURhUHFxcHhSaUFRaDRxT2I4U0tHZ3hCQmZURzBkY1k2c1JoTXpsUmwyd09SbHRUQ2tUSEppaGFnai1zdnNfd252TmRTVjFYN1dYekdQMjFwWlNjdHk5akRpRE9KVFQtQkRRZnBuMXV6N3NxYW5fbFNWZUFGODjSAcgBQVVfeXFMTlZnb3BoMW9KX3dpaGZRVkdzWjBWZDQ0NU96Wm8xV3F1TGUwQ1RISG1YR1p3aDUxb3lDaHpVWUFuMXF6NC1kTGxkQVl6MmtaMHRRZmgwZ0V4OVZScE1rNUdmTk54NmxTT1pZVFllRHlULUttV0xLbC0yNlpGb21JaS12WGJRaUxwZEQ0THgtMmVPT1lsS2FyM1RkOFlWTmV5OHJ1czZnenFTQThXRXVyQU1yNmFsdEQ4ZU9JVWNDRzF0OUFULTE2Uy0?oc=5",
           "source": "simplywall.st",
@@ -1067,6 +1061,12 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3Z2c29haWlDWHhPbGs0M2V0UVZWMWRacVcxWTREdTNvejlhTFhtQVI2Z3BtYlFVN1ExZTV6THYxMC1xelJLcmp2MHlYLWx0bVpFa2RIYWpNUkxydDlpaGd6a3FVTlFxb3I2Tl9Ga3drdUNFY3Z4bkExQ1RzZzBqS0ZGY3diems3T29UZkUxWVBkQzczSG9NbE05aVk3clRnN1IybmdfMTdEbjVsZFpRMERTUDAyU0FnWjNJ?oc=5",
           "source": "GuruFocus",
           "date": "08/21"
+        },
+        {
+          "title": "루멘 (NYSE:루멘) Lowered to \"Sell\" Rating by Wall Street Zen",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTZsOVNTb0tUTlFTb2t1eHM1dDhiNlpXZG9nT3ZHQWRjV3R4SF9wYmFhTnFhLUZJWnhBQnRycVFualZUcnBoTmJiMV9yaTh1aU9PN0ZKQmJ0OGE2ZVZCZGtfaWw1cXdEUm5IaTQxb3VCSEIxdzJQSEtQeDNobnA5akR0cTRXamhVR1hWMkF6RHVsOTZ3RmZyVEVXcHAxY2NLWGZaN21XX3A5SC12RXhVejdkZw?oc=5",
+          "source": "MarketBeat",
+          "date": "08/22"
         }
       ]
     },
@@ -1074,8 +1074,8 @@
       "id": "LPGI",
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
-      "g": "B",
-      "event": "H1 역대 최고 실적·AM Best A- 유지",
+      "g": "C",
+      "event": "주요 변동 없음",
       "tags": [
         "-0.79%",
         "자회사"
@@ -1091,7 +1091,7 @@
         [
           "종가",
           "Rp625",
-          "₩48.8"
+          "₩48.9"
         ],
         [
           "취득가",
@@ -1121,7 +1121,7 @@
         [
           "시가총액",
           "Rp1.9조",
-          "1,512억"
+          "1,513억"
         ],
         [
           "52주 고점대비",
@@ -1140,13 +1140,12 @@
         }
       ],
       "events": [
-        "반기 최고 실적과 신용등급 유지는 자회사 편입 후 자본건전성 리스크가 현재로선 제한적임을 시사",
-        "AM Best A- 등급 유지가 OJK 규제 대응 여력을 뒷받침하며 추가 자본확충 부담 경감"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 및 PIKK 개정 동향",
-        "RBC 비율 구체 수치 확인",
-        "GWP 성장률 및 손해율 세부 지표"
+        "OJK 규제 개정(PIKK 포함) 동향 확인",
+        "분기 RBC 비율 및 자본적정성 지표 점검",
+        "GWP 성장률 및 손해율 추이 모니터링"
       ],
       "spark": [
         {
@@ -1405,19 +1404,13 @@
       "avgCost": 653.8,
       "currency": "IDR",
       "exchangeLine": "IDX · 8/21 종가 (WIB)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zbUlKT1U5VndQTFhxT3ltQzRUQXAyc0h0VUkyQVBHdW5MVWtRRFZkRjI0XzBPelFXNXJ2eGVlX2lNZGlqb214S1FheFZLOWtsMXlzTlZqQQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEVYZjFsVk9rYnFCOWpyczhTLUFDdGQzTXhVR1VSQzUyTEw5WU1hOXBka0FxUDI3STcweTVBbzVSYUpaeXlNOFozUXg0N0twWEJWQjAyRDNMeUtIZFpiN2RPQlBtRzA4UmViU2tNeHlQcTRpc1lHaWhHUExSSHk2Y0M0QlZ5dXhUdV9OazRxZWVmcXhqWmlTVA?oc=5",
       "sources": [
         {
-          "title": "Hanwha General Insurance's Indonesian unit posts record H1 results",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zbUlKT1U5VndQTFhxT3ltQzRUQXAyc0h0VUkyQVBHdW5MVWtRRFZkRjI0XzBPelFXNXJ2eGVlX2lNZGlqb214S1FheFZLOWtsMXlzTlZqQQ?oc=5",
-          "source": "The Korea Herald",
-          "date": "08/21"
-        },
-        {
-          "title": "LGI Prints Record Revenue and Profit in Semester I-2026, Maintain AM Best Rating at A-",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ORmVTQ1V4SzBFRHZfRXNfY3dBVjJNZE9YdFpSeVg3WVl3RGVtMkxJazZKbEdXc0xrUEd5dW5YR3NqV3R5M0FB0gFCQVVfeXFMTnZPd0xkOFFSSkZUZldienQ0RHBqU0hRMVJWMlRneGk2andEVzh4eTU3ZndnN1VyQXFrbnNQQVJsaGpB?oc=5",
-          "source": "VOI.ID",
-          "date": "08/20"
+          "title": "China Hongqiao plans $200m overseas alumina investment",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEVYZjFsVk9rYnFCOWpyczhTLUFDdGQzTXhVR1VSQzUyTEw5WU1hOXBka0FxUDI3STcweTVBbzVSYUpaeXlNOFozUXg0N0twWEJWQjAyRDNMeUtIZFpiN2RPQlBtRzA4UmViU2tNeHlQcTRpc1lHaWhHUExSSHk2Y0M0QlZ5dXhUdV9OazRxZWVmcXhqWmlTVA?oc=5",
+          "source": "Petromindo",
+          "date": "08/24"
         }
       ]
     }
