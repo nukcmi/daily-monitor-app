@@ -1,20 +1,20 @@
 {
-  "asOf": "2026-08-21",
-  "updated": "2026-08-21 18:21",
-  "fx": "환율 2026-08-21 · 시장환율   1 USD = ₩1,383.68   |   1 USD = 17,690.00 IDR   |   1 IDR = ₩0.07822",
+  "asOf": "2026-08-24",
+  "updated": "2026-08-24 16:31",
+  "fx": "환율 2026-08-24 · 시장환율   1 USD = ₩1,383.50   |   1 USD = 17,710.00 IDR   |   1 IDR = ₩0.07812",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "타법인 주식·출자증권 취득 결정 공시",
-      "impact": "투자 대상·규모에 따라 CGT/CDMO 사업 확장 또는 자본 소요 증가로 당사 지분가치에 직접 영향",
-      "level": "high",
+      "text": "차바이오텍, 타법인 주식 및 출자증권 취득 결정 공시",
+      "impact": "현금 유출 방향과 규모에 따라 CGT/CDMO 투자 재원 및 당사 지분가치에 영향",
+      "level": "mid",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900476"
     },
     {
       "company": "차바이오텍",
-      "text": "전환사채 만기 전 조기 취득(사채 상환) 공시",
-      "impact": "CB 조기 상환은 재무 부담 경감 또는 추가 자금조달 필요성 신호로 작용 — 당사 지분가치 안정성에 직접 연관",
-      "level": "high",
+      "text": "차바이오텍, 전환사채 만기 전 자기취득 결정 공시",
+      "impact": "CB 희석 리스크 일부 축소되나, 자금 운용 여력 변화로 추가 조달 필요성 재점검 필요",
+      "level": "mid",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900497"
     }
   ],
@@ -24,22 +24,22 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "자회사 취득·CB 조기상환 공시",
+      "event": "CB 자기취득·타법인 지분 취득 공시",
       "tags": [
-        "-4.97%",
+        "-1.34%",
         "당사 투자"
       ],
-      "priceText": "₩8,220",
-      "openText": "₩8,470",
-      "highText": "₩8,670",
-      "lowText": "₩8,120",
-      "prevCloseText": "₩8,650",
-      "changeText": "-₩430",
+      "priceText": "₩8,110",
+      "openText": "₩8,290",
+      "highText": "₩8,400",
+      "lowText": "₩8,060",
+      "prevCloseText": "₩8,220",
+      "changeText": "-₩110",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,220",
+          "₩8,110",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-35.81%",
+          "-36.67%",
           null
         ],
         [
           "전일대비",
-          "-4.97%",
+          "-1.34%",
           null
         ],
         [
           "전주대비",
-          "-13.75%",
+          "-1.34%",
           null
         ],
         [
           "거래량(20일比)",
-          "29.71만 · 0.94x",
+          "28.51만 · 0.90x",
           null
         ],
         [
           "시가총액",
-          "7,642억",
+          "7,540억",
           null
         ],
         [
           "52주 고점대비",
-          "-65.68%",
+          "-66.14%",
           null
         ]
       ],
@@ -89,19 +89,15 @@
         }
       ],
       "events": [
-        "타법인 주식 취득과 CB 만기 전 사채 취득이 동시 공시 — 자본 배분 방향과 재무 부담 변화를 동시에 점검할 필요",
-        "한화손보 임직원 대상 그룹 연구소장 특강은 지분 투자 이후 실질 협력 채널이 가동 중임을 시사"
+        "자기 CB 취득은 이자비용·전환희석 축소 효과이나, 동시에 타법인 투자를 단행해 현금 운용 방향성 확인 필요",
+        "두 건의 공시가 같은 날 발생—자금 배분 우선순위와 재무여력 변화가 지분가치의 핵심 변수로 부상"
       ],
       "watch": [
-        "타법인 취득 대상·금액 및 CGT/CDMO 연관성",
-        "CB 조기 상환 후 추가 자금조달 계획 여부",
-        "한화손보-차바이오텍 협력 사업화 구체화 여부"
+        "CB 취득 후 잔여 CB 규모 및 희석 리스크",
+        "타법인 투자 대상·금액의 전략적 정합성",
+        "자금조달 여력 대비 CGT/CDMO 투자 지속 가능성"
       ],
       "spark": [
-        {
-          "date": "5/21",
-          "close": 13450.0
-        },
         {
           "date": "5/22",
           "close": 14180.0
@@ -349,11 +345,15 @@
         {
           "date": "8/21",
           "close": 8220.0
+        },
+        {
+          "date": "8/24",
+          "close": 8110.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 8/21 종가",
+      "exchangeLine": "KRX · 8/24 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900476",
       "sources": [
         {
@@ -367,18 +367,6 @@
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900497",
           "source": "DART",
           "date": "20260818"
-        },
-        {
-          "title": "차광렬 차병원·차바이오그룹 연구소장, 한화손보 임직원 대상 특강",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BeERFTXp5MTZySXhvRFEzUVlTVUtBMFZ5MFgtcm1OOHVTZC1LRXBvVks4LWdaay00OFRyMnBGLTdNVG84NXZhRUk3ZERGbGpIaHliRWl0NFM5RG5jdUdtaXNJR0xMQTNOSUczU0UtTdIBb0FVX3lxTE9BeERFTXp5MTZySXhvRFEzUVlTVUtBMFZ5MFgtcm1OOHVTZC1LRXBvVks4LWdaay00OFRyMnBGLTdNVG84NXZhRUk3ZERGbGpIaHliRWl0NFM5RG5jdUdtaXNJR0xMQTNOSUczU0UtTQ?oc=5",
-          "source": "금융경제신문",
-          "date": "08/18"
-        },
-        {
-          "title": "[병원계 소식] 8월 18일",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UNUtremxMbVFocjFhUGNvQnZsUVRxSmZkRFlzclNJMWp3cHoyMzRHci1lc01QRWQybzFrTVlxUHRISGhxdHkwM3YtVTJ6V3Y1LU95M25HUXhXclRtRlYta3NQZ05lVmtzY2FnQmQ1VQ?oc=5",
-          "source": "의사신문",
-          "date": "08/18"
         }
       ]
     },
@@ -387,22 +375,22 @@
       "name": "차AI헬스케어",
       "ticker": "025620",
       "g": "C",
-      "event": "주요 주주·임원 지분 변동 보고",
+      "event": "주요 변동 없음",
       "tags": [
-        "-2.29%",
+        "+4.36%",
         "당사 투자"
       ],
-      "priceText": "₩4,700",
-      "openText": "₩4,825",
-      "highText": "₩4,855",
-      "lowText": "₩4,615",
-      "prevCloseText": "₩4,810",
-      "changeText": "-₩110",
+      "priceText": "₩4,905",
+      "openText": "₩4,715",
+      "highText": "₩5,150",
+      "lowText": "₩4,700",
+      "prevCloseText": "₩4,700",
+      "changeText": "+₩205",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩4,700",
+          "₩4,905",
           null
         ],
         [
@@ -417,27 +405,27 @@
         ],
         [
           "전일대비",
-          "-2.29%",
+          "+4.36%",
           null
         ],
         [
           "전주대비",
-          "-7.48%",
+          "+4.36%",
           null
         ],
         [
           "거래량(20일比)",
-          "6.40천 · 0.48x",
+          "1.00만 · 0.79x",
           null
         ],
         [
           "시가총액",
-          "855억",
+          "892억",
           null
         ],
         [
           "52주 고점대비",
-          "-76.24%",
+          "-75.20%",
           null
         ]
       ],
@@ -452,19 +440,14 @@
         }
       ],
       "events": [
-        "임원·주요주주 소유상황 및 대량보유 보고가 집중 — 지분구조 변화 여부를 면밀히 확인할 필요",
-        "헬스케어 사업전환 관련 실적·파트너십 공시는 금번 기간 내 없어 모멘텀 확인 불가"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "대량보유 보고 주체 및 지분 증감 방향",
-        "헬스케어 전환 관련 신규 고객사·매출 가시화 여부",
-        "차기 분기 영업손익 흑자 전환 진행 상황"
+        "분기 실적(매출·영업손익) 발표 시점",
+        "헬스케어 전환 관련 신규 고객사·파트너십 공시",
+        "추가 자금조달 계획 여부"
       ],
       "spark": [
-        {
-          "date": "5/21",
-          "close": 7140.0
-        },
         {
           "date": "5/22",
           "close": 7540.0
@@ -712,55 +695,40 @@
         {
           "date": "8/21",
           "close": 4700.0
+        },
+        {
+          "date": "8/24",
+          "close": 4905.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 8/21 종가",
-      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002431",
-      "sources": [
-        {
-          "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002431",
-          "source": "DART",
-          "date": "20260814"
-        },
-        {
-          "title": "임원ㆍ주요주주특정증권등소유상황보고서",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002313",
-          "source": "DART",
-          "date": "20260814"
-        },
-        {
-          "title": "주식등의대량보유상황보고서(일반)",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002230",
-          "source": "DART",
-          "date": "20260814"
-        }
-      ]
+      "exchangeLine": "KRX · 8/24 종가",
+      "sourceUrl": null,
+      "sources": []
     },
     {
       "id": "LUMN",
       "name": "루멘",
       "ticker": "(미국)",
-      "g": "B",
-      "event": "내부자 매도·목표가 하향 동시 포착",
+      "g": "C",
+      "event": "월가 매도 의견·Core 이익 성장 주목",
       "tags": [
-        "-1.05%",
+        "+5.25%",
         "벤치마크"
       ],
-      "priceText": "$50.71",
-      "openText": "$51.03",
-      "highText": "$51.41",
-      "lowText": "$49.90",
-      "prevCloseText": "$51.25",
-      "changeText": "-$0.54",
+      "priceText": "$53.37",
+      "openText": "$51.60",
+      "highText": "$53.49",
+      "lowText": "$51.02",
+      "prevCloseText": "$50.71",
+      "changeText": "+$2.66",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$50.71",
-          "₩70,166"
+          "$53.37",
+          "₩73,837"
         ],
         [
           "취득가",
@@ -774,27 +742,27 @@
         ],
         [
           "전일대비",
-          "-1.05%",
+          "+5.25%",
           null
         ],
         [
           "전주대비",
-          "-3.67%",
+          "+1.39%",
           null
         ],
         [
           "거래량(20일比)",
-          "73.87만 · 0.47x",
+          "116.27만 · 0.76x",
           null
         ],
         [
           "시가총액",
-          "$3.92B",
-          "5.43조"
+          "$4.13B",
+          "5.71조"
         ],
         [
           "52주 고점대비",
-          "-49.24%",
+          "-46.58%",
           null
         ]
       ],
@@ -809,19 +777,15 @@
         }
       ],
       "events": [
-        "내부자 매도 신호와 주요 IB의 목표주가 하향이 겹쳐 — 투자 검토 시 밸류에이션 근거 재점검 필요",
-        "IFP 성장률·Loss Ratio 등 핵심 지표의 구조적 개선이 확인되지 않는 상황에서 부정적 신호 누적은 신규 투자 판단에 불리한 환경"
+        "Wall Street Zen 매도 하향과 Core Profit 성장 여부 동시 부각—IFP·EBITDA 흑자전환 시점 판단이 선행되어야 투자 매력도 재평가 가능",
+        "기관 신규 포지션 진입 기사는 있으나, 핵심 지표(Loss Ratio·IFP 성장률) 구조적 개선 확인 없이는 벤치마크 참고 수준에 그침"
       ],
       "watch": [
-        "IFP 성장률 및 Loss Ratio 분기 추이 확인",
-        "EBITDA 흑자전환 시점 전망 변화",
-        "내부자 매도 규모·연속성 여부"
+        "Core Profit·EBITDA 흑자전환 분기 확인",
+        "IFP 성장률 및 Loss Ratio 추이",
+        "월가 컨센서스 방향성 변화"
       ],
       "spark": [
-        {
-          "date": "5/21",
-          "close": 57.05
-        },
         {
           "date": "5/22",
           "close": 56.52
@@ -1069,36 +1033,40 @@
         {
           "date": "8/20",
           "close": 50.71
+        },
+        {
+          "date": "8/21",
+          "close": 53.37
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 8/20 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFZvSHhvUEtNR1d4cW1DQVprbG9PVFJQUGVsbVd3Tk53ZFRhblAtdmdRMlFDd2I4cVRveFM4NU9kLXZKUDdZR28xSGVlVkhLYWVPVWNzOEhsM0F6OGlhVm04bElieUMxOVZQM05GTWw3a0tBM2RzZU03M3d4U21UTExkM3U0UFFXM0pYdWtudWxnVVhYd094RURueVFKc2ZXVEkwR1BhWkl3TE9WRnfSAbMBQVVfeXFMTi1qUzVMbWlQWjBrOFgydHlZQWFINkMzcGlCRVRqeUlHeEtCaFI5Nkk3VV9NeFBaQVduMWMxLUViYm9nZXZCQ2NVMGFCLU9GdkJmTEFjQ2lYSk1LVDQ3TV9hdTE2WExsTE50bzdvRmJla1pCNjlDd0oxUnMwdFRxakpWd2FNeGtQVGRLUmlmLTFMYUVhVExGbXZRRWZiLVNGdUJiN1g2dFM5TWJQeTZFb2o2b3M?oc=5",
+      "exchangeLine": "NYSE · 8/21 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHJFWHFRUmZyTmdHNS0xd2swaU1TVUo1Mk5yeEoyaDhJdi1WT0ZDWXhoa3RIWUYwM0lBWmRYY1J5cWgwM3JfQWdxY3hBT3hndlNWNnFiMzFYNTFwMnJSUHJ0MjRvXzdwSlJnUmx6N01WeFRla0pLYm5Rc05la2RYd2RsdzBrejIxX19zdElJbWxfZUdLcUp2UzhvcUNJTkhZa2ExbkRJUXJRdkFHbWZEZENIemdJNkRkd0lGVWVjS1BNRmNBUW4yMA?oc=5",
       "sources": [
         {
-          "title": "Don't Ignore The Insider Selling In 루멘",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRFZvSHhvUEtNR1d4cW1DQVprbG9PVFJQUGVsbVd3Tk53ZFRhblAtdmdRMlFDd2I4cVRveFM4NU9kLXZKUDdZR28xSGVlVkhLYWVPVWNzOEhsM0F6OGlhVm04bElieUMxOVZQM05GTWw3a0tBM2RzZU03M3d4U21UTExkM3U0UFFXM0pYdWtudWxnVVhYd094RURueVFKc2ZXVEkwR1BhWkl3TE9WRnfSAbMBQVVfeXFMTi1qUzVMbWlQWjBrOFgydHlZQWFINkMzcGlCRVRqeUlHeEtCaFI5Nkk3VV9NeFBaQVduMWMxLUViYm9nZXZCQ2NVMGFCLU9GdkJmTEFjQ2lYSk1LVDQ3TV9hdTE2WExsTE50bzdvRmJla1pCNjlDd0oxUnMwdFRxakpWd2FNeGtQVGRLUmlmLTFMYUVhVExGbXZRRWZiLVNGdUJiN1g2dFM5TWJQeTZFb2o2b3M?oc=5",
-          "source": "simplywall.st",
-          "date": "08/19"
-        },
-        {
-          "title": "Bank of America Corp DE Buys 123,484 Shares of 루멘 $루멘",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenExa2ltMXNnems2TldnQzFpQlpuaHFuemVPbElLelhwRkt2SDNLd1lqYmNWYjM4bzZBd2dKb1REd3V0Wkc5a2xIbEkwbThXSmp0WU9FVEZ0ZTN3YW9FVWNTZWEtN1lXNUFLSFdfZkU3UVJXMWd0a2s5c0xPSlB6QWUwdXdrVTE0T3ZQbFdjQzRMVlcwZUM4elRNck12Vk5BcVczMm03UFFJQ0RPTkRXZkdlMzFwc09vdWZtbnA2a3M1UQ?oc=5",
+          "title": "Landscape Capital Management L.L.C. Takes Position in 루멘 $루멘",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHJFWHFRUmZyTmdHNS0xd2swaU1TVUo1Mk5yeEoyaDhJdi1WT0ZDWXhoa3RIWUYwM0lBWmRYY1J5cWgwM3JfQWdxY3hBT3hndlNWNnFiMzFYNTFwMnJSUHJ0MjRvXzdwSlJnUmx6N01WeFRla0pLYm5Rc05la2RYd2RsdzBrejIxX19zdElJbWxfZUdLcUp2UzhvcUNJTkhZa2ExbkRJUXJRdkFHbWZEZENIemdJNkRkd0lGVWVjS1BNRmNBUW4yMA?oc=5",
           "source": "MarketBeat",
-          "date": "08/18"
+          "date": "08/22"
         },
         {
-          "title": "1 Insurance Stock Worth Your Attention and 2 That Underwhelm",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFAya2tSTDZmVlE1aUJocW14TG5DV3YxUXYzLUdZaHotenhGTmo4UFBXbGtLbUIwQTVWRHgweUZjdEVFUmJVRjBKTUZObVo0bHlzakN4NG5oMzdTTHNGNzU0eEt3WHc1WDRsZ3FlckJiM21jb3lGdWxUamF2eTRWNmdoWnlVcnJRVk1DbG1tSnBZUkhqTTBSbWM4Vjh2TUFLb05RWkNBcGFha25MbmwyTjBrZ2MtYUZTSW1DOHZLMA?oc=5",
-          "source": "StockStory",
-          "date": "08/19"
+          "title": "루멘 Stock Faces Wall Street Caution As Core Profit Growth Comes Into Focus",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5",
+          "source": "Stocktwits",
+          "date": "08/21"
         },
         {
-          "title": "Morgan Stanley Maintains 루멘(루멘.US) With Hold Rating, Cuts Target Price to $56",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWNKTU9zeUR5akQ3UFVtX1JOY1hSR3dEdmlXRTdtS1ZvRlFwVGxzVnAxNjg2WTlOSlpBN2dUMkxSMmhNVGhoMmF0dVZRM21MeXhDbUE0NnFmN1dZMXRiR21oejl5dkNwSDFqakhKZHF5azlqVk8xdGoyQk9ud2V3SjJaNG5jYm8wU25pNEM4SC1EM1ZIVkpPNFl3VXVTVzZqeGQ3Z1RzaDdMMEdFT0NtTw?oc=5",
-          "source": "Moomoo",
-          "date": "08/19"
+          "title": "루멘 Stock And Other Climate Risk Insurers Repricing US Property Coverage",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnVoTmVtdXMzN0xyMkkzbldWSVdFaDViaVVLX2dMYzFFaTBvdmVpdlJ3RmNxYTdxSXhzWDBXd3dIWnZYTzU5a055Y2FCMURhUHFxcHhSaUFRaDRxT2I4U0tHZ3hCQmZURzBkY1k2c1JoTXpsUmwyd09SbHRUQ2tUSEppaGFnai1zdnNfd252TmRTVjFYN1dYekdQMjFwWlNjdHk5akRpRE9KVFQtQkRRZnBuMXV6N3NxYW5fbFNWZUFGODjSAcgBQVVfeXFMTlZnb3BoMW9KX3dpaGZRVkdzWjBWZDQ0NU96Wm8xV3F1TGUwQ1RISG1YR1p3aDUxb3lDaHpVWUFuMXF6NC1kTGxkQVl6MmtaMHRRZmgwZ0V4OVZScE1rNUdmTk54NmxTT1pZVFllRHlULUttV0xLbC0yNlpGb21JaS12WGJRaUxwZEQ0THgtMmVPT1lsS2FyM1RkOFlWTmV5OHJ1czZnenFTQThXRXVyQU1yNmFsdEQ4ZU9JVWNDRzF0OUFULTE2Uy0?oc=5",
+          "source": "simplywall.st",
+          "date": "08/21"
+        },
+        {
+          "title": "Is It Too Late to Buy 루멘 Inc (루멘) After 5.2% Rally? GF V",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3Z2c29haWlDWHhPbGs0M2V0UVZWMWRacVcxWTREdTNvejlhTFhtQVI2Z3BtYlFVN1ExZTV6THYxMC1xelJLcmp2MHlYLWx0bVpFa2RIYWpNUkxydDlpaGd6a3FVTlFxb3I2Tl9Ga3drdUNFY3Z4bkExQ1RzZzBqS0ZGY3diems3T29UZkUxWVBkQzczSG9NbE05aVk3clRnN1IybmdfMTdEbjVsZFpRMERTUDAyU0FnWjNJ?oc=5",
+          "source": "GuruFocus",
+          "date": "08/21"
         }
       ]
     },
@@ -1106,8 +1074,8 @@
       "id": "LPGI",
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
-      "g": "A",
-      "event": "H1 2026 역대 최고 실적·AM Best 등급 유지",
+      "g": "B",
+      "event": "H1 2026 역대 최고 실적·AM Best A- 유지",
       "tags": [
         "-0.79%",
         "자회사"
@@ -1123,7 +1091,7 @@
         [
           "종가",
           "Rp625",
-          "₩48.9"
+          "₩48.8"
         ],
         [
           "취득가",
@@ -1153,7 +1121,7 @@
         [
           "시가총액",
           "Rp1.9조",
-          "1,467억"
+          "1,512억"
         ],
         [
           "52주 고점대비",
@@ -1172,13 +1140,13 @@
         }
       ],
       "events": [
-        "AM Best A- 등급 재확인과 상반기 역대 최고 실적 동시 달성 — 자회사 자본건전성과 성장성이 동시에 입증되어 당사 연결 재무에 긍정적",
-        "인도네시아 시장 성장률을 상회하는 GWP 증가는 자회사 경쟁력이 구조적으로 개선되고 있음을 시사"
+        "반기 기준 역대 최고 매출·이익 달성과 AM Best A- 등급 유지는 자회사 경영 건전성이 기준선 이상임을 확인해 주는 신호",
+        "연결 편입 이후 첫 호실적 공개—당사 연결 재무에 긍정적 기여가 기대되나, GWP 성장률·CR 세부 수치 검증이 필요"
       ],
       "watch": [
-        "OJK 규제 변화 및 PIKK 개정 영향 모니터링",
-        "H1 RBC 비율 구체 수치 확인",
-        "추가 지분 변동 및 그룹 시너지 사업 확대 여부"
+        "H1 GWP 성장률 및 손해율 세부 수치",
+        "RBC 비율 등 자본적정성 현황",
+        "OJK 규제 변화 및 PIKK 개정 동향"
       ],
       "spark": [
         {
@@ -1437,20 +1405,8 @@
       "avgCost": 653.8,
       "currency": "IDR",
       "exchangeLine": "IDX · 8/21 종가 (WIB)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlZFNTZjWDhBZ20xVHdlU0tQeGNoMjZlR2t3Zi0xcm1JS0NmaFB4aXZ3QTRCVUhhNXhpT3hsOXlTem9fbVNQRkt2d1JNWnZoTDA3SXUwRVlkOWJTcU8yWU9HbU9hLWVHSVNjWDQ5VFFobGpKT0x1TkxmQUU1NVgyR1NxRmdiUjdZQXJDWWZCOFJwQ080OHBqdE1Qek5Sd0pvS2RmcG5JaUYwdnVocUdhaWoyR1FlQjNobjREazZRUQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zbUlKT1U5VndQTFhxT3ltQzRUQXAyc0h0VUkyQVBHdW5MVWtRRFZkRjI0XzBPelFXNXJ2eGVlX2lNZGlqb214S1FheFZLOWtsMXlzTlZqQQ?oc=5",
       "sources": [
-        {
-          "title": "AM Best Affirms Credit Ratings of PT Lippo General Insurance Tbk.",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUlZFNTZjWDhBZ20xVHdlU0tQeGNoMjZlR2t3Zi0xcm1JS0NmaFB4aXZ3QTRCVUhhNXhpT3hsOXlTem9fbVNQRkt2d1JNWnZoTDA3SXUwRVlkOWJTcU8yWU9HbU9hLWVHSVNjWDQ5VFFobGpKT0x1TkxmQUU1NVgyR1NxRmdiUjdZQXJDWWZCOFJwQ080OHBqdE1Qek5Sd0pvS2RmcG5JaUYwdnVocUdhaWoyR1FlQjNobjREazZRUQ?oc=5",
-          "source": "Business Wire",
-          "date": "08/18"
-        },
-        {
-          "title": "Lippo General Insurance outpaces Indonesia premium growth",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWEVjMkdCYWp2cGdQdDNlUGhqemV3RjVjSkNfaDlvVmNLWXg1SDc4ZkVmeFc3UExGSmx2Z0pOaWhhUXp1dlpHcXc1M1pTbzJNQ0ptTFpUWGJOLWJsenlIRWN2U3czaUdnY2lQTEpnTUxGSFVxU08zcUt6YnFqR2R4cTZkekxaa3lLZjNKVW81VWdoS0NoQTBmQjlFeDh3Wm8?oc=5",
-          "source": "Insurance Asia",
-          "date": "08/19"
-        },
         {
           "title": "Hanwha General Insurance's Indonesian unit posts record H1 results",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zbUlKT1U5VndQTFhxT3ltQzRUQXAyc0h0VUkyQVBHdW5MVWtRRFZkRjI0XzBPelFXNXJ2eGVlX2lNZGlqb214S1FheFZLOWtsMXlzTlZqQQ?oc=5",
@@ -1458,9 +1414,9 @@
           "date": "08/21"
         },
         {
-          "title": "LGI Reports Record First-Half 2026 Results Renews AM Best A–Rating",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbFpqNHRFQWUtd0Z4cUxwU2ZsU2tWTE85T1ZJaDdNS0N0QUZwVHFKcFl3aGlJVEd2LUtUeTBRT2N4WWdaSUdlbk42OUJ6VWJFUTQyTUMtaXFpWU10elQzU1hBRkVwV3VWNUdwRmN5ZmVVaDU4R1I4dFNuQU5yWXQtZFBuZGVZcFRScjN5NUdhWFpMaDVw?oc=5",
-          "source": "Independent Observer",
+          "title": "LGI Prints Record Revenue and Profit in Semester I-2026, Maintain AM Best Rating at A-",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ORmVTQ1V4SzBFRHZfRXNfY3dBVjJNZE9YdFpSeVg3WVl3RGVtMkxJazZKbEdXc0xrUEd5dW5YR3NqV3R5M0FB0gFCQVVfeXFMTnZPd0xkOFFSSkZUZldienQ0RHBqU0hRMVJWMlRneGk2andEVzh4eTU3ZndnN1VyQXFrbnNQQVJsaGpB?oc=5",
+          "source": "VOI.ID",
           "date": "08/20"
         }
       ]
