@@ -1,19 +1,19 @@
 {
   "asOf": "2026-08-24",
-  "updated": "2026-08-24 17:43",
-  "fx": "환율 2026-08-24 · 시장환율   1 USD = ₩1,384.72   |   1 USD = 17,705.00 IDR   |   1 IDR = ₩0.07821",
+  "updated": "2026-08-24 18:00",
+  "fx": "환율 2026-08-24 · 시장환율   1 USD = ₩1,384.12   |   1 USD = 17,705.00 IDR   |   1 IDR = ₩0.07818",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "타법인 주식 및 출자증권 취득 결정 공시 발생",
-      "impact": "당사 보유 지분가치에 영향을 줄 수 있는 지분구조 변동 — 취득 대상·규모에 따라 CGT/CDMO 사업 방향성 판단 필요",
+      "text": "타법인 주식 및 출자증권 취득 결정 공시",
+      "impact": "신규 출자 규모·대상에 따라 현금 유출 발생, 당사 보유 지분가치에 연동되는 재무 여력 변화 모니터링 필요",
       "level": "high",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900476"
     },
     {
       "company": "차바이오텍",
-      "text": "전환사채 만기 전 조기 취득 결정 공시 발생",
-      "impact": "CB 조기상환은 부채 축소 또는 전환권 희석 방지 효과 — 자금 여력 및 재무구조 변화가 당사 지분가치에 직접 연동",
+      "text": "전환사채 만기 전 자사 취득(조기상환) 결정 공시",
+      "impact": "CB 조기상환으로 부채 감소 효과 발생하나, 신규 출자와 동시 진행 시 순현금 방향 불확실—추가 자금조달 필요성 재점검 요인",
       "level": "high",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260818900497"
     }
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "A",
-      "event": "CB 조기취득·타법인 출자 공시 동시 발생",
+      "event": "자회사 투자·CB 조기상환 병행",
       "tags": [
         "-1.34%",
         "당사 투자"
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "CB 만기 전 취득과 신규 지분 취득이 같은 날 공시 — 재무구조 및 지분 변동 가능성 동시 점검 필요",
-        "자금 운용 방향성과 자본 배분 우선순위 변화 여부를 종합 판단해야 할 시점"
+        "타법인 출자와 CB 만기 전 취득을 동시에 실행—자금 배분 우선순위 및 재무 여력 점검 필요",
+        "CB 조기상환은 부채 축소 효과가 있으나, 신규 출자와 맞물릴 경우 순현금 변동 방향이 불분명해 추가 자금조달 가능성 배제 불가"
       ],
       "watch": [
-        "CB 조기취득 규모·재원 출처 확인",
-        "타법인 출자 대상 및 전략적 목적 파악",
-        "추가 자금조달(유상증자 등) 계획 여부"
+        "신규 출자 대상 법인 및 투자 금액 확인",
+        "CB 조기상환 후 잔여 현금 및 차입 여력",
+        "추가 유상증자·CB 발행 계획 여부"
       ],
       "spark": [
         {
@@ -415,7 +415,7 @@
         ],
         [
           "거래량(20일比)",
-          "1.00만 · 0.79x",
+          "1.01만 · 0.79x",
           null
         ],
         [
@@ -443,9 +443,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 실적(매출·영업손익) 발표 시점 모니터링",
+        "분기 실적(매출·영업손익) 발표 시점",
         "신규 고객사·파트너십 계약 공시 여부",
-        "사업모델 전환 관련 추가 공시 발생 여부"
+        "사업 전환 관련 추가 공시 발생 여부"
       ],
       "spark": [
         {
@@ -728,7 +728,7 @@
         [
           "종가",
           "$53.37",
-          "₩73,903"
+          "₩73,870"
         ],
         [
           "취득가",
@@ -777,13 +777,12 @@
         }
       ],
       "events": [
-        "제공된 기사는 기관 포지션 진입·투자의견 하향·주가 랠리 평가 등 투자심리 관련 내용으로 IFP·Loss Ratio 등 핵심 지표 변화 없음",
-        "벤치마크 관점의 실질적 변화 신호 부재 — 다음 실적 공시 전까지 관망 유지 적절"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "IFP 성장률 및 Loss Ratio 분기 실적 발표 확인",
-        "EBITDA 흑자전환 시점 가이던스 변화 여부",
-        "기관 지분 변동이 밸류에이션에 미치는 영향"
+        "IFP 성장률 및 Loss Ratio 분기 추이",
+        "EBITDA 흑자전환 시점 가이던스",
+        "밸류에이션 배수 변화 및 투자 매력도"
       ],
       "spark": [
         {
@@ -1042,33 +1041,8 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 8/21 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHJFWHFRUmZyTmdHNS0xd2swaU1TVUo1Mk5yeEoyaDhJdi1WT0ZDWXhoa3RIWUYwM0lBWmRYY1J5cWgwM3JfQWdxY3hBT3hndlNWNnFiMzFYNTFwMnJSUHJ0MjRvXzdwSlJnUmx6N01WeFRla0pLYm5Rc05la2RYd2RsdzBrejIxX19zdElJbWxfZUdLcUp2UzhvcUNJTkhZa2ExbkRJUXJRdkFHbWZEZENIemdJNkRkd0lGVWVjS1BNRmNBUW4yMA?oc=5",
-      "sources": [
-        {
-          "title": "Landscape Capital Management L.L.C. Takes Position in 루멘 $루멘",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHJFWHFRUmZyTmdHNS0xd2swaU1TVUo1Mk5yeEoyaDhJdi1WT0ZDWXhoa3RIWUYwM0lBWmRYY1J5cWgwM3JfQWdxY3hBT3hndlNWNnFiMzFYNTFwMnJSUHJ0MjRvXzdwSlJnUmx6N01WeFRla0pLYm5Rc05la2RYd2RsdzBrejIxX19zdElJbWxfZUdLcUp2UzhvcUNJTkhZa2ExbkRJUXJRdkFHbWZEZENIemdJNkRkd0lGVWVjS1BNRmNBUW4yMA?oc=5",
-          "source": "MarketBeat",
-          "date": "08/22"
-        },
-        {
-          "title": "루멘 Stock And Other Climate Risk Insurers Repricing US Property Coverage",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnVoTmVtdXMzN0xyMkkzbldWSVdFaDViaVVLX2dMYzFFaTBvdmVpdlJ3RmNxYTdxSXhzWDBXd3dIWnZYTzU5a055Y2FCMURhUHFxcHhSaUFRaDRxT2I4U0tHZ3hCQmZURzBkY1k2c1JoTXpsUmwyd09SbHRUQ2tUSEppaGFnai1zdnNfd252TmRTVjFYN1dYekdQMjFwWlNjdHk5akRpRE9KVFQtQkRRZnBuMXV6N3NxYW5fbFNWZUFGODjSAcgBQVVfeXFMTlZnb3BoMW9KX3dpaGZRVkdzWjBWZDQ0NU96Wm8xV3F1TGUwQ1RISG1YR1p3aDUxb3lDaHpVWUFuMXF6NC1kTGxkQVl6MmtaMHRRZmgwZ0V4OVZScE1rNUdmTk54NmxTT1pZVFllRHlULUttV0xLbC0yNlpGb21JaS12WGJRaUxwZEQ0THgtMmVPT1lsS2FyM1RkOFlWTmV5OHJ1czZnenFTQThXRXVyQU1yNmFsdEQ4ZU9JVWNDRzF0OUFULTE2Uy0?oc=5",
-          "source": "simplywall.st",
-          "date": "08/21"
-        },
-        {
-          "title": "Is It Too Late to Buy 루멘 Inc (루멘) After 5.2% Rally? GF V",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS3Z2c29haWlDWHhPbGs0M2V0UVZWMWRacVcxWTREdTNvejlhTFhtQVI2Z3BtYlFVN1ExZTV6THYxMC1xelJLcmp2MHlYLWx0bVpFa2RIYWpNUkxydDlpaGd6a3FVTlFxb3I2Tl9Ga3drdUNFY3Z4bkExQ1RzZzBqS0ZGY3diems3T29UZkUxWVBkQzczSG9NbE05aVk3clRnN1IybmdfMTdEbjVsZFpRMERTUDAyU0FnWjNJ?oc=5",
-          "source": "GuruFocus",
-          "date": "08/21"
-        },
-        {
-          "title": "루멘 (NYSE:루멘) Lowered to \"Sell\" Rating by Wall Street Zen",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTZsOVNTb0tUTlFTb2t1eHM1dDhiNlpXZG9nT3ZHQWRjV3R4SF9wYmFhTnFhLUZJWnhBQnRycVFualZUcnBoTmJiMV9yaTh1aU9PN0ZKQmJ0OGE2ZVZCZGtfaWw1cXdEUm5IaTQxb3VCSEIxdzJQSEtQeDNobnA5akR0cTRXamhVR1hWMkF6RHVsOTZ3RmZyVEVXcHAxY2NLWGZaN21XX3A5SC12RXhVejdkZw?oc=5",
-          "source": "MarketBeat",
-          "date": "08/22"
-        }
-      ]
+      "sourceUrl": null,
+      "sources": []
     },
     {
       "id": "LPGI",
@@ -1077,21 +1051,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-0.79%",
+        "+3.20%",
         "자회사"
       ],
-      "priceText": "Rp625",
-      "openText": "Rp635",
+      "priceText": "Rp645",
+      "openText": "Rp625",
       "highText": "Rp645",
       "lowText": "Rp620",
-      "prevCloseText": "Rp630",
-      "changeText": "-Rp5",
+      "prevCloseText": "Rp625",
+      "changeText": "+Rp20",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp625",
-          "₩48.9"
+          "Rp645",
+          "₩50.4"
         ],
         [
           "취득가",
@@ -1100,22 +1074,22 @@
         ],
         [
           "취득가대비",
-          "-4.41%",
+          "-1.35%",
           null
         ],
         [
           "전일대비",
-          "-0.79%",
+          "+3.20%",
           null
         ],
         [
           "전주대비",
-          "-0.79%",
+          "+3.20%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.03만 · 0.21x",
+          "4.40천 · 0.16x",
           null
         ],
         [
@@ -1125,7 +1099,7 @@
         ],
         [
           "52주 고점대비",
-          "-33.94%",
+          "-31.82%",
           null
         ]
       ],
@@ -1143,15 +1117,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 개정(PIKK 포함) 동향 확인",
-        "분기 RBC 비율 및 자본적정성 지표 점검",
-        "GWP 성장률 및 손해율 추이 모니터링"
+        "OJK 규제 개정 동향 및 PIKK 개정 영향",
+        "분기 RBC 비율 변동",
+        "GWP 성장 및 손해율 추이"
       ],
       "spark": [
-        {
-          "date": "5/22",
-          "close": 695.0
-        },
         {
           "date": "5/25",
           "close": 695.0
@@ -1399,20 +1369,17 @@
         {
           "date": "8/21",
           "close": 625.0
+        },
+        {
+          "date": "8/24",
+          "close": 645.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 8/21 종가 (WIB)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEVYZjFsVk9rYnFCOWpyczhTLUFDdGQzTXhVR1VSQzUyTEw5WU1hOXBka0FxUDI3STcweTVBbzVSYUpaeXlNOFozUXg0N0twWEJWQjAyRDNMeUtIZFpiN2RPQlBtRzA4UmViU2tNeHlQcTRpc1lHaWhHUExSSHk2Y0M0QlZ5dXhUdV9OazRxZWVmcXhqWmlTVA?oc=5",
-      "sources": [
-        {
-          "title": "China Hongqiao plans $200m overseas alumina investment",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEVYZjFsVk9rYnFCOWpyczhTLUFDdGQzTXhVR1VSQzUyTEw5WU1hOXBka0FxUDI3STcweTVBbzVSYUpaeXlNOFozUXg0N0twWEJWQjAyRDNMeUtIZFpiN2RPQlBtRzA4UmViU2tNeHlQcTRpc1lHaWhHUExSSHk2Y0M0QlZ5dXhUdV9OazRxZWVmcXhqWmlTVA?oc=5",
-          "source": "Petromindo",
-          "date": "08/24"
-        }
-      ]
+      "exchangeLine": "IDX · 8/24 종가 (WIB)",
+      "sourceUrl": null,
+      "sources": []
     }
   ]
 }
