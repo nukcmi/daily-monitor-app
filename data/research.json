@@ -1,75 +1,89 @@
 {
-  "updated": "2026-08-24 16:31",
+  "updated": "2026-08-25 14:04",
   "articles": [
     {
       "publisher": "Bain",
       "type": "consulting",
       "title": "What Is A Modern Data Platform?",
-      "takeaway": "AI 시대 경쟁우위는 데이터 플랫폼 설계 방식에서 갈린다.",
+      "takeaway": "AI 시대엔 데이터 플랫폼 설계 방식이 보험사 경쟁력을 결정한다.",
       "bullets": [
-        "기존 플랫폼은 BI·보고용으로 설계되어 AI 활용에 구조적 한계",
-        "AI 전용 현대 데이터 플랫폼은 실시간·확장성·거버넌스를 통합 지원",
-        "보험사 언더라이팅·손해율 분석 고도화의 인프라 전제조건"
+        "기존 플랫폼은 BI·리포팅 중심으로 AI 활용에 구조적 한계 존재",
+        "AI 전용 설계 플랫폼은 데이터 접근성·실시간성·확장성에서 차별화",
+        "보험사도 언더라이팅·클레임 AI 고도화를 위해 플랫폼 재설계 필요"
       ],
       "url": "https://www.bain.com/insights/what-is-a-modern-data-platform/",
       "date": "08/19",
-      "collected_at": "2026-08-24"
+      "collected_at": "2026-08-25"
     },
     {
       "publisher": "Bain",
       "type": "consulting",
       "title": "AI Won’t Save an Unfocused Game",
-      "takeaway": "명확한 전략 없이 AI를 도입하면 오히려 손실이 가속된다.",
+      "takeaway": "AI는 명확한 전략 없는 조직의 비효율을 오히려 증폭시킨다.",
       "bullets": [
-        "AI는 집중된 전략을 증폭시키지만 방향 없는 조직엔 독이 됨",
-        "보험사도 고객 세분화·채널 전략 없이 AI 투자 시 ROI 역효과 우려",
-        "포화 시장일수록 AI 도입 전 타깃 명확화가 선행 조건"
+        "AI는 전략적 집중도가 높은 기업에만 수익 복리 효과 제공",
+        "방향성 없는 AI 도입은 손실 가속화 위험 내포",
+        "보험사 AI 투자도 타깃 고객·상품 집중 전략이 선행되어야 함"
       ],
       "url": "https://www.bain.com/insights/ai-wont-save-an-unfocused-game-gaming-report-2026/",
       "date": "08/18",
-      "collected_at": "2026-08-24"
+      "collected_at": "2026-08-25"
     },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "스테이블코인과 보험산업 과제",
-      "takeaway": "스테이블코인 확산이 보험업 지급·리스크 관리에 새 과제를 제기한다.",
+      "takeaway": "스테이블코인 확산이 보험산업에 새로운 리스크와 기회를 동시에 제기한다.",
       "bullets": [
-        "스테이블코인의 보험료 납입·보험금 지급 수단화 가능성 부상",
-        "가치 변동성·규제 불확실성이 보험사 자산운용 리스크로 연결",
-        "보험업법·외환법 등 국내 규제 정합성 검토 필요"
+        "스테이블코인은 가치 안정성 기반으로 결제·자산운용 활용 확대 중",
+        "보험사의 자산운용 및 보험료 수수 방식 변화 가능성 존재",
+        "규제 불확실성·커스터디(수탁) 리스크 등 신규 인수 과제 대두"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-06",
-      "collected_at": "2026-08-24"
+      "collected_at": "2026-08-25"
     },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "기업 경영환경 변화와 임원배상책임보험 시장의 과제",
-      "takeaway": "경영환경 변화로 D&O보험(임원배상책임보험) 수요와 리스크가 동시에 커지고 있다.",
+      "takeaway": "기업 경영환경 변화로 D&O(임원배상책임) 보험 시장 재편이 가속화되고 있다.",
       "bullets": [
-        "ESG·공정거래·중대재해법 등 임원 법적 책임 범위 급확대",
-        "소송 비용 증가와 집단소송 활성화로 보험금 지급 규모 상승 압력",
-        "국내 D&O 시장의 요율 적정성 및 언더라이팅 기준 재정비 시급"
+        "ESG·공급망 리스크 등 임원 책임 범위가 빠르게 확대되는 추세",
+        "소송 증가 및 손해액 대형화로 D&O 언더라이팅 난이도 상승",
+        "국내 시장은 가격·담보 구조 모두 선진화 압력에 직면"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=805489&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-03",
-      "collected_at": "2026-08-24"
+      "collected_at": "2026-08-25"
     },
     {
       "publisher": "NAIC",
       "type": "regulator",
       "title": "NAIC Names Jeff Ahlers Chief Financial Officer",
-      "takeaway": "NAIC CFO 교체는 미국 보험 감독 재정 운영 방향 변화를 시사한다.",
+      "takeaway": "NAIC의 CFO 신규 선임은 조직 재정 거버넌스 강화 신호로 주목된다.",
       "bullets": [
-        "Jeff Ahlers가 신임 CFO로 임명되어 NAIC 재정 총괄 담당",
-        "NAIC 예산·투자 전략 변화가 감독 규정 개발 속도에 영향 가능",
-        "국내 보험사 글로벌 규제 동향 모니터링 차원에서 주목 필요"
+        "Jeff Ahlers가 NAIC 최고재무책임자로 공식 임명됨",
+        "NAIC는 미국 50개 주 보험 규제 조율 핵심 기관",
+        "재정 운영 안정화가 규제 일관성 제고에 간접적으로 기여 가능"
       ],
       "url": "https://content.naic.org/article/naic-names-jeff-ahlers-chief-financial-officer",
       "date": "Aug. 17, 2026",
-      "collected_at": "2026-08-24"
+      "collected_at": "2026-08-25"
+    },
+    {
+      "publisher": "NAIC",
+      "type": "regulator",
+      "title": "NAIC Summer National Meeting Highlights Collaboration and Advances Priorities",
+      "takeaway": "NAIC 하계 총회에서 미국 보험 규제 주요 현안이 집중 논의됐다.",
+      "bullets": [
+        "주(州) 규제당국 간 협력 강화 및 공동 우선과제 이행 방향 확인",
+        "AI·기후·소비자보호 등 신흥 리스크 규제 진전 사항 공유",
+        "국내 규제 방향 예측을 위한 글로벌 선행 지표로 활용 가능"
+      ],
+      "url": "https://content.naic.org/article/naic-summer-national-meeting-highlights-collaboration-and-advances-priorities",
+      "date": "Aug. 24, 2026",
+      "collected_at": "2026-08-25"
     },
     {
       "publisher": "NAIC",
