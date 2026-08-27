@@ -284,7 +284,27 @@ function drawChart(spark, avgCost) {
     data: { labels, datasets },
     options: {
       responsive: true, maintainAspectRatio: false, animation: false,
-      plugins: { legend: { display: false }, tooltip: { enabled: false } },
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          enabled: true,
+          backgroundColor: '#1A1D24',
+          borderColor: 'rgba(255,255,255,.12)',
+          borderWidth: 1,
+          titleColor: '#FFFFFF',
+          bodyColor: '#C4C9D2',
+          titleFont: { size: 11, weight: '600' },
+          bodyFont: { size: 11 },
+          padding: 8,
+          displayColors: false,
+          filter: (item) => item.datasetIndex === 0,  // 취득가 점선은 툴팁 제외
+          callbacks: {
+            title: (items) => labels[items[0].dataIndex],
+            label: (item) => `종가 ${item.parsed.y.toLocaleString()}`,
+          },
+        },
+      },
       scales: {
         x: {
           display: true, grid: { display: false },
