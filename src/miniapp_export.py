@@ -50,8 +50,10 @@ def _kpi_row(r: Row) -> list[list]:
 
 def build_payload(rows: list[Row], analysis: dict, items_by_code: dict[str, dict],
                   as_of: str, updated: str, fx_line: str = "",
-                  raw_items_by_code: dict[str, list[dict]] | None = None) -> dict:
+                  raw_items_by_code: dict[str, list[dict]] | None = None,
+                  event_archive: dict[str, list[dict]] | None = None) -> dict:
     raw_items_by_code = raw_items_by_code or {}
+    event_archive = event_archive or {}
     companies = []
     attention = None
     name_to_url = {}   # 이벤트의 회사명 → 원문 URL 매칭용 폴백
@@ -100,6 +102,7 @@ def build_payload(rows: list[Row], analysis: dict, items_by_code: dict[str, dict
             "exchangeLine": market_close_caption(r.quote_date, r.market),  # "KRX · 8/12 종가" 등
             "sourceUrl": source_url,   # 최신 원문(공시·기사) 링크. 없으면 null
             "sources": sources,        # 원문 목록(제목·링크·출처). 각 항목이 실제 기사/공시로 연결
+            "archive30d": event_archive.get(r.code, []),  # 최근 30일 영향도별 누적 이벤트
         })
 
         if grade == "A" and attention is None:
