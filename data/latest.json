@@ -1,19 +1,19 @@
 {
   "asOf": "2026-08-27",
-  "updated": "2026-08-27 16:50",
-  "fx": "환율 2026-08-27 · 시장환율   1 USD = ₩1,379.91   |   1 USD = 17,727.00 IDR   |   1 IDR = ₩0.07784",
+  "updated": "2026-08-27 16:52",
+  "fx": "환율 2026-08-27 · 시장환율   1 USD = ₩1,379.94   |   1 USD = 17,727.00 IDR   |   1 IDR = ₩0.07784",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "과기부 'K-HERO 육성·지원사업' 선정, 31.5억원 규모 CGT(세포·유전자치료제) 개발 지원 확보",
-      "impact": "정부 과제 자금으로 CGT 개발비 일부 외부화, 당사 보유 지분가치 희석 없이 기술 진척 가능성 제고",
+      "text": "과기부 'K-HERO 육성·지원사업' 선정, CGT 개발에 31.5억원 정부 지원 확보",
+      "impact": "CGT 파이프라인에 외부 자금 유입, 당사 보유 지분가치 훼손 리스크 일부 완화",
       "level": "mid",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pWER0eGFidndqWW5CN2RGRG9xbDI1MF9OdS12N1lSMjBCc0ZQMk0yWC1KbTJOa1l6QXVhOG53OExNTUgwUnhnNEYycFIxcURhSWVNaXAwZzFtR2tlYndaTHVWUU1ncG160gFsQVVfeXFMTUZfNmtHQkM2d2JmSURjd210TjgybTRUbXJPaldmNG5NQ0RZX0lDazZuR1A5UEdmV1VUOUM5c2NvRFFOcHNFLTBKYVZVSXJOMEY1eWQxdjBndk9uN05QenBoWk9tMWFCSXRVZ25j?oc=5"
     },
     {
       "company": "루멘",
-      "text": "기술 기반 자동차보험을 플로리다 주에 출시, 미국 시장 절반 수준 커버리지 달성",
-      "impact": "IFP 확대 기반 마련 여부가 투자 검토 핵심 지표인 성장성 판단에 직접 연결",
+      "text": "플로리다 자동차보험 출시로 미국 전체 시장의 약 절반 커버리지 달성",
+      "impact": "지리적 확장 속도 확인, 고위험 주 진입에 따른 Loss Ratio 영향이 투자 판단 변수",
       "level": "mid",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczhvN2FjZjFZeDRIZzEwTXJkZmRvZ0lfcWl1S090NkpheFBlWElHRk9WSmhWZ0U3d1R3cTdVSjFreGNVaUY4U0R4MlpQbGVGazZKbG1ETWFiWXo4MV9jcUN3Mm04X2t5Ni1WekNzLWt6UndFbmw2NjBhSEVIU1Y0MXpVRTlQaVhQaEFtb0JtRjFwYzIyWUs1Zkt4aEdscXdyY2tJSFlfS29KbUs3TmdVclFScjVlTW5Gc25MamVSQnROZ2ZjZnc?oc=5"
     }
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "CGT 정부과제 수주로 기술개발 지원 확보",
+      "event": "CGT 국책사업 선정으로 기술 모멘텀 확인",
       "tags": [
         "-1.94%",
         "당사 투자"
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "K-HERO 선정은 정부 자금(31.5억원)으로 CGT 개발 비용 일부를 외부화, 자체 자금 소모 속도 완화 효과",
-        "핵심 파이프라인 고도화 지원이나 상업화 일정 단축 여부는 별도 확인 필요"
+        "K-HERO 선정으로 정부 지원(31.5억원) 확보, CGT 파이프라인 신뢰도 제고",
+        "자금조달·CB 이슈 해소 여부는 미확인, 지분가치 안정성 판단은 유보"
       ],
       "watch": [
-        "K-HERO 과제 내 CGT 파이프라인 상업화 연계 여부",
-        "유상증자·CB 등 추가 자금조달 계획 공시 여부",
-        "CDMO 수주 레퍼런스 추가 확보 여부"
+        "K-HERO 자금 집행 및 CGT 개발 단계 진척",
+        "차기 CB·유상증자 등 자금조달 계획 공시",
+        "CDMO 수주 계약 신규 체결 여부"
       ],
       "spark": [
         {
@@ -455,9 +455,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 실적 추이",
-        "헬스케어 분야 신규 고객사·파트너십 공시 여부",
-        "사업모델 전환 관련 추가 공시 여부"
+        "분기 매출·영업손익 추이 확인",
+        "헬스케어 신규 고객사·파트너십 체결 여부",
+        "사업모델 전환 관련 추가 공시 발생"
       ],
       "spark": [
         {
@@ -716,8 +716,14 @@
       "avgCost": null,
       "currency": "KRW",
       "exchangeLine": "KRX · 8/27 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JeG1GeXFfZGVsTUFuVWdEdTh5SDFpN1R3WVRaSUQ1TWNJOUNZQjZmaGJtcFRYNkw3b3FiWXRQeE5yblJYejNkakcyMGpMZGluSE5YOWpGdW9lc2sxNFZPakF4VnNOZHQ4LWxUdw?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4ZU5XdktCY1U2azJ6VmNBNEZEbTFYVE1adnRGSVRucXJUM255ZkxXbHQxX2g4LWREM1RBdi1XZklpcWt1MDhSVGRORjJ6VVBZMlB4aDh2ck5ESGl6eEZ6LTRtUElFc0Z1ZUFCSzNCTTVzV28?oc=5",
       "sources": [
+        {
+          "title": "차AI헬스케어 투자분석 2026. 08. 26",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4ZU5XdktCY1U2azJ6VmNBNEZEbTFYVE1adnRGSVRucXJUM255ZkxXbHQxX2g4LWREM1RBdi1XZklpcWt1MDhSVGRORjJ6VVBZMlB4aDh2ck5ESGl6eEZ6LTRtUElFc0Z1ZUFCSzNCTTVzV28?oc=5",
+          "source": "주달",
+          "date": "08/26"
+        },
         {
           "title": "제약바이오 뉴프론티어 오너 3-4세...\"우리가 가면 길이 된다\"",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JeG1GeXFfZGVsTUFuVWdEdTh5SDFpN1R3WVRaSUQ1TWNJOUNZQjZmaGJtcFRYNkw3b3FiWXRQeE5yblJYejNkakcyMGpMZGluSE5YOWpGdW9lc2sxNFZPakF4VnNOZHQ4LWxUdw?oc=5",
@@ -731,7 +737,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "플로리다 자동차보험 출시로 미국 시장 확대",
+      "event": "플로리다 진출로 커버리지 미국 절반 수준 도달",
       "tags": [
         "-1.43%",
         "벤치마크"
@@ -747,7 +753,7 @@
         [
           "종가",
           "$53.64",
-          "₩74,018"
+          "₩74,020"
         ],
         [
           "취득가",
@@ -796,13 +802,13 @@
         }
       ],
       "events": [
-        "플로리다 진출로 미국 전체 시장의 약 절반 커버리지 도달, IFP 성장 기반 확대 신호",
-        "기술 기반 가격 산정 모델의 고위험 주(플로리다) 적용 가능성이 Loss Ratio 관리 능력의 실질 검증대"
+        "플로리다 진출은 고위험·고손해율 시장 진입으로 Loss Ratio 관리 역량이 검증 포인트",
+        "기관 신규 매수(PDT, EFG) 병행은 밸류에이션 매력도 재확인 신호이나 투자 판단 근거로는 미흡"
       ],
       "watch": [
-        "플로리다 진출 이후 분기 IFP 성장률 변화",
-        "고위험 주 편입에 따른 Loss Ratio 영향",
-        "EBITDA 흑자전환 시점 조정 여부"
+        "플로리다 진출 후 Loss Ratio 변화",
+        "IFP 성장률 분기별 확인",
+        "EBITDA 흑자전환 시점 가이던스"
       ],
       "spark": [
         {
@@ -1163,8 +1169,8 @@
       ],
       "watch": [
         "OJK 규제 변화 및 PIKK 개정 동향",
-        "분기 RBC 비율 변동 여부",
-        "추가 지분 변동 관련 공시 여부"
+        "분기 RBC 비율 적정성 유지 여부",
+        "GWP 성장률 및 손해율 추이"
       ],
       "spark": [
         {
