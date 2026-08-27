@@ -350,6 +350,20 @@ function detail(id) {
   const hasSpark = x.spark && x.spark.length > 1;
   const hasSources = x.sources && x.sources.length > 0;
 
+  const arc = x.archive30d || [];
+  const arcHigh = arc.filter(e => e.level === 'high');
+  const arcMid = arc.filter(e => e.level === 'mid');
+  const arcLow = arc.filter(e => e.level === 'low');
+  const archive30dHtml = arc.length ? `
+    <div class="sec"><h4>최근 30일 영향도 요약</h4>
+      <div class="arc-summary">
+        <button class="arc-chip arc-high" data-level="high">높음 ${arcHigh.length}</button>
+        <button class="arc-chip arc-mid" data-level="mid">중간 ${arcMid.length}</button>
+        <button class="arc-chip arc-low" data-level="low">낮음 ${arcLow.length}</button>
+      </div>
+      <div class="arc-body" id="arcBody" style="display:none"></div>
+    </div>` : '';
+
   let eventsHtml;
   if (hasSources) {
     const recent = x.sources.slice(0, RECENT_SOURCE_COUNT);
@@ -376,6 +390,7 @@ function detail(id) {
       <div class="kpis">${x.kpis.map(kpiCell).join('')}</div>
     </div>
     <div class="sec"><h4>최근 공시·기사</h4>${eventsHtml}</div>
+    ${archive30dHtml}
     ${x.watch.length ? `<div class="sec"><h4>주요 확인사항</h4><ul>${x.watch.map(w => `<li>${w}</li>`).join('')}</ul></div>` : ''}`;
   document.getElementById('backdrop').classList.add('open');
   if (hasSpark) drawChart(x.spark, x.avgCost, x.currency);
@@ -394,6 +409,26 @@ function detail(id) {
       };
     });
   }
+  document.querySelectorAll('.arc-chip').forEach(btn => {
+    btn.onclick = () => {
+      const level = btn.dataset.level;
+      const items = arc.filter(e => e.level === level);
+      const body = document.getElementById('arcBody');
+      const isOpen = body.style.display !== 'none' && body.dataset.level === level;
+      if (isOpen) {
+        body.style.display = 'none';
+        return;
+      }
+      body.dataset.level = level;
+      body.innerHTML = items.map(e => `
+        <div class="arc-row">
+          <div class="arc-row-top"><span class="arc-date">${e.date || e.collected_at}</span></div>
+          <div class="arc-row-summary">${e.summary}</div>
+          ${e.impact ? `<div class="arc-row-impact">${e.impact}</div>` : ''}
+        </div>`).join('') || '<div class="arc-empty">해당 등급 이벤트 없음</div>';
+      body.style.display = '';
+    };
+  });
   if (window.Telegram?.WebApp?.HapticFeedback) Telegram.WebApp.HapticFeedback.impactOccurred('light');
 }
 
