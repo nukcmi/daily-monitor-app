@@ -1,19 +1,19 @@
 {
   "asOf": "2026-08-27",
-  "updated": "2026-08-27 10:47",
-  "fx": "환율 2026-08-27 · 시장환율   1 USD = ₩1,378.56   |   1 USD = 17,712.00 IDR   |   1 IDR = ₩0.07783",
+  "updated": "2026-08-27 14:05",
+  "fx": "환율 2026-08-27 · 시장환율   1 USD = ₩1,380.61   |   1 USD = 17,750.00 IDR   |   1 IDR = ₩0.07778",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "과기부 K-HERO 육성·지원사업 선정, 세포·유전자치료제 개발 지원 및 31.5억원 수혜 예정",
-      "impact": "비희석 정부 자금 확보로 당사 지분 희석 없이 CGT 사업 가치 유지·제고 기대",
+      "text": "과기부 K-HERO 사업 선정, 31.5억 원 규모로 CGT 고도화 지원 예정",
+      "impact": "비희석적 정부 자금 유입으로 당사 보유 지분 희석 없이 CGT 개발 지속 가능성 제고",
       "level": "mid",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pWER0eGFidndqWW5CN2RGRG9xbDI1MF9OdS12N1lSMjBCc0ZQMk0yWC1KbTJOa1l6QXVhOG53OExNTUgwUnhnNEYycFIxcURhSWVNaXAwZzFtR2tlYndaTHVWUU1ncG160gFsQVVfeXFMTUZfNmtHQkM2d2JmSURjd210TjgybTRUbXJPaldmNG5NQ0RZX0lDazZuR1A5UEdmV1VUOUM5c2NvRFFOcHNFLTBKYVZVSXJOMEY1eWQxdjBndk9uN05QenBoWk9tMWFCSXRVZ25j?oc=5"
     },
     {
       "company": "루멘",
-      "text": "플로리다에 자동차보험 출시, 기술 기반 모델로 미국 시장 커버리지 약 50% 수준 도달",
-      "impact": "IFP 성장 가속 여부 확인 가능한 분기점으로, 투자 검토 시 핵심 지표 모니터링 필요",
+      "text": "플로리다 자동차보험 서비스 출시, 미국 시장 커버리지 약 절반으로 확대",
+      "impact": "IFP 성장 경로 구체화 여부 및 고위험 주에서의 Loss Ratio 관리 능력이 투자 매력도 판단 변수로 부상",
       "level": "mid",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczhvN2FjZjFZeDRIZzEwTXJkZmRvZ0lfcWl1S090NkpheFBlWElHRk9WSmhWZ0U3d1R3cTdVSjFreGNVaUY4U0R4MlpQbGVGazZKbG1ETWFiWXo4MV9jcUN3Mm04X2t5Ni1WekNzLWt6UndFbmw2NjBhSEVIU1Y0MXpVRTlQaVhQaEFtb0JtRjFwYzIyWUs1Zkt4aEdscXdyY2tJSFlfS29KbUs3TmdVclFScjVlTW5Gc25MamVSQnROZ2ZjZnc?oc=5"
     }
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "CGT 정부과제 선정으로 사업 모멘텀 확보",
+      "event": "CGT 정부 지원 과제 선정",
       "tags": [
         "-1.31%",
         "당사 투자"
@@ -69,7 +69,7 @@
         ],
         [
           "시가총액",
-          "7,540억",
+          "7,558억",
           null
         ],
         [
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "과기부 K-HERO 과제 선정은 외부 검증이자 31.5억원 비희석 자금 확보로 재무 부담 일부 경감",
-        "CGT 고도화 지원이 CDMO 레퍼런스로 연결될 경우 사업가치 재평가 여지 있음"
+        "K-HERO 선정은 외부 검증이자 비희석적 자금 유입으로 CGT 사업가치 훼손 없이 개발 지속 여력을 보강",
+        "단, 31.5억 규모로 자금조달 이슈를 해소하기엔 부족—CB·유상증자 동향 병행 모니터링 필요"
       ],
       "watch": [
-        "K-HERO 과제 수행 구체 일정 및 마일스톤 확인",
-        "추가 유상증자·CB 등 자금조달 계획 여부",
-        "CGT 파이프라인 임상 진척 현황"
+        "K-HERO 과제비 집행 일정 및 마일스톤",
+        "CGT 임상 진척 또는 CDMO 수주 여부",
+        "CB 만기 도래 및 추가 자금조달 계획"
       ],
       "spark": [
         {
@@ -432,7 +432,7 @@
         ],
         [
           "시가총액",
-          "917억",
+          "906억",
           null
         ],
         [
@@ -455,9 +455,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 추이 확인",
-        "신규 고객사·파트너십 계약 여부",
-        "헬스케어 사업 전환 진척 현황"
+        "헬스케어 전환 관련 신규 파트너십 체결 여부",
+        "분기 매출·영업손익 개선 추이",
+        "외부 사업 확장 계약 공시 여부"
       ],
       "spark": [
         {
@@ -731,7 +731,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "미국 자동차보험 플로리다 진출로 커버리지 확대",
+      "event": "플로리다 자동차보험 진출로 미국 시장 확대",
       "tags": [
         "-1.43%",
         "벤치마크"
@@ -747,7 +747,7 @@
         [
           "종가",
           "$53.64",
-          "₩73,946"
+          "₩74,056"
         ],
         [
           "취득가",
@@ -771,13 +771,13 @@
         ],
         [
           "거래량(20일比)",
-          "100.38만 · 0.65x",
+          "100.40만 · 0.65x",
           null
         ],
         [
           "시가총액",
           "$4.15B",
-          "5.72조"
+          "5.73조"
         ],
         [
           "52주 고점대비",
@@ -796,13 +796,13 @@
         }
       ],
       "events": [
-        "플로리다 진출로 미국 시장 커버리지가 전체의 약 절반 수준에 도달, IFP 성장 모멘텀 유효",
-        "기술 기반 보험모델의 지역 확장 속도가 벤치마크 지표로서 당사 디지털 손보 모델 검토에 시사점 제공"
+        "플로리다 진출로 미국 인구 기준 커버리지 약 50%에 근접—IFP 성장 가속의 구조적 기반 확대",
+        "기술 기반 가격산정 모델이 고위험 시장(플로리다)에서 Loss Ratio를 통제할 수 있는지가 향후 벤치마킹 핵심"
       ],
       "watch": [
-        "플로리다 진출 후 IFP 성장률 실적 반영 시점",
-        "신규 주(州) 확장에 따른 Loss Ratio 변화 추이",
-        "EBITDA 흑자전환 일정 재확인"
+        "플로리다 진출 후 Loss Ratio 변화 추이",
+        "IFP 성장률 및 EBITDA 흑자전환 시점",
+        "벤치마크 대비 디지털 언더라이팅 모델 차별성"
       ],
       "spark": [
         {
@@ -1140,7 +1140,7 @@
         [
           "시가총액",
           "Rp1.9조",
-          "1,483억"
+          "1,482억"
         ],
         [
           "52주 고점대비",
@@ -1163,8 +1163,8 @@
       ],
       "watch": [
         "OJK 규제 변화 및 PIKK 개정 동향",
-        "분기 RBC 비율 및 자본적정성 현황",
-        "GWP 성장 및 손해율 추이"
+        "분기 RBC 비율 유지 여부",
+        "GWP 성장률 및 손해율 추이"
       ],
       "spark": [
         {
