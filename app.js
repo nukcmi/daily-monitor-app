@@ -320,13 +320,29 @@ function openExternal(url) {
   }
 }
 
+const RECENT_SOURCE_COUNT = 4;
+
 function detail(id) {
   const x = payload.companies.find(v => v.id === id);
   const hasSpark = x.spark && x.spark.length > 1;
   const hasSources = x.sources && x.sources.length > 0;
-  const eventsHtml = hasSources
-    ? x.sources.map(sourceRow).join('')
-    : x.events.map(e => `<div class="tl">${e}</div>`).join('');
+
+  let eventsHtml;
+  if (hasSources) {
+    const recent = x.sources.slice(0, RECENT_SOURCE_COUNT);
+    const past = x.sources.slice(RECENT_SOURCE_COUNT);
+    const recentHtml = recent.map(sourceRow).join('');
+    const pastHtml = past.length
+      ? `<button class="src-archive-toggle" data-target="src-archive-${x.id}">지난 공시·기사 보기 (${past.length})</button>
+         <div class="src-archive-body" id="src-archive-${x.id}" style="display:none">
+           ${past.map((s, i) => sourceRow(s, i + RECENT_SOURCE_COUNT)).join('')}
+         </div>`
+      : '';
+    eventsHtml = recentHtml + pastHtml;
+  } else {
+    eventsHtml = x.events.map(e => `<div class="tl">${e}</div>`).join('');
+  }
+
   document.getElementById('detail').innerHTML = `
     <div class="dt">${x.name} ${impactBadge(x.g)}</div>
     <div class="dsub">${x.ticker}${x.exchangeLine ? ' · ' + x.exchangeLine : ''}</div>
@@ -343,6 +359,16 @@ function detail(id) {
   if (hasSources) {
     document.querySelectorAll('.src-row').forEach(el => {
       el.onclick = () => openExternal(x.sources[+el.dataset.idx].url);
+    });
+    document.querySelectorAll('.src-archive-toggle').forEach(btn => {
+      btn.onclick = () => {
+        const body = document.getElementById(btn.dataset.target);
+        const open = body.style.display !== 'none';
+        body.style.display = open ? 'none' : '';
+        btn.textContent = open
+          ? `지난 공시·기사 보기 (${body.children.length})`
+          : '지난 공시·기사 접기';
+      };
     });
   }
   if (window.Telegram?.WebApp?.HapticFeedback) Telegram.WebApp.HapticFeedback.impactOccurred('light');
