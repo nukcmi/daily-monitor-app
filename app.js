@@ -398,9 +398,26 @@ async function load() {
 let researchPayload = null;
 let researchLoaded = false;
 
+function _researchCardHtml(a, i, arr) {
+  return `
+    <div class="research-card" data-idx="${i}">
+      <div class="research-top">
+        <span class="research-pub">${a.publisher}</span>
+        ${a.collected_at ? `<span class="research-date">${a.collected_at}</span>` : ''}
+      </div>
+      <div class="research-title">${a.title}</div>
+      ${a.takeaway ? `<div class="research-takeaway">${a.takeaway}</div>` : ''}
+      ${(a.bullets && a.bullets.length)
+        ? `<ul class="research-bullets">${a.bullets.map(b => `<li>${b}</li>`).join('')}</ul>`
+        : ''}
+      <div class="research-link">원문 보기 →</div>
+    </div>`;
+}
+
 function renderResearch() {
   const arr = (researchPayload && researchPayload.articles) || [];
   const container = document.getElementById('researchList');
+  const archiveContainer = document.getElementById('researchArchive');
   const updLine = document.getElementById('researchUpdatedLine');
   if (updLine) {
     updLine.textContent = researchPayload && researchPayload.updated
@@ -409,23 +426,61 @@ function renderResearch() {
   }
   if (!arr.length) {
     container.innerHTML = `<div class="research-empty">이번 주 신규 아티클이 없습니다.</div>`;
+    if (archiveContainer) archiveContainer.innerHTML = '';
     return;
   }
-  container.innerHTML = arr.map((a, i) => `
-    <div class="research-card" data-idx="${i}">
-      <div class="research-top">
-        <span class="research-pub">${a.publisher}</span>
-        ${a.collected_at ? `<span class="research-date">${a.collected_at}</span>` : ''}
-      </div>
-      <div class="research-title">${a.title}</div>
-          ${a.takeaway ? `<div class="research-takeaway">${a.takeaway}</div>` : ''}
-      ${(a.bullets && a.bullets.length)
-        ? `<ul class="research-bullets">${a.bullets.map(b => `<li>${b}</li>`).join('')}</ul>`
-        : ''}
-      <div class="research-link">원문 보기 →</div>
-    </div>`).join('');
+
+  // 가장 최신 수집일(collected_at)만 "최신"으로 보고, 그 이전은 전부 아카이브로 분류
+  const latestDate = arr.reduce((max, a) => (a.collected_at > max ? a.collected_at : max), '');
+  const current = arr.filter(a => a.collected_at === latestDate);
+  const past = arr.filter(a => a.collected_at !== latestDate);
+
+  container.innerHTML = current.map((a, i) => _researchCardHtml(a, i, current)).join('');
   container.querySelectorAll('.research-card').forEach(el => {
-    el.onclick = () => openExternal(arr[+el.dataset.idx].url);
+    el.onclick = () => openExternal(current[+el.dataset.idx].url);
+  });
+
+  if (!archiveContainer) return;
+  if (!past.length) {
+    archiveContainer.innerHTML = '';
+    return;
+  }
+
+  // 날짜별로 그룹핑, 최신 날짜부터
+  const byDate = {};
+  past.forEach(a => {
+    const d = a.collected_at || '날짜 미상';
+    (byDate[d] = byDate[d] || []).push(a);
+  });
+  const dates = Object.keys(byDate).sort().reverse();
+
+  archiveContainer.innerHTML = `
+    <button id="researchArchiveToggle" class="research-archive-toggle">지난 리서치 보기 (${past.length})</button>
+    <div id="researchArchiveBody" class="research-archive-body" style="display:none">
+      ${dates.map(d => `
+        <div class="research-archive-date">${d}</div>
+        ${byDate[d].map((a, i) => _researchCardHtml(a, i, byDate[d])).join('')}
+      `).join('')}
+    </div>`;
+
+  const toggle = document.getElementById('researchArchiveToggle');
+  const body = document.getElementById('researchArchiveBody');
+  toggle.onclick = () => {
+    const open = body.style.display !== 'none';
+    body.style.display = open ? 'none' : '';
+    toggle.textContent = open ? `지난 리서치 보기 (${past.length})` : '지난 리서치 접기';
+  };
+  body.querySelectorAll('.research-card').forEach(el => {
+    const dateBlock = el.closest('.research-archive-body') ? byDate[el.closest('div').previousElementSibling?.textContent] : null;
+  });
+  // 클릭 이벤트는 날짜 그룹별로 다시 바인딩
+  let flatIdx = 0;
+  dates.forEach(d => {
+    byDate[d].forEach(a => {
+      const el = body.querySelectorAll('.research-card')[flatIdx];
+      if (el) el.onclick = () => openExternal(a.url);
+      flatIdx++;
+    });
   });
 }
 
