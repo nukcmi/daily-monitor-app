@@ -1,19 +1,19 @@
 {
   "asOf": "2026-08-27",
-  "updated": "2026-08-27 09:59",
-  "fx": "환율 2026-08-26 · 시장환율   1 USD = ₩1,377.28   |   1 USD = 17,695.00 IDR   |   1 IDR = ₩0.07783",
+  "updated": "2026-08-27 10:47",
+  "fx": "환율 2026-08-27 · 시장환율   1 USD = ₩1,378.56   |   1 USD = 17,712.00 IDR   |   1 IDR = ₩0.07783",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "과기부 'K-HERO 육성·지원사업' 선정, 31.5억원 규모 세포·유전자치료제 고도화 지원 확정",
-      "impact": "비희석성 정부 자금 확보로 CGT R&D 소진 부담 일부 경감—당사 보유 지분가치에 단기 긍정 요인",
+      "text": "과기부 K-HERO 육성·지원사업 선정, 세포·유전자치료제 개발 지원 및 31.5억원 수혜 예정",
+      "impact": "비희석 정부 자금 확보로 당사 지분 희석 없이 CGT 사업 가치 유지·제고 기대",
       "level": "mid",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pWER0eGFidndqWW5CN2RGRG9xbDI1MF9OdS12N1lSMjBCc0ZQMk0yWC1KbTJOa1l6QXVhOG53OExNTUgwUnhnNEYycFIxcURhSWVNaXAwZzFtR2tlYndaTHVWUU1ncG160gFsQVVfeXFMTUZfNmtHQkM2d2JmSURjd210TjgybTRUbXJPaldmNG5NQ0RZX0lDazZuR1A5UEdmV1VUOUM5c2NvRFFOcHNFLTBKYVZVSXJOMEY1eWQxdjBndk9uN05QenBoWk9tMWFCSXRVZ25j?oc=5"
     },
     {
       "company": "루멘",
-      "text": "플로리다주 자동차보험 출시로 미국 시장 커버리지를 약 절반 수준으로 확대",
-      "impact": "IFP 성장 가속 가능성 확인되나, 고위험 주 편입에 따른 Loss Ratio 영향은 다음 실적에서 검증 필요—신규 투자 검토 판단 전 추가 지표 모니터링 요",
+      "text": "플로리다에 자동차보험 출시, 기술 기반 모델로 미국 시장 커버리지 약 50% 수준 도달",
+      "impact": "IFP 성장 가속 여부 확인 가능한 분기점으로, 투자 검토 시 핵심 지표 모니터링 필요",
       "level": "mid",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczhvN2FjZjFZeDRIZzEwTXJkZmRvZ0lfcWl1S090NkpheFBlWElHRk9WSmhWZ0U3d1R3cTdVSjFreGNVaUY4U0R4MlpQbGVGazZKbG1ETWFiWXo4MV9jcUN3Mm04X2t5Ni1WekNzLWt6UndFbmw2NjBhSEVIU1Y0MXpVRTlQaVhQaEFtb0JtRjFwYzIyWUs1Zkt4aEdscXdyY2tJSFlfS29KbUs3TmdVclFScjVlTW5Gc25MamVSQnROZ2ZjZnc?oc=5"
     }
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "CGT 정부지원 확보",
+      "event": "CGT 정부과제 선정으로 사업 모멘텀 확보",
       "tags": [
         "-1.31%",
         "당사 투자"
@@ -69,7 +69,7 @@
         ],
         [
           "시가총액",
-          "7,633억",
+          "7,540억",
           null
         ],
         [
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "K-HERO 선정으로 31.5억원 비희석성 외부 자금 확보—자체 R&D 소진 속도 완화 효과",
-        "CGT 고도화 지원 확보는 CDMO 레퍼런스 축적에 긍정적이나 상업화까지의 거리는 여전히 불확실"
+        "과기부 K-HERO 과제 선정은 외부 검증이자 31.5억원 비희석 자금 확보로 재무 부담 일부 경감",
+        "CGT 고도화 지원이 CDMO 레퍼런스로 연결될 경우 사업가치 재평가 여지 있음"
       ],
       "watch": [
-        "K-HERO 과제 세부 마일스톤 및 지급 일정",
-        "CGT CDMO 신규 수주·계약 공시 여부",
-        "추가 자금조달(CB·유상증자) 공시 여부"
+        "K-HERO 과제 수행 구체 일정 및 마일스톤 확인",
+        "추가 유상증자·CB 등 자금조달 계획 여부",
+        "CGT 파이프라인 임상 진척 현황"
       ],
       "spark": [
         {
@@ -432,7 +432,7 @@
         ],
         [
           "시가총액",
-          "932억",
+          "917억",
           null
         ],
         [
@@ -455,9 +455,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "헬스케어 사업 매출 분기 추이",
-        "신규 고객사·파트너십 계약 공시 여부",
-        "영업손익 흑자전환 시점 확인"
+        "분기 매출·영업손익 추이 확인",
+        "신규 고객사·파트너십 계약 여부",
+        "헬스케어 사업 전환 진척 현황"
       ],
       "spark": [
         {
@@ -731,7 +731,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "플로리다 자동차보험 출시",
+      "event": "미국 자동차보험 플로리다 진출로 커버리지 확대",
       "tags": [
         "-1.43%",
         "벤치마크"
@@ -747,7 +747,7 @@
         [
           "종가",
           "$53.64",
-          "₩73,877"
+          "₩73,946"
         ],
         [
           "취득가",
@@ -796,13 +796,13 @@
         }
       ],
       "events": [
-        "플로리다 진출로 미국 전체 시장 커버리지가 약 절반 수준으로 확대—IFP 성장 가속 여부가 핵심 확인 포인트",
-        "고위험 주(州)인 플로리다 진입이 Loss Ratio에 미치는 영향을 다음 실적 발표에서 점검 필요"
+        "플로리다 진출로 미국 시장 커버리지가 전체의 약 절반 수준에 도달, IFP 성장 모멘텀 유효",
+        "기술 기반 보험모델의 지역 확장 속도가 벤치마크 지표로서 당사 디지털 손보 모델 검토에 시사점 제공"
       ],
       "watch": [
-        "플로리다 진출 후 IFP 성장률 변화",
-        "플로리다 Loss Ratio 추이 및 CR 영향",
-        "EBITDA 흑자전환 시점 전망 변화"
+        "플로리다 진출 후 IFP 성장률 실적 반영 시점",
+        "신규 주(州) 확장에 따른 Loss Ratio 변화 추이",
+        "EBITDA 흑자전환 일정 재확인"
       ],
       "spark": [
         {
@@ -1162,9 +1162,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 신규 정책 발표 여부",
-        "RBC 비율 분기 변동 확인",
-        "PIKK 개정 관련 자본적정성 영향 점검"
+        "OJK 규제 변화 및 PIKK 개정 동향",
+        "분기 RBC 비율 및 자본적정성 현황",
+        "GWP 성장 및 손해율 추이"
       ],
       "spark": [
         {
