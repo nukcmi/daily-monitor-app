@@ -253,8 +253,11 @@ function render(f = 'ALL') {
   document.querySelectorAll('.wl-row, .wl-sub-row, .mc-card').forEach(c => c.onclick = () => detail(c.dataset.id));
 }
 
-function drawChart(spark, avgCost) {
+const CURRENCY_SYMBOL = { KRW: '₩', USD: '$', IDR: 'Rp' };
+
+function drawChart(spark, avgCost, currency) {
   const canvas = document.getElementById('priceChart');
+  const symbol = CURRENCY_SYMBOL[currency] || '';
   if (!canvas || !spark || spark.length < 2) return;
   if (typeof Chart === 'undefined') {
     canvas.replaceWith(Object.assign(document.createElement('div'), {
