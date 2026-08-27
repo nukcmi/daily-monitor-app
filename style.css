@@ -279,3 +279,11 @@ h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
 .research-bullets li:last-child{margin-bottom:0}
 
 .research-disclaimer{font-size:10px;color:#5B6472;line-height:1.6;margin:4px 0 14px}
+
+.research-archive-toggle{width:100%;padding:12px;margin-top:8px;background:#12151C;
+                         border:1px solid #2A2E36;border-radius:10px;color:#F89B5C;
+                         font-size:12px;font-weight:600;cursor:pointer}
+.research-archive-body{margin-top:10px}
+.research-archive-date{font-size:11px;color:#7B8494;font-weight:700;
+                       margin:16px 0 8px;padding-bottom:4px;
+                       border-bottom:1px solid rgba(255,255,255,.07)}
