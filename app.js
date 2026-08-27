@@ -304,7 +304,7 @@ function drawChart(spark, avgCost, currency) {
           filter: (item) => item.datasetIndex === 0,  // 취득가 점선은 툴팁 제외
           callbacks: {
             title: (items) => labels[items[0].dataIndex],
-            label: (item) => `종가 ${item.parsed.y.toLocaleString()}`,
+            label: (item) => `종가 ${symbol}${item.parsed.y.toLocaleString()}`,
           },
         },
       },
@@ -378,7 +378,7 @@ function detail(id) {
     <div class="sec"><h4>최근 공시·기사</h4>${eventsHtml}</div>
     ${x.watch.length ? `<div class="sec"><h4>주요 확인사항</h4><ul>${x.watch.map(w => `<li>${w}</li>`).join('')}</ul></div>` : ''}`;
   document.getElementById('backdrop').classList.add('open');
-  if (hasSpark) drawChart(x.spark, x.avgCost);
+  if (hasSpark) drawChart(x.spark, x.avgCost, x.currency);
   if (hasSources) {
     document.querySelectorAll('.src-row').forEach(el => {
       el.onclick = () => openExternal(x.sources[+el.dataset.idx].url);
