@@ -292,3 +292,17 @@ h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
                     border:1px solid #2A2E36;border-radius:8px;color:#F89B5C;
                     font-size:11px;font-weight:600;cursor:pointer}
 .src-archive-body{margin-top:6px}
+
+.arc-summary{display:flex;gap:8px;margin-bottom:10px}
+.arc-chip{flex:1;padding:10px;border-radius:8px;border:1px solid rgba(255,255,255,.1);
+          background:#12151C;font-size:11px;font-weight:700;cursor:pointer}
+.arc-high{color:#F0616D}
+.arc-mid{color:#F79009}
+.arc-low{color:#12B76A}
+.arc-body{margin-top:4px}
+.arc-row{background:#12151C;border:1px solid #2A2E36;border-radius:8px;
+        padding:10px;margin-bottom:6px}
+.arc-date{font-size:10px;color:#7B8494}
+.arc-row-summary{font-size:12px;color:#fff;margin-top:4px}
+.arc-row-impact{font-size:10.5px;color:#F89B5C;margin-top:4px}
+.arc-empty{font-size:11px;color:#7B8494;text-align:center;padding:16px 0}
