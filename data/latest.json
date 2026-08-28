@@ -1,21 +1,21 @@
 {
   "asOf": "2026-08-28",
-  "updated": "2026-08-28 17:52",
-  "fx": "환율 2026-08-28 · 시장환율   1 USD = ₩1,371.74   |   1 USD = 17,685.00 IDR   |   1 IDR = ₩0.07757",
+  "updated": "2026-08-28 18:04",
+  "fx": "환율 2026-08-28 · 시장환율   1 USD = ₩1,371.48   |   1 USD = 17,685.00 IDR   |   1 IDR = ₩0.07755",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "계열사 SMG, 싱가포르 영상의학 3개사를 매각하고 여성·난임 사업에 집중",
-      "impact": "비핵심 자산 처분으로 사업 포트폴리오 단순화; 매각대금의 CGT/CDMO 재투자 여부가 당사 지분가치 핵심 변수",
+      "text": "계열사 SMG가 싱가포르 영상의학 3개사를 매각하고 여성·난임 사업에 집중하기로 함",
+      "impact": "비핵심 자산 매각으로 사업 포트폴리오 재편 중; 매각대금 활용 방향에 따라 당사 보유 지분가치 영향 가능",
       "level": "mid",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16eE8yVW5pUTU3ZndhM3puVUtVUWxhQllpR3hSVmU1TUZWOFQxZndwZEVoTVF6RlFXcjZMd2t2SWlvRnNOUXVpUXlhQUZwcl9qeTI0bGtmNWZNeWlMUDFJRDl2LXE?oc=5"
     },
     {
-      "company": "차바이오텍",
-      "text": "차바이오그룹, 벤처캐피털 자회사 솔리더스인베스트먼트 지분 전량 매각 후 CGT 등 3대 핵심사업 집중 선언",
-      "impact": "그룹 차원의 사업 재편으로 CGT/CDMO 투자 집중도 높아지나, 실제 자금 집행 규모·시점은 추가 확인 필요",
+      "company": "루멘",
+      "text": "루멘이 플로리다주에서 자동차보험 서비스를 신규 출시함",
+      "impact": "IFP 확대 가능성이 있으나 고위험 시장 진입으로 Loss Ratio 관리 여부가 투자 매력도 판단의 추가 변수로 부상",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TQjRQUlJueHRudzFZeW9GbkpjSWltbFMyQTZRb194bVdfZXhBYlNkQVpwYzVZLVA1aTlUVmJlVk1oTjZRVWNhdEFfRjZic2pHaXFuTnV2Qm5hcDhqem9yazRmN05pcjNUU2VialJnZmhveXVGSE5J?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkViTGxLU3hXQnFIS1MzYk9rc0dKWWdfbEh3LUVwTXQwZFhVQTI1MDR4bVFrX2xKNGVwU0JoQmtfcWdSN3RrdGJMaUduX1pWVlpMNzdzZXZrcUxPNWpIQlhLcFByOFF6M2IzZ25KQUs0RjE3YXFzQmxCbDdUZS00eFNDWdIBkwFBVV95cUxOYmdwM2xpT19iQ1l1TllkdmhqbnN4djFBZUdDYlhoWV9lMjBiYmNfVDdFV05xVHJDbWJ3SkdrWmV6NzloWkdZYk5YTFZycE5iZi1FbFZuUXNPZVc4N0dCRHBXbXR2YUZYejFyNXlLVHZTMVgxUmctS3FVaXdhSmpyb0tUTElvaHZKUXU4SmF4WFhURVE?oc=5"
     }
   ],
   "companies": [
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "비핵심 자산 매각·사업 재편 가속",
+      "event": "계열사 자산 매각으로 사업 재편",
       "tags": [
         "+0.74%",
         "당사 투자"
@@ -64,7 +64,7 @@
         ],
         [
           "거래량(20일比)",
-          "17.71만 · 0.59x",
+          "17.01만 · 0.56x",
           null
         ],
         [
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "벤처캐피털 지분 전량 매각·싱가포르 영상의학 3개사 매각으로 CGT/CDMO 등 핵심사업 집중 구조 명확화",
-        "줄기세포 배양 특허 취득은 기술 포트폴리오 보강이나 상업화 일정·규모는 미확인"
+        "영상의학 부문 매각은 비핵심 자산 정리로 여성·난임 집중 전략 가속화를 의미하며, CGT/CDMO 사업 자원 배분 여력에 영향 가능",
+        "구조적 사업 재편이 진행 중인 만큼 지분가치 변화의 방향성을 단기보다 중기 관점에서 추적 필요"
       ],
       "watch": [
-        "매각대금의 CGT/CDMO 재투자 계획",
-        "추가 유상증자·CB 발행 여부",
-        "CGT 파이프라인 임상 진척 공시"
+        "매각대금의 CGT/CDMO 재투자 여부",
+        "추가 유상증자·CB 발행 계획",
+        "CGT 파이프라인 임상 진척 여부"
       ],
       "spark": [
         {
@@ -369,21 +369,15 @@
           "date": "08/28"
         },
         {
-          "title": "차바이오텍 주가 상승 중",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UemE4SjlfaDJfb25tY2N5a2U2Z3RwV0FtYVQ4OVNDTzN0UlNCa05nZVJpR1U1TzRwTFNCdUVrYVdFRTU1TlF5UXhlRFNNQ09rUENocU1GemdVZzN2?oc=5",
+          "title": "차바이오텍 주가 160원 하락 후 마감",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NQnJJN2RsUzlTUjBVUkxKdjdUSXpBV2JEZDBUR0FjdEoxWkxNa2FVSUxfaVJkTDdGampyX3pINkJwNXd4LWhZVy1NVlRmdXFLVXFlRWhET004RlA3?oc=5",
           "source": "아시아뉴스통신",
-          "date": "08/28"
-        },
-        {
-          "title": "차바이오텍, ‘지지세포 없는 배아줄기세포 단독 배양법’ 특허 취득",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aRzRxTkFNZnViWV9sdWItYWhhUEhMbmNudXV6ZDVzQkZPdi1waER5NXhNZG1rT2d3NVUtUTF6M2dnT3VxTXVLMmpTMHdXZTJtSVFCbzgwR3dkcUlVYjVNWXBFR1ZrWnlZTS1LZ2hZTHJudmdlYW5kNA?oc=5",
-          "source": "헬스오",
           "date": "08/27"
         },
         {
-          "title": "차바이오그룹, 벤처캐피털 자회사 솔리더스인베스트먼트 지분 전량 매각 … CGT 등 3대 사업에 핵심사업 집중",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TQjRQUlJueHRudzFZeW9GbkpjSWltbFMyQTZRb194bVdfZXhBYlNkQVpwYzVZLVA1aTlUVmJlVk1oTjZRVWNhdEFfRjZic2pHaXFuTnV2Qm5hcDhqem9yazRmN05pcjNUU2VialJnZmhveXVGSE5J?oc=5",
-          "source": "헬스오",
+          "title": "차바이오텍 주가 하락 중",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxSy1NenFyb1JuTFlIaEt6anhsSWUxMHl4SHNPZDV6Vnc1bHB6OE5oUUpWU1hoZTNqQnRKV0ROSWdTV0gxOWJVa3FqWXdnS0RpaGxHR2p0aE9Oa25ORmQzRzkzTktvUEx0dVEtSUpjdFlnUURu?oc=5",
+          "source": "아시아뉴스통신",
           "date": "08/27"
         }
       ],
@@ -435,6 +429,13 @@
           "impact": "그룹 차원의 사업 재편으로 CGT/CDMO 투자 집중도 높아지나, 실제 자금 집행 규모·시점은 추가 확인 필요",
           "level": "mid",
           "date": "08/27",
+          "collected_at": "2026-08-28"
+        },
+        {
+          "summary": "계열사 SMG가 싱가포르 영상의학 3개사를 매각하고 여성·난임 사업에 집중하기로 함",
+          "impact": "비핵심 자산 매각으로 사업 포트폴리오 재편 중; 매각대금 활용 방향에 따라 당사 보유 지분가치 영향 가능",
+          "level": "mid",
+          "date": "08/28",
           "collected_at": "2026-08-28"
         }
       ]
@@ -512,9 +513,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 실적 공시",
-        "신규 고객사·파트너십 계약 발표",
-        "헬스케어 전환 관련 자금조달 동향"
+        "분기 매출·영업손익 발표 시점",
+        "신규 고객사·파트너십 체결 여부",
+        "헬스케어 전환 관련 수익화 지표"
       ],
       "spark": [
         {
@@ -773,15 +774,8 @@
       "avgCost": null,
       "currency": "KRW",
       "exchangeLine": "KRX · 8/28 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4ZU5XdktCY1U2azJ6VmNBNEZEbTFYVE1adnRGSVRucXJUM255ZkxXbHQxX2g4LWREM1RBdi1XZklpcWt1MDhSVGRORjJ6VVBZMlB4aDh2ck5ESGl6eEZ6LTRtUElFc0Z1ZUFCSzNCTTVzV28?oc=5",
-      "sources": [
-        {
-          "title": "차AI헬스케어 투자분석 2026. 08. 26",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4ZU5XdktCY1U2azJ6VmNBNEZEbTFYVE1adnRGSVRucXJUM255ZkxXbHQxX2g4LWREM1RBdi1XZklpcWt1MDhSVGRORjJ6VVBZMlB4aDh2ck5ESGl6eEZ6LTRtUElFc0Z1ZUFCSzNCTTVzV28?oc=5",
-          "source": "주달",
-          "date": "08/26"
-        }
-      ],
+      "sourceUrl": null,
+      "sources": [],
       "archive30d": []
     },
     {
@@ -805,7 +799,7 @@
         [
           "종가",
           "$53.93",
-          "₩73,978"
+          "₩73,964"
         ],
         [
           "취득가",
@@ -835,7 +829,7 @@
         [
           "시가총액",
           "$4.17B",
-          "5.73조"
+          "5.72조"
         ],
         [
           "52주 고점대비",
@@ -854,13 +848,13 @@
         }
       ],
       "events": [
-        "플로리다는 고위험·고손해율 시장으로, 진입 성과는 루멘의 디지털 언더라이팅 모델 검증 지표가 될 것",
-        "지역 확장이 IFP 성장률에 기여할 수 있으나 플로리다 특유의 Loss Ratio 리스크가 수익성에 변수"
+        "플로리다는 미국 내 고위험·고경쟁 자동차보험 시장으로, IFP 확대와 동시에 Loss Ratio 관리가 핵심 관건",
+        "지역 확장 속도가 밸류에이션 정당화 요건인 IFP 성장률을 충족할지가 투자 검토의 핵심 판단 기준"
       ],
       "watch": [
         "플로리다 진입 후 Loss Ratio 추이",
-        "IFP 성장률 분기 변화",
-        "EBITDA 흑자전환 시점 가시화 여부"
+        "IFP 성장률 목표 달성 여부",
+        "EBITDA 흑자전환 시점 변화"
       ],
       "spark": [
         {
@@ -1180,6 +1174,13 @@
           "level": "mid",
           "date": "08/27",
           "collected_at": "2026-08-28"
+        },
+        {
+          "summary": "루멘이 플로리다주에서 자동차보험 서비스를 신규 출시함",
+          "impact": "IFP 확대 가능성이 있으나 고위험 시장 진입으로 Loss Ratio 관리 여부가 투자 매력도 판단의 추가 변수로 부상",
+          "level": "mid",
+          "date": "08/27",
+          "collected_at": "2026-08-28"
         }
       ]
     },
@@ -1190,21 +1191,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+0.79%",
+        "-0.78%",
         "자회사"
       ],
-      "priceText": "Rp640",
+      "priceText": "Rp635",
       "openText": "Rp635",
       "highText": "Rp640",
-      "lowText": "Rp635",
-      "prevCloseText": "Rp635",
-      "changeText": "+Rp5",
+      "lowText": "Rp615",
+      "prevCloseText": "Rp640",
+      "changeText": "-Rp5",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp640",
-          "₩49.6"
+          "Rp635",
+          "₩49.2"
         ],
         [
           "취득가",
@@ -1213,32 +1214,32 @@
         ],
         [
           "취득가대비",
-          "-2.11%",
+          "-2.88%",
           null
         ],
         [
           "전일대비",
-          "+0.79%",
+          "-0.78%",
           null
         ],
         [
           "전주대비",
-          "+2.40%",
+          "+1.60%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.30천 · 0.05x",
+          "1.60천 · 0.07x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,478억"
+          "1,477억"
         ],
         [
           "52주 고점대비",
-          "-32.35%",
+          "-32.88%",
           null
         ]
       ],
@@ -1256,15 +1257,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 신규 규제 발표 여부",
-        "분기 RBC 비율 변동",
-        "PIKK 개정 관련 후속 조치"
+        "OJK 규제 변화 및 PIKK 개정 동향",
+        "RBC 비율 유지 여부",
+        "추가 지분 변동 계획"
       ],
       "spark": [
-        {
-          "date": "5/27",
-          "close": 700.0
-        },
         {
           "date": "5/28",
           "close": 700.0
@@ -1512,17 +1509,21 @@
         {
           "date": "8/27",
           "close": 640.0
+        },
+        {
+          "date": "8/28",
+          "close": 635.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 8/27 종가 (WIB)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2JDNGp5alcxSEtaeUItM0NqU01CNjlnX1ByalNRWG8tUjVpLUVZMGFRRnlKakg3ZWZNbjZza0NHdWRoRU91SENURnFhel8zZ3E4VDlpYVpaSFIzWjFHNERwTnhiSXZmby1XQVdBS3RWd2dfU1EyMTloekltejBPUjB2S2lPeUZSbXp3NS1CRU1pWXdfa1V4THFSMGJHVUx5SlVFM181QWN2ajFHWUJoVDNfTWg?oc=5",
+      "exchangeLine": "IDX · 8/28 종가 (WIB)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdC1iNlY0bEg5NzdjYk1mY3ZvYTFLNlJ1VGxfdzE3WDZrWDlsMUlxeDVyTlJUd0lORHBmWHBhTE5GbFJNd3N2dGlxN291aE9yUXJ5R0dMMWRvQmxpQkJ2N1VZT21pM2dvT1k2U0t3ZEFRQVpNY0xVWDdkc2lHNUdBcTVUYkt4cGpsVThpdEhvMnpmSUtoQlNRUHRaMGw0N3BSX0HSAacBQVVfeXFMTklGZ2V4MlNpdTRYZnZsMkgzNjZTNS0yenlEZGJtQVQzYmFVbVJxSTAzNnhmU2JCNVFXYml5cEZWbE1PRkg4TjE5aXJvYi1KQUNIR0pnQlctaFlFNmFUX0FIRjNrWEUyR3MxMTYyakJxRktjVGp4STJmZ3NMRk5DcEFQajZIbU5HN3VITzdjVU50RnhrbHhXWHpwc3JJMy1TM2NzQ3ZtdFE?oc=5",
       "sources": [
         {
-          "title": "IDX Launches Green Stock Labeling, OJK Encourages Incentives for Issuers",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2JDNGp5alcxSEtaeUItM0NqU01CNjlnX1ByalNRWG8tUjVpLUVZMGFRRnlKakg3ZWZNbjZza0NHdWRoRU91SENURnFhel8zZ3E4VDlpYVpaSFIzWjFHNERwTnhiSXZmby1XQVdBS3RWd2dfU1EyMTloekltejBPUjB2S2lPeUZSbXp3NS1CRU1pWXdfa1V4THFSMGJHVUx5SlVFM181QWN2ajFHWUJoVDNfTWg?oc=5",
-          "source": "Kompas.id",
+          "title": "Safeguards needed as agentic AI enters finance: deputy minister",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdC1iNlY0bEg5NzdjYk1mY3ZvYTFLNlJ1VGxfdzE3WDZrWDlsMUlxeDVyTlJUd0lORHBmWHBhTE5GbFJNd3N2dGlxN291aE9yUXJ5R0dMMWRvQmxpQkJ2N1VZT21pM2dvT1k2U0t3ZEFRQVpNY0xVWDdkc2lHNUdBcTVUYkt4cGpsVThpdEhvMnpmSUtoQlNRUHRaMGw0N3BSX0HSAacBQVVfeXFMTklGZ2V4MlNpdTRYZnZsMkgzNjZTNS0yenlEZGJtQVQzYmFVbVJxSTAzNnhmU2JCNVFXYml5cEZWbE1PRkg4TjE5aXJvYi1KQUNIR0pnQlctaFlFNmFUX0FIRjNrWEUyR3MxMTYyakJxRktjVGp4STJmZ3NMRk5DcEFQajZIbU5HN3VITzdjVU50RnhrbHhXWHpwc3JJMy1TM2NzQ3ZtdFE?oc=5",
+          "source": "ANTARA News",
           "date": "08/28"
         }
       ],
