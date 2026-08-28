@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-08-28",
-  "updated": "2026-08-28 18:04",
-  "fx": "환율 2026-08-28 · 시장환율   1 USD = ₩1,371.48   |   1 USD = 17,685.00 IDR   |   1 IDR = ₩0.07755",
+  "asOf": "2026-08-29",
+  "updated": "2026-08-29 04:24",
+  "fx": "환율 2026-08-28 · 시장환율   1 USD = ₩1,378.67   |   1 USD = 17,698.00 IDR   |   1 IDR = ₩0.07790",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "계열사 SMG가 싱가포르 영상의학 3개사를 매각하고 여성·난임 사업에 집중하기로 함",
-      "impact": "비핵심 자산 매각으로 사업 포트폴리오 재편 중; 매각대금 활용 방향에 따라 당사 보유 지분가치 영향 가능",
+      "text": "계열사 SMG, 싱가포르 영상의학 3개사 매각하고 여성·난임 사업에 집중하기로 함",
+      "impact": "비핵심 자산 정리로 그룹 사업 구조 단순화 진행 중. CGT/CDMO 투자 재원 확보 여부 및 당사 지분가치 영향 추적 필요",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16eE8yVW5pUTU3ZndhM3puVUtVUWxhQllpR3hSVmU1TUZWOFQxZndwZEVoTVF6RlFXcjZMd2t2SWlvRnNOUXVpUXlhQUZwcl9qeTI0bGtmNWZNeWlMUDFJRDl2LXE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWkZNem4xRFM2ZG5BendJODVlNFZWWmdYYU1jMm0xNFVPNE5BUFdjU2g4Wk5sYmVQbGxQdkVqNWdjUzFYR0t4Rm1sX0duN1lFSzVVOXp5M1dQOFNuX2JJeDNLdElIdw?oc=5"
     },
     {
-      "company": "루멘",
-      "text": "루멘이 플로리다주에서 자동차보험 서비스를 신규 출시함",
-      "impact": "IFP 확대 가능성이 있으나 고위험 시장 진입으로 Loss Ratio 관리 여부가 투자 매력도 판단의 추가 변수로 부상",
+      "company": "차바이오텍",
+      "text": "로아앤코그룹이 차헬스케어 투자금 320억 회수, 수익 34억 실현",
+      "impact": "차헬스케어 외부 주요 투자자 엑싯으로 계열사 지분·자금 구조 변화 가능성. 당사 보유 지분 관련 연쇄 영향 점검 필요",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkViTGxLU3hXQnFIS1MzYk9rc0dKWWdfbEh3LUVwTXQwZFhVQTI1MDR4bVFrX2xKNGVwU0JoQmtfcWdSN3RrdGJMaUduX1pWVlpMNzdzZXZrcUxPNWpIQlhLcFByOFF6M2IzZ25KQUs0RjE3YXFzQmxCbDdUZS00eFNDWdIBkwFBVV95cUxOYmdwM2xpT19iQ1l1TllkdmhqbnN4djFBZUdDYlhoWV9lMjBiYmNfVDdFV05xVHJDbWJ3SkdrWmV6NzloWkdZYk5YTFZycE5iZi1FbFZuUXNPZVc4N0dCRHBXbXR2YUZYejFyNXlLVHZTMVgxUmctS3FVaXdhSmpyb0tUTElvaHZKUXU4SmF4WFhURVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVGVrU2RibS05dFpXY09HZ0FqX2doaS1tY3U3Rmd5YkoyckI3R2tuRHAxTUprUy0yTktKOGlKOXRpVFNTZVEtRjFfN0tFcFNScXpBMVZ1cjVPUTlsWW9sVVRsOWxLRHk1Q3ZBYnJR0gFuQVVfeXFMTTFUZWtTZGJtLTl0WldjT0dnQWpfZ2hpLW1jdTdGZ3liSjJyQjdHa25EcDFNSmtTLTJOS0o4aUo5dGlUU1NlUS1GMV83S0VwU1JxekExVnVyNU9ROWxZb2xVVGw5bEtEeTVDdkFiclE?oc=5"
     }
   ],
   "companies": [
@@ -24,22 +24,22 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "계열사 자산 매각으로 사업 재편",
+      "event": "계열사 자산 구조조정 진행",
       "tags": [
-        "+0.74%",
+        "-1.94%",
         "당사 투자"
       ],
-      "priceText": "₩8,160",
-      "openText": "₩8,060",
-      "highText": "₩8,240",
-      "lowText": "₩7,970",
-      "prevCloseText": "₩8,100",
-      "changeText": "+₩60",
+      "priceText": "₩8,100",
+      "openText": "₩8,190",
+      "highText": "₩8,320",
+      "lowText": "₩8,040",
+      "prevCloseText": "₩8,260",
+      "changeText": "-₩160",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,160",
+          "₩8,100",
           null
         ],
         [
@@ -49,22 +49,22 @@
         ],
         [
           "취득가대비",
-          "-36.27%",
+          "-36.74%",
           null
         ],
         [
           "전일대비",
-          "+0.74%",
+          "-1.94%",
           null
         ],
         [
           "전주대비",
-          "-0.73%",
+          "-1.46%",
           null
         ],
         [
           "거래량(20일比)",
-          "17.01만 · 0.56x",
+          "23.79만 · 0.74x",
           null
         ],
         [
@@ -74,7 +74,7 @@
         ],
         [
           "52주 고점대비",
-          "-65.93%",
+          "-66.18%",
           null
         ]
       ],
@@ -89,15 +89,19 @@
         }
       ],
       "events": [
-        "영상의학 부문 매각은 비핵심 자산 정리로 여성·난임 집중 전략 가속화를 의미하며, CGT/CDMO 사업 자원 배분 여력에 영향 가능",
-        "구조적 사업 재편이 진행 중인 만큼 지분가치 변화의 방향성을 단기보다 중기 관점에서 추적 필요"
+        "SMG의 영상의학 사업 매각은 그룹 차원의 선택·집중 전략 신호로, CGT/CDMO 중심 재편 가능성 시사",
+        "로아앤코그룹의 차헬스케어 투자금 회수는 계열사 재무 관계 정리 흐름으로 지분구조 변화 모니터링 필요"
       ],
       "watch": [
-        "매각대금의 CGT/CDMO 재투자 여부",
-        "추가 유상증자·CB 발행 계획",
-        "CGT 파이프라인 임상 진척 여부"
+        "SMG 매각 대금 사용처 및 CGT/CDMO 재투자 여부",
+        "추가 유상증자·CB 발행 계획 여부",
+        "계열 지분구조 변동 공시 여부"
       ],
       "spark": [
+        {
+          "date": "5/28",
+          "close": 13570.0
+        },
         {
           "date": "5/29",
           "close": 13470.0
@@ -345,20 +349,28 @@
         {
           "date": "8/27",
           "close": 8100.0
-        },
-        {
-          "date": "8/28",
-          "close": 8160.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 8/28 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16eE8yVW5pUTU3ZndhM3puVUtVUWxhQllpR3hSVmU1TUZWOFQxZndwZEVoTVF6RlFXcjZMd2t2SWlvRnNOUXVpUXlhQUZwcl9qeTI0bGtmNWZNeWlMUDFJRDl2LXE?oc=5",
+      "exchangeLine": "KRX · 8/27 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVGVrU2RibS05dFpXY09HZ0FqX2doaS1tY3U3Rmd5YkoyckI3R2tuRHAxTUprUy0yTktKOGlKOXRpVFNTZVEtRjFfN0tFcFNScXpBMVZ1cjVPUTlsWW9sVVRsOWxLRHk1Q3ZBYnJR0gFuQVVfeXFMTTFUZWtTZGJtLTl0WldjT0dnQWpfZ2hpLW1jdTdGZ3liSjJyQjdHa25EcDFNSmtTLTJOS0o4aUo5dGlUU1NlUS1GMV83S0VwU1JxekExVnVyNU9ROWxZb2xVVGw5bEtEeTVDdkFiclE?oc=5",
       "sources": [
         {
+          "title": "로아앤코그룹, 차헬스케어 투자금 320억 회수…수익 '34억' - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVGVrU2RibS05dFpXY09HZ0FqX2doaS1tY3U3Rmd5YkoyckI3R2tuRHAxTUprUy0yTktKOGlKOXRpVFNTZVEtRjFfN0tFcFNScXpBMVZ1cjVPUTlsWW9sVVRsOWxLRHk1Q3ZBYnJR0gFuQVVfeXFMTTFUZWtTZGJtLTl0WldjT0dnQWpfZ2hpLW1jdTdGZ3liSjJyQjdHa25EcDFNSmtTLTJOS0o4aUo5dGlUU1NlUS1GMV83S0VwU1JxekExVnVyNU9ROWxZb2xVVGw5bEtEeTVDdkFiclE?oc=5",
+          "source": "머니투데이",
+          "date": "08/28"
+        },
+        {
+          "title": "정선 카지노 쇼미더벳 의료인를 위한 알고리즘 설계 실전 기술",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWRKNkhqNmJ5N3dQelo1ZURMbnlwVDFsNnlpSG9XVm1uUElmRWZseW5FSFpBZ1hGbUhadE43MWxwb0FSZTlCZ2dVOVF6VjRLNWpsc0tfSjVOVE5CdmgxLXhoMjF0MnJYQ01hUXdYTFAzWE1vUWZFTHBWUVQ5T0FmM3dZTEFiSDRGWk5ucnh5bk04QXY1OEROdUtWUEs4YVVPdS1pTnZoT3Ayd29ZSnRQMlBLOGRyVjhDUXFiVFBDTFhJQURnWTRoRUFFMUFDMnl2V1VORjlIeFF6UQ?oc=5",
+          "source": "Platea Magazine",
+          "date": "08/28"
+        },
+        {
           "title": "차바이오텍 계열 SMG, 싱가포르 영상의학 3개사 매각…여성·난임 사업 집중",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16eE8yVW5pUTU3ZndhM3puVUtVUWxhQllpR3hSVmU1TUZWOFQxZndwZEVoTVF6RlFXcjZMd2t2SWlvRnNOUXVpUXlhQUZwcl9qeTI0bGtmNWZNeWlMUDFJRDl2LXE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWkZNem4xRFM2ZG5BendJODVlNFZWWmdYYU1jMm0xNFVPNE5BUFdjU2g4Wk5sYmVQbGxQdkVqNWdjUzFYR0t4Rm1sX0duN1lFSzVVOXp5M1dQOFNuX2JJeDNLdElIdw?oc=5",
           "source": "PRESS9",
           "date": "08/28"
         },
@@ -371,12 +383,6 @@
         {
           "title": "차바이오텍 주가 160원 하락 후 마감",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NQnJJN2RsUzlTUjBVUkxKdjdUSXpBV2JEZDBUR0FjdEoxWkxNa2FVSUxfaVJkTDdGampyX3pINkJwNXd4LWhZVy1NVlRmdXFLVXFlRWhET004RlA3?oc=5",
-          "source": "아시아뉴스통신",
-          "date": "08/27"
-        },
-        {
-          "title": "차바이오텍 주가 하락 중",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxSy1NenFyb1JuTFlIaEt6anhsSWUxMHl4SHNPZDV6Vnc1bHB6OE5oUUpWU1hoZTNqQnRKV0ROSWdTV0gxOWJVa3FqWXdnS0RpaGxHR2p0aE9Oa25ORmQzRzkzTktvUEx0dVEtSUpjdFlnUURu?oc=5",
           "source": "아시아뉴스통신",
           "date": "08/27"
         }
@@ -437,6 +443,20 @@
           "level": "mid",
           "date": "08/28",
           "collected_at": "2026-08-28"
+        },
+        {
+          "summary": "계열사 SMG, 싱가포르 영상의학 3개사 매각하고 여성·난임 사업에 집중하기로 함",
+          "impact": "비핵심 자산 정리로 그룹 사업 구조 단순화 진행 중. CGT/CDMO 투자 재원 확보 여부 및 당사 지분가치 영향 추적 필요",
+          "level": "mid",
+          "date": "08/28",
+          "collected_at": "2026-08-29"
+        },
+        {
+          "summary": "로아앤코그룹이 차헬스케어 투자금 320억 회수, 수익 34억 실현",
+          "impact": "차헬스케어 외부 주요 투자자 엑싯으로 계열사 지분·자금 구조 변화 가능성. 당사 보유 지분 관련 연쇄 영향 점검 필요",
+          "level": "mid",
+          "date": "08/28",
+          "collected_at": "2026-08-29"
         }
       ]
     },
@@ -447,20 +467,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+2.13%",
+        "-3.42%",
         "당사 투자"
       ],
-      "priceText": "₩5,040",
-      "openText": "₩4,990",
-      "highText": "₩5,080",
-      "lowText": "₩4,835",
-      "prevCloseText": "₩4,935",
-      "changeText": "+₩105",
+      "priceText": "₩4,935",
+      "openText": "₩5,070",
+      "highText": "₩5,140",
+      "lowText": "₩4,920",
+      "prevCloseText": "₩5,110",
+      "changeText": "-₩175",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,040",
+          "₩4,935",
           null
         ],
         [
@@ -475,17 +495,17 @@
         ],
         [
           "전일대비",
-          "+2.13%",
+          "-3.42%",
           null
         ],
         [
           "전주대비",
-          "+7.23%",
+          "+5.00%",
           null
         ],
         [
           "거래량(20일比)",
-          "4.92천 · 0.48x",
+          "1.00만 · 0.91x",
           null
         ],
         [
@@ -495,7 +515,7 @@
         ],
         [
           "52주 고점대비",
-          "-74.52%",
+          "-75.05%",
           null
         ]
       ],
@@ -513,11 +533,15 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 발표 시점",
-        "신규 고객사·파트너십 체결 여부",
-        "헬스케어 전환 관련 수익화 지표"
+        "분기 매출·영업손익 추이 확인",
+        "신규 고객사·파트너십 공시 여부",
+        "사업모델 전환 관련 IR 공시 여부"
       ],
       "spark": [
+        {
+          "date": "5/28",
+          "close": 7210.0
+        },
         {
           "date": "5/29",
           "close": 6750.0
@@ -765,17 +789,20 @@
         {
           "date": "8/27",
           "close": 4935.0
-        },
-        {
-          "date": "8/28",
-          "close": 5040.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 8/28 종가",
-      "sourceUrl": null,
-      "sources": [],
+      "exchangeLine": "KRX · 8/27 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWRKNkhqNmJ5N3dQelo1ZURMbnlwVDFsNnlpSG9XVm1uUElmRWZseW5FSFpBZ1hGbUhadE43MWxwb0FSZTlCZ2dVOVF6VjRLNWpsc0tfSjVOVE5CdmgxLXhoMjF0MnJYQ01hUXdYTFAzWE1vUWZFTHBWUVQ5T0FmM3dZTEFiSDRGWk5ucnh5bk04QXY1OEROdUtWUEs4YVVPdS1pTnZoT3Ayd29ZSnRQMlBLOGRyVjhDUXFiVFBDTFhJQURnWTRoRUFFMUFDMnl2V1VORjlIeFF6UQ?oc=5",
+      "sources": [
+        {
+          "title": "정선 카지노 쇼미더벳 의료인를 위한 알고리즘 설계 실전 기술",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWRKNkhqNmJ5N3dQelo1ZURMbnlwVDFsNnlpSG9XVm1uUElmRWZseW5FSFpBZ1hGbUhadE43MWxwb0FSZTlCZ2dVOVF6VjRLNWpsc0tfSjVOVE5CdmgxLXhoMjF0MnJYQ01hUXdYTFAzWE1vUWZFTHBWUVQ5T0FmM3dZTEFiSDRGWk5ucnh5bk04QXY1OEROdUtWUEs4YVVPdS1pTnZoT3Ayd29ZSnRQMlBLOGRyVjhDUXFiVFBDTFhJQURnWTRoRUFFMUFDMnl2V1VORjlIeFF6UQ?oc=5",
+          "source": "Platea Magazine",
+          "date": "08/28"
+        }
+      ],
       "archive30d": []
     },
     {
@@ -799,7 +826,7 @@
         [
           "종가",
           "$53.93",
-          "₩73,964"
+          "₩74,352"
         ],
         [
           "취득가",
@@ -828,8 +855,8 @@
         ],
         [
           "시가총액",
-          "$4.17B",
-          "5.72조"
+          "$4.12B",
+          "5.69조"
         ],
         [
           "52주 고점대비",
@@ -848,13 +875,13 @@
         }
       ],
       "events": [
-        "플로리다는 미국 내 고위험·고경쟁 자동차보험 시장으로, IFP 확대와 동시에 Loss Ratio 관리가 핵심 관건",
-        "지역 확장 속도가 밸류에이션 정당화 요건인 IFP 성장률을 충족할지가 투자 검토의 핵심 판단 기준"
+        "플로리다는 미국 내 경쟁 강도·손해율이 높은 시장으로, 진입 자체보다 실제 Loss Ratio 관리 능력이 핵심 검증 대상",
+        "지역 확장이 IFP 성장률을 견인할지, 밸류에이션 부담을 가중할지는 향후 분기 실적에서 판가름"
       ],
       "watch": [
-        "플로리다 진입 후 Loss Ratio 추이",
-        "IFP 성장률 목표 달성 여부",
-        "EBITDA 흑자전환 시점 변화"
+        "플로리다 진입 후 IFP 성장률 변화",
+        "Loss Ratio 악화 여부 분기 확인",
+        "밸류에이션 대비 IFP 성장 정당성"
       ],
       "spark": [
         {
@@ -1189,23 +1216,23 @@
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
       "g": "C",
-      "event": "주요 변동 없음",
+      "event": "인니 금융포용 정책 동향 주시",
       "tags": [
-        "-0.78%",
+        "+0.79%",
         "자회사"
       ],
-      "priceText": "Rp635",
+      "priceText": "Rp640",
       "openText": "Rp635",
       "highText": "Rp640",
-      "lowText": "Rp615",
-      "prevCloseText": "Rp640",
-      "changeText": "-Rp5",
+      "lowText": "Rp635",
+      "prevCloseText": "Rp635",
+      "changeText": "+Rp5",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp635",
-          "₩49.2"
+          "Rp640",
+          "₩49.9"
         ],
         [
           "취득가",
@@ -1214,32 +1241,32 @@
         ],
         [
           "취득가대비",
-          "-2.88%",
+          "-2.11%",
           null
         ],
         [
           "전일대비",
-          "-0.78%",
+          "+0.79%",
           null
         ],
         [
           "전주대비",
-          "+1.60%",
+          "+2.40%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.60천 · 0.07x",
+          "1.30천 · 0.05x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,477억"
+          "1,472억"
         ],
         [
           "52주 고점대비",
-          "-32.88%",
+          "-32.35%",
           null
         ]
       ],
@@ -1254,14 +1281,19 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "OJK의 2045년 금융포용률 98% 목표는 장기 시장 확대 방향성이나 단기 자회사 경영에 직접 영향은 제한적",
+        "공시·기사 기준 자회사 자체 주요 변동 없음"
       ],
       "watch": [
-        "OJK 규제 변화 및 PIKK 개정 동향",
-        "RBC 비율 유지 여부",
-        "추가 지분 변동 계획"
+        "OJK 보험업 규제(PIKK) 개정 일정",
+        "자회사 RBC 비율 최신 수치 확인",
+        "추가 지분 변동 공시 여부"
       ],
       "spark": [
+        {
+          "date": "5/27",
+          "close": 700.0
+        },
         {
           "date": "5/28",
           "close": 700.0
@@ -1509,20 +1541,16 @@
         {
           "date": "8/27",
           "close": 640.0
-        },
-        {
-          "date": "8/28",
-          "close": 635.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 8/28 종가 (WIB)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdC1iNlY0bEg5NzdjYk1mY3ZvYTFLNlJ1VGxfdzE3WDZrWDlsMUlxeDVyTlJUd0lORHBmWHBhTE5GbFJNd3N2dGlxN291aE9yUXJ5R0dMMWRvQmxpQkJ2N1VZT21pM2dvT1k2U0t3ZEFRQVpNY0xVWDdkc2lHNUdBcTVUYkt4cGpsVThpdEhvMnpmSUtoQlNRUHRaMGw0N3BSX0HSAacBQVVfeXFMTklGZ2V4MlNpdTRYZnZsMkgzNjZTNS0yenlEZGJtQVQzYmFVbVJxSTAzNnhmU2JCNVFXYml5cEZWbE1PRkg4TjE5aXJvYi1KQUNIR0pnQlctaFlFNmFUX0FIRjNrWEUyR3MxMTYyakJxRktjVGp4STJmZ3NMRk5DcEFQajZIbU5HN3VITzdjVU50RnhrbHhXWHpwc3JJMy1TM2NzQ3ZtdFE?oc=5",
+      "exchangeLine": "IDX · 8/27 종가 (WIB)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3pBbmtZS3RkdWRWa0I4QTlDM245eE5LcUI1UTY3aVBCZkJENTkxalo5U09uZWRwcU9Sd3l5TFprTUkzR0tXclAxQ0xIeWtuWXZkR3M0c2NFWVhTY0xuelNGTkN0YUsxOHcwUlZiRFZmLTU3MHNLV1VVSFNKR3ZPNEFLSkZnRG5CYnVWetIBkgFBVV95cUxNaEt4cGVCb2p2V1d5YUZVMzZCN3FuMVd5SjJ2dFpyVjZvRVkxY3VTZUNmVXlWWXhMenlMWjA0VXdHb1JkT0xlOWFWOWxaN2hQbGE3SDVEN1lhLTk5SGcxT0VobDl3djd1aGhsN0wtY3lmM1NLdm9JMnNPTXRpYVBaQlVOMW5OLWtrUFhMV3FCb1ZGdw?oc=5",
       "sources": [
         {
-          "title": "Safeguards needed as agentic AI enters finance: deputy minister",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdC1iNlY0bEg5NzdjYk1mY3ZvYTFLNlJ1VGxfdzE3WDZrWDlsMUlxeDVyTlJUd0lORHBmWHBhTE5GbFJNd3N2dGlxN291aE9yUXJ5R0dMMWRvQmxpQkJ2N1VZT21pM2dvT1k2U0t3ZEFRQVpNY0xVWDdkc2lHNUdBcTVUYkt4cGpsVThpdEhvMnpmSUtoQlNRUHRaMGw0N3BSX0HSAacBQVVfeXFMTklGZ2V4MlNpdTRYZnZsMkgzNjZTNS0yenlEZGJtQVQzYmFVbVJxSTAzNnhmU2JCNVFXYml5cEZWbE1PRkg4TjE5aXJvYi1KQUNIR0pnQlctaFlFNmFUX0FIRjNrWEUyR3MxMTYyakJxRktjVGp4STJmZ3NMRk5DcEFQajZIbU5HN3VITzdjVU50RnhrbHhXWHpwc3JJMy1TM2NzQ3ZtdFE?oc=5",
+          "title": "OJK targets 98 pct financial inclusion by 2045",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3pBbmtZS3RkdWRWa0I4QTlDM245eE5LcUI1UTY3aVBCZkJENTkxalo5U09uZWRwcU9Sd3l5TFprTUkzR0tXclAxQ0xIeWtuWXZkR3M0c2NFWVhTY0xuelNGTkN0YUsxOHcwUlZiRFZmLTU3MHNLV1VVSFNKR3ZPNEFLSkZnRG5CYnVWetIBkgFBVV95cUxNaEt4cGVCb2p2V1d5YUZVMzZCN3FuMVd5SjJ2dFpyVjZvRVkxY3VTZUNmVXlWWXhMenlMWjA0VXdHb1JkT0xlOWFWOWxaN2hQbGE3SDVEN1lhLTk5SGcxT0VobDl3djd1aGhsN0wtY3lmM1NLdm9JMnNPTXRpYVBaQlVOMW5OLWtrUFhMV3FCb1ZGdw?oc=5",
           "source": "ANTARA News",
           "date": "08/28"
         }
@@ -1534,6 +1562,13 @@
           "level": "low",
           "date": "08/27",
           "collected_at": "2026-08-28"
+        },
+        {
+          "summary": "OJK, 2045년까지 금융포용률 98% 달성 목표 제시",
+          "impact": "당사 관점에서 참고할 규제·정책 동향. 인도네시아 보험 시장 장기 성장 방향성으로 자회사 영업 환경에 간접 참고",
+          "level": "low",
+          "date": "08/28",
+          "collected_at": "2026-08-29"
         }
       ]
     }
