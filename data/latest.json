@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-08-29",
-  "updated": "2026-08-29 04:24",
-  "fx": "환율 2026-08-28 · 시장환율   1 USD = ₩1,378.67   |   1 USD = 17,698.00 IDR   |   1 IDR = ₩0.07790",
+  "asOf": "2026-08-31",
+  "updated": "2026-08-31 18:00",
+  "fx": "환율 2026-08-31 · 시장환율   1 USD = ₩1,366.69   |   1 USD = 17,710.00 IDR   |   1 IDR = ₩0.07717",
   "attentionItems": [
     {
-      "company": "차바이오텍",
-      "text": "계열사 SMG, 싱가포르 영상의학 3개사 매각하고 여성·난임 사업에 집중하기로 함",
-      "impact": "비핵심 자산 정리로 그룹 사업 구조 단순화 진행 중. CGT/CDMO 투자 재원 확보 여부 및 당사 지분가치 영향 추적 필요",
+      "company": "루멘",
+      "text": "루멘, 플로리다 오토 보험 출시 및 미국 인구 절반 수준 커버리지 도달 보도",
+      "impact": "IFP 확대 경로가 구체화되어 신규 투자 검토 시 성장성 가정의 근거로 활용 가능",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWkZNem4xRFM2ZG5BendJODVlNFZWWmdYYU1jMm0xNFVPNE5BUFdjU2g4Wk5sYmVQbGxQdkVqNWdjUzFYR0t4Rm1sX0duN1lFSzVVOXp5M1dQOFNuX2JJeDNLdElIdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUhhOEFzblRXLWFBaVByMkUzVTgwOF96T1hsZ0JKLUNBdFlKNUN0ZmRtY0RsdFVFREszZkEybW9NRjk0MU9mUWRiclc0WmFGdjlLckd4MGdoSWNwR0QtWE1JeFJqMjNmNHlaSVJ3aVVudlpFZkV5aGR6V19wNWJ6YklpcExrZ01VUEhNQWJwM0ttbndCbk1KSFFoUllYWmhXazhlblpxMFJhMXpOdzk2T0Uya0xSTFI3Y3RZT1VSZl9yN1FUMXJyQWFB0gHKAUFVX3lxTE5NSGE4QXNuVFctYUFpUHIyRTNVODA4X3pPWGxnQkotQ0F0WUo1Q3RmZG1jRGx0VUVESzNmQTJtb01GOTQxT2ZRZGJyVzRaYUZ2OUtyR3gwZ2hJY3BHRC1YTUl4UmoyM2Y0eVpJUndpVW52WkVmRXloZHpXX3A1YnpiSWlwTGtnTVVQSE1BYnAzS21ud0JuTUpIUWhSWVhaaFdrOGVuWnEwUmExek53OTZPRTJrTFJMUjdjdFlPVVJmX3I3UVQxcnJBYUE?oc=5"
     },
     {
-      "company": "차바이오텍",
-      "text": "로아앤코그룹이 차헬스케어 투자금 320억 회수, 수익 34억 실현",
-      "impact": "차헬스케어 외부 주요 투자자 엑싯으로 계열사 지분·자금 구조 변화 가능성. 당사 보유 지분 관련 연쇄 영향 점검 필요",
-      "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVGVrU2RibS05dFpXY09HZ0FqX2doaS1tY3U3Rmd5YkoyckI3R2tuRHAxTUprUy0yTktKOGlKOXRpVFNTZVEtRjFfN0tFcFNScXpBMVZ1cjVPUTlsWW9sVVRsOWxLRHk1Q3ZBYnJR0gFuQVVfeXFMTTFUZWtTZGJtLTl0WldjT0dnQWpfZ2hpLW1jdTdGZ3liSjJyQjdHa25EcDFNSmtTLTJOS0o4aUo5dGlUU1NlUS1GMV83S0VwU1JxekExVnVyNU9ROWxZb2xVVGw5bEtEeTVDdkFiclE?oc=5"
+      "company": "LPGI",
+      "text": "OJK 이사회, 글로벌 불확실성에도 인도네시아 금융서비스 부문 안정 유지 발표",
+      "impact": "당사 관점에서 참고할 규제·시장 안정 동향으로, 자회사 영업환경의 단기 급변 리스크는 낮은 것으로 판단",
+      "level": "low",
+      "url": null
     }
   ],
   "companies": [
@@ -23,23 +23,23 @@
       "id": "085660",
       "name": "차바이오텍",
       "ticker": "085660",
-      "g": "B",
-      "event": "계열사 자산 구조조정 진행",
+      "g": "C",
+      "event": "주요 변동 없음",
       "tags": [
-        "-1.94%",
+        "-1.10%",
         "당사 투자"
       ],
-      "priceText": "₩8,100",
-      "openText": "₩8,190",
-      "highText": "₩8,320",
-      "lowText": "₩8,040",
-      "prevCloseText": "₩8,260",
-      "changeText": "-₩160",
+      "priceText": "₩8,070",
+      "openText": "₩8,010",
+      "highText": "₩8,170",
+      "lowText": "₩7,810",
+      "prevCloseText": "₩8,160",
+      "changeText": "-₩90",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,100",
+          "₩8,070",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-36.74%",
+          "-36.98%",
           null
         ],
         [
           "전일대비",
-          "-1.94%",
+          "-1.10%",
           null
         ],
         [
           "전주대비",
-          "-1.46%",
+          "-1.10%",
           null
         ],
         [
           "거래량(20일比)",
-          "23.79만 · 0.74x",
+          "189.62만 · 6.42x",
           null
         ],
         [
           "시가총액",
-          "7,586억",
+          "7,503억",
           null
         ],
         [
           "52주 고점대비",
-          "-66.18%",
+          "-66.30%",
           null
         ]
       ],
@@ -89,23 +89,14 @@
         }
       ],
       "events": [
-        "SMG의 영상의학 사업 매각은 그룹 차원의 선택·집중 전략 신호로, CGT/CDMO 중심 재편 가능성 시사",
-        "로아앤코그룹의 차헬스케어 투자금 회수는 계열사 재무 관계 정리 흐름으로 지분구조 변화 모니터링 필요"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "SMG 매각 대금 사용처 및 CGT/CDMO 재투자 여부",
-        "추가 유상증자·CB 발행 계획 여부",
-        "계열 지분구조 변동 공시 여부"
+        "CGT/CDMO 신규 임상·계약 공시 여부",
+        "유상증자·CB 등 자금조달 공시 발생 여부",
+        "핵심 파이프라인 기술 마일스톤 달성 여부"
       ],
       "spark": [
-        {
-          "date": "5/28",
-          "close": 13570.0
-        },
-        {
-          "date": "5/29",
-          "close": 13470.0
-        },
         {
           "date": "6/1",
           "close": 13320.0
@@ -349,42 +340,50 @@
         {
           "date": "8/27",
           "close": 8100.0
+        },
+        {
+          "date": "8/28",
+          "close": 8160.0
+        },
+        {
+          "date": "8/31",
+          "close": 8070.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 8/27 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVGVrU2RibS05dFpXY09HZ0FqX2doaS1tY3U3Rmd5YkoyckI3R2tuRHAxTUprUy0yTktKOGlKOXRpVFNTZVEtRjFfN0tFcFNScXpBMVZ1cjVPUTlsWW9sVVRsOWxLRHk1Q3ZBYnJR0gFuQVVfeXFMTTFUZWtTZGJtLTl0WldjT0dnQWpfZ2hpLW1jdTdGZ3liSjJyQjdHa25EcDFNSmtTLTJOS0o4aUo5dGlUU1NlUS1GMV83S0VwU1JxekExVnVyNU9ROWxZb2xVVGw5bEtEeTVDdkFiclE?oc=5",
+      "exchangeLine": "KRX · 8/31 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTRXNrWGd2MGp5Qlh0dlFSVDk0TUE2Q2dvWUlmZ0JGdGIzSkExam02c1lSRk5odndZZnBPNy03RXFvNjJIVmF3NEVZZHhhYzNpUjFqRG4wUjR0TmM5dDM5cWFsdkRYTHVseXlicmZLNFRUMW5Z?oc=5",
       "sources": [
         {
-          "title": "로아앤코그룹, 차헬스케어 투자금 320억 회수…수익 '34억' - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVGVrU2RibS05dFpXY09HZ0FqX2doaS1tY3U3Rmd5YkoyckI3R2tuRHAxTUprUy0yTktKOGlKOXRpVFNTZVEtRjFfN0tFcFNScXpBMVZ1cjVPUTlsWW9sVVRsOWxLRHk1Q3ZBYnJR0gFuQVVfeXFMTTFUZWtTZGJtLTl0WldjT0dnQWpfZ2hpLW1jdTdGZ3liSjJyQjdHa25EcDFNSmtTLTJOS0o4aUo5dGlUU1NlUS1GMV83S0VwU1JxekExVnVyNU9ROWxZb2xVVGw5bEtEeTVDdkFiclE?oc=5",
-          "source": "머니투데이",
-          "date": "08/28"
+          "title": "CMG제약, 신소재 3종 상용화...여성·반려동물 건강 시장 공략",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTRXNrWGd2MGp5Qlh0dlFSVDk0TUE2Q2dvWUlmZ0JGdGIzSkExam02c1lSRk5odndZZnBPNy03RXFvNjJIVmF3NEVZZHhhYzNpUjFqRG4wUjR0TmM5dDM5cWFsdkRYTHVseXlicmZLNFRUMW5Z?oc=5",
+          "source": "파이낸셜리뷰",
+          "date": "08/31"
         },
         {
-          "title": "정선 카지노 쇼미더벳 의료인를 위한 알고리즘 설계 실전 기술",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWRKNkhqNmJ5N3dQelo1ZURMbnlwVDFsNnlpSG9XVm1uUElmRWZseW5FSFpBZ1hGbUhadE43MWxwb0FSZTlCZ2dVOVF6VjRLNWpsc0tfSjVOVE5CdmgxLXhoMjF0MnJYQ01hUXdYTFAzWE1vUWZFTHBWUVQ5T0FmM3dZTEFiSDRGWk5ucnh5bk04QXY1OEROdUtWUEs4YVVPdS1pTnZoT3Ayd29ZSnRQMlBLOGRyVjhDUXFiVFBDTFhJQURnWTRoRUFFMUFDMnl2V1VORjlIeFF6UQ?oc=5",
-          "source": "Platea Magazine",
-          "date": "08/28"
+          "title": "[Weekly 제약바이오] 셀트리온·차바이오텍·CMG제약·GC녹십자·심평원·콜마비앤에이치 外",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rSDRjUmt5d29GTmtqV003LVBOaW9GV1FtOUswRHVjZGhqdElURWhzUlNnVllYcTVBbmU2NkJHdDlsYm9WZFpqa3Nja1hSOHNaT3c5UWR4cUctcEZjVHRfM1V0Nlk0SkZTZkRLUHEtZHhHRms?oc=5",
+          "source": "오늘경제",
+          "date": "08/31"
         },
         {
-          "title": "차바이오텍 계열 SMG, 싱가포르 영상의학 3개사 매각…여성·난임 사업 집중",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UWkZNem4xRFM2ZG5BendJODVlNFZWWmdYYU1jMm0xNFVPNE5BUFdjU2g4Wk5sYmVQbGxQdkVqNWdjUzFYR0t4Rm1sX0duN1lFSzVVOXp5M1dQOFNuX2JJeDNLdElIdw?oc=5",
-          "source": "PRESS9",
-          "date": "08/28"
+          "title": "CMG제약, 차 의학연구원과 신소재 3종 상용화… 고부가 헬스케어 공략",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCN0h1WTlJeW9wQnhxYUFmVUJGX2V6UmQ4RFdHSV84UkkwV3U3RzdNZVhXbzM5cVhLZFRzWTZSVG5mam04X1ZEOG1mWjlrSTZSeDJ5bWFQMErSAVhBVV95cUxQQjdIdVk5SXlvcEJ4cWFBZlVCRl9lelJkOERXR0lfOFJJMFd1N0c3TWVYV28zOXFYS2RUc1k2UlRuZmptOF9WRDhtZlo5a0k2UngyeW1hUDBK?oc=5",
+          "source": "아주경제",
+          "date": "08/31"
         },
         {
-          "title": "차바이오텍 주가 상승 중",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRNzR5eW8zTGxoLTVpdDlaMDJrTkZvaHVva0lnWEpGSVpzSS1GMk1QX1hGY2VfNWVEX1VZWUJaQ29DY2ZKSVFYTWRhcS1RNzZEMmNpSjFaNjNIX1VmbmR3WGxZeUo2TUpPandJcmhXNThIYXdh?oc=5",
-          "source": "아시아뉴스통신",
-          "date": "08/28"
+          "title": "CMG제약, 차세대 기능성 소재 3종 상용화 추진",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQaHpSai1YM0lQenZrZTIyQ1QtNmJoV0FxbjNKN1BQbGJzOHpGdkhGb0hIVEl6NlNOUC1mbGE3c3BIZXQyOVVtQlNsSzFueFR4MnUxd0NBczVXNmZsN2U1OGpKWHBrd9IBZkFVX3lxTFBQaHpSai1YM0lQenZrZTIyQ1QtNmJoV0FxbjNKN1BQbGJzOHpGdkhGb0hIVEl6NlNOUC1mbGE3c3BIZXQyOVVtQlNsSzFueFR4MnUxd0NBczVXNmZsN2U1OGpKWHBrdw?oc=5",
+          "source": "뉴스1",
+          "date": "08/31"
         },
         {
-          "title": "차바이오텍 주가 160원 하락 후 마감",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NQnJJN2RsUzlTUjBVUkxKdjdUSXpBV2JEZDBUR0FjdEoxWkxNa2FVSUxfaVJkTDdGampyX3pINkJwNXd4LWhZVy1NVlRmdXFLVXFlRWhET004RlA3?oc=5",
-          "source": "아시아뉴스통신",
-          "date": "08/27"
+          "title": "CMG제약, 기능성 신소재 3종 상용화 추진",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyR2k3M1E4NmFsaFh2TTBMWGl4ZVoxNnR4R1pCc0txVjFfR0d5ay15bmRkTlItNmdxT3FqNktBSnZKakJTeXd5cWFaSk9Bbm1oMEpNSW1IemFiZXc5?oc=5",
+          "source": "뉴스핌",
+          "date": "08/31"
         }
       ],
       "archive30d": [
@@ -467,20 +466,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-3.42%",
+        "+3.17%",
         "당사 투자"
       ],
-      "priceText": "₩4,935",
-      "openText": "₩5,070",
-      "highText": "₩5,140",
-      "lowText": "₩4,920",
-      "prevCloseText": "₩5,110",
-      "changeText": "-₩175",
+      "priceText": "₩5,200",
+      "openText": "₩5,200",
+      "highText": "₩5,220",
+      "lowText": "₩4,955",
+      "prevCloseText": "₩5,040",
+      "changeText": "+₩160",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩4,935",
+          "₩5,200",
           null
         ],
         [
@@ -495,27 +494,27 @@
         ],
         [
           "전일대비",
-          "-3.42%",
+          "+3.17%",
           null
         ],
         [
           "전주대비",
-          "+5.00%",
+          "+3.17%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.00만 · 0.91x",
+          "1.41만 · 1.39x",
           null
         ],
         [
           "시가총액",
-          "917억",
+          "946억",
           null
         ],
         [
           "52주 고점대비",
-          "-75.05%",
+          "-73.71%",
           null
         ]
       ],
@@ -533,19 +532,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 추이 확인",
+        "분기 매출·영업손익 개선 여부",
         "신규 고객사·파트너십 공시 여부",
-        "사업모델 전환 관련 IR 공시 여부"
+        "사업모델 전환 관련 추가 공시 발생 여부"
       ],
       "spark": [
-        {
-          "date": "5/28",
-          "close": 7210.0
-        },
-        {
-          "date": "5/29",
-          "close": 6750.0
-        },
         {
           "date": "6/1",
           "close": 6300.0
@@ -789,20 +780,21 @@
         {
           "date": "8/27",
           "close": 4935.0
+        },
+        {
+          "date": "8/28",
+          "close": 5040.0
+        },
+        {
+          "date": "8/31",
+          "close": 5200.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 8/27 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWRKNkhqNmJ5N3dQelo1ZURMbnlwVDFsNnlpSG9XVm1uUElmRWZseW5FSFpBZ1hGbUhadE43MWxwb0FSZTlCZ2dVOVF6VjRLNWpsc0tfSjVOVE5CdmgxLXhoMjF0MnJYQ01hUXdYTFAzWE1vUWZFTHBWUVQ5T0FmM3dZTEFiSDRGWk5ucnh5bk04QXY1OEROdUtWUEs4YVVPdS1pTnZoT3Ayd29ZSnRQMlBLOGRyVjhDUXFiVFBDTFhJQURnWTRoRUFFMUFDMnl2V1VORjlIeFF6UQ?oc=5",
-      "sources": [
-        {
-          "title": "정선 카지노 쇼미더벳 의료인를 위한 알고리즘 설계 실전 기술",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUWRKNkhqNmJ5N3dQelo1ZURMbnlwVDFsNnlpSG9XVm1uUElmRWZseW5FSFpBZ1hGbUhadE43MWxwb0FSZTlCZ2dVOVF6VjRLNWpsc0tfSjVOVE5CdmgxLXhoMjF0MnJYQ01hUXdYTFAzWE1vUWZFTHBWUVQ5T0FmM3dZTEFiSDRGWk5ucnh5bk04QXY1OEROdUtWUEs4YVVPdS1pTnZoT3Ayd29ZSnRQMlBLOGRyVjhDUXFiVFBDTFhJQURnWTRoRUFFMUFDMnl2V1VORjlIeFF6UQ?oc=5",
-          "source": "Platea Magazine",
-          "date": "08/28"
-        }
-      ],
+      "exchangeLine": "KRX · 8/31 종가",
+      "sourceUrl": null,
+      "sources": [],
       "archive30d": []
     },
     {
@@ -810,23 +802,23 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "플로리다 자동차보험 시장 진입",
+      "event": "플로리다 오토 출시·미국 커버리지 확대",
       "tags": [
-        "+0.54%",
+        "-1.80%",
         "벤치마크"
       ],
-      "priceText": "$53.93",
-      "openText": "$54.00",
-      "highText": "$56.58",
-      "lowText": "$53.70",
-      "prevCloseText": "$53.64",
-      "changeText": "+$0.29",
+      "priceText": "$52.96",
+      "openText": "$53.90",
+      "highText": "$55.66",
+      "lowText": "$52.93",
+      "prevCloseText": "$53.93",
+      "changeText": "-$0.97",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$53.93",
-          "₩74,352"
+          "$52.96",
+          "₩72,380"
         ],
         [
           "취득가",
@@ -840,27 +832,27 @@
         ],
         [
           "전일대비",
-          "+0.54%",
+          "-1.80%",
           null
         ],
         [
           "전주대비",
-          "+1.05%",
+          "-0.77%",
           null
         ],
         [
           "거래량(20일比)",
-          "110.24만 · 0.89x",
+          "75.16만 · 0.66x",
           null
         ],
         [
           "시가총액",
-          "$4.12B",
-          "5.69조"
+          "$4.10B",
+          "5.60조"
         ],
         [
           "52주 고점대비",
-          "-46.02%",
+          "-46.99%",
           null
         ]
       ],
@@ -875,19 +867,15 @@
         }
       ],
       "events": [
-        "플로리다는 미국 내 경쟁 강도·손해율이 높은 시장으로, 진입 자체보다 실제 Loss Ratio 관리 능력이 핵심 검증 대상",
-        "지역 확장이 IFP 성장률을 견인할지, 밸류에이션 부담을 가중할지는 향후 분기 실적에서 판가름"
+        "플로리다 오토 진입과 미국 내 커버리지 확대는 IFP 성장률 가시화의 선행 지표로, 투자 매력도 판단 시 핵심 변수로 부상",
+        "신규 주에 진입한 만큼 초기 Loss Ratio 상승 가능성이 있어 EBITDA 흑자전환 시점 추정에 불확실성 존재"
       ],
       "watch": [
-        "플로리다 진입 후 IFP 성장률 변화",
-        "Loss Ratio 악화 여부 분기 확인",
-        "밸류에이션 대비 IFP 성장 정당성"
+        "플로리다 오토 개시 후 IFP 성장률 실적 반영 시점",
+        "신규 주 진입에 따른 Loss Ratio 변화 방향",
+        "EBITDA 흑자전환 시점 가이던스 업데이트 여부"
       ],
       "spark": [
-        {
-          "date": "5/29",
-          "close": 58.0
-        },
         {
           "date": "6/1",
           "close": 58.72
@@ -1135,42 +1123,46 @@
         {
           "date": "8/27",
           "close": 53.93
+        },
+        {
+          "date": "8/28",
+          "close": 52.96
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 8/27 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkViTGxLU3hXQnFIS1MzYk9rc0dKWWdfbEh3LUVwTXQwZFhVQTI1MDR4bVFrX2xKNGVwU0JoQmtfcWdSN3RrdGJMaUduX1pWVlpMNzdzZXZrcUxPNWpIQlhLcFByOFF6M2IzZ25KQUs0RjE3YXFzQmxCbDdUZS00eFNDWdIBkwFBVV95cUxOYmdwM2xpT19iQ1l1TllkdmhqbnN4djFBZUdDYlhoWV9lMjBiYmNfVDdFV05xVHJDbWJ3SkdrWmV6NzloWkdZYk5YTFZycE5iZi1FbFZuUXNPZVc4N0dCRHBXbXR2YUZYejFyNXlLVHZTMVgxUmctS3FVaXdhSmpyb0tUTElvaHZKUXU4SmF4WFhURVE?oc=5",
+      "exchangeLine": "NYSE · 8/28 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQVdaMUdSZG15SXFzSC1fZUl6c1JobzVwbDYyTVkzNnlNWXpyZ1lNSEg1ME1rWDNxUG1PeTZqeUswS2lpNnlWZGRKSFhKRHdNY244c2ZoV21QVFFJTWtsNHAzQkd2cjkwWFVHbFNaVTViZVNUMnlHOFhQR1F1MUhUMldnY1JGUlRxUEQ5dlRiWjFyMjJXbnBsVnhsOG9EOUtHYkZ3cQ?oc=5",
       "sources": [
         {
-          "title": "루멘 drives into Florida with new car insurance",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYkViTGxLU3hXQnFIS1MzYk9rc0dKWWdfbEh3LUVwTXQwZFhVQTI1MDR4bVFrX2xKNGVwU0JoQmtfcWdSN3RrdGJMaUduX1pWVlpMNzdzZXZrcUxPNWpIQlhLcFByOFF6M2IzZ25KQUs0RjE3YXFzQmxCbDdUZS00eFNDWdIBkwFBVV95cUxOYmdwM2xpT19iQ1l1TllkdmhqbnN4djFBZUdDYlhoWV9lMjBiYmNfVDdFV05xVHJDbWJ3SkdrWmV6NzloWkdZYk5YTFZycE5iZi1FbFZuUXNPZVc4N0dCRHBXbXR2YUZYejFyNXlLVHZTMVgxUmctS3FVaXdhSmpyb0tUTElvaHZKUXU4SmF4WFhURVE?oc=5",
-          "source": "Insurance Nerds",
-          "date": "08/27"
+          "title": "How Is 루멘 (NYSE:루멘) Shaping the NYSE Composite Story?",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQVdaMUdSZG15SXFzSC1fZUl6c1JobzVwbDYyTVkzNnlNWXpyZ1lNSEg1ME1rWDNxUG1PeTZqeUswS2lpNnlWZGRKSFhKRHdNY244c2ZoV21QVFFJTWtsNHAzQkd2cjkwWFVHbFNaVTViZVNUMnlHOFhQR1F1MUhUMldnY1JGUlRxUEQ5dlRiWjFyMjJXbnBsVnhsOG9EOUtHYkZ3cQ?oc=5",
+          "source": "Kalkine Media",
+          "date": "08/31"
         },
         {
-          "title": "루멘 Car Insurance Launches in Florida",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXhzSzVhUmpsTTJMTmxBWGZxcVVZNDhfNjd3SlRHWHNkYzZGTFNVX0pNNlJneExCTUdMOXE3NG1jcFNnUnJUM1VBYjVZS3BmTzkyNEhYdDQ5bTh1NnhpQWgzdmtVZmtIaEZCSUxWZ3N3UnFVSFRXTTl5NFl5blM4cjIzZw?oc=5",
-          "source": "CollisionWeek",
-          "date": "08/27"
+          "title": "Algert Global LLC Sells 20,690 Shares of 루멘 $루멘",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0MwSXZBTnctYzV6Y3Rjc2FpSGc2UXBlSFZkaUFWVXZ6RFhfRGg4QmFsY1RMZFRfdDEtZGlUdDdsb0JhM2J6aElZenBxZ2tPMEFpMjBUNGZzaWJrWDBSaGdiYWpoaVQwbDc4X1BRbG9NSmUzUUpwa1NmUlNBa0hmbUU2WGlyUVFSRDNVYkFYZWEyWlpvcE4tdUkwNEVmZV96MTIwLW1LaUx5Rmk0V3JfR2Z0Z2I3TV9pYXc?oc=5",
+          "source": "MarketBeat",
+          "date": "08/31"
         },
         {
-          "title": "루멘 drives into Florida with new car insurance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON01TaWdEUFhLQmlfeXBqUmJKcTVIS2R5cXdyN3ZOOWVpcDJzckFBNTdhRHh1TlQtZEJJVnA0MS0tbXE5ZGxIdGxhQ01TZlVzTF9OSVVxTk9WQnNWQ1pBR19yWkRVMWo5eHlLZzdlbHJwLXJQVGtOcGJMSFlBMUNUeU1XZHo3LVdTMHVPdEV0VQ?oc=5",
-          "source": "FinTech Global",
-          "date": "08/27"
+          "title": "Canada Pension Plan Investment Board Makes New Investment in 루멘 $루멘",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMVRHdmo2ZzdfZUNWdVNYWFF2MjVOVG82NlVqQ0hwN001RjdaRm51b2VnT2drVEtXRzFMZktKZXZCQzNYSkRubUE5R0J5QmNvQVZEdlJGZXBHUHVwUUR3MkZRMlB6TDdCT1hDZHRXblc5NHhrUDlXNDZER2ZQWkpQM3I0bGdPd3lteEpyS2EweV9JUGl5NUkyNXNUb3lVMVUxYlkyN3pmMVR1d1Y3UXpBSy1RSVM0TG9vbmJ2dk1UUElYNU5IUHMzaUExMFJ4Ym9rbllKWFBB?oc=5",
+          "source": "MarketBeat",
+          "date": "08/30"
         },
         {
-          "title": "루멘 (루멘) Enters Florida As 루멘 Car Expansion Tests A Fully Valued View",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZjhfZEFzZ05tWGMxVzRjMGtoWWpCWGtSU2JZVWctRkhYQ2xQVXRRbURZVXR0V1IwV1hzLUYybGRHckdILXpubkNPcUpPZkRsWnZHSEE5aW5Bbm5iSk5nT2VCQjNvRS1kMTAwcWlPOU16dnRrbHQ4R2ZRTi10ZHdNdndWYVNmcGJsc1JxZlF4a0gxa2txZ09oRWMtUkVQbC1uM0VrNkFvaHpFY2EzYVVxeHI1YzlCRGxBVGtlM2VUQ2RlZFBhaVdUaU1R0gHKAUFVX3lxTE1mOF9kQXNnTm1YYzFXNGMwa2hZakJYa1JTYllVZy1GSFhDbFBVdFFtRFlVdHRXUjBXWHMtRjJsZEdyR0gtem5uQ09xSk9mRGxadkdIQTlpbkFubmJKTmdPZUJCM29FLWQxMDBxaU85TXp2dGtsdDhHZlFOLXRkd012d1ZhU2ZwYmxzUnFmUXhrSDFra3FnT2hFYy1SRVBsLW4zRWs2QW9oekVjYTNhVXF4cjVjOUJEbEFUa2UzZVRDZGVkUGFpV1RpTVE?oc=5",
+          "title": "루멘’s Florida Auto Launch and Near‑Half US Reach Could Be A Game Changer For 루멘 (루멘)",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUhhOEFzblRXLWFBaVByMkUzVTgwOF96T1hsZ0JKLUNBdFlKNUN0ZmRtY0RsdFVFREszZkEybW9NRjk0MU9mUWRiclc0WmFGdjlLckd4MGdoSWNwR0QtWE1JeFJqMjNmNHlaSVJ3aVVudlpFZkV5aGR6V19wNWJ6YklpcExrZ01VUEhNQWJwM0ttbndCbk1KSFFoUllYWmhXazhlblpxMFJhMXpOdzk2T0Uya0xSTFI3Y3RZT1VSZl9yN1FUMXJyQWFB0gHKAUFVX3lxTE5NSGE4QXNuVFctYUFpUHIyRTNVODA4X3pPWGxnQkotQ0F0WUo1Q3RmZG1jRGx0VUVESzNmQTJtb01GOTQxT2ZRZGJyVzRaYUZ2OUtyR3gwZ2hJY3BHRC1YTUl4UmoyM2Y0eVpJUndpVW52WkVmRXloZHpXX3A1YnpiSWlwTGtnTVVQSE1BYnAzS21ud0JuTUpIUWhSWVhaaFdrOGVuWnEwUmExek53OTZPRTJrTFJMUjdjdFlPVVJmX3I3UVQxcnJBYUE?oc=5",
           "source": "simplywall.st",
-          "date": "08/27"
+          "date": "08/30"
         },
         {
-          "title": "루멘 (루멘) Enters Florida As 루멘 Car Expansion Tests A Fully Valued View",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGY4eWFmT0drQnhzd2Q2eDJFS3BnNDFMQkkxYjVxQW1SSTVDX1daUU5iSVVSS21Wa0JsaXZUUFBMR2R0QkxjbXd3REVOX0IxOTJyQVR6emRGNkNnNmowSkFkSi0tSFZrdmNLaExjcUl5WHNxcFR1TWlab2Z2c3JvNHh4c2Jqd1FMUExQby1PRkZvY3F4ang1WS1NODA5dHdqUmhOUlE5X2JIbUJTSXdYeE01U29nQVRTX3d1VlZ1aE82b2tH0gHKAUFVX3lxTE1mOF9kQXNnTm1YYzFXNGMwa2hZakJYa1JTYllVZy1GSFhDbFBVdFFtRFlVdHRXUjBXWHMtRjJsZEdyR0gtem5uQ09xSk9mRGxadkdIQTlpbkFubmJKTmdPZUJCM29FLWQxMDBxaU85TXp2dGtsdDhHZlFOLXRkd012d1ZhU2ZwYmxzUnFmUXhrSDFra3FnT2hFYy1SRVBsLW4zRWs2QW9oekVjYTNhVXF4cjVjOUJEbEFUa2UzZVRDZGVkUGFpV1RpTVE?oc=5",
+          "title": "루멘’s Florida Auto Launch and Near‑Half US Reach Could Be A Game Changer For 루멘 (루멘)",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVVYNzhmUW1naDZZSWNhR3kwV3VTbGhfbkhacmFsVVFrdzJzbUw5eFNZQnIzcHJvUGdmNTBLY19ycXZoMWFkN0JHT0lqZU4tV3dsb283RlFRQlVIb052QkhZTlNMTEpnUWx1MF80c2tWS1N5YnBJTXFYV3E0d3RsRVNqeVI0akM5RmdGZ2lxaFNGM1FmSWdwOFFja1I1c050UHBmTHhSQkhyekhRbktvdHNmLWlnR1ZydW1zaWR5eElqR1gx0gHKAUFVX3lxTE5NSGE4QXNuVFctYUFpUHIyRTNVODA4X3pPWGxnQkotQ0F0WUo1Q3RmZG1jRGx0VUVESzNmQTJtb01GOTQxT2ZRZGJyVzRaYUZ2OUtyR3gwZ2hJY3BHRC1YTUl4UmoyM2Y0eVpJUndpVW52WkVmRXloZHpXX3A1YnpiSWlwTGtnTVVQSE1BYnAzS21ud0JuTUpIUWhSWVhaaFdrOGVuWnEwUmExek53OTZPRTJrTFJMUjdjdFlPVVJmX3I3UVQxcnJBYUE?oc=5",
           "source": "simplywall.st",
-          "date": "08/27"
+          "date": "08/30"
         }
       ],
       "archive30d": [
@@ -1208,6 +1200,13 @@
           "level": "mid",
           "date": "08/27",
           "collected_at": "2026-08-28"
+        },
+        {
+          "summary": "루멘, 플로리다 오토 보험 출시 및 미국 인구 절반 수준 커버리지 도달 보도",
+          "impact": "IFP 확대 경로가 구체화되어 신규 투자 검토 시 성장성 가정의 근거로 활용 가능",
+          "level": "mid",
+          "date": "08/30",
+          "collected_at": "2026-08-31"
         }
       ]
     },
@@ -1216,23 +1215,23 @@
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
       "g": "C",
-      "event": "인니 금융포용 정책 동향 주시",
+      "event": "인니 금융시장 안정 OJK 공식 확인",
       "tags": [
-        "+0.79%",
+        "+2.38%",
         "자회사"
       ],
-      "priceText": "Rp640",
-      "openText": "Rp635",
-      "highText": "Rp640",
-      "lowText": "Rp635",
-      "prevCloseText": "Rp635",
-      "changeText": "+Rp5",
+      "priceText": "Rp645",
+      "openText": "Rp630",
+      "highText": "Rp645",
+      "lowText": "Rp620",
+      "prevCloseText": "Rp630",
+      "changeText": "+Rp15",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp640",
-          "₩49.9"
+          "Rp645",
+          "₩49.8"
         ],
         [
           "취득가",
@@ -1241,32 +1240,32 @@
         ],
         [
           "취득가대비",
-          "-2.11%",
+          "-1.35%",
           null
         ],
         [
           "전일대비",
-          "+0.79%",
+          "+2.38%",
           null
         ],
         [
           "전주대비",
-          "+2.40%",
+          "+2.38%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.30천 · 0.05x",
+          "1.21만 · 0.51x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,472억"
+          "1,493억"
         ],
         [
           "52주 고점대비",
-          "-32.35%",
+          "-31.82%",
           null
         ]
       ],
@@ -1281,23 +1280,15 @@
         }
       ],
       "events": [
-        "OJK의 2045년 금융포용률 98% 목표는 장기 시장 확대 방향성이나 단기 자회사 경영에 직접 영향은 제한적",
-        "공시·기사 기준 자회사 자체 주요 변동 없음"
+        "OJK 이사회가 글로벌 불확실성에도 금융서비스 부문 안정을 공식 확인, 당장의 규제 급변 리스크는 제한적으로 해석 가능",
+        "보험 세부 지표 공개 없어 자회사 RBC 및 PIKK 개정 영향은 추가 자료로 별도 확인 필요"
       ],
       "watch": [
-        "OJK 보험업 규제(PIKK) 개정 일정",
+        "PIKK 개정안 세부 내용 및 시행 일정 확정 여부",
         "자회사 RBC 비율 최신 수치 확인",
-        "추가 지분 변동 공시 여부"
+        "OJK의 보험사 대상 추가 규제 조치 발표 여부"
       ],
       "spark": [
-        {
-          "date": "5/27",
-          "close": 700.0
-        },
-        {
-          "date": "5/28",
-          "close": 700.0
-        },
         {
           "date": "5/29",
           "close": 700.0
@@ -1541,18 +1532,26 @@
         {
           "date": "8/27",
           "close": 640.0
+        },
+        {
+          "date": "8/28",
+          "close": 630.0
+        },
+        {
+          "date": "8/31",
+          "close": 645.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 8/27 종가 (WIB)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3pBbmtZS3RkdWRWa0I4QTlDM245eE5LcUI1UTY3aVBCZkJENTkxalo5U09uZWRwcU9Sd3l5TFprTUkzR0tXclAxQ0xIeWtuWXZkR3M0c2NFWVhTY0xuelNGTkN0YUsxOHcwUlZiRFZmLTU3MHNLV1VVSFNKR3ZPNEFLSkZnRG5CYnVWetIBkgFBVV95cUxNaEt4cGVCb2p2V1d5YUZVMzZCN3FuMVd5SjJ2dFpyVjZvRVkxY3VTZUNmVXlWWXhMenlMWjA0VXdHb1JkT0xlOWFWOWxaN2hQbGE3SDVEN1lhLTk5SGcxT0VobDl3djd1aGhsN0wtY3lmM1NLdm9JMnNPTXRpYVBaQlVOMW5OLWtrUFhMV3FCb1ZGdw?oc=5",
+      "exchangeLine": "IDX · 8/31 종가 (WIB)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQTdqTXpHXzNYekV1X0pyVWh4T0Y5ZFllbml1TUJCbUZhMF9wNTFFcFlYSHVYVkxHTkg3ZDB5bUQ0cU0td19IRk1uM3ZEcURwMjEzSWR1VGxaODJ0cGVnc2tpdUkzQ2hwanFpdnNHdF9hSm5GaDlRcUxxc081bXg5eE9IVTFKRnhMRVFvMUVtSWl3cDZwbDFGcElrVjFlN29nRHlQdUhERmNUMFdvbWFsV3lyVlNiZ3ZYeDl2ZU5xRzNicV9wVnVuR21ZYkt1SmVBWHprT0ROcy01RVd1TWpFcFpOTHFITjJndTNNV3VXLVplZDRyS3prZTBrSk1oNE5WMGt0TXpiN3NVWURpYjBTLQ?oc=5",
       "sources": [
         {
-          "title": "OJK targets 98 pct financial inclusion by 2045",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3pBbmtZS3RkdWRWa0I4QTlDM245eE5LcUI1UTY3aVBCZkJENTkxalo5U09uZWRwcU9Sd3l5TFprTUkzR0tXclAxQ0xIeWtuWXZkR3M0c2NFWVhTY0xuelNGTkN0YUsxOHcwUlZiRFZmLTU3MHNLV1VVSFNKR3ZPNEFLSkZnRG5CYnVWetIBkgFBVV95cUxNaEt4cGVCb2p2V1d5YUZVMzZCN3FuMVd5SjJ2dFpyVjZvRVkxY3VTZUNmVXlWWXhMenlMWjA0VXdHb1JkT0xlOWFWOWxaN2hQbGE3SDVEN1lhLTk5SGcxT0VobDl3djd1aGhsN0wtY3lmM1NLdm9JMnNPTXRpYVBaQlVOMW5OLWtrUFhMV3FCb1ZGdw?oc=5",
-          "source": "ANTARA News",
-          "date": "08/28"
+          "title": "Press Release: March 2026 Board of Commissioners Meeting: Financial Services Sector Stability Remains Maintained Amid Rising Global Uncertainty",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQTdqTXpHXzNYekV1X0pyVWh4T0Y5ZFllbml1TUJCbUZhMF9wNTFFcFlYSHVYVkxHTkg3ZDB5bUQ0cU0td19IRk1uM3ZEcURwMjEzSWR1VGxaODJ0cGVnc2tpdUkzQ2hwanFpdnNHdF9hSm5GaDlRcUxxc081bXg5eE9IVTFKRnhMRVFvMUVtSWl3cDZwbDFGcElrVjFlN29nRHlQdUhERmNUMFdvbWFsV3lyVlNiZ3ZYeDl2ZU5xRzNicV9wVnVuR21ZYkt1SmVBWHprT0ROcy01RVd1TWpFcFpOTHFITjJndTNNV3VXLVplZDRyS3prZTBrSk1oNE5WMGt0TXpiN3NVWURpYjBTLQ?oc=5",
+          "source": "OJK",
+          "date": "08/30"
         }
       ],
       "archive30d": [
