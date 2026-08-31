@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-08-31",
-  "updated": "2026-08-31 18:00",
-  "fx": "환율 2026-08-31 · 시장환율   1 USD = ₩1,366.69   |   1 USD = 17,710.00 IDR   |   1 IDR = ₩0.07717",
+  "asOf": "2026-09-01",
+  "updated": "2026-09-01 00:02",
+  "fx": "환율 2026-08-31 · 시장환율   1 USD = ₩1,368.25   |   1 USD = 17,741.00 IDR   |   1 IDR = ₩0.07712",
   "attentionItems": [
     {
       "company": "루멘",
-      "text": "루멘, 플로리다 오토 보험 출시 및 미국 인구 절반 수준 커버리지 도달 보도",
-      "impact": "IFP 확대 경로가 구체화되어 신규 투자 검토 시 성장성 가정의 근거로 활용 가능",
+      "text": "루멘, 플로리다 자동차보험 출시로 미국 내 커버리지 절반 근접 보고",
+      "impact": "IFP 확대 가능성 확인되나 신시장 Loss Ratio 영향 검증 전까지 투자 판단 유보 필요",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUhhOEFzblRXLWFBaVByMkUzVTgwOF96T1hsZ0JKLUNBdFlKNUN0ZmRtY0RsdFVFREszZkEybW9NRjk0MU9mUWRiclc0WmFGdjlLckd4MGdoSWNwR0QtWE1JeFJqMjNmNHlaSVJ3aVVudlpFZkV5aGR6V19wNWJ6YklpcExrZ01VUEhNQWJwM0ttbndCbk1KSFFoUllYWmhXazhlblpxMFJhMXpOdzk2T0Uya0xSTFI3Y3RZT1VSZl9yN1FUMXJyQWFB0gHKAUFVX3lxTE5NSGE4QXNuVFctYUFpUHIyRTNVODA4X3pPWGxnQkotQ0F0WUo1Q3RmZG1jRGx0VUVESzNmQTJtb01GOTQxT2ZRZGJyVzRaYUZ2OUtyR3gwZ2hJY3BHRC1YTUl4UmoyM2Y0eVpJUndpVW52WkVmRXloZHpXX3A1YnpiSWlwTGtnTVVQSE1BYnAzS21ud0JuTUpIUWhSWVhaaFdrOGVuWnEwUmExek53OTZPRTJrTFJMUjdjdFlPVVJmX3I3UVQxcnJBYUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVVYNzhmUW1naDZZSWNhR3kwV3VTbGhfbkhacmFsVVFrdzJzbUw5eFNZQnIzcHJvUGdmNTBLY19ycXZoMWFkN0JHT0lqZU4tV3dsb283RlFRQlVIb052QkhZTlNMTEpnUWx1MF80c2tWS1N5YnBJTXFYV3E0d3RsRVNqeVI0akM5RmdGZ2lxaFNGM1FmSWdwOFFja1I1c050UHBmTHhSQkhyekhRbktvdHNmLWlnR1ZydW1zaWR5eElqR1gx0gHKAUFVX3lxTE5NSGE4QXNuVFctYUFpUHIyRTNVODA4X3pPWGxnQkotQ0F0WUo1Q3RmZG1jRGx0VUVESzNmQTJtb01GOTQxT2ZRZGJyVzRaYUZ2OUtyR3gwZ2hJY3BHRC1YTUl4UmoyM2Y0eVpJUndpVW52WkVmRXloZHpXX3A1YnpiSWlwTGtnTVVQSE1BYnAzS21ud0JuTUpIUWhSWVhaaFdrOGVuWnEwUmExek53OTZPRTJrTFJMUjdjdFlPVVJmX3I3UVQxcnJBYUE?oc=5"
     },
     {
-      "company": "LPGI",
-      "text": "OJK 이사회, 글로벌 불확실성에도 인도네시아 금융서비스 부문 안정 유지 발표",
-      "impact": "당사 관점에서 참고할 규제·시장 안정 동향으로, 자회사 영업환경의 단기 급변 리스크는 낮은 것으로 판단",
+      "company": "루멘",
+      "text": "캐나다연금투자위원회(CPPIB), 루멘 신규 지분 매입",
+      "impact": "대형 기관의 신규 진입은 밸류에이션 저점 인식 신호로, 투자 검토 시 참고 가능",
       "level": "low",
-      "url": null
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMVRHdmo2ZzdfZUNWdVNYWFF2MjVOVG82NlVqQ0hwN001RjdaRm51b2VnT2drVEtXRzFMZktKZXZCQzNYSkRubUE5R0J5QmNvQVZEdlJGZXBHUHVwUUR3MkZRMlB6TDdCT1hDZHRXblc5NHhrUDlXNDZER2ZQWkpQM3I0bGdPd3lteEpyS2EweV9JUGl5NUkyNXNUb3lVMVUxYlkyN3pmMVR1d1Y3UXpBSy1RSVM0TG9vbmJ2dk1UUElYNU5IUHMzaUExMFJ4Ym9rbllKWFBB?oc=5"
     }
   ],
   "companies": [
@@ -26,20 +26,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-1.10%",
+        "+0.74%",
         "당사 투자"
       ],
-      "priceText": "₩8,070",
-      "openText": "₩8,010",
-      "highText": "₩8,170",
-      "lowText": "₩7,810",
-      "prevCloseText": "₩8,160",
-      "changeText": "-₩90",
+      "priceText": "₩8,160",
+      "openText": "₩8,060",
+      "highText": "₩8,240",
+      "lowText": "₩7,970",
+      "prevCloseText": "₩8,100",
+      "changeText": "+₩60",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,070",
+          "₩8,160",
           null
         ],
         [
@@ -49,22 +49,22 @@
         ],
         [
           "취득가대비",
-          "-36.98%",
+          "-36.27%",
           null
         ],
         [
           "전일대비",
-          "-1.10%",
+          "+0.74%",
           null
         ],
         [
           "전주대비",
-          "-1.10%",
+          "-0.73%",
           null
         ],
         [
           "거래량(20일比)",
-          "189.62만 · 6.42x",
+          "17.01만 · 0.56x",
           null
         ],
         [
@@ -74,7 +74,7 @@
         ],
         [
           "52주 고점대비",
-          "-66.30%",
+          "-65.93%",
           null
         ]
       ],
@@ -92,11 +92,15 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "CGT/CDMO 신규 임상·계약 공시 여부",
-        "유상증자·CB 등 자금조달 공시 발생 여부",
-        "핵심 파이프라인 기술 마일스톤 달성 여부"
+        "CGT/CDMO 임상·계약 진척 여부",
+        "신규 유상증자·CB 등 자금조달 공시",
+        "핵심 자회사 지분구조 변동 여부"
       ],
       "spark": [
+        {
+          "date": "5/29",
+          "close": 13470.0
+        },
         {
           "date": "6/1",
           "close": 13320.0
@@ -344,15 +348,11 @@
         {
           "date": "8/28",
           "close": 8160.0
-        },
-        {
-          "date": "8/31",
-          "close": 8070.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 8/31 종가",
+      "exchangeLine": "KRX · 8/28 종가",
       "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTRXNrWGd2MGp5Qlh0dlFSVDk0TUE2Q2dvWUlmZ0JGdGIzSkExam02c1lSRk5odndZZnBPNy03RXFvNjJIVmF3NEVZZHhhYzNpUjFqRG4wUjR0TmM5dDM5cWFsdkRYTHVseXlicmZLNFRUMW5Z?oc=5",
       "sources": [
         {
@@ -466,20 +466,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+3.17%",
+        "+2.13%",
         "당사 투자"
       ],
-      "priceText": "₩5,200",
-      "openText": "₩5,200",
-      "highText": "₩5,220",
-      "lowText": "₩4,955",
-      "prevCloseText": "₩5,040",
-      "changeText": "+₩160",
+      "priceText": "₩5,040",
+      "openText": "₩4,990",
+      "highText": "₩5,080",
+      "lowText": "₩4,835",
+      "prevCloseText": "₩4,935",
+      "changeText": "+₩105",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,200",
+          "₩5,040",
           null
         ],
         [
@@ -494,17 +494,17 @@
         ],
         [
           "전일대비",
-          "+3.17%",
+          "+2.13%",
           null
         ],
         [
           "전주대비",
-          "+3.17%",
+          "+7.23%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.41만 · 1.39x",
+          "4.92천 · 0.48x",
           null
         ],
         [
@@ -514,7 +514,7 @@
         ],
         [
           "52주 고점대비",
-          "-73.71%",
+          "-74.52%",
           null
         ]
       ],
@@ -532,11 +532,15 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 개선 여부",
-        "신규 고객사·파트너십 공시 여부",
-        "사업모델 전환 관련 추가 공시 발생 여부"
+        "분기 매출·영업손익 추이 확인",
+        "헬스케어 신규 고객사·파트너십 공시",
+        "사업모델 전환 관련 경영 공시 여부"
       ],
       "spark": [
+        {
+          "date": "5/29",
+          "close": 6750.0
+        },
         {
           "date": "6/1",
           "close": 6300.0
@@ -784,15 +788,11 @@
         {
           "date": "8/28",
           "close": 5040.0
-        },
-        {
-          "date": "8/31",
-          "close": 5200.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 8/31 종가",
+      "exchangeLine": "KRX · 8/28 종가",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -802,7 +802,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "플로리다 오토 출시·미국 커버리지 확대",
+      "event": "플로리다 진출·핵심 지표 주목",
       "tags": [
         "-1.80%",
         "벤치마크"
@@ -818,7 +818,7 @@
         [
           "종가",
           "$52.96",
-          "₩72,380"
+          "₩72,463"
         ],
         [
           "취득가",
@@ -847,8 +847,8 @@
         ],
         [
           "시가총액",
-          "$4.10B",
-          "5.60조"
+          "$4.06B",
+          "5.55조"
         ],
         [
           "52주 고점대비",
@@ -867,13 +867,13 @@
         }
       ],
       "events": [
-        "플로리다 오토 진입과 미국 내 커버리지 확대는 IFP 성장률 가시화의 선행 지표로, 투자 매력도 판단 시 핵심 변수로 부상",
-        "신규 주에 진입한 만큼 초기 Loss Ratio 상승 가능성이 있어 EBITDA 흑자전환 시점 추정에 불확실성 존재"
+        "플로리다 자동차보험 출시로 IFP 확대 잠재력 존재하나 Loss Ratio 영향 불확실",
+        "기관 신규 매수·매도 혼재로 투자 매력도 판단에 추가 지표 확인 필요"
       ],
       "watch": [
-        "플로리다 오토 개시 후 IFP 성장률 실적 반영 시점",
-        "신규 주 진입에 따른 Loss Ratio 변화 방향",
-        "EBITDA 흑자전환 시점 가이던스 업데이트 여부"
+        "플로리다 진출 후 IFP 성장률 변화",
+        "Loss Ratio·EBITDA 흑자전환 시점",
+        "밸류에이션 대비 핵심 지표 개선 속도"
       ],
       "spark": [
         {
@@ -1154,14 +1154,14 @@
         },
         {
           "title": "루멘’s Florida Auto Launch and Near‑Half US Reach Could Be A Game Changer For 루멘 (루멘)",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTUhhOEFzblRXLWFBaVByMkUzVTgwOF96T1hsZ0JKLUNBdFlKNUN0ZmRtY0RsdFVFREszZkEybW9NRjk0MU9mUWRiclc0WmFGdjlLckd4MGdoSWNwR0QtWE1JeFJqMjNmNHlaSVJ3aVVudlpFZkV5aGR6V19wNWJ6YklpcExrZ01VUEhNQWJwM0ttbndCbk1KSFFoUllYWmhXazhlblpxMFJhMXpOdzk2T0Uya0xSTFI3Y3RZT1VSZl9yN1FUMXJyQWFB0gHKAUFVX3lxTE5NSGE4QXNuVFctYUFpUHIyRTNVODA4X3pPWGxnQkotQ0F0WUo1Q3RmZG1jRGx0VUVESzNmQTJtb01GOTQxT2ZRZGJyVzRaYUZ2OUtyR3gwZ2hJY3BHRC1YTUl4UmoyM2Y0eVpJUndpVW52WkVmRXloZHpXX3A1YnpiSWlwTGtnTVVQSE1BYnAzS21ud0JuTUpIUWhSWVhaaFdrOGVuWnEwUmExek53OTZPRTJrTFJMUjdjdFlPVVJmX3I3UVQxcnJBYUE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVVYNzhmUW1naDZZSWNhR3kwV3VTbGhfbkhacmFsVVFrdzJzbUw5eFNZQnIzcHJvUGdmNTBLY19ycXZoMWFkN0JHT0lqZU4tV3dsb283RlFRQlVIb052QkhZTlNMTEpnUWx1MF80c2tWS1N5YnBJTXFYV3E0d3RsRVNqeVI0akM5RmdGZ2lxaFNGM1FmSWdwOFFja1I1c050UHBmTHhSQkhyekhRbktvdHNmLWlnR1ZydW1zaWR5eElqR1gx0gHKAUFVX3lxTE5NSGE4QXNuVFctYUFpUHIyRTNVODA4X3pPWGxnQkotQ0F0WUo1Q3RmZG1jRGx0VUVESzNmQTJtb01GOTQxT2ZRZGJyVzRaYUZ2OUtyR3gwZ2hJY3BHRC1YTUl4UmoyM2Y0eVpJUndpVW52WkVmRXloZHpXX3A1YnpiSWlwTGtnTVVQSE1BYnAzS21ud0JuTUpIUWhSWVhaaFdrOGVuWnEwUmExek53OTZPRTJrTFJMUjdjdFlPVVJmX3I3UVQxcnJBYUE?oc=5",
           "source": "simplywall.st",
           "date": "08/30"
         },
         {
-          "title": "루멘’s Florida Auto Launch and Near‑Half US Reach Could Be A Game Changer For 루멘 (루멘)",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVVYNzhmUW1naDZZSWNhR3kwV3VTbGhfbkhacmFsVVFrdzJzbUw5eFNZQnIzcHJvUGdmNTBLY19ycXZoMWFkN0JHT0lqZU4tV3dsb283RlFRQlVIb052QkhZTlNMTEpnUWx1MF80c2tWS1N5YnBJTXFYV3E0d3RsRVNqeVI0akM5RmdGZ2lxaFNGM1FmSWdwOFFja1I1c050UHBmTHhSQkhyekhRbktvdHNmLWlnR1ZydW1zaWR5eElqR1gx0gHKAUFVX3lxTE5NSGE4QXNuVFctYUFpUHIyRTNVODA4X3pPWGxnQkotQ0F0WUo1Q3RmZG1jRGx0VUVESzNmQTJtb01GOTQxT2ZRZGJyVzRaYUZ2OUtyR3gwZ2hJY3BHRC1YTUl4UmoyM2Y0eVpJUndpVW52WkVmRXloZHpXX3A1YnpiSWlwTGtnTVVQSE1BYnAzS21ud0JuTUpIUWhSWVhaaFdrOGVuWnEwUmExek53OTZPRTJrTFJMUjdjdFlPVVJmX3I3UVQxcnJBYUE?oc=5",
-          "source": "simplywall.st",
+          "title": "루멘 Stock Faces Wall Street Caution As Core Profit Growth Comes Into Focus",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdkpELUQxWXBPS3lsdzNyMUV0d050eXU1bzNZaVUwUGVzUXNFTllSa1R2c0tmdG1TU0pqbGRwczBSU1A3cmhmMTJhRVlnSmI5YUEtQTlWZ0hSQUVGTkV3LS1DUFl4azVzMnQ0LWRnbC0xSnRTMW5wUVllS3pyaFRzaUJMYnRzYkZ1aEZTbXZTaTFlVFVKOXZENW14T2FZellpM05yN1ZwaVdUMmV2N1B0cElqWnU2ZXgtdUZCaUR6S21ZUmdUdEJSbVZJMDlvem5DcHFvdmp3?oc=5",
+          "source": "Stocktwits",
           "date": "08/30"
         }
       ],
@@ -1207,6 +1207,20 @@
           "level": "mid",
           "date": "08/30",
           "collected_at": "2026-08-31"
+        },
+        {
+          "summary": "루멘, 플로리다 자동차보험 출시로 미국 내 커버리지 절반 근접 보고",
+          "impact": "IFP 확대 가능성 확인되나 신시장 Loss Ratio 영향 검증 전까지 투자 판단 유보 필요",
+          "level": "mid",
+          "date": "08/30",
+          "collected_at": "2026-09-01"
+        },
+        {
+          "summary": "캐나다연금투자위원회(CPPIB), 루멘 신규 지분 매입",
+          "impact": "대형 기관의 신규 진입은 밸류에이션 저점 인식 신호로, 투자 검토 시 참고 가능",
+          "level": "low",
+          "date": "08/30",
+          "collected_at": "2026-09-01"
         }
       ]
     },
@@ -1215,7 +1229,7 @@
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
       "g": "C",
-      "event": "인니 금융시장 안정 OJK 공식 확인",
+      "event": "인도네시아 금융시장 안정 기조 확인",
       "tags": [
         "+2.38%",
         "자회사"
@@ -1231,7 +1245,7 @@
         [
           "종가",
           "Rp645",
-          "₩49.8"
+          "₩49.7"
         ],
         [
           "취득가",
@@ -1261,7 +1275,7 @@
         [
           "시가총액",
           "Rp1.9조",
-          "1,493억"
+          "1,492억"
         ],
         [
           "52주 고점대비",
@@ -1280,13 +1294,13 @@
         }
       ],
       "events": [
-        "OJK 이사회가 글로벌 불확실성에도 금융서비스 부문 안정을 공식 확인, 당장의 규제 급변 리스크는 제한적으로 해석 가능",
-        "보험 세부 지표 공개 없어 자회사 RBC 및 PIKK 개정 영향은 추가 자료로 별도 확인 필요"
+        "OJK의 금융섹터 안정 유지 평가는 자회사 영업환경에 단기 우호적 신호",
+        "글로벌 불확실성 속 OJK 규제 기조 변화 여부가 자회사 RBC·사업계획에 영향"
       ],
       "watch": [
-        "PIKK 개정안 세부 내용 및 시행 일정 확정 여부",
-        "자회사 RBC 비율 최신 수치 확인",
-        "OJK의 보험사 대상 추가 규제 조치 발표 여부"
+        "OJK PIKK 개정 관련 후속 규제 발표",
+        "자회사 RBC 비율 분기 변동 여부",
+        "추가 지분 변동 또는 연결 편입 후 실적 공시"
       ],
       "spark": [
         {
