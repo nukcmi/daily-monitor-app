@@ -1,21 +1,14 @@
 {
   "asOf": "2026-09-01",
-  "updated": "2026-09-01 16:52",
-  "fx": "환율 2026-09-01 · 시장환율   1 USD = ₩1,372.70   |   1 USD = 17,723.00 IDR   |   1 IDR = ₩0.07745",
+  "updated": "2026-09-01 21:33",
+  "fx": "환율 2026-09-01 · 시장환율   1 USD = ₩1,374.08   |   1 USD = 17,720.00 IDR   |   1 IDR = ₩0.07754",
   "attentionItems": [
     {
-      "company": "LPGI",
-      "text": "OJK, 인도네시아 보험사 82%가 2026년 최저자본 요건 충족 완료 발표",
-      "impact": "자회사의 OJK 기준 충족 여부 및 미충족 시 그룹 차원 자본 지원 필요성 점검 필요",
+      "company": "Lippo General Insurance Tbk",
+      "text": "OJK, 인도네시아 보험사 중 82%만 2026년 최저자본 요건 충족 발표",
+      "impact": "당사 자회사의 최저자본 충족 여부 미확인 — 미충족 시 자본 확충 의사결정 필요",
       "level": "mid",
-      "url": null
-    },
-    {
-      "company": "차바이오텍",
-      "text": "과기정통부 '박사후연구원 산학 프로젝트'에 차바이오텍 선정",
-      "impact": "CGT/CDMO 핵심 사업과의 직접 연계는 불분명하며, 지분가치 변동 영향은 제한적",
-      "level": "low",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbVRRNXRPZE16WDN4WFhuODl4cHg5cDdMdHp1ZGtfeDY1M3hrVDcxbGktRmZwbW96MEFCUE9TQkhDVThsWndQWDFEQ0Rkb1lVZ2tkNmR0emNMUjhmX3dGN3UxN3Z6R1NuV1dhZi1zWW5mZXFncno5VGltMHAwQ3V5NWtYTzgzcEVYYzdGTk43bVRweWpLTktyZDFaVmZ3eW9FZ0hJeDZPNUg3aFZzbFoya09ETVowTWs?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ211SDdtVFRUeGF1ZG4zandLanJLMWdTT3pPWG1rMDlZT2pBOTRGZ0s1QVV2TnBRaUM0RFgyWUVOT1ZRMUx0dmZRMXpvQjc5UEJTNDYydGpzc0pSaDVBRThzTUwteHRsbkQyS1lFcEpMMVkyT2pXd2JIdTZfMldHVFNmSzc2bU9LTkd4eDJzaS0ySUNXMm1RYml4RmJQeGpqN2xNYUstbUk0ZWRUX2pUWkFqQQ?oc=5"
     }
   ],
   "companies": [
@@ -24,7 +17,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "C",
-      "event": "단기 모멘텀 외 구조적 변화 없음",
+      "event": "주요 변동 없음",
       "tags": [
         "+3.59%",
         "당사 투자"
@@ -64,7 +57,7 @@
         ],
         [
           "거래량(20일比)",
-          "36.80만 · 0.98x",
+          "36.09만 · 0.96x",
           null
         ],
         [
@@ -89,13 +82,12 @@
         }
       ],
       "events": [
-        "과기정통부 박사후연구원 프로젝트 선정은 연구 역량 유지 수준으로, CGT/CDMO 사업가치를 근본적으로 바꾸는 변화로 보기 어려움",
-        "자금조달·지분구조 관련 신규 공시 없어 지분가치 변동 요인 부재"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "신규 유상증자·CB 발행 공시 여부",
-        "CGT/CDMO 임상·계약 진척 공시",
-        "과기정통부 프로젝트 연구 성과 연계 여부"
+        "CGT/CDMO 임상·계약 진척 여부",
+        "신규 유상증자·CB 등 자금조달 공시",
+        "핵심 지분 구조 변동 여부"
       ],
       "spark": [
         {
@@ -369,12 +361,6 @@
           "date": "09/01"
         },
         {
-          "title": "차바이오텍, 과기정통부 ‘박사후연구원 산학 프로젝트’ 선정",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbVRRNXRPZE16WDN4WFhuODl4cHg5cDdMdHp1ZGtfeDY1M3hrVDcxbGktRmZwbW96MEFCUE9TQkhDVThsWndQWDFEQ0Rkb1lVZ2tkNmR0emNMUjhmX3dGN3UxN3Z6R1NuV1dhZi1zWW5mZXFncno5VGltMHAwQ3V5NWtYTzgzcEVYYzdGTk43bVRweWpLTktyZDFaVmZ3eW9FZ0hJeDZPNUg3aFZzbFoya09ETVowTWs?oc=5",
-          "source": "약업신문",
-          "date": "08/31"
-        },
-        {
           "title": "CMG제약, 신소재 3종 상용화...여성·반려동물 건강 시장 공략",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTRXNrWGd2MGp5Qlh0dlFSVDk0TUE2Q2dvWUlmZ0JGdGIzSkExam02c1lSRk5odndZZnBPNy03RXFvNjJIVmF3NEVZZHhhYzNpUjFqRG4wUjR0TmM5dDM5cWFsdkRYTHVseXlicmZLNFRUMW5Z?oc=5",
           "source": "파이낸셜리뷰",
@@ -384,6 +370,12 @@
           "title": "[Weekly 제약바이오] 셀트리온·차바이오텍·CMG제약·GC녹십자·심평원·콜마비앤에이치 外",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rSDRjUmt5d29GTmtqV003LVBOaW9GV1FtOUswRHVjZGhqdElURWhzUlNnVllYcTVBbmU2NkJHdDlsYm9WZFpqa3Nja1hSOHNaT3c5UWR4cUctcEZjVHRfM1V0Nlk0SkZTZkRLUHEtZHhHRms?oc=5",
           "source": "오늘경제",
+          "date": "08/31"
+        },
+        {
+          "title": "CMG제약, 차 의학연구원과 신소재 3종 상용화… 고부가 헬스케어 공략",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCN0h1WTlJeW9wQnhxYUFmVUJGX2V6UmQ4RFdHSV84UkkwV3U3RzdNZVhXbzM5cVhLZFRzWTZSVG5mam04X1ZEOG1mWjlrSTZSeDJ5bWFQMErSAVhBVV95cUxQQjdIdVk5SXlvcEJ4cWFBZlVCRl9lelJkOERXR0lfOFJJMFd1N0c3TWVYV28zOXFYS2RUc1k2UlRuZmptOF9WRDhtZlo5a0k2UngyeW1hUDBK?oc=5",
+          "source": "아주경제",
           "date": "08/31"
         }
       ],
@@ -512,7 +504,7 @@
         ],
         [
           "거래량(20일比)",
-          "1.56만 · 1.55x",
+          "1.57만 · 1.56x",
           null
         ],
         [
@@ -542,7 +534,7 @@
       "watch": [
         "분기 매출·영업손익 추이 확인",
         "신규 고객사·파트너십 공시 여부",
-        "헬스케어 전환 관련 사업 발표 여부"
+        "사업모델 전환 관련 공시 발생"
       ],
       "spark": [
         {
@@ -812,21 +804,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-3.15%",
+        "-1.38%",
         "벤치마크"
       ],
       "priceText": "$52.23",
       "openText": "$52.25",
       "highText": "$52.84",
       "lowText": "$51.78",
-      "prevCloseText": "$53.93",
-      "changeText": "-$1.70",
+      "prevCloseText": "$52.96",
+      "changeText": "-$0.73",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
           "$52.23",
-          "₩71,696"
+          "₩71,768"
         ],
         [
           "취득가",
@@ -840,17 +832,17 @@
         ],
         [
           "전일대비",
-          "-3.15%",
+          "-1.38%",
           null
         ],
         [
           "전주대비",
-          "-3.15%",
+          "-1.38%",
           null
         ],
         [
           "거래량(20일比)",
-          "73.59만 · 0.65x",
+          "73.59만 · 0.69x",
           null
         ],
         [
@@ -875,19 +867,14 @@
         }
       ],
       "events": [
-        "캐나다 연기금 신규 매수는 기관 수급 변화이나 IFP·Loss Ratio 등 핵심 사업 지표 변화를 수반하지 않음",
-        "투자 매력도 판단에 필요한 실적·밸류에이션 구조적 변화 미확인"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "IFP 성장률 및 Loss Ratio 분기 발표 시점",
-        "EBITDA 흑자전환 관련 가이던스 변화",
-        "디지털 손보 벤치마크 대비 CR 추이"
+        "IFP 성장률 분기 업데이트 확인",
+        "Loss Ratio 구조적 개선 여부",
+        "EBITDA 흑자전환 시점 가이던스"
       ],
       "spark": [
-        {
-          "date": "6/1",
-          "close": 58.72
-        },
         {
           "date": "6/2",
           "close": 58.06
@@ -1133,6 +1120,10 @@
           "close": 53.93
         },
         {
+          "date": "8/28",
+          "close": 52.96
+        },
+        {
           "date": "8/31",
           "close": 52.23
         }
@@ -1153,12 +1144,6 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU0MwSXZBTnctYzV6Y3Rjc2FpSGc2UXBlSFZkaUFWVXZ6RFhfRGg4QmFsY1RMZFRfdDEtZGlUdDdsb0JhM2J6aElZenBxZ2tPMEFpMjBUNGZzaWJrWDBSaGdiYWpoaVQwbDc4X1BRbG9NSmUzUUpwa1NmUlNBa0hmbUU2WGlyUVFSRDNVYkFYZWEyWlpvcE4tdUkwNEVmZV96MTIwLW1LaUx5Rmk0V3JfR2Z0Z2I3TV9pYXc?oc=5",
           "source": "MarketBeat",
           "date": "08/31"
-        },
-        {
-          "title": "Canada Pension Plan Investment Board Makes New Investment in 루멘 $루멘",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMVRHdmo2ZzdfZUNWdVNYWFF2MjVOVG82NlVqQ0hwN001RjdaRm51b2VnT2drVEtXRzFMZktKZXZCQzNYSkRubUE5R0J5QmNvQVZEdlJGZXBHUHVwUUR3MkZRMlB6TDdCT1hDZHRXblc5NHhrUDlXNDZER2ZQWkpQM3I0bGdPd3lteEpyS2EweV9JUGl5NUkyNXNUb3lVMVUxYlkyN3pmMVR1d1Y3UXpBSy1RSVM0TG9vbmJ2dk1UUElYNU5IUHMzaUExMFJ4Ym9rbllKWFBB?oc=5",
-          "source": "MarketBeat",
-          "date": "08/30"
         }
       ],
       "archive30d": [
@@ -1225,17 +1210,17 @@
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
       "g": "B",
-      "event": "인니 보험 자본규제 이행 현황 확인",
+      "event": "인도네시아 최저자본 규제 이행 현황",
       "tags": [
-        "+2.38%",
+        "+0.00%",
         "자회사"
       ],
       "priceText": "Rp645",
-      "openText": "Rp630",
-      "highText": "Rp645",
-      "lowText": "Rp620",
-      "prevCloseText": "Rp630",
-      "changeText": "+Rp15",
+      "openText": "Rp645",
+      "highText": "Rp665",
+      "lowText": "Rp640",
+      "prevCloseText": "Rp645",
+      "changeText": "+Rp0",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
@@ -1255,7 +1240,7 @@
         ],
         [
           "전일대비",
-          "+2.38%",
+          "+0.00%",
           null
         ],
         [
@@ -1265,13 +1250,13 @@
         ],
         [
           "거래량(20일比)",
-          "1.21만 · 0.51x",
+          "17.27만 · 7.11x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,499억"
+          "1,500억"
         ],
         [
           "52주 고점대비",
@@ -1290,19 +1275,15 @@
         }
       ],
       "events": [
-        "OJK 2026년 최저자본 기준 충족률 82%는 미충족 18% 업체의 시장 재편 가능성을 시사하며, 자회사 RBC 적정성 점검 필요",
-        "자회사가 기준을 충족하는지 여부에 따라 그룹 차원의 자본 지원 의사결정이 요구될 수 있음"
+        "OJK 발표 기준 전체 보험사의 82%만 2026년 최저자본 요건 충족 — 미충족 18%에 당사 자회사가 포함되는지 RBC·자본 적정성 재확인 필요",
+        "자본 미충족 보험사 구조조정 가능성이 있어 당사 자회사의 규제 대응 완료 여부가 자회사 경영 건전성 판단의 핵심 변수로 부상"
       ],
       "watch": [
-        "자회사 OJK 최저자본 기준 충족 여부",
-        "RBC 비율 최신 수치 확인",
-        "PIKK 개정 추가 공표 여부"
+        "당사 자회사의 2026 최저자본 충족 여부",
+        "OJK 미충족 보험사 제재·조치 일정",
+        "PIKK 개정 연동 추가 자본 요건 변화"
       ],
       "spark": [
-        {
-          "date": "5/29",
-          "close": 700.0
-        },
         {
           "date": "6/2",
           "close": 700.0
@@ -1550,11 +1531,15 @@
         {
           "date": "8/31",
           "close": 645.0
+        },
+        {
+          "date": "9/1",
+          "close": 645.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 8/31 종가 (WIB)",
+      "exchangeLine": "IDX · 9/1 종가 (WIB)",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ211SDdtVFRUeGF1ZG4zandLanJLMWdTT3pPWG1rMDlZT2pBOTRGZ0s1QVV2TnBRaUM0RFgyWUVOT1ZRMUx0dmZRMXpvQjc5UEJTNDYydGpzc0pSaDVBRThzTUwteHRsbkQyS1lFcEpMMVkyT2pXd2JIdTZfMldHVFNmSzc2bU9LTkd4eDJzaS0ySUNXMm1RYml4RmJQeGpqN2xNYUstbUk0ZWRUX2pUWkFqQQ?oc=5",
       "sources": [
         {
@@ -1578,6 +1563,13 @@
           "level": "low",
           "date": "08/28",
           "collected_at": "2026-08-29"
+        },
+        {
+          "summary": "OJK, 인도네시아 보험사 중 82%만 2026년 최저자본 요건 충족 발표",
+          "impact": "당사 자회사의 최저자본 충족 여부 미확인 — 미충족 시 자본 확충 의사결정 필요",
+          "level": "mid",
+          "date": "09/01",
+          "collected_at": "2026-09-01"
         }
       ]
     }
