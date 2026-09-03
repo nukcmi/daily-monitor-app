@@ -1,61 +1,89 @@
 {
-  "updated": "2026-09-01 16:52",
+  "updated": "2026-09-03 17:03",
   "articles": [
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "스테이블코인과 보험산업 과제",
-      "takeaway": "스테이블코인 확산이 보험산업의 新리스크·결제 환경 변화를 야기한다.",
+      "takeaway": "스테이블코인 확산이 보험료 결제·준비금 운용 방식에 새로운 리스크를 야기한다.",
       "bullets": [
-        "스테이블코인 담보 불안정성 → 보험 가능성(insurability) 논란",
-        "디지털 자산 관련 배상책임·커스터디 보험 수요 부상",
-        "규제 공백 구간에서 보험사 리스크 인수 기준 정립 시급"
+        "스테이블코인의 법적 지위·가치 안정성이 보험 계약 이행에 불확실성 추가",
+        "디지털 자산 담보 관련 신규 보험 수요(커스터디·해킹 등) 발생 가능",
+        "국내 규제 공백 상태에서 선제적 언더라이팅 기준 마련 시급"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-06",
-      "collected_at": "2026-09-01"
+      "collected_at": "2026-09-03"
     },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "기업 경영환경 변화와 임원배상책임보험 시장의 과제",
-      "takeaway": "경영환경 복잡성 증가로 D&O(임원배상책임) 보험 시장 재편이 가속된다.",
+      "takeaway": "경영환경 복잡성 증가로 D&O(임원배상책임) 보험 수요와 손해율 관리가 동시에 부상한다.",
       "bullets": [
-        "ESG·공급망·사이버 등 신규 임원 책임 리스크 급증",
-        "소송 증가 및 배상액 상향으로 언더라이팅 정교화 요구",
-        "국내 D&O 보험료 및 조건 재검토 시점 도래"
+        "ESG·공급망·지정학 리스크 확대로 임원 법적 책임 노출 범위 확대",
+        "소송 증가·집단소송 제도화 논의로 클레임 빈도·심도 상승 우려",
+        "국내 D&O 시장 성장 잠재력 크나 적정 보험료 산출 모델 고도화 필요"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=805489&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-03",
-      "collected_at": "2026-09-01"
+      "collected_at": "2026-09-03"
     },
     {
       "publisher": "NAIC",
       "type": "regulator",
       "title": "NAIC Summer National Meeting Highlights Collaboration and Advances Priorities",
-      "takeaway": "NAIC 하계 총회에서 다부문 협력 강화 및 핵심 의제 진전이 확인됐다.",
+      "takeaway": "NAIC 하계 총회 의결 사항은 미국 보험 규제 방향을 가늠하는 핵심 지표다.",
       "bullets": [
-        "기후·사이버·AI 등 복합 리스크 대응 공동 프레임워크 논의",
-        "주 감독당국 간 협력 체계 고도화로 규제 조율 속도 향상",
-        "국내 보험사도 NAIC 의제 추적을 통한 선제 규제 대응 필요"
+        "협업 강화·우선순위 추진이 주요 의제로 다뤄져 규제 일관성 제고 예상",
+        "AI·기후·사이버 등 신흥 리스크 관련 모델법·가이드라인 논의 병행 가능성",
+        "NAIC 동향은 국내 금융당국 규제 벤치마킹에 직접적으로 활용됨"
       ],
       "url": "https://content.naic.org/article/naic-summer-national-meeting-highlights-collaboration-and-advances-priorities",
       "date": "Aug. 24, 2026",
-      "collected_at": "2026-09-01"
+      "collected_at": "2026-09-03"
     },
     {
       "publisher": "NAIC",
       "type": "regulator",
       "title": "Maine and Mississippi License State Based Systems",
-      "takeaway": "메인·미시시피 주 SBS 도입으로 보험사 면허 관리 효율화가 진전된다.",
+      "takeaway": "메인·미시시피의 SBS(주별 면허 시스템) 도입은 미국 보험 디지털 인프라 표준화 신호다.",
       "bullets": [
-        "SBS(State Based Systems)는 주별 면허 통합 플랫폼",
-        "참여 주 확대로 다주(多州) 영업 보험사 행정 부담 경감",
-        "NAIC 주도 인프라 표준화가 규제 일관성 제고에 기여"
+        "SBS(State Based Systems)는 NAIC 주도 면허·규제 데이터 통합 플랫폼",
+        "추가 주 도입으로 규제 데이터 일관성 강화 → 크로스보더 영업 효율화",
+        "국내 보험사 미국 진출 시 현지 면허 프로세스 변화 모니터링 필요"
       ],
       "url": "https://content.naic.org/article/maine-and-mississippi-license-state-based-systems",
       "date": "Aug. 25, 2026",
-      "collected_at": "2026-09-01"
+      "collected_at": "2026-09-03"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "takeaway": "임상시험 AI 재설계는 생명보험·헬스케어 언더라이팅 데이터 품질에 직결된다.",
+      "bullets": [
+        "120개 스폰서·CRO·시험기관 대상 설문에서 모집·사이트 역량 부족이 지속 확인",
+        "AI로 임상 업무 재설계 시 시험 속도·데이터 신뢰성 향상 가능",
+        "임상 효율화는 신약 출시 주기 단축 → 보험 급부 설계에 영향"
+      ],
+      "url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities/",
+      "date": "09/02",
+      "collected_at": "2026-09-03"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "AI in Energy: From Pilots to Payoff",
+      "takeaway": "AI 파일럿 정체 극복 사례는 보험사 AI 전환 전략 수립에 참고할 벤치마크다.",
+      "bullets": [
+        "대부분 에너지·자원기업이 파일럿 단계에 머물러 실질 성과 미달",
+        "성과 창출 기업은 use-case 선택·데이터 기반·조직 변화관리에서 차별화",
+        "보험업도 동일한 파일럿 함정 위험 → 스케일업 로드맵 필요"
+      ],
+      "url": "https://www.bain.com/insights/ai-in-energy-from-pilots-to-payoff/",
+      "date": "09/01",
+      "collected_at": "2026-09-03"
     },
     {
       "publisher": "Bain",
