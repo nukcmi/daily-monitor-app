@@ -1,21 +1,21 @@
 {
   "asOf": "2026-09-03",
-  "updated": "2026-09-03 17:03",
-  "fx": "환율 2026-09-03 · 시장환율   1 USD = ₩1,357.98   |   1 USD = 17,655.00 IDR   |   1 IDR = ₩0.07692",
+  "updated": "2026-09-03 21:04",
+  "fx": "환율 2026-09-03 · 시장환율   1 USD = ₩1,357.08   |   1 USD = 17,655.00 IDR   |   1 IDR = ₩0.07687",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "DART 주식등의대량보유상황보고서(일반) 신규 제출",
-      "impact": "보유자 정체·목적에 따라 지분구조 변동 가능성—당사 지분 희석 또는 블록딜 리스크 선제 확인 필요",
+      "text": "DART 주식등의대량보유상황보고서 신규 제출",
+      "impact": "지분구조 변동 가능성—당사 보유 지분 희석 여부 즉각 확인 필요",
       "level": "mid",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000272"
     },
     {
       "company": "차바이오텍",
-      "text": "과기부 'K-CGTAP(CGT 품질평가 플랫폼 구축)' 공동연구개발기관으로 선정됨",
-      "impact": "정부 CGT 플랫폼 과제 참여로 기술 공신력 확보—CDMO 수주 경쟁력 강화에 긍정적이나 직접 매출 연계 시점은 미정",
+      "text": "과기부 K-CGTAP 공동연구개발기관으로 선정, CGT 품질평가 기술 개발 참여",
+      "impact": "국책 CGT 사업 참여 실적 확보—CDMO 수주 레퍼런스로 누적될 경우 지분가치 제고 기여",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80dENxTUZIbC1pSWRNWjhUamRKeDRIT1NaM2tRTXJXRk5kTEd3TUpseS04RFUwbmJ2bDhVZ2RXdWEyelN3TF9tUTZwYWhfeDB2MjlBUjF0UTRBNzlJNVFJSnMwTlVvdkw3aDhMdjVjNA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFTk9JWlNpYU55MUx1c1NxTlBHX2swWUNwdC0wMG1mUGRicTdzaHZyRFlDY2k3UlUzeUpJZ29KUHZoV3A3UDkxNl8xbFZKenVwTzN2Y1lnRHZQZFR3Y0NYSkRKZ3RkVUk0OEE0Zw?oc=5"
     }
   ],
   "companies": [
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "정부 CGT 플랫폼 과제 선정",
+      "event": "CGT 국책사업 참여로 기술 포지션 강화",
       "tags": [
         "-1.00%",
         "당사 투자"
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "과기부 K-CGTAP 공동연구기관 선정은 CGT 기술 검증 및 정부 레퍼런스 확보 측면에서 CDMO 수주 경쟁력에 긍정적 신호",
-        "대량보유보고서 제출로 지분구조 변동 가능성 확인 필요—희석 또는 블록딜 여부가 당사 지분가치에 직결"
+        "K-CGTAP 공동연구기관 선정은 정부 과제 수행 실적으로 CGT CDMO 수주 경쟁력에 긍정적 누적 효과 기대",
+        "대량보유보고서 신규 공시는 지분구조 변동 가능성 시사—당사 지분 희석 여부 확인 필요"
       ],
       "watch": [
-        "대량보유보고서 보유자·목적 확인",
-        "K-CGTAP 과제 규모·기간·매출 연계 여부",
-        "추가 자금조달(CB·유상증자) 계획 여부"
+        "대량보유보고 목적·보유자 확인",
+        "K-CGTAP 연구비 규모 및 상업화 연계 여부",
+        "추가 자금조달(CB·증자) 계획 유무"
       ],
       "spark": [
         {
@@ -363,33 +363,33 @@
           "date": "20260903"
         },
         {
+          "title": "차바이오텍, ‘K-CGTAP’ 공동연구기관 참여…CGT 품질평가 기술 개발",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFTk9JWlNpYU55MUx1c1NxTlBHX2swWUNwdC0wMG1mUGRicTdzaHZyRFlDY2k3UlUzeUpJZ29KUHZoV3A3UDkxNl8xbFZKenVwTzN2Y1lnRHZQZFR3Y0NYSkRKZ3RkVUk0OEE0Zw?oc=5",
+          "source": "메디컬투데이",
+          "date": "09/03"
+        },
+        {
+          "title": "[오늘의 제약리뷰] 국제약품·동아제약·삼진제약·한미약품·제일약품·온코닉테라퓨틱스·차바이오텍",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CN2hQc0pndUZLbVlWa1Nza3Rtd0RpMTB5ZUpHamtkQXFHTERpMEwweGdaNFRHaFRCbkZONEdNRlQwQWp3V3VseERnajdjSmdzeDhjZWt1NzBlcnVXYWhmU2E0bThsWkp0QUlLWXBMZnZWa0t4?oc=5",
+          "source": "파이낸셜리뷰",
+          "date": "09/03"
+        },
+        {
           "title": "차바이오텍, 과기부 ‘K-CGTAP’ 공동연구개발기관 선정",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80dENxTUZIbC1pSWRNWjhUamRKeDRIT1NaM2tRTXJXRk5kTEd3TUpseS04RFUwbmJ2bDhVZ2RXdWEyelN3TF9tUTZwYWhfeDB2MjlBUjF0UTRBNzlJNVFJSnMwTlVvdkw3aDhMdjVjNA?oc=5",
           "source": "이코리아",
           "date": "09/03"
         },
         {
-          "title": "차바이오텍, 과기부 'K-CGTAP' 공동연구기관 선정",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WdHppczkwQ0VPaTV1YjIzM1ctVUFnbVRHZGJwbkMtX1VBQTl0RmQ0d3BkblYteWJha0hpZUhqVGtiMzFGWFMxTXdJZ3QxSnYydVdQeVVXemxkYWR2Sm1QZ1F4XzRwUFdSbkE?oc=5",
-          "source": "의학신문",
+          "title": "차바이오텍, 과기부 ‘K-CGTAP’ 공동연구기관 선정",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NVjRscTkzRGlvb0gyWjVCUzFVRVVnU1RMa0p6TXR1NzhKVHNXamZnS3F6XzM1Y3JuMW1GLWF1YWdtVlE3ZUtyeThpRUVFc3pxNW82WXVMeHlFbVBrblBMWGJtRTJhMDd1N1Zn?oc=5",
+          "source": "CNB뉴스",
           "date": "09/03"
         },
         {
           "title": "차바이오텍, 과기부 ‘K-CGTAP’ 공동연구기관 선정",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Gdms0MlZhQnQxcmtCMERHaFNDNXNWdDVDQU5NX1Z1SGF1YWdjZ2xqa1lxOVhtMTVPbVltbm5vaVoxYS1NY2dJcEZmNEx4cF9ST0tIcGtER3pad20xeEtlek5fdkgtZDNiZ1JHSG55WUVoY292?oc=5",
           "source": "이투데이",
-          "date": "09/03"
-        },
-        {
-          "title": "차바이오텍, 첨단바이오의약품 품질평가 플랫폼 구축 사업 참여",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80TnVNQXVDT0x6MEFSTVNHTFVBb001aDMtTUFLV3FmY0JiSEJHY2tPdVo0a3FQR0ozSlliR3RQU1ZtM0pXcElnOFBEVTJrTXo3VmpJa0o4MUE3b3ByQV9kTlFLcjZzTGdUWk00akxVenJQU1k?oc=5",
-          "source": "소비자가 만드는 신문",
-          "date": "09/03"
-        },
-        {
-          "title": "차바이오텍 \"바이오·의료기술개발 정부과제 선정\"",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpU3doVF9uNk9nUkp5bUwyLXIwLVBtODducHl6aFhqV3pZUlEwTFV5eWM1U0tmZ1psVnRTbjZNOTRhOE5hRnNJWTJ0em1VbVI1V1Q4?oc=5",
-          "source": "네이트",
           "date": "09/03"
         }
       ],
@@ -484,6 +484,20 @@
           "level": "mid",
           "date": "09/03",
           "collected_at": "2026-09-03"
+        },
+        {
+          "summary": "DART 주식등의대량보유상황보고서 신규 제출",
+          "impact": "지분구조 변동 가능성—당사 보유 지분 희석 여부 즉각 확인 필요",
+          "level": "mid",
+          "date": "09/03",
+          "collected_at": "2026-09-03"
+        },
+        {
+          "summary": "과기부 K-CGTAP 공동연구개발기관으로 선정, CGT 품질평가 기술 개발 참여",
+          "impact": "국책 CGT 사업 참여 실적 확보—CDMO 수주 레퍼런스로 누적될 경우 지분가치 제고 기여",
+          "level": "mid",
+          "date": "09/03",
+          "collected_at": "2026-09-03"
         }
       ]
     },
@@ -532,7 +546,7 @@
         ],
         [
           "거래량(20일比)",
-          "6.28천 · 0.59x",
+          "6.31천 · 0.60x",
           null
         ],
         [
@@ -557,12 +571,13 @@
         }
       ],
       "events": [
+        "제이준 브랜드 마케팅 수상은 사업모델 전환 성패와 무관한 홍보성 이벤트",
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "헬스케어 사업 매출 가시화 시점",
-        "고객사·파트너십 신규 계약 여부",
-        "분기 영업손익 개선 추이"
+        "헬스케어 사업 신규 고객·파트너십 발표 여부",
+        "분기 매출·영업손익 추이 확인",
+        "자금조달 또는 지분 변동 공시 여부"
       ],
       "spark": [
         {
@@ -861,7 +876,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "미주리 자동차보험 출시·테슬라 할인 도입",
+      "event": "주(州) 단위 시장 확장 지속",
       "tags": [
         "+3.51%",
         "벤치마크"
@@ -877,7 +892,7 @@
         [
           "종가",
           "$53.14",
-          "₩72,163"
+          "₩72,115"
         ],
         [
           "취득가",
@@ -907,7 +922,7 @@
         [
           "시가총액",
           "$4.11B",
-          "5.59조"
+          "5.58조"
         ],
         [
           "52주 고점대비",
@@ -926,13 +941,13 @@
         }
       ],
       "events": [
-        "자동차보험 신규 주 진출과 테슬라 자율주행 할인 도입은 IFP 성장 동력이나, Loss Ratio 영향은 실적 확인 전까지 불확실",
-        "GF Value 기준 17.8% 저평가 평가에도 비수익 상태 지속—밸류에이션 매력과 수익성 리스크가 공존하는 국면"
+        "미주리 자동차보험·캔자스 임차인보험 출시로 IFP 성장 기반 확대—지역 다각화가 구조적 성장성의 핵심 지표",
+        "테슬라 할인 연계 자율주행차 보험 출시는 차별화 언더라이팅 모델로 Loss Ratio 영향이 중요 관전 포인트"
       ],
       "watch": [
-        "미주리 자동차보험 IFP 기여 규모",
-        "테슬라 할인 적용 시 Loss Ratio 변화",
-        "EBITDA 흑자전환 시점 및 자본 소진 속도"
+        "신규 주 진출에 따른 IFP 증가 속도 확인",
+        "자율주행 연계 상품의 Loss Ratio 실적 추적",
+        "EBITDA 흑자전환 시점 가이던스 업데이트"
       ],
       "spark": [
         {
@@ -1191,8 +1206,14 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 9/2 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHg4MUhCaE93b0c1d0JvQzEwM3U2SU93RGEtMWswSDZWcDREQTlkZFcxNXNfZGVhVWRiZDdSR2RrYXhTVUxSYUphMVVDXzZsRUk1aHZvRDduUU12OTAzVnZYb3UxZXpxNndHRmEyT25kWXkxVkNtOGxINEhHLWdqdC1acDBISVdtb2tVb2FPak5JeVI3djM2Wmxxa3JvN2VWSmMtVGo0VWlIYnM5MDRsVXNvay0xeTd2WDR5QlFuWjFWQQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTlOU0J3VW4zM1dZRXhTU21EQ0dOaWxzZDIyYzlSdWFmbkh6UkNSSEdocTBoZk9nOXpUR1VOYUlJN2I5Tk16ZldxN3FmQTFQYURQdW1kaWhzSEhwRHVzR1p6ZWw0eWJBa0RzQk9CV1BpbjhHUmhFTXJwU1RSUllBTFNCRmdPOVctY2wwVzk0S2tGNUZTSnZwd3JmWkF5dXBzTnVJRlJPTzU?oc=5",
       "sources": [
+        {
+          "title": "루멘 Inc (루멘) Stock Up 3.5% and Still Undervalued -- GF Sc",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTlOU0J3VW4zM1dZRXhTU21EQ0dOaWxzZDIyYzlSdWFmbkh6UkNSSEdocTBoZk9nOXpUR1VOYUlJN2I5Tk16ZldxN3FmQTFQYURQdW1kaWhzSEhwRHVzR1p6ZWw0eWJBa0RzQk9CV1BpbjhHUmhFTXJwU1RSUllBTFNCRmdPOVctY2wwVzk0S2tGNUZTSnZwd3JmWkF5dXBzTnVJRlJPTzU?oc=5",
+          "source": "GuruFocus",
+          "date": "09/02"
+        },
         {
           "title": "루멘 launches car insurance in Missouri with Tesla discount By Investing.com",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHg4MUhCaE93b0c1d0JvQzEwM3U2SU93RGEtMWswSDZWcDREQTlkZFcxNXNfZGVhVWRiZDdSR2RrYXhTVUxSYUphMVVDXzZsRUk1aHZvRDduUU12OTAzVnZYb3UxZXpxNndHRmEyT25kWXkxVkNtOGxINEhHLWdqdC1acDBISVdtb2tVb2FPak5JeVI3djM2Wmxxa3JvN2VWSmMtVGo0VWlIYnM5MDRsVXNvay0xeTd2WDR5QlFuWjFWQQ?oc=5",
@@ -1215,12 +1236,6 @@
           "title": "루멘 Launches Renters Insurance in Kansas",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGNZZlJrdUJ5dmQwYmMtM3FYSE1IeE1SUGVjbjAyMlljVGNBOTNYRVhsWEF6Sl9FZGExbVBQQ3VSNWtfSGFQWnVUUVNOVmwzOFdhd19RTGlfSTB0Wmx4THA5WGI4Mi1EeHgwWUNZazdxdkhKVXE4dWc1NWI1OVRBSTBBeEw1OHFvc2tSS05ibm45MGt3cG80c2U3MVBONlk?oc=5",
           "source": "marketscreener.com",
-          "date": "09/01"
-        },
-        {
-          "title": "루멘 Looks 17.8% Undervalued on GF Value™ Despite Unprofitabilit",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVp3d3V4NERXXy1QZXNFYWZOcEtTMmJrejQyUmU3bjRVaERyWjVsQXQ4aVNGSHJJVWZ1YWxWTk90YmN0ZzBIUGx3M29MXzdrbmFaMFhPeVM2WVlZeENVbjNVcnEtVnk1c1BZUDdRa21UemNWa3dPZ2Qya1N1ZTZRbjJQQVdlaThabXh4d0Zka1NHQUMwRjJoSnAtZU10cHVDZGJ3?oc=5",
-          "source": "GuruFocus",
           "date": "09/01"
         }
       ],
@@ -1301,6 +1316,20 @@
           "level": "low",
           "date": "09/01",
           "collected_at": "2026-09-03"
+        },
+        {
+          "summary": "미주리주 자동차보험 출시, 테슬라 차량 대상 할인 상품 포함",
+          "impact": "IFP 성장 지속 확인—자율주행 연계 언더라이팅 모델은 당사 디지털 보험 벤치마크로 참고 가치",
+          "level": "mid",
+          "date": "09/02",
+          "collected_at": "2026-09-03"
+        },
+        {
+          "summary": "캔자스주 임차인보험 신규 출시로 영업 지역 확대",
+          "impact": "지역 다각화를 통한 IFP 누적 확대—Loss Ratio 영향은 분기 실적에서 추적 필요",
+          "level": "low",
+          "date": "09/01",
+          "collected_at": "2026-09-03"
         }
       ]
     },
@@ -1311,21 +1340,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+0.00%",
+        "-0.78%",
         "자회사"
       ],
-      "priceText": "Rp645",
+      "priceText": "Rp640",
       "openText": "Rp645",
       "highText": "Rp645",
-      "lowText": "Rp640",
+      "lowText": "Rp630",
       "prevCloseText": "Rp645",
-      "changeText": "+Rp0",
+      "changeText": "-Rp5",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp645",
-          "₩49.6"
+          "Rp640",
+          "₩49.2"
         ],
         [
           "취득가",
@@ -1334,32 +1363,32 @@
         ],
         [
           "취득가대비",
-          "-1.35%",
+          "-2.11%",
           null
         ],
         [
           "전일대비",
-          "+0.00%",
+          "-0.78%",
           null
         ],
         [
           "전주대비",
-          "+2.38%",
+          "+1.59%",
           null
         ],
         [
           "거래량(20일比)",
-          "2.10천 · 0.07x",
+          "5.90천 · 0.19x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,477억"
+          "1,476억"
         ],
         [
           "52주 고점대비",
-          "-31.82%",
+          "-32.35%",
           null
         ]
       ],
@@ -1377,15 +1406,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 및 PIKK 개정 동향",
-        "RBC 비율 최신치 확인",
-        "GWP 성장 및 손해율 분기 추이"
+        "OJK 규제 변화 및 PIKK 개정 동향 모니터링",
+        "RBC 비율 분기 보고 확인",
+        "GWP 성장률 및 손해율 추이 점검"
       ],
       "spark": [
-        {
-          "date": "6/3",
-          "close": 700.0
-        },
         {
           "date": "6/4",
           "close": 690.0
@@ -1633,11 +1658,15 @@
         {
           "date": "9/2",
           "close": 645.0
+        },
+        {
+          "date": "9/3",
+          "close": 640.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 9/2 종가 (WIB)",
+      "exchangeLine": "IDX · 9/3 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": [
