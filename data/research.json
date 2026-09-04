@@ -1,33 +1,61 @@
 {
-  "updated": "2026-09-03 17:03",
+  "updated": "2026-09-04 17:07",
   "articles": [
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "스테이블코인과 보험산업 과제",
-      "takeaway": "스테이블코인 확산이 보험료 결제·준비금 운용 방식에 새로운 리스크를 야기한다.",
+      "takeaway": "스테이블코인 확산이 보험산업 지급·운용 구조에 새로운 리스크와 기회를 동시에 제기.",
       "bullets": [
-        "스테이블코인의 법적 지위·가치 안정성이 보험 계약 이행에 불확실성 추가",
-        "디지털 자산 담보 관련 신규 보험 수요(커스터디·해킹 등) 발생 가능",
-        "국내 규제 공백 상태에서 선제적 언더라이팅 기준 마련 시급"
+        "스테이블코인 기반 보험료 결제·지급 처리 가능성 부상",
+        "탈중앙화 자산 운용 시 ALM(자산부채관리) 리스크 증가",
+        "국내 규제 공백 속 보험사의 대응 전략 마련 시급"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-06",
-      "collected_at": "2026-09-03"
+      "collected_at": "2026-09-04"
     },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "기업 경영환경 변화와 임원배상책임보험 시장의 과제",
-      "takeaway": "경영환경 복잡성 증가로 D&O(임원배상책임) 보험 수요와 손해율 관리가 동시에 부상한다.",
+      "takeaway": "ESG·지배구조 강화로 D&O(임원배상책임) 보험 수요와 인수 난이도가 동시에 상승.",
       "bullets": [
-        "ESG·공급망·지정학 리스크 확대로 임원 법적 책임 노출 범위 확대",
-        "소송 증가·집단소송 제도화 논의로 클레임 빈도·심도 상승 우려",
-        "국내 D&O 시장 성장 잠재력 크나 적정 보험료 산출 모델 고도화 필요"
+        "기업 경영 투명성 요구 강화로 임원 법적 리스크 확대",
+        "소송·규제 제재 증가로 D&O 손해율 관리 복잡성 증가",
+        "국내 시장 성장 잠재력 크나 적정 보험료 산정 기준 정비 필요"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=805489&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-03",
-      "collected_at": "2026-09-03"
+      "collected_at": "2026-09-04"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "2026 Holiday Shopping Outlook",
+      "takeaway": "미국 홀리데이 소비 사상 첫 1조 달러 돌파, 소비심리 회복 신호.",
+      "bullets": [
+        "2026년 전년 대비 4.5% 성장 전망",
+        "소비 확대는 여행·레저 관련 보험 수요 증가로 연결 가능",
+        "경기 회복세가 손보 상품 가입률에 긍정적 영향 기대"
+      ],
+      "url": "https://www.bain.com/insights/2026-holiday-shopping-outlook-infographic/",
+      "date": "09/03",
+      "collected_at": "2026-09-04"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "FinOps for AI: From Managing Costs to Maximizing Value",
+      "takeaway": "AI 비용을 단순 절감이 아닌 비즈니스 성과 중심으로 관리하는 FinOps 전략 주목.",
+      "bullets": [
+        "AI 지출을 실시간으로 조정하는 동적 비용 관리 체계 제안",
+        "비용·사용량·성과(outcomes) 세 축을 연계해 ROI 측정",
+        "보험사 AI 투자 정당화 및 내부 거버넌스 설계에 적용 가능"
+      ],
+      "url": "https://www.bain.com/insights/finops-for-ai-from-managing-costs-to-maximizing-value/",
+      "date": "09/03",
+      "collected_at": "2026-09-04"
     },
     {
       "publisher": "NAIC",
