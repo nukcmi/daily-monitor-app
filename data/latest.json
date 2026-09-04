@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-09-03",
-  "updated": "2026-09-03 21:04",
-  "fx": "환율 2026-09-03 · 시장환율   1 USD = ₩1,357.08   |   1 USD = 17,655.00 IDR   |   1 IDR = ₩0.07687",
+  "asOf": "2026-09-04",
+  "updated": "2026-09-04 17:08",
+  "fx": "환율 2026-09-04 · 시장환율   1 USD = ₩1,352.40   |   1 USD = 17,633.00 IDR   |   1 IDR = ₩0.07670",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "DART 주식등의대량보유상황보고서 신규 제출",
-      "impact": "지분구조 변동 가능성—당사 보유 지분 희석 여부 즉각 확인 필요",
+      "text": "과기부 'K-CGTAP' 공동연구기관으로 선정, 정부 지원 CGT 품질평가 기술 개발 과제 참여",
+      "impact": "CGT 핵심기술 공신력 축적 경로 확보; 당사 보유 지분의 기술가치 훼손 리스크는 낮아지나 단기 재무 영향은 제한적",
       "level": "mid",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000272"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CUVExMkJKenlHWVowdV9tQ3I0UWNfUDc5azk4ejVESTZxM0RRZWswc3hjZkdOS3MyRU1za0R6cFRjUHpBY3JrUl83QUhSdFhDRW0tVm9rM2RiSThQbGw0WFlabXViRjhO0gFsQVVfeXFMTU1LTmhhSjQ4UDdVZjQ1c2VXMlBwWmdwWngwQ3hsNHVUeDRWZzRhWDRieXEtM2VJOWF0S3NCMTdwOTFPOXduUUZJSk5LblV1TzRzSGdfMnlWeWE4cHZYbkVBcFlHTFVKNlNwaGU0?oc=5"
     },
     {
       "company": "차바이오텍",
-      "text": "과기부 K-CGTAP 공동연구개발기관으로 선정, CGT 품질평가 기술 개발 참여",
-      "impact": "국책 CGT 사업 참여 실적 확보—CDMO 수주 레퍼런스로 누적될 경우 지분가치 제고 기여",
+      "text": "5% 이상 주주의 대량보유 상황 변동 공시(일반) 접수",
+      "impact": "지분구조 변동 가능성 확인 필요; 당사 보유 지분의 희석·경영권 구도 변화 여부 점검 요",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFTk9JWlNpYU55MUx1c1NxTlBHX2swWUNwdC0wMG1mUGRicTdzaHZyRFlDY2k3UlUzeUpJZ29KUHZoV3A3UDkxNl8xbFZKenVwTzN2Y1lnRHZQZFR3Y0NYSkRKZ3RkVUk0OEE0Zw?oc=5"
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000272"
     }
   ],
   "companies": [
@@ -24,22 +24,22 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "CGT 국책사업 참여로 기술 포지션 강화",
+      "event": "CGT 국가과제 참여로 기술 공신력 확보",
       "tags": [
-        "-1.00%",
+        "+2.15%",
         "당사 투자"
       ],
-      "priceText": "₩7,920",
-      "openText": "₩8,110",
-      "highText": "₩8,180",
-      "lowText": "₩7,870",
-      "prevCloseText": "₩8,000",
-      "changeText": "-₩80",
+      "priceText": "₩8,090",
+      "openText": "₩8,040",
+      "highText": "₩8,150",
+      "lowText": "₩7,960",
+      "prevCloseText": "₩7,920",
+      "changeText": "+₩170",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩7,920",
+          "₩8,090",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-38.15%",
+          "-36.82%",
           null
         ],
         [
           "전일대비",
-          "-1.00%",
+          "+2.15%",
           null
         ],
         [
           "전주대비",
-          "-2.94%",
+          "-0.86%",
           null
         ],
         [
           "거래량(20일比)",
-          "20.24만 · 0.55x",
+          "14.84만 · 0.42x",
           null
         ],
         [
           "시가총액",
-          "7,363억",
+          "7,521억",
           null
         ],
         [
           "52주 고점대비",
-          "-66.93%",
+          "-66.22%",
           null
         ]
       ],
@@ -89,19 +89,15 @@
         }
       ],
       "events": [
-        "K-CGTAP 공동연구기관 선정은 정부 과제 수행 실적으로 CGT CDMO 수주 경쟁력에 긍정적 누적 효과 기대",
-        "대량보유보고서 신규 공시는 지분구조 변동 가능성 시사—당사 지분 희석 여부 확인 필요"
+        "정부 주도 CGT 플랫폼 과제 수주는 기술 레퍼런스 축적 경로로, 중장기 CDMO 사업 신뢰도에 긍정적",
+        "직접 매출 기여보다 기술력 검증 효과가 핵심; 상업화 연결 여부가 실질 지분가치 판단 관건"
       ],
       "watch": [
-        "대량보유보고 목적·보유자 확인",
-        "K-CGTAP 연구비 규모 및 상업화 연계 여부",
-        "추가 자금조달(CB·증자) 계획 유무"
+        "K-CGTAP 과제 수행 진척 및 성과 확인",
+        "CDMO 수주 파이프라인 추가 공시 여부",
+        "유상증자·CB 등 신규 자금조달 공시 여부"
       ],
       "spark": [
-        {
-          "date": "6/5",
-          "close": 12310.0
-        },
         {
           "date": "6/8",
           "close": 11230.0
@@ -349,11 +345,15 @@
         {
           "date": "9/3",
           "close": 7920.0
+        },
+        {
+          "date": "9/4",
+          "close": 8090.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/3 종가",
+      "exchangeLine": "KRX · 9/4 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000272",
       "sources": [
         {
@@ -363,33 +363,33 @@
           "date": "20260903"
         },
         {
+          "title": "차바이오텍 주가 상승 중",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTDJmcGw3dEZHNm1WXzF0WUE5YXlqVHlJX2Ywc3J3YUc2VGxabE5ITURjNThleER6QU9RcUVjMXA5S2twN1RzaG1TLXJZbENTR09Ga1A3SS1HZ0o0aDFhUDdEMXlQU2cxSGtLZ3dXdWx3RHJB?oc=5",
+          "source": "아시아뉴스통신",
+          "date": "09/04"
+        },
+        {
+          "title": "차바이오텍, 137억 '국가 CGT 플랫폼' 참여…해외 분석 의존도 낮춘다",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CUVExMkJKenlHWVowdV9tQ3I0UWNfUDc5azk4ejVESTZxM0RRZWswc3hjZkdOS3MyRU1za0R6cFRjUHpBY3JrUl83QUhSdFhDRW0tVm9rM2RiSThQbGw0WFlabXViRjhO0gFsQVVfeXFMTU1LTmhhSjQ4UDdVZjQ1c2VXMlBwWmdwWngwQ3hsNHVUeDRWZzRhWDRieXEtM2VJOWF0S3NCMTdwOTFPOXduUUZJSk5LblV1TzRzSGdfMnlWeWE4cHZYbkVBcFlHTFVKNlNwaGU0?oc=5",
+          "source": "AP신문",
+          "date": "09/03"
+        },
+        {
           "title": "차바이오텍, ‘K-CGTAP’ 공동연구기관 참여…CGT 품질평가 기술 개발",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFTk9JWlNpYU55MUx1c1NxTlBHX2swWUNwdC0wMG1mUGRicTdzaHZyRFlDY2k3UlUzeUpJZ29KUHZoV3A3UDkxNl8xbFZKenVwTzN2Y1lnRHZQZFR3Y0NYSkRKZ3RkVUk0OEE0Zw?oc=5",
           "source": "메디컬투데이",
           "date": "09/03"
         },
         {
-          "title": "[오늘의 제약리뷰] 국제약품·동아제약·삼진제약·한미약품·제일약품·온코닉테라퓨틱스·차바이오텍",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CN2hQc0pndUZLbVlWa1Nza3Rtd0RpMTB5ZUpHamtkQXFHTERpMEwweGdaNFRHaFRCbkZONEdNRlQwQWp3V3VseERnajdjSmdzeDhjZWt1NzBlcnVXYWhmU2E0bThsWkp0QUlLWXBMZnZWa0t4?oc=5",
-          "source": "파이낸셜리뷰",
+          "title": "차바이오텍, 바이오혁신 공동연구기관 선정…127억원 정부 지원 과제",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2c2lHbWlCSGVIRDVialRLUTRja2k3NEo0ZFpwcjh4WlN0X3NBOXNxMmRRd3N4Vkx5WjRPRWNSTG1oQ0RleDRCU3d0REJJblFqS0VFYy13U0NhblFQLVZHZ3pqb0tXc3BESE4yTVZneDNIemZS0gF0QVVfeXFMUHZzaUdtaUJIZUhENWJqVEtRNGNraTc0SjRkWnByOHhaU3Rfc0E5c3EyZFF3c3hWTHlaNE9FY1JMbWhDRGV4NEJTd3REQkluUWpLRUVjLXdTQ2FuUVAtVkdnempvS1dzcERITjJNVmd4M0h6ZlI?oc=5",
+          "source": "주간한국",
           "date": "09/03"
         },
         {
-          "title": "차바이오텍, 과기부 ‘K-CGTAP’ 공동연구개발기관 선정",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80dENxTUZIbC1pSWRNWjhUamRKeDRIT1NaM2tRTXJXRk5kTEd3TUpseS04RFUwbmJ2bDhVZ2RXdWEyelN3TF9tUTZwYWhfeDB2MjlBUjF0UTRBNzlJNVFJSnMwTlVvdkw3aDhMdjVjNA?oc=5",
-          "source": "이코리아",
-          "date": "09/03"
-        },
-        {
-          "title": "차바이오텍, 과기부 ‘K-CGTAP’ 공동연구기관 선정",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NVjRscTkzRGlvb0gyWjVCUzFVRVVnU1RMa0p6TXR1NzhKVHNXamZnS3F6XzM1Y3JuMW1GLWF1YWdtVlE3ZUtyeThpRUVFc3pxNW82WXVMeHlFbVBrblBMWGJtRTJhMDd1N1Zn?oc=5",
-          "source": "CNB뉴스",
-          "date": "09/03"
-        },
-        {
-          "title": "차바이오텍, 과기부 ‘K-CGTAP’ 공동연구기관 선정",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Gdms0MlZhQnQxcmtCMERHaFNDNXNWdDVDQU5NX1Z1SGF1YWdjZ2xqa1lxOVhtMTVPbVltbm5vaVoxYS1NY2dJcEZmNEx4cF9ST0tIcGtER3pad20xeEtlek5fdkgtZDNiZ1JHSG55WUVoY292?oc=5",
-          "source": "이투데이",
+          "title": "차바이오텍, 과기부 'K-CGTAP' 공동연구기관 선정",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WdHppczkwQ0VPaTV1YjIzM1ctVUFnbVRHZGJwbkMtX1VBQTl0RmQ0d3BkblYteWJha0hpZUhqVGtiMzFGWFMxTXdJZ3QxSnYydVdQeVVXemxkYWR2Sm1QZ1F4XzRwUFdSbkE?oc=5",
+          "source": "의학신문",
           "date": "09/03"
         }
       ],
@@ -498,6 +498,20 @@
           "level": "mid",
           "date": "09/03",
           "collected_at": "2026-09-03"
+        },
+        {
+          "summary": "과기부 'K-CGTAP' 공동연구기관으로 선정, 정부 지원 CGT 품질평가 기술 개발 과제 참여",
+          "impact": "CGT 핵심기술 공신력 축적 경로 확보; 당사 보유 지분의 기술가치 훼손 리스크는 낮아지나 단기 재무 영향은 제한적",
+          "level": "mid",
+          "date": "09/03",
+          "collected_at": "2026-09-04"
+        },
+        {
+          "summary": "5% 이상 주주의 대량보유 상황 변동 공시(일반) 접수",
+          "impact": "지분구조 변동 가능성 확인 필요; 당사 보유 지분의 희석·경영권 구도 변화 여부 점검 요",
+          "level": "mid",
+          "date": "09/03",
+          "collected_at": "2026-09-04"
         }
       ]
     },
@@ -508,20 +522,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-1.57%",
+        "+2.02%",
         "당사 투자"
       ],
-      "priceText": "₩4,705",
-      "openText": "₩4,850",
-      "highText": "₩4,850",
-      "lowText": "₩4,675",
-      "prevCloseText": "₩4,780",
-      "changeText": "-₩75",
+      "priceText": "₩4,800",
+      "openText": "₩4,745",
+      "highText": "₩4,835",
+      "lowText": "₩4,730",
+      "prevCloseText": "₩4,705",
+      "changeText": "+₩95",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩4,705",
+          "₩4,800",
           null
         ],
         [
@@ -536,27 +550,27 @@
         ],
         [
           "전일대비",
-          "-1.57%",
+          "+2.02%",
           null
         ],
         [
           "전주대비",
-          "-6.65%",
+          "-4.76%",
           null
         ],
         [
           "거래량(20일比)",
-          "6.31천 · 0.60x",
+          "2.77천 · 0.27x",
           null
         ],
         [
           "시가총액",
-          "856억",
+          "873억",
           null
         ],
         [
           "52주 고점대비",
-          "-76.21%",
+          "-75.73%",
           null
         ]
       ],
@@ -571,19 +585,14 @@
         }
       ],
       "events": [
-        "제이준 브랜드 마케팅 수상은 사업모델 전환 성패와 무관한 홍보성 이벤트",
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "헬스케어 사업 신규 고객·파트너십 발표 여부",
-        "분기 매출·영업손익 추이 확인",
-        "자금조달 또는 지분 변동 공시 여부"
+        "헬스케어 사업 매출·수익성 개선 추이",
+        "신규 고객사·파트너십 계약 공시 여부",
+        "자금조달 및 자본구조 변동 여부"
       ],
       "spark": [
-        {
-          "date": "6/5",
-          "close": 6480.0
-        },
         {
           "date": "6/8",
           "close": 6470.0
@@ -831,41 +840,21 @@
         {
           "date": "9/3",
           "close": 4705.0
+        },
+        {
+          "date": "9/4",
+          "close": 4800.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/3 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GRmQyRFN1eXVJWU1ZUV9PeHJNNlFRS2dFSTNvbHNtUFg2WEozYUZMYVhXeVRCRnJGX09NcklVbkZ5ZnNDUE9uU09ET3NURnRaeVZGc1V2emNSQ0h4MWpUeS0tYnE?oc=5",
+      "exchangeLine": "KRX · 9/4 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IanpCRWZ1N3FQQ2ctTlVvOWs5YzQ4WEF4N2tZZERBT05oa1MzdlplQWtNSE9TdnVfNkNZMm84eUFCT3dNbXFDQWx4VEw1bXAzZmNXSVUtNWgwQ1dwY0VCUUNwbjc5bXA2NUhZVHBOMTN3UdIBdEFVX3lxTFBwQVY4dDFsWERESWh6QWJOMmVoREV1UkJRazBHVTNQdlBsNFpBZU9JanVrRUxaQXlRUUlfQk1mOG5PQXJrTEZMRENRLXowU29CQVdRdWZ2QUJ6TmZIUTRUMktNVkdSd0VOLTJLXzRWZWVnOVBm?oc=5",
       "sources": [
-        {
-          "title": "차AI헬스케어 ‘제이준’, ‘2026 올해의 브랜드 대상’ 중국 마스크팩 부문 1위 선정",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GRmQyRFN1eXVJWU1ZUV9PeHJNNlFRS2dFSTNvbHNtUFg2WEozYUZMYVhXeVRCRnJGX09NcklVbkZ5ZnNDUE9uU09ET3NURnRaeVZGc1V2emNSQ0h4MWpUeS0tYnE?oc=5",
-          "source": "베타뉴스",
-          "date": "09/02"
-        },
         {
           "title": "차AI헬스케어 제이준, ‘2026 올해의 브랜드 대상’ 중국 마스크팩 10년 연속 1위 ‘마스터피스’ 수여",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IanpCRWZ1N3FQQ2ctTlVvOWs5YzQ4WEF4N2tZZERBT05oa1MzdlplQWtNSE9TdnVfNkNZMm84eUFCT3dNbXFDQWx4VEw1bXAzZmNXSVUtNWgwQ1dwY0VCUUNwbjc5bXA2NUhZVHBOMTN3UdIBdEFVX3lxTFBwQVY4dDFsWERESWh6QWJOMmVoREV1UkJRazBHVTNQdlBsNFpBZU9JanVrRUxaQXlRUUlfQk1mOG5PQXJrTEZMRENRLXowU29CQVdRdWZ2QUJ6TmZIUTRUMktNVkdSd0VOLTJLXzRWZWVnOVBm?oc=5",
           "source": "더퍼스트미디어",
-          "date": "09/02"
-        },
-        {
-          "title": "오텍캐리어-한국산업기술시험원, 친환경 냉매 적용 저온 콜드체인 냉동시스템 기술 실증 본격화",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Xa0xydlRoVlpXOTNJa2ozSmx5SWZvUVFvS3lkVWY2ckVmSzRPbTdvQ0pXQlhUZUM4aVlqMzFRN1FJWklWcmZ5ZFFROHVmMV9sck9PQ2NTZmo5dmQ5VlJKWEgxdTE1VWRkR2JBV0ctM0hodGs?oc=5",
-          "source": "오늘경제",
-          "date": "09/02"
-        },
-        {
-          "title": "차AI헬스케어, ‘제이준’ ‘2026 올해의 브랜드 대상’서 중국 마스크팩 부문 1위 기업 선정",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4cHF0VFZUcS1WSGlndmc0ZWJDaFB6akF0QnJhNlFheTNKek9jVEpjcnlpWXVxY2FTcVBzMWNZYXhwOGpKREhlcF9kWTZPMm1sWDNQenduM19zaEp0TUJDaEJWc1NmZUst?oc=5",
-          "source": "팍스경제TV",
-          "date": "09/02"
-        },
-        {
-          "title": "제이준, ‘올해의 브랜드’ 中 마스크팩 부문 10년 연속 1위",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VQnI5N1N2NHpEaTRWcTlyNHh0Z1ZHZXIzalg1Zjl4cDMyRjJJcnJxeFZVeW9EQUZmQTFZN1h1dl9NV0R0dnhfNjlHTjdYaWxjYW9QVS1aLTNMN3g2TmJrNDc3ZkRBYTdVS1dSN25mUWthd0VQ0gF0QVVfeXFMTVVCcjk3U3Y0ekRpNFZxOXI0eHRnVkdlcjNqWDVmOXhwMzJGMklycnF4VlV5b0RBRmZBMVk3WHV2X01XRHR2eF82OUdON1hpbGNhb1BVLVotM0w3eDZOYms0NzdmREFhN1VLV1I3bmZRa2F3RVA?oc=5",
-          "source": "주간한국",
           "date": "09/02"
         }
       ],
@@ -875,8 +864,8 @@
       "id": "LUMN",
       "name": "루멘",
       "ticker": "(미국)",
-      "g": "B",
-      "event": "주(州) 단위 시장 확장 지속",
+      "g": "C",
+      "event": "주요 변동 없음",
       "tags": [
         "+3.51%",
         "벤치마크"
@@ -892,7 +881,7 @@
         [
           "종가",
           "$53.14",
-          "₩72,115"
+          "₩71,867"
         ],
         [
           "취득가",
@@ -921,8 +910,8 @@
         ],
         [
           "시가총액",
-          "$4.11B",
-          "5.58조"
+          "$4.26B",
+          "5.77조"
         ],
         [
           "52주 고점대비",
@@ -941,13 +930,12 @@
         }
       ],
       "events": [
-        "미주리 자동차보험·캔자스 임차인보험 출시로 IFP 성장 기반 확대—지역 다각화가 구조적 성장성의 핵심 지표",
-        "테슬라 할인 연계 자율주행차 보험 출시는 차별화 언더라이팅 모델로 Loss Ratio 영향이 중요 관전 포인트"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "신규 주 진출에 따른 IFP 증가 속도 확인",
-        "자율주행 연계 상품의 Loss Ratio 실적 추적",
-        "EBITDA 흑자전환 시점 가이던스 업데이트"
+        "IFP 성장률 및 Loss Ratio 분기 발표 시점 확인",
+        "EBITDA 흑자전환 가이던스 업데이트 여부",
+        "밸류에이션 변동 유발 이벤트(실적·자본 공시) 여부"
       ],
       "spark": [
         {
@@ -1206,37 +1194,37 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 9/2 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTlOU0J3VW4zM1dZRXhTU21EQ0dOaWxzZDIyYzlSdWFmbkh6UkNSSEdocTBoZk9nOXpUR1VOYUlJN2I5Tk16ZldxN3FmQTFQYURQdW1kaWhzSEhwRHVzR1p6ZWw0eWJBa0RzQk9CV1BpbjhHUmhFTXJwU1RSUllBTFNCRmdPOVctY2wwVzk0S2tGNUZTSnZwd3JmWkF5dXBzTnVJRlJPTzU?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnBzOElDQVc3QWNNYXVPak1JcmNxdENZWlgtaGlucGtpaWFwQndMVlNLZ2lsZ3hZMlYtUXlNNUYxamhwSDNrVFp3SkdMZ3hTS0hmWWNteW1PY0IzcXd1dk03TkFaNzREcExNSXhQek50T1BZTUs2VlFkZVFvN09WSUlEXzR2MW9RVnpSYV9qQklLR2V0b2FYbzNTMXZFNURzYXVST3p0aXQ2Y1pq?oc=5",
       "sources": [
         {
-          "title": "루멘 Inc (루멘) Stock Up 3.5% and Still Undervalued -- GF Sc",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTlOU0J3VW4zM1dZRXhTU21EQ0dOaWxzZDIyYzlSdWFmbkh6UkNSSEdocTBoZk9nOXpUR1VOYUlJN2I5Tk16ZldxN3FmQTFQYURQdW1kaWhzSEhwRHVzR1p6ZWw0eWJBa0RzQk9CV1BpbjhHUmhFTXJwU1RSUllBTFNCRmdPOVctY2wwVzk0S2tGNUZTSnZwd3JmWkF5dXBzTnVJRlJPTzU?oc=5",
+          "title": "루멘 Inc (루멘) Shares Surge 3.6% -- What GF Score of 80 Tel",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnBzOElDQVc3QWNNYXVPak1JcmNxdENZWlgtaGlucGtpaWFwQndMVlNLZ2lsZ3hZMlYtUXlNNUYxamhwSDNrVFp3SkdMZ3hTS0hmWWNteW1PY0IzcXd1dk03TkFaNzREcExNSXhQek50T1BZTUs2VlFkZVFvN09WSUlEXzR2MW9RVnpSYV9qQklLR2V0b2FYbzNTMXZFNURzYXVST3p0aXQ2Y1pq?oc=5",
           "source": "GuruFocus",
-          "date": "09/02"
+          "date": "09/04"
         },
         {
-          "title": "루멘 launches car insurance in Missouri with Tesla discount By Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHg4MUhCaE93b0c1d0JvQzEwM3U2SU93RGEtMWswSDZWcDREQTlkZFcxNXNfZGVhVWRiZDdSR2RrYXhTVUxSYUphMVVDXzZsRUk1aHZvRDduUU12OTAzVnZYb3UxZXpxNndHRmEyT25kWXkxVkNtOGxINEhHLWdqdC1acDBISVdtb2tVb2FPak5JeVI3djM2Wmxxa3JvN2VWSmMtVGo0VWlIYnM5MDRsVXNvay0xeTd2WDR5QlFuWjFWQQ?oc=5",
-          "source": "Investing.com Canada",
-          "date": "09/02"
+          "title": "루멘 (NYSE: 루멘) exec to sell shares from vested stock grant",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVHRUYm9uaGVVaDhST0gwdjZWMl9DeURUUHZOSHBlYVAwNWRrVjFVdm92NlV3VlZiN0ZsZEJpQUlJZGpfSm55WmVBNVd3dnZKbUFfdUZLcks4N0Q4VGdsOG5wNTVaQW9ONlpPQzk5c1ZOaHJpd3UydTd5bm5id3A3cU1vV1NKV2w1RGZSSGtZbDFvWjg?oc=5",
+          "source": "Stock Titan",
+          "date": "09/03"
         },
         {
-          "title": "루멘 Brings Car Insurance and Autonomous Car to Missouri",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmtJU2RXYzdGbkJnVU5zNHRZQnNGV0Jmbk1BRFlkWk5QSUMxeFVnamZ3VmYyeVdpRk1hcUQtZ2wyMVhjX0drS2RUYTM0SFdDci12UVZtTEdxRDlSdmx1ZlNobXFEU1VQN0phcmpIRUpwR3l6WTBhNzAyQk1rTnlZOGhUcGRHSm5ibUtmZ3BjWkkzZEFFQkRmVW5uNWU5V3pDOGQ1T05ZaTFsMVAyNFpyWTkwQlFOb00?oc=5",
-          "source": "PR Newswire",
-          "date": "09/02"
+          "title": "루멘 (루멘) officer plans $103K stock sale, partly for taxes",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSnFJU2F5elJ4dDBNYllYT0JvZWxhQVYyOV9tWHdsSVpWX1BYbzU0LWxmbldSaHlpMHhIWjkzc3M1b0djLTRIWDNtQTNKM0NhMklhQmpwbHBpamNhbEVTTEhSSkpHRmdFS1NJMkk4NW1PZXZ2WHpDWE5zenN5WWZKd2tSYmFiaEpXRkdiX1RaNTUzeFU?oc=5",
+          "source": "Stock Titan",
+          "date": "09/03"
         },
         {
-          "title": "루멘 Expands Renters Insurance to Kansas",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObmJNcTZfOF9YYUpuME9wRHNFNjNGS0tVaXdMdXBOVTRTbVNVRGlLT3NXcmFVLXgtQ0M2Z29kMkVOdGw1R19RVnI0UFlNS0x5eFd4QmhPMU9BLXVNa2ZMTXd4ZnZoeVhTRWVvODNYNDBUejNiUWhuREFTeXdSZFQxeHNmVl84SFgyVjg4R3c1TEFadEZvTERiMWx4ZE8xdw?oc=5",
-          "source": "marketscreener.com",
-          "date": "09/01"
+          "title": "루멘 (NYSE: 루멘) exec to sell stock tied to equity award taxes",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX0g2N2FfdndibmhuZWEzSXNHakNCRVBvUTlXeDA0RnJjNmRmLTBTYXVDc2t6cVh2OFp5eVRMY2tlWTQ2ZXlIdkN0dkI4WjVYRkV3MzFoUEhaWHBlbW85LWlwT25rRTloNmZCaHhhODNqWElqT3VOVFI1dm81eUhoamsyaF9UX1ByQ1dFbm1RYXFQRWs?oc=5",
+          "source": "Stock Titan",
+          "date": "09/03"
         },
         {
-          "title": "루멘 Launches Renters Insurance in Kansas",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGNZZlJrdUJ5dmQwYmMtM3FYSE1IeE1SUGVjbjAyMlljVGNBOTNYRVhsWEF6Sl9FZGExbVBQQ3VSNWtfSGFQWnVUUVNOVmwzOFdhd19RTGlfSTB0Wmx4THA5WGI4Mi1EeHgwWUNZazdxdkhKVXE4dWc1NWI1OVRBSTBBeEw1OHFvc2tSS05ibm45MGt3cG80c2U3MVBONlk?oc=5",
-          "source": "marketscreener.com",
-          "date": "09/01"
+          "title": "The Manufacturers Life Insurance Company Takes Position in 루멘 $루멘",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ1FTTGJlaWdXTmQ0NGJvNFJoM2ZFTmxQTnhrMmRfdnVaNThydGJLWi1aSFlEOEZmcEtENGpKSkd1NFRCS0Yta2dRM3AzMTY4WTVzZF9aNEVCU19BZXhkR0N1TElvZUtNQVpxRDVveV91RmRzNXpKeEt0dmoxUkZudEhSWWFfSXdhbmQ1bGNablRXZnNSRmtMdlItS0d2QzViVWVMR0stV3daOTd3U2RBUlZCY2g4blpSU3R4ekd0c2NRSW1vS1ByMW90RHBSSWhPejhJ?oc=5",
+          "source": "MarketBeat",
+          "date": "09/03"
         }
       ],
       "archive30d": [
@@ -1354,7 +1342,7 @@
         [
           "종가",
           "Rp640",
-          "₩49.2"
+          "₩49.1"
         ],
         [
           "취득가",
@@ -1378,13 +1366,13 @@
         ],
         [
           "거래량(20일比)",
-          "5.90천 · 0.19x",
+          "5.90천 · 0.18x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,476억"
+          "1,438억"
         ],
         [
           "52주 고점대비",
@@ -1407,14 +1395,10 @@
       ],
       "watch": [
         "OJK 규제 변화 및 PIKK 개정 동향 모니터링",
-        "RBC 비율 분기 보고 확인",
-        "GWP 성장률 및 손해율 추이 점검"
+        "분기 RBC 비율 및 자본적정성 공시 확인",
+        "GWP 성장·손해율 실적 공시 여부"
       ],
       "spark": [
-        {
-          "date": "6/4",
-          "close": 690.0
-        },
         {
           "date": "6/5",
           "close": 690.0
@@ -1633,6 +1617,10 @@
         },
         {
           "date": "8/24",
+          "close": 645.0
+        },
+        {
+          "date": "8/25",
           "close": 645.0
         },
         {
