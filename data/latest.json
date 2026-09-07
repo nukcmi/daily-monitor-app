@@ -1,19 +1,19 @@
 {
-  "asOf": "2026-09-04",
-  "updated": "2026-09-04 21:06",
-  "fx": "환율 2026-09-04 · 시장환율   1 USD = ₩1,349.68   |   1 USD = 17,633.00 IDR   |   1 IDR = ₩0.07654",
+  "asOf": "2026-09-07",
+  "updated": "2026-09-07 18:06",
+  "fx": "환율 2026-09-07 · 시장환율   1 USD = ₩1,343.68   |   1 USD = 17,635.00 IDR   |   1 IDR = ₩0.07619",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "과기부 K-CGTAP 공동연구기관 선정, 127~137억원 규모 정부 CGT 품질평가 기술개발 과제 참여",
-      "impact": "외부 자금 유입으로 CGT 기술 내재화 비용 절감, 당사 보유 지분가치에 긍정적 사업 모멘텀",
+      "text": "세포치료제 규제 문턱 완화로 사업화 속도가 빨라질 것으로 분석됨",
+      "impact": "CGT 사업화 가시성 제고 시 당사 보유 지분가치 재평가 여지 발생",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CUVExMkJKenlHWVowdV9tQ3I0UWNfUDc5azk4ejVESTZxM0RRZWswc3hjZkdOS3MyRU1za0R6cFRjUHpBY3JrUl83QUhSdFhDRW0tVm9rM2RiSThQbGw0WFlabXViRjhO0gFsQVVfeXFMTU1LTmhhSjQ4UDdVZjQ1c2VXMlBwWmdwWngwQ3hsNHVUeDRWZzRhWDRieXEtM2VJOWF0S3NCMTdwOTFPOXduUUZJSk5LblV1TzRzSGdfMnlWeWE4cHZYbkVBcFlHTFVKNlNwaGU0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MQm43RlBjUm1yMkVWVDFvUlZnSWxIRHF1Smwtcm5ZWkdfMV9DSlRGTkgwTVM0Q2RCRkc4OGhFazNQcWdxODQ0WWY3aUMyM0FkSmVB?oc=5"
     },
     {
       "company": "차바이오텍",
-      "text": "주식등의대량보유상황보고서(일반) 공시 제출",
-      "impact": "지분구조 변동 여부 확인 필요. 주요 주주 변동 시 당사 보유 지분 희석·경영권 영향 가능",
+      "text": "주식 대량보유 상황 보고서(일반) 신규 공시 제출",
+      "impact": "지분구조 변동 가능성으로 당사 보유 지분의 희석·경영권 영향 여부 확인 필요",
       "level": "mid",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000272"
     }
@@ -24,17 +24,17 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "CGT 국책과제 참여 확보",
+      "event": "세포치료제 규제 완화·바이오 플랫폼 재평가",
       "tags": [
-        "+2.15%",
+        "+0.00%",
         "당사 투자"
       ],
       "priceText": "₩8,090",
-      "openText": "₩8,040",
+      "openText": "₩8,150",
       "highText": "₩8,150",
-      "lowText": "₩7,960",
-      "prevCloseText": "₩7,920",
-      "changeText": "+₩170",
+      "lowText": "₩8,010",
+      "prevCloseText": "₩8,090",
+      "changeText": "+₩0",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
@@ -54,17 +54,17 @@
         ],
         [
           "전일대비",
-          "+2.15%",
+          "+0.00%",
           null
         ],
         [
           "전주대비",
-          "-0.86%",
+          "+0.00%",
           null
         ],
         [
           "거래량(20일比)",
-          "14.84만 · 0.42x",
+          "12.33만 · 0.35x",
           null
         ],
         [
@@ -89,19 +89,15 @@
         }
       ],
       "events": [
-        "K-CGTAP 선정으로 CGT 품질평가 기술 내재화·정부 자금 확보, 핵심기술 경쟁력 강화 신호",
-        "국책과제 참여는 사업가치 재평가 여지를 주나, 상업화 단계까지의 거리 여전히 주목 필요"
+        "규제 완화 기조로 CGT(세포·유전자치료제) 사업화 속도가 붙을 경우 CDMO 가동률 연계 개선 가능",
+        "병원-신약-CDMO 수직계열화 스토리가 시장에서 재부각되나, 실적 가시화 전까지 밸류에이션 선반영 여부 주의"
       ],
       "watch": [
-        "K-CGTAP 과제 수행 진척 및 성과",
-        "CDMO 신규 수주·계약 현황",
-        "대량보유보고 지분구조 변동 내용"
+        "세포치료제 품목허가 진척 여부",
+        "CDMO 신규 수주 계약 공시 여부",
+        "CB·유상증자 등 자금조달 공시 발생 여부"
       ],
       "spark": [
-        {
-          "date": "6/8",
-          "close": 11230.0
-        },
         {
           "date": "6/9",
           "close": 11610.0
@@ -349,11 +345,15 @@
         {
           "date": "9/4",
           "close": 8090.0
+        },
+        {
+          "date": "9/7",
+          "close": 8090.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/4 종가",
+      "exchangeLine": "KRX · 9/7 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000272",
       "sources": [
         {
@@ -363,34 +363,34 @@
           "date": "20260903"
         },
         {
-          "title": "차바이오텍 주가 상승 중",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wTDJmcGw3dEZHNm1WXzF0WUE5YXlqVHlJX2Ywc3J3YUc2VGxabE5ITURjNThleER6QU9RcUVjMXA5S2twN1RzaG1TLXJZbENTR09Ga1A3SS1HZ0o0aDFhUDdEMXlQU2cxSGtLZ3dXdWx3RHJB?oc=5",
-          "source": "아시아뉴스통신",
-          "date": "09/04"
+          "title": "[Weekly 제약·바이오] 심평원·콜마비앤에이치·JW중외제약·GC녹십자웰빙·차바이오텍·동아제약 外",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03MnpVekVsQ2RnT04ybmZTYmVTWTY3TlRfOFdVcjFiOHFGRzQ1OEtVX2RmcEhTSmthdVZMM2ZSV2JKdFpDOGtwTVlVeEdhQ3NDenFSdDkxenZ3cEI1RUVyOEJtX3ZTQk9scXM0bWhJQUlDQzQ?oc=5",
+          "source": "오늘경제",
+          "date": "09/07"
         },
         {
-          "title": "차바이오텍, 137억 '국가 CGT 플랫폼' 참여…해외 분석 의존도 낮춘다",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CUVExMkJKenlHWVowdV9tQ3I0UWNfUDc5azk4ejVESTZxM0RRZWswc3hjZkdOS3MyRU1za0R6cFRjUHpBY3JrUl83QUhSdFhDRW0tVm9rM2RiSThQbGw0WFlabXViRjhO0gFsQVVfeXFMTU1LTmhhSjQ4UDdVZjQ1c2VXMlBwWmdwWngwQ3hsNHVUeDRWZzRhWDRieXEtM2VJOWF0S3NCMTdwOTFPOXduUUZJSk5LblV1TzRzSGdfMnlWeWE4cHZYbkVBcFlHTFVKNlNwaGU0?oc=5",
-          "source": "AP신문",
-          "date": "09/03"
+          "title": "차바이오텍, 글로벌 바이오 플랫폼 도약",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jOUJBbm1ScFU3dG13RHRMcU5CRFZfZlBrUmo2cXhFYlBKXzl0Tkd2NEh1QV9BU2FqSTJlZmxpQW5takJzVmZ6Ujh1LUE4cDVrd19Jb2g1QnZrdmxXTWQ0a2pHNjY?oc=5",
+          "source": "서울경제TV",
+          "date": "09/07"
         },
         {
-          "title": "차바이오텍, ‘K-CGTAP’ 공동연구기관 참여…CGT 품질평가 기술 개발",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFTk9JWlNpYU55MUx1c1NxTlBHX2swWUNwdC0wMG1mUGRicTdzaHZyRFlDY2k3UlUzeUpJZ29KUHZoV3A3UDkxNl8xbFZKenVwTzN2Y1lnRHZQZFR3Y0NYSkRKZ3RkVUk0OEE0Zw?oc=5",
-          "source": "메디컬투데이",
-          "date": "09/03"
+          "title": "차바이오텍, 병원이 벌고 신약·CDMO가 키운다…'바이오 수직계열화' 주목",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpZ29fODRIZjlIdkc0Wm51dGpXTmNldG5IdW9nSm1ZdEJMLWh2RGdabHlOcWtma1dhM0tpVV8xdG5tNmtXd3ZSbktLRGxKX21iRnFCazNoc1A5Zw?oc=5",
+          "source": "파이낸셜뉴스",
+          "date": "09/07"
         },
         {
-          "title": "차바이오텍, 바이오혁신 공동연구기관 선정…127억원 정부 지원 과제",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2c2lHbWlCSGVIRDVialRLUTRja2k3NEo0ZFpwcjh4WlN0X3NBOXNxMmRRd3N4Vkx5WjRPRWNSTG1oQ0RleDRCU3d0REJJblFqS0VFYy13U0NhblFQLVZHZ3pqb0tXc3BESE4yTVZneDNIemZS0gF0QVVfeXFMUHZzaUdtaUJIZUhENWJqVEtRNGNraTc0SjRkWnByOHhaU3Rfc0E5c3EyZFF3c3hWTHlaNE9FY1JMbWhDRGV4NEJTd3REQkluUWpLRUVjLXdTQ2FuUVAtVkdnempvS1dzcERITjJNVmd4M0h6ZlI?oc=5",
-          "source": "주간한국",
-          "date": "09/03"
+          "title": "\"차바이오텍, 병원서 신약개발까지 연계 바이오 플랫폼 기업\"",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Vd3lpQy1IMnlmb0pNSjFRa0JBLUNhTE1XYldRdzBueDBydzEyaWdiZlVjelNjOXRWUzBfYjFnR0MzNDVYRWl0VzBkNWNQdVNNN3hJT0I0MW1yZEF2Q0Uzc0VyellHMUNsM0phYTN1YXVEUQ?oc=5",
+          "source": "메디소비자뉴스",
+          "date": "09/07"
         },
         {
-          "title": "차바이오텍, 과기부 'K-CGTAP' 공동연구기관 선정",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WdHppczkwQ0VPaTV1YjIzM1ctVUFnbVRHZGJwbkMtX1VBQTl0RmQ0d3BkblYteWJha0hpZUhqVGtiMzFGWFMxTXdJZ3QxSnYydVdQeVVXemxkYWR2Sm1QZ1F4XzRwUFdSbkE?oc=5",
-          "source": "의학신문",
-          "date": "09/03"
+          "title": "[모닝 리포트] 차바이오텍, 규제 문턱 낮아졌다…세포치료제 사업화 '속도'",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MQm43RlBjUm1yMkVWVDFvUlZnSWxIRHF1Smwtcm5ZWkdfMV9DSlRGTkgwTVM0Q2RCRkc4OGhFazNQcWdxODQ0WWY3aUMyM0FkSmVB?oc=5",
+          "source": "네이트",
+          "date": "09/06"
         }
       ],
       "archive30d": [
@@ -526,6 +526,20 @@
           "level": "mid",
           "date": "09/03",
           "collected_at": "2026-09-04"
+        },
+        {
+          "summary": "세포치료제 규제 문턱 완화로 사업화 속도가 빨라질 것으로 분석됨",
+          "impact": "CGT 사업화 가시성 제고 시 당사 보유 지분가치 재평가 여지 발생",
+          "level": "mid",
+          "date": "09/06",
+          "collected_at": "2026-09-07"
+        },
+        {
+          "summary": "주식 대량보유 상황 보고서(일반) 신규 공시 제출",
+          "impact": "지분구조 변동 가능성으로 당사 보유 지분의 희석·경영권 영향 여부 확인 필요",
+          "level": "mid",
+          "date": "09/03",
+          "collected_at": "2026-09-07"
         }
       ]
     },
@@ -536,20 +550,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+2.02%",
+        "-2.92%",
         "당사 투자"
       ],
-      "priceText": "₩4,800",
-      "openText": "₩4,745",
-      "highText": "₩4,835",
-      "lowText": "₩4,730",
-      "prevCloseText": "₩4,705",
-      "changeText": "+₩95",
+      "priceText": "₩4,660",
+      "openText": "₩4,800",
+      "highText": "₩4,860",
+      "lowText": "₩4,660",
+      "prevCloseText": "₩4,800",
+      "changeText": "-₩140",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩4,800",
+          "₩4,660",
           null
         ],
         [
@@ -564,27 +578,27 @@
         ],
         [
           "전일대비",
-          "+2.02%",
+          "-2.92%",
           null
         ],
         [
           "전주대비",
-          "-4.76%",
+          "-2.92%",
           null
         ],
         [
           "거래량(20일比)",
-          "2.77천 · 0.27x",
+          "9.39천 · 0.90x",
           null
         ],
         [
           "시가총액",
-          "873억",
+          "848억",
           null
         ],
         [
           "52주 고점대비",
-          "-75.73%",
+          "-76.44%",
           null
         ]
       ],
@@ -602,15 +616,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 추이",
-        "신규 고객사·파트너십 체결 여부",
-        "헬스케어 전환 사업 매출 비중 변화"
+        "분기 매출·영업손익 개선 추이",
+        "헬스케어 신규 고객사·파트너십 공시 여부",
+        "자금조달 또는 지분 변동 공시 여부"
       ],
       "spark": [
-        {
-          "date": "6/8",
-          "close": 6470.0
-        },
         {
           "date": "6/9",
           "close": 6590.0
@@ -858,18 +868,34 @@
         {
           "date": "9/4",
           "close": 4800.0
+        },
+        {
+          "date": "9/7",
+          "close": 4660.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/4 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ycTZrMk9ZWHBCcVh1YjZGNEZJTzlqakJyd0JadFB0ZGZ4dE5tVXRpUFFYd040RjJvazM3RWZaZ2EwTDI1ekRNTVM2X0pEVWRfWnRmMUhNWTVISWhCanBfU0lmZS1OdTBGQ2taUmt3Y2dBd2M?oc=5",
+      "exchangeLine": "KRX · 9/7 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jOUJBbm1ScFU3dG13RHRMcU5CRFZfZlBrUmo2cXhFYlBKXzl0Tkd2NEh1QV9BU2FqSTJlZmxpQW5takJzVmZ6Ujh1LUE4cDVrd19Jb2g1QnZrdmxXTWQ0a2pHNjY?oc=5",
       "sources": [
         {
-          "title": "차AI헬스케어 투자분석 2026. 09. 02",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ycTZrMk9ZWHBCcVh1YjZGNEZJTzlqakJyd0JadFB0ZGZ4dE5tVXRpUFFYd040RjJvazM3RWZaZ2EwTDI1ekRNTVM2X0pEVWRfWnRmMUhNWTVISWhCanBfU0lmZS1OdTBGQ2taUmt3Y2dBd2M?oc=5",
-          "source": "주달",
-          "date": "09/03"
+          "title": "차바이오텍, 글로벌 바이오 플랫폼 도약",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jOUJBbm1ScFU3dG13RHRMcU5CRFZfZlBrUmo2cXhFYlBKXzl0Tkd2NEh1QV9BU2FqSTJlZmxpQW5takJzVmZ6Ujh1LUE4cDVrd19Jb2g1QnZrdmxXTWQ0a2pHNjY?oc=5",
+          "source": "서울경제TV",
+          "date": "09/07"
+        },
+        {
+          "title": "[모닝 리포트] 차바이오텍, 규제 문턱 낮아졌다…세포치료제 사업화 '속도'",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MQm43RlBjUm1yMkVWVDFvUlZnSWxIRHF1Smwtcm5ZWkdfMV9DSlRGTkgwTVM0Q2RCRkc4OGhFazNQcWdxODQ0WWY3aUMyM0FkSmVB?oc=5",
+          "source": "네이트",
+          "date": "09/06"
+        },
+        {
+          "title": "제이준, 중국서 사랑받는 마스크팩···스킨케어로 영역 확대",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ka25ZcmZvckdqb0E5eVlReGNjdVdNenZvOFVmcnAwVjZ6b3hBbmlZNlJISzlkbUlQZFB4WVJPVW9EVkpnWVlnT1BTOEYxNVF5UmZRc0dHSHJITm9ULWZ3TElXdENKYXhaMHY4aU9PaUdWb1Zv?oc=5",
+          "source": "캠페인 인사이트",
+          "date": "09/06"
         }
       ],
       "archive30d": []
@@ -878,24 +904,24 @@
       "id": "LUMN",
       "name": "루멘",
       "ticker": "(미국)",
-      "g": "B",
-      "event": "테슬라 FSD 보험료 50% 할인 도입",
+      "g": "C",
+      "event": "렌터스 보험 지역 확장 진행 중",
       "tags": [
-        "+3.65%",
+        "-3.03%",
         "벤치마크"
       ],
-      "priceText": "$55.08",
-      "openText": "$54.94",
-      "highText": "$56.02",
-      "lowText": "$54.17",
-      "prevCloseText": "$53.14",
-      "changeText": "+$1.94",
+      "priceText": "$53.41",
+      "openText": "$54.45",
+      "highText": "$54.95",
+      "lowText": "$52.65",
+      "prevCloseText": "$55.08",
+      "changeText": "-$1.67",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$55.08",
-          "₩74,340"
+          "$53.41",
+          "₩71,766"
         ],
         [
           "취득가",
@@ -909,27 +935,27 @@
         ],
         [
           "전일대비",
-          "+3.65%",
+          "-3.03%",
           null
         ],
         [
           "전주대비",
-          "+4.00%",
+          "+0.85%",
           null
         ],
         [
           "거래량(20일比)",
-          "91.96만 · 0.99x",
+          "70.13만 · 0.77x",
           null
         ],
         [
           "시가총액",
-          "$4.26B",
-          "5.75조"
+          "$4.13B",
+          "5.55조"
         ],
         [
           "52주 고점대비",
-          "-44.86%",
+          "-46.54%",
           null
         ]
       ],
@@ -944,19 +970,15 @@
         }
       ],
       "events": [
-        "자율주행 안전 데이터 기반 가격 차별화는 IFP 성장·Loss Ratio 개선 가능성을 동시에 내포, 디지털 보험 pricing 모델 벤치마킹 가치 있음",
-        "신규 기관투자자 유입은 밸류에이션 관심도 상승 신호이나 투자 매력도 판단에는 핵심 지표 확인 선행 필요"
+        "플로리다·미주리 자동차보험 및 메인주 렌터스보험 출시로 IFP 성장 경로는 유지되나 Loss Ratio 개선 확인이 선행 과제",
+        "신규 주 진출은 단기 비용 증가 요인으로 EBITDA 흑자전환 시점 판단 시 유의 필요"
       ],
       "watch": [
-        "FSD 할인 적용 후 Loss Ratio 실적 확인",
-        "IFP 성장률 분기 추이",
-        "EBITDA 흑자전환 시점 가시성"
+        "IFP 성장률 및 Loss Ratio 분기 추이",
+        "EBITDA 흑자전환 시점 가이던스 변화",
+        "신규 주 진출에 따른 CR 영향"
       ],
       "spark": [
-        {
-          "date": "6/5",
-          "close": 51.46
-        },
         {
           "date": "6/8",
           "close": 52.97
@@ -1204,42 +1226,46 @@
         {
           "date": "9/3",
           "close": 55.08
+        },
+        {
+          "date": "9/4",
+          "close": 53.41
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 9/3 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaTNSa2ZhbWdwMlpTSGpnTlFvSl9ZcFlTUW8tOUtJTWZGN0xaSkI4VTI4TmdtYVBTbm4wNHV0b0VQNnZqN2lXc2RsdloxdXRGN1hBTEh2eTFnb0VlbEV2Nk45MTVmN2xSUzBOTERsUTVMaFFnMDNZZnQtVFRnZkdJQmlJZlpVZEZfbGw2QkFvVGxGcG9BRC1nVjkyRE5nLWc5M05fMDhuVXBWaVRw?oc=5",
+      "exchangeLine": "NYSE · 9/4 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWnNkSHphbVlHT09LZEJSOGg1NnBiVHVrbGw1VDV1aW1FRnpzWkRjUlM4WkpVZlF0VFZxTURSQWtrcHJnNXBvOU9NeEhlbVY4bmtmWS1EeTNUUk1ub1NCYktLNGtXT19HeUE?oc=5",
       "sources": [
         {
-          "title": "Insurer 루멘 offers 50% discount on Tesla's self-driving miles, citing safety data.",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaTNSa2ZhbWdwMlpTSGpnTlFvSl9ZcFlTUW8tOUtJTWZGN0xaSkI4VTI4TmdtYVBTbm4wNHV0b0VQNnZqN2lXc2RsdloxdXRGN1hBTEh2eTFnb0VlbEV2Nk45MTVmN2xSUzBOTERsUTVMaFFnMDNZZnQtVFRnZkdJQmlJZlpVZEZfbGw2QkFvVGxGcG9BRC1nVjkyRE5nLWc5M05fMDhuVXBWaVRw?oc=5",
-          "source": "Pluang",
-          "date": "09/04"
+          "title": "루멘 Settlement [2026]: Claim Your $10,000 Check",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PWnNkSHphbVlHT09LZEJSOGg1NnBiVHVrbGw1VDV1aW1FRnpzWkRjUlM4WkpVZlF0VFZxTURSQWtrcHJnNXBvOU9NeEhlbVY4bmtmWS1EeTNUUk1ub1NCYktLNGtXT19HeUE?oc=5",
+          "source": "shattered.io",
+          "date": "09/06"
         },
         {
-          "title": "Why One Insurer Is Charging Half Price for Every Mile a Tesla Drives Itself",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc214TUdhdkVvOTRUcjNRQ1FsWUZLdzJYM3B6cFhYQWpvRUpoRWdGTmlOaG9LNE5IUU4wVnc2c3pZOElobFlidElPSm5RWUtONDdNMHpITXVQZkJOZnM4UGdwMkxVaWRlYzFlX0JhazE2aUMyZ29nbDVXeHlrOEhDX1gwcEJwMHNKVXNuVkN0c2JENWd6QllqUVNkdmJha01XaFBhcTBvanQ1YkotX3RQX2lhY0c1RmNBWHRF?oc=5",
-          "source": "24/7 Wall St.",
-          "date": "09/04"
+          "title": "How 루멘’s Florida and Missouri Car Launches Could Impact 루멘 (루멘) Investors",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORGtKclZtMzM3TWo2OHFkRm5LVkluOTIwb1NuNUtVbFRHLWEtQWZRalhNWlNpRFc3eDliZ1ZwWmY3bWZTMTlhZWVHbDlsbG9kWG93aUdMNUdqeWlrNy02WWhqbmxETFg4Yi1vTFNsSHhhdXduZlMzRXotRVBhai0zSnJkVkFXMGZjVHJVNDZTR0VpMlRfOUNFU3RoYjBFOWp2NDlPSUVGNHBwYzI2WUp0MVE5NG9MZWtjVlhLNEl2NWtxZjVt0gHKAUFVX3lxTFA1VXdKVkFxM2VDdXA5YW9KamN1cS0tNnpvaTVpZDBUNHM0d1huZmhoZnppLV9YN1lmeUl4cWVjamZIa1V3LXJoY05HaVBudHUxWHg0V00zYXBFa0o3M3ZBUC0zODBXLUg3b3lhUXZtMzJrcDl6R0U1MU1GRDlCQVFrcGdpbEpYdm5vZk0xeWdGaFdMbk95M1k2X2s5UkR2cTJnNjNOY1d0X1VvOGNWUnhQMTNpcll2ZWJnNDI5emVBaFYxU2s4empEdFE?oc=5",
+          "source": "simplywall.st",
+          "date": "09/06"
         },
         {
-          "title": "Jupiter Topco LLC Makes New $1.89 Million Investment in 루멘 $루멘",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYWRwZFFvRFpDaDlBVnU5QnNYdkdDdl9FTXFva3R5bFhSWFM0eVI3bmY0X3IzalZNNXZ6QlBYRmh5ZVBVdUpYSDFKMzlVMW1QbXZ6ZV9qa2FTeHFUdHNrUXRrQ0ZDemZaaDNVRkYwUjFfdlJnLUp2UXgyTWo5ZXdPcUdobGNpQjhCNWpVOUZnN3ZxX1d3b05id2Y1bUdnMGR2QWNkOGtQQXlqYk9xQW00SU5aWE0zX21HTlZtajhRTHdpcllJUXF1NzVQSkw?oc=5",
+          "title": "루멘 Expands Renters Insurance to Maine",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa1VRQzN0cU9FNGl2ZWpXNTdtNURVUWdfaHRRc3Zxb21SaXduQTA1TWp6YW00WlhFQUF3T3RmanpfT2ZROHNlbUMtblpvbDJsTW5QTTd0M3Nzek9uZDVsZTNacU9NMWJXWTBuT3BjYzUxT25rZGNRQ0JzSUh6RW9FOVVWOE5mcjhWWUM5WWFGM3ozaGY4bm10V3d6cmRpNTVFeDk0Um1zTHFQb0p5Rm5kM0JBbVF3bTlpZ1ItalU1eVZmNFU?oc=5",
+          "source": "Eastern Progress",
+          "date": "09/06"
+        },
+        {
+          "title": "Trading the Move, Not the Narrative: (루멘) Edition",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2JGZnRPa2lUVUlnWEktYms5el9nZHZFajhyMVZEQXBwdUE3ODJyaW9GZlVJQlVGZ3ZqWWJzMDJDVW5qcnMzcWpsSXNFMGlaZUx3SHpjWUJXdFRoc3JUdnExQnpvTnlCNTVmTkpDVTh6QjVRV09iS013X2NjajY2X1BzRjlmVHNXY1Q5REhHeUgxS0QtSWZlRVFnRTN0VUhDcUZ4cWZtREFrZkNFMWM5ek91bFRUV3NGSGhid0hTRVU2d0dQUlhCQg?oc=5",
+          "source": "Stock Traders Daily",
+          "date": "09/05"
+        },
+        {
+          "title": "20,873 Shares in 루멘 $루멘 Acquired by Odyssean LLC",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa25mLXNDeTBXQlJOSkVlVFpxM3d0UDhVODRGWnJ0Y3YxQ1FpME1DR29VV0V6cXZMOFRoSTcxcHNDVkVicEZGQmtvZ1lKZTFyTl81WlFoSEpFR2VQbVdfYmtGWkRYcWtyZ01QMTJ4MFZEcXJmN3NnWDhldWV6VUZlbk1lQk5vWnY1bXdGUTBVTmhlSGVwRGRqUUdKdUwtQkExRmVfSHJZREtjWDNMSUxQVUJEQU90SnNhTjZJ?oc=5",
           "source": "MarketBeat",
-          "date": "09/04"
-        },
-        {
-          "title": "루멘 Inc (루멘) Shares Surge 3.6% -- What GF Score of 80 Tel",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnBzOElDQVc3QWNNYXVPak1JcmNxdENZWlgtaGlucGtpaWFwQndMVlNLZ2lsZ3hZMlYtUXlNNUYxamhwSDNrVFp3SkdMZ3hTS0hmWWNteW1PY0IzcXd1dk03TkFaNzREcExNSXhQek50T1BZTUs2VlFkZVFvN09WSUlEXzR2MW9RVnpSYV9qQklLR2V0b2FYbzNTMXZFNURzYXVST3p0aXQ2Y1pq?oc=5",
-          "source": "GuruFocus",
-          "date": "09/04"
-        },
-        {
-          "title": "루멘 (NYSE: 루멘) exec to sell shares from vested stock grant",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVHRUYm9uaGVVaDhST0gwdjZWMl9DeURUUHZOSHBlYVAwNWRrVjFVdm92NlV3VlZiN0ZsZEJpQUlJZGpfSm55WmVBNVd3dnZKbUFfdUZLcks4N0Q4VGdsOG5wNTVaQW9ONlpPQzk5c1ZOaHJpd3UydTd5bm5id3A3cU1vV1NKV2w1RGZSSGtZbDFvWjg?oc=5",
-          "source": "Stock Titan",
-          "date": "09/03"
+          "date": "09/05"
         }
       ],
       "archive30d": [
@@ -1340,6 +1366,13 @@
           "level": "mid",
           "date": "09/04",
           "collected_at": "2026-09-04"
+        },
+        {
+          "summary": "루멘이 메인주로 렌터스보험 서비스 지역을 확장함",
+          "impact": "IFP 성장 경로 확인 가능하나 신규 주 진출 비용이 EBITDA 흑자전환 시점에 미치는 영향 점검 필요",
+          "level": "low",
+          "date": "09/06",
+          "collected_at": "2026-09-07"
         }
       ]
     },
@@ -1350,21 +1383,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-2.34%",
+        "+3.20%",
         "자회사"
       ],
-      "priceText": "Rp625",
-      "openText": "Rp650",
-      "highText": "Rp650",
-      "lowText": "Rp620",
-      "prevCloseText": "Rp640",
-      "changeText": "-Rp15",
+      "priceText": "Rp645",
+      "openText": "Rp645",
+      "highText": "Rp655",
+      "lowText": "Rp610",
+      "prevCloseText": "Rp625",
+      "changeText": "+Rp20",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp625",
-          "₩47.8"
+          "Rp645",
+          "₩49.1"
         ],
         [
           "취득가",
@@ -1373,32 +1406,32 @@
         ],
         [
           "취득가대비",
-          "-4.41%",
+          "-1.35%",
           null
         ],
         [
           "전일대비",
-          "-2.34%",
+          "+3.20%",
           null
         ],
         [
           "전주대비",
-          "-0.79%",
+          "+3.20%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.47만 · 0.48x",
+          "5.26만 · 1.67x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,435억"
+          "1,474억"
         ],
         [
           "52주 고점대비",
-          "-33.94%",
+          "-31.82%",
           null
         ]
       ],
@@ -1416,15 +1449,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 및 대응 현황",
-        "분기 RBC 비율 변동",
-        "PIKK 개정 관련 자회사 대응 동향"
+        "OJK 규제 변화 및 PIKK 개정 동향",
+        "RBC 비율 최신 수치 확인",
+        "추가 지분 변동 또는 그룹 의사결정 공시 여부"
       ],
       "spark": [
-        {
-          "date": "6/8",
-          "close": 620.0
-        },
         {
           "date": "6/9",
           "close": 640.0
@@ -1672,20 +1701,17 @@
         {
           "date": "9/4",
           "close": 625.0
+        },
+        {
+          "date": "9/7",
+          "close": 645.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 9/4 종가 (WIB)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YX1pGZ3ZleTlheF92UFllVlo0N2hZOEk3WUNPcWVISHVYNTRZNHBLZHZ2bUhnSWdvOFdaaHA1NzZCaG5qcHR2MFVUeHJOYlk2aERXaGRScFp6a3NMM0xBVjc5eXZxbU0?oc=5",
-      "sources": [
-        {
-          "title": "Lima Perusahaan Asuransi Teken Perjanjian Kerjasa Sama untuk Implementasi KAPJ",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YX1pGZ3ZleTlheF92UFllVlo0N2hZOEk3WUNPcWVISHVYNTRZNHBLZHZ2bUhnSWdvOFdaaHA1NzZCaG5qcHR2MFVUeHJOYlk2aERXaGRScFp6a3NMM0xBVjc5eXZxbU0?oc=5",
-          "source": "TradingView",
-          "date": "09/03"
-        }
-      ],
+      "exchangeLine": "IDX · 9/7 종가 (WIB)",
+      "sourceUrl": null,
+      "sources": [],
       "archive30d": [
         {
           "summary": "인도네시아 보험 시장, OJK의 AI 기반 보험사 감독 체계 도입 논의 보도",
