@@ -1,47 +1,61 @@
 {
-  "updated": "2026-09-07 18:06",
+  "updated": "2026-09-08 16:47",
   "articles": [
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "스테이블코인과 보험산업 과제",
-      "takeaway": "스테이블코인 확산이 보험산업의 결제·준비금·규제 리스크를 새롭게 부각.",
+      "takeaway": "스테이블코인 확산이 보험산업의 리스크 인수와 규제 대응에 새 과제를 제기한다.",
       "bullets": [
-        "스테이블코인의 보험료 결제 및 보험금 지급 활용 가능성 대두",
-        "준비금 운용 자산으로 편입 시 가격 안정성·규제 불확실성 존재",
-        "국내 보험규제 체계 내 스테이블코인 취급 기준 부재가 과제"
+        "스테이블코인 기반 결제·담보 활용 시 보험사 자산운용 리스크 변화",
+        "디지털 자산 관련 보험 상품(커스터디·해킹 등) 수요 부상 가능성",
+        "국내 규제 공백 속 보험사의 선제적 리스크 관리 체계 필요"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-06",
-      "collected_at": "2026-09-07"
+      "collected_at": "2026-09-08"
     },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "기업 경영환경 변화와 임원배상책임보험 시장의 과제",
-      "takeaway": "경영환경 불확실성 심화로 D&O보험(임원배상책임) 시장 구조적 변화가 가속.",
+      "takeaway": "경영환경 불확실성 확대로 D&O(임원배상책임)보험 시장 성장 기회가 커진다.",
       "bullets": [
-        "ESG·공급망·사이버 리스크 등 임원 책임 범위 급격히 확대",
-        "소송 환경 변화로 클레임 빈도·심도 동반 상승 추세",
-        "보험사는 언더라이팅 기준 고도화 및 약관 정비 필요"
+        "ESG·공정거래·중대재해법 등 임원 법적 책임 범위 지속 확대",
+        "소송 증가 및 손해액 대형화로 보험료율 산정 난이도 상승",
+        "국내 D&O 시장 저침투율(가입률) 개선 여지가 성장 동력"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=805489&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-03",
-      "collected_at": "2026-09-07"
+      "collected_at": "2026-09-08"
     },
     {
       "publisher": "Bain",
       "type": "consulting",
       "title": "2026 Holiday Shopping Outlook",
-      "takeaway": "미국 연휴 소비 1조 달러 돌파는 소비재 보험 수요 확대 신호.",
+      "takeaway": "미국 연휴 소비 1조 달러 돌파 전망은 보험업과 직접 연관성이 낮다.",
       "bullets": [
-        "2026년 미국 홀리데이 매출 사상 첫 1조 달러 전망",
-        "전년 대비 4.5% 성장률로 소비 회복세 확인",
-        "소비 증가 → 동산·배송·여행보험 수요 동반 상승 가능"
+        "4.5% 성장률로 2026년 사상 첫 1조 달러 돌파 예측",
+        "소비 호조는 배상책임·동산보험 수요에 간접 영향 가능",
+        "보험업 관점 시사점은 제한적, 거시경제 참고 지표로 활용"
       ],
       "url": "https://www.bain.com/insights/2026-holiday-shopping-outlook-infographic/",
       "date": "09/03",
-      "collected_at": "2026-09-07"
+      "collected_at": "2026-09-08"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "AI in Indian Healthcare Delivery",
+      "takeaway": "인도 헬스케어 AI 실용화가 보험사 헬스테크 투자 기회를 확대한다.",
+      "bullets": [
+        "진단·원격진료 등 실제 임상 현장에 AI 적용 가속화",
+        "스타트업 중심의 헬스케어 생태계 형성으로 제휴 기회 증가",
+        "인도 시장 성장은 아시아 헬스보험 상품 개발 참고 사례"
+      ],
+      "url": "https://www.bain.com/insights/ai-in-indian-healthcare-delivery/",
+      "date": "09/08",
+      "collected_at": "2026-09-08"
     },
     {
       "publisher": "Bain",
