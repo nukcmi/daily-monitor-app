@@ -1,19 +1,19 @@
 {
   "asOf": "2026-09-08",
-  "updated": "2026-09-08 16:47",
-  "fx": "환율 2026-09-08 · 시장환율   1 USD = ₩1,343.90   |   1 USD = 17,625.00 IDR   |   1 IDR = ₩0.07625",
+  "updated": "2026-09-08 21:06",
+  "fx": "환율 2026-09-08 · 시장환율   1 USD = ₩1,341.53   |   1 USD = 17,625.00 IDR   |   1 IDR = ₩0.07612",
   "attentionItems": [
     {
-      "company": "차바이오텍",
-      "text": "주식 등 대량보유상황 보고서(일반) 공시 발생",
-      "impact": "지분구조 변동 가능성 확인 필요. 당사 보유 지분 희석·경영권 영향 여부 점검 요함.",
+      "company": "085660",
+      "text": "차바이오텍 주식등의 대량보유상황 보고서 제출(일반)",
+      "impact": "지분구조 변동 가능성으로 보유 지분 희석·경영권 영향 여부 확인 필요",
       "level": "mid",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000272"
+      "url": null
     },
     {
-      "company": "LPGI",
-      "text": "OJK, 비공식 근로자 대상 조기 은퇴 준비 및 보험 가입 독려 정책 발표",
-      "impact": "당사 관점에서 참고할 경쟁·규제 동향. 인도네시아 보험 시장 저변 확대 방향으로 자회사 GWP 성장 기회 가능성.",
+      "company": "LUMN",
+      "text": "루멘, $10.5M 규모 데이터 침해 합의 관련 보도",
+      "impact": "확정 합의 규모는 소규모이나 사이버 리스크 관리 수준을 벤치마크 관점에서 참고",
       "level": "low",
       "url": null
     }
@@ -92,9 +92,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "대량보유보고 이후 지분구조 변동 여부",
-        "CGT/CDMO 기술 진척 공시 여부",
-        "신규 유상증자·CB 등 자금조달 공시 여부"
+        "대량보유 보고 후 지분구조 추가 변동 여부",
+        "CGT/CDMO 임상·계약 진척 공시 여부",
+        "유상증자·CB 등 신규 자금조달 공시 여부"
       ],
       "spark": [
         {
@@ -636,9 +636,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "헬스케어 전환 관련 실적(매출·영업손익) 추이",
-        "신규 고객사·파트너십 체결 여부",
-        "사업모델 전환 관련 자금조달 공시 여부"
+        "헬스케어 전환 관련 매출·영업손익 추이",
+        "신규 고객사·파트너십 계약 공시 여부",
+        "사업모델 전환 관련 추가 자금조달 동향"
       ],
       "spark": [
         {
@@ -902,7 +902,7 @@
         {
           "title": "\"차바이오텍, 글로벌 바이오 플랫폼 도약\"",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jOUJBbm1ScFU3dG13RHRMcU5CRFZfZlBrUmo2cXhFYlBKXzl0Tkd2NEh1QV9BU2FqSTJlZmxpQW5takJzVmZ6Ujh1LUE4cDVrd19Jb2g1QnZrdmxXTWQ0a2pHNjY?oc=5",
-          "source": "sentv.co.kr",
+          "source": "서울경제TV",
           "date": "09/07"
         },
         {
@@ -925,7 +925,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "C",
-      "event": "주요 변동 없음",
+      "event": "CFO IR 일정 공개, 구조적 지표 변화 없음",
       "tags": [
         "-3.03%",
         "벤치마크"
@@ -941,7 +941,7 @@
         [
           "종가",
           "$53.41",
-          "₩71,778"
+          "₩71,651"
         ],
         [
           "취득가",
@@ -971,7 +971,7 @@
         [
           "시가총액",
           "$4.13B",
-          "5.56조"
+          "5.55조"
         ],
         [
           "52주 고점대비",
@@ -990,12 +990,13 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "CFO 투자자 컨퍼런스 참가는 IR 활동 수준이며 핵심 재무지표 변화 없음",
+        "데이터 침해 합의($10.5M) 소식은 법적 리스크 관리 측면에서 참고 수준"
       ],
       "watch": [
-        "CFO 컨퍼런스 후 IFP·Loss Ratio 신규 공개 여부",
-        "데이터침해 합의($10.5M) 재무 영향 규모 확인",
-        "EBITDA 흑자전환 시점 관련 가이던스 변화"
+        "IFP 성장률 및 Loss Ratio 분기 추이",
+        "EBITDA 흑자전환 시점 가이던스 변화",
+        "밸류에이션 멀티플 변동 및 경쟁사 대비 상대 매력도"
       ],
       "spark": [
         {
@@ -1399,24 +1400,24 @@
       "id": "LPGI",
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
-      "g": "C",
-      "event": "주요 변동 없음",
+      "g": "B",
+      "event": "인니 유닛링크 자본규제 강화 주목",
       "tags": [
-        "+3.20%",
+        "-0.78%",
         "자회사"
       ],
-      "priceText": "Rp645",
+      "priceText": "Rp640",
       "openText": "Rp645",
-      "highText": "Rp655",
-      "lowText": "Rp610",
-      "prevCloseText": "Rp625",
-      "changeText": "+Rp20",
+      "highText": "Rp705",
+      "lowText": "Rp630",
+      "prevCloseText": "Rp645",
+      "changeText": "-Rp5",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp645",
-          "₩49.2"
+          "Rp640",
+          "₩48.7"
         ],
         [
           "취득가",
@@ -1425,32 +1426,32 @@
         ],
         [
           "취득가대비",
-          "-1.35%",
+          "-2.11%",
           null
         ],
         [
           "전일대비",
-          "+3.20%",
+          "-0.78%",
           null
         ],
         [
           "전주대비",
-          "+3.20%",
+          "+2.40%",
           null
         ],
         [
           "거래량(20일比)",
-          "5.26만 · 1.67x",
+          "4.12만 · 1.21x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,464억"
+          "1,461억"
         ],
         [
           "52주 고점대비",
-          "-31.82%",
+          "-32.35%",
           null
         ]
       ],
@@ -1465,18 +1466,15 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "OJK의 유닛링크 보험사 자본요건 강화는 인니 보험 업권 전반의 자본적정성 관리 부담을 높이는 방향",
+        "자회사의 RBC 및 자본 여력이 규제 기준 충족 여부가 그룹 차원의 추가 자본지원 필요성을 결정할 수 있어 모니터링 필요"
       ],
       "watch": [
-        "OJK 비공식근로자 보험 의무화 규제 진행 여부",
-        "RBC 적정성 및 자본건전성 지표 추이",
-        "PIKK 개정 관련 추가 규제 동향"
+        "OJK 자본요건 개정의 자회사 적용 여부 및 시행 시기",
+        "자회사 RBC 비율 및 자본적정성 현황",
+        "PIKK 개정 관련 추가 규제 변화 동향"
       ],
       "spark": [
-        {
-          "date": "6/9",
-          "close": 640.0
-        },
         {
           "date": "6/10",
           "close": 640.0
@@ -1724,17 +1722,21 @@
         {
           "date": "9/7",
           "close": 645.0
+        },
+        {
+          "date": "9/8",
+          "close": 640.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 9/7 종가 (WIB)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNczI5NTZNMnZpS2JUcTZNVEpLVUFTZFpwSHlKNGkxRFIyMmZWVkYzakZZWkZuMmg0azZIeGFseUxsTW9lb3c0X3RyVzhYU20zNG4yNXVIYnJ3T1lJYk50TFJ0Z1BKWHZFNjc1d01VcGp1WWV3ZzNhZGxDaXhTQlJ5UXUtWFRGSUJjMjE4NWY2aF9kUHFBZ0JQeVBLdHU?oc=5",
+      "exchangeLine": "IDX · 9/8 종가 (WIB)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXhzQjM2OEZ3MTkxcDRtWjRGR3o0dTh3WC1namZqNlZ1Um1DNnBWNnFYQW0wV1lCRzZTbWhzUTVwOGFjRU14eEVuYjlJZFZGY2JjZ19IaG13T0V3bTBPdmRFVDV5X2hOZ0w2MkxwdkZxV1V3eTJsTFE0bjFZaWl0dFB4OF9SS2I4VTZSb0xNald0Zw?oc=5",
       "sources": [
         {
-          "title": "OJK Urges Early Retirement Planning, Focusing on Informal Workers",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNczI5NTZNMnZpS2JUcTZNVEpLVUFTZFpwSHlKNGkxRFIyMmZWVkYzakZZWkZuMmg0azZIeGFseUxsTW9lb3c0X3RyVzhYU20zNG4yNXVIYnJ3T1lJYk50TFJ0Z1BKWHZFNjc1d01VcGp1WWV3ZzNhZGxDaXhTQlJ5UXUtWFRGSUJjMjE4NWY2aF9kUHFBZ0JQeVBLdHU?oc=5",
-          "source": "Aktualita.co",
+          "title": "Indonesia Financial Regulator Mandates KES 8.4 Billion Capital for Unit Link Insurers",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXhzQjM2OEZ3MTkxcDRtWjRGR3o0dTh3WC1namZqNlZ1Um1DNnBWNnFYQW0wV1lCRzZTbWhzUTVwOGFjRU14eEVuYjlJZFZGY2JjZ19IaG13T0V3bTBPdmRFVDV5X2hOZ0w2MkxwdkZxV1V3eTJsTFE0bjFZaWl0dFB4OF9SS2I4VTZSb0xNald0Zw?oc=5",
+          "source": "streamlinefeed.co.ke",
           "date": "09/08"
         }
       ],
