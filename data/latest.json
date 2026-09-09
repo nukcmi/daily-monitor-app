@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-09-08",
-  "updated": "2026-09-08 21:06",
-  "fx": "환율 2026-09-08 · 시장환율   1 USD = ₩1,341.53   |   1 USD = 17,625.00 IDR   |   1 IDR = ₩0.07612",
+  "asOf": "2026-09-09",
+  "updated": "2026-09-09 21:18",
+  "fx": "환율 2026-09-09 · 시장환율   1 USD = ₩1,336.59   |   1 USD = 17,505.00 IDR   |   1 IDR = ₩0.07635",
   "attentionItems": [
     {
-      "company": "085660",
-      "text": "차바이오텍 주식등의 대량보유상황 보고서 제출(일반)",
-      "impact": "지분구조 변동 가능성으로 보유 지분 희석·경영권 영향 여부 확인 필요",
+      "company": "차바이오텍",
+      "text": "주식등의 대량보유상황보고서(일반) DART 공시 접수",
+      "impact": "주요 주주 지분구조 변동 가능성으로 당사 보유 지분 희석·경영권 영향 여부 점검 필요",
       "level": "mid",
-      "url": null
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000272"
     },
     {
-      "company": "LUMN",
-      "text": "루멘, $10.5M 규모 데이터 침해 합의 관련 보도",
-      "impact": "확정 합의 규모는 소규모이나 사이버 리스크 관리 수준을 벤치마크 관점에서 참고",
-      "level": "low",
-      "url": null
+      "company": "차바이오텍",
+      "text": "마티카바이오랩스, 국내 최초 첨단바이오 3대 허가 동시 취득",
+      "impact": "CGT(세포·유전자치료제) CDMO 사업 신뢰도 제고로 수주 경쟁력 강화 가능성, 지분가치 긍정적",
+      "level": "mid",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OazJvUDVZN2F1WmpVTmszRmdrWmpYa1NLNEZCeE1JdTdCVGdiN213ZnRqR3lfdzZfcmQtQlV4Y3l6UUxXT09wMW1ZbHQ2YlU?oc=5"
     }
   ],
   "companies": [
@@ -23,23 +23,23 @@
       "id": "085660",
       "name": "차바이오텍",
       "ticker": "085660",
-      "g": "C",
-      "event": "주요 변동 없음",
+      "g": "B",
+      "event": "대량보유 공시 외 주요 변동 없음",
       "tags": [
-        "+0.49%",
+        "-0.12%",
         "당사 투자"
       ],
-      "priceText": "₩8,130",
-      "openText": "₩8,140",
-      "highText": "₩8,360",
-      "lowText": "₩8,120",
-      "prevCloseText": "₩8,090",
-      "changeText": "+₩40",
+      "priceText": "₩8,120",
+      "openText": "₩8,090",
+      "highText": "₩8,250",
+      "lowText": "₩8,070",
+      "prevCloseText": "₩8,130",
+      "changeText": "-₩10",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,130",
+          "₩8,120",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-36.51%",
+          "-36.59%",
           null
         ],
         [
           "전일대비",
-          "+0.49%",
+          "-0.12%",
           null
         ],
         [
           "전주대비",
-          "+0.49%",
+          "+0.37%",
           null
         ],
         [
           "거래량(20일比)",
-          "20.02만 · 0.58x",
+          "14.52만 · 0.43x",
           null
         ],
         [
           "시가총액",
-          "7,558억",
+          "7,549억",
           null
         ],
         [
           "52주 고점대비",
-          "-66.05%",
+          "-66.10%",
           null
         ]
       ],
@@ -89,18 +89,15 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "대량보유 보고서 제출로 주요 주주 지분구조 변동 가능성 확인 필요",
+        "CGT/CDMO 사업 진척·자금조달 관련 공시는 금주 없음"
       ],
       "watch": [
-        "대량보유 보고 후 지분구조 추가 변동 여부",
-        "CGT/CDMO 임상·계약 진척 공시 여부",
-        "유상증자·CB 등 신규 자금조달 공시 여부"
+        "대량보유 보고서 보유자 및 지분율 변동 확인",
+        "차기 CB 만기·상환 재원 확보 여부",
+        "마티카바이오랩스 허가 취득의 CDMO 수주 연계 여부"
       ],
       "spark": [
-        {
-          "date": "6/10",
-          "close": 11300.0
-        },
         {
           "date": "6/11",
           "close": 11740.0
@@ -348,11 +345,15 @@
         {
           "date": "9/8",
           "close": 8130.0
+        },
+        {
+          "date": "9/9",
+          "close": 8120.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/8 종가",
+      "exchangeLine": "KRX · 9/9 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000272",
       "sources": [
         {
@@ -360,6 +361,18 @@
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000272",
           "source": "DART",
           "date": "20260903"
+        },
+        {
+          "title": "마티카바이오랩스, 국내 최초로 '첨단바이오 3대 허가' 취득",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OazJvUDVZN2F1WmpVTmszRmdrWmpYa1NLNEZCeE1JdTdCVGdiN213ZnRqR3lfdzZfcmQtQlV4Y3l6UUxXT09wMW1ZbHQ2YlU?oc=5",
+          "source": "v.daum.net",
+          "date": "09/09"
+        },
+        {
+          "title": "차병원·차바이오그룹, 임원/경력직 공채",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVl1c2lHUnFoelBKUm9JcXpjRXFRTS1jZU1SckozZU43Z2laMXFWc0oyY1R6X29TQzlPNG1GMjhqbkdHRWhJenhLU1VEUjJRcHhaNzNUeFVaYUwwaWRQQWp6cVRjeFF3aGxZckRySUhYR2JlMGc2ZWJWZG1lVnE3LU9ZYllLQjdfS3dXdFhpOG8zLVg5NFQwOXV5cFZLT1VBYjlPY1J6U0lmc2dlVGt2ZWhMSHdkUEdWMFFheU53?oc=5",
+          "source": "약업신문",
+          "date": "09/08"
         },
         {
           "title": "차바이오텍 아이코드, 베이비페어 참가…제대혈 사업 확대",
@@ -376,19 +389,7 @@
         {
           "title": "아﻿이코드, 임신출산박람회 참가…제대혈 보관 기술력·안전성 소개",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jS0tBMVFfQXc2OXlpQndsVkVOX2k3cmg5ampHek0wQ2RLMlZYSnAyXzBwSzR2bUVEbUdOcTNWTnJGWUUwSGpoT05jTm5vcWI5QUVJcGFaOXVfMGt6eXpVdTFfZE5mdmQ2cHZjeFFyby3SAXRBVV95cUxPN0ZTVTZMakRMU240UnNHX0d0by1KT04tSzY2UXM0SzZBXzVEUWtZdjdfamREcTlCc2xDM3lUU2g0UGhxZDBwSURHRzU5aDM3R09ZSDJzX0xBei1tZHluM3oyRjI0ZzhrZ0k1TktLTnVKbkM2YQ?oc=5",
-          "source": "포인트데일리",
-          "date": "09/08"
-        },
-        {
-          "title": "차바이오텍 제대혈은행 ‘아이코드’, 베페 베이비페어 참가",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DZElYMlI3SllCemQ5OFJ3WXpCWXRlNWRPeHpvVWtWM3l1S2JELVJfZ1NKX1ZuclAzZDdpN2xWaWYtaVIxbGxpVGNHcVFmTTZORTUzdjBOZzlFY0c1OVpYTzFnSDY?oc=5",
-          "source": "PRESS9",
-          "date": "09/08"
-        },
-        {
-          "title": "차바이오텍, 제대혈은행 '아이코드' 베페 베이비페어 참가",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeGhMeHNLYnVTbVQ4SVB0TTJ3ajJrUEhCeEZha19aS1ZRLWJJX1BpUjNFYnZySzdQQ2pmb2JfbVBoRGFHendDdUJWNXVsU1Z5OHNPS1RjSk5ZOUE3?oc=5",
-          "source": "뉴스핌",
+          "source": "pointdaily.co.kr",
           "date": "09/08"
         }
       ],
@@ -560,6 +561,20 @@
           "level": "mid",
           "date": "09/03",
           "collected_at": "2026-09-08"
+        },
+        {
+          "summary": "주식등의 대량보유상황보고서(일반) DART 공시 접수",
+          "impact": "주요 주주 지분구조 변동 가능성으로 당사 보유 지분 희석·경영권 영향 여부 점검 필요",
+          "level": "mid",
+          "date": "09/03",
+          "collected_at": "2026-09-09"
+        },
+        {
+          "summary": "마티카바이오랩스, 국내 최초 첨단바이오 3대 허가 동시 취득",
+          "impact": "CGT(세포·유전자치료제) CDMO 사업 신뢰도 제고로 수주 경쟁력 강화 가능성, 지분가치 긍정적",
+          "level": "mid",
+          "date": "09/09",
+          "collected_at": "2026-09-09"
         }
       ]
     },
@@ -570,20 +585,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-0.32%",
+        "+1.18%",
         "당사 투자"
       ],
-      "priceText": "₩4,645",
-      "openText": "₩5,000",
-      "highText": "₩5,000",
-      "lowText": "₩4,610",
-      "prevCloseText": "₩4,660",
-      "changeText": "-₩15",
+      "priceText": "₩4,700",
+      "openText": "₩4,750",
+      "highText": "₩4,750",
+      "lowText": "₩4,680",
+      "prevCloseText": "₩4,645",
+      "changeText": "+₩55",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩4,645",
+          "₩4,700",
           null
         ],
         [
@@ -598,27 +613,27 @@
         ],
         [
           "전일대비",
-          "-0.32%",
+          "+1.18%",
           null
         ],
         [
           "전주대비",
-          "-3.23%",
+          "-2.08%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.09만 · 1.02x",
+          "2.67천 · 0.25x",
           null
         ],
         [
           "시가총액",
-          "845억",
+          "855억",
           null
         ],
         [
           "52주 고점대비",
-          "-76.52%",
+          "-76.24%",
           null
         ]
       ],
@@ -636,15 +651,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "헬스케어 전환 관련 매출·영업손익 추이",
+        "분기 매출·영업손익 추이 확인",
         "신규 고객사·파트너십 계약 공시 여부",
-        "사업모델 전환 관련 추가 자금조달 동향"
+        "헬스케어 전환 사업모델 수익화 시점"
       ],
       "spark": [
-        {
-          "date": "6/10",
-          "close": 6190.0
-        },
         {
           "date": "6/11",
           "close": 6310.0
@@ -892,30 +903,22 @@
         {
           "date": "9/8",
           "close": 4645.0
+        },
+        {
+          "date": "9/9",
+          "close": 4700.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/8 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jOUJBbm1ScFU3dG13RHRMcU5CRFZfZlBrUmo2cXhFYlBKXzl0Tkd2NEh1QV9BU2FqSTJlZmxpQW5takJzVmZ6Ujh1LUE4cDVrd19Jb2g1QnZrdmxXTWQ0a2pHNjY?oc=5",
+      "exchangeLine": "KRX · 9/9 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
       "sources": [
         {
-          "title": "\"차바이오텍, 글로벌 바이오 플랫폼 도약\"",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jOUJBbm1ScFU3dG13RHRMcU5CRFZfZlBrUmo2cXhFYlBKXzl0Tkd2NEh1QV9BU2FqSTJlZmxpQW5takJzVmZ6Ujh1LUE4cDVrd19Jb2g1QnZrdmxXTWQ0a2pHNjY?oc=5",
-          "source": "서울경제TV",
-          "date": "09/07"
-        },
-        {
-          "title": "[모닝 리포트] 차바이오텍, 규제 문턱 낮아졌다…세포치료제 사업화 '속도'",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MQm43RlBjUm1yMkVWVDFvUlZnSWxIRHF1Smwtcm5ZWkdfMV9DSlRGTkgwTVM0Q2RCRkc4OGhFazNQcWdxODQ0WWY3aUMyM0FkSmVB?oc=5",
-          "source": "네이트",
-          "date": "09/06"
-        },
-        {
-          "title": "제이준, 중국서 사랑받는 마스크팩···스킨케어로 영역 확대",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ka25ZcmZvckdqb0E5eVlReGNjdVdNenZvOFVmcnAwVjZ6b3hBbmlZNlJISzlkbUlQZFB4WVJPVW9EVkpnWVlnT1BTOEYxNVF5UmZRc0dHSHJITm9ULWZ3TElXdENKYXhaMHY4aU9PaUdWb1Zv?oc=5",
-          "source": "캠페인 인사이트",
-          "date": "09/06"
+          "title": "CNC News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
+          "source": "cncnews.co.kr",
+          "date": "09/08"
         }
       ],
       "archive30d": []
@@ -925,23 +928,23 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "C",
-      "event": "CFO IR 일정 공개, 구조적 지표 변화 없음",
+      "event": "주 보험 확대 외 구조적 변화 없음",
       "tags": [
-        "-3.03%",
+        "-5.35%",
         "벤치마크"
       ],
-      "priceText": "$53.41",
-      "openText": "$54.45",
-      "highText": "$54.95",
-      "lowText": "$52.65",
-      "prevCloseText": "$55.08",
-      "changeText": "-$1.67",
+      "priceText": "$50.55",
+      "openText": "$53.35",
+      "highText": "$53.76",
+      "lowText": "$50.40",
+      "prevCloseText": "$53.41",
+      "changeText": "-$2.86",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$53.41",
-          "₩71,651"
+          "$50.55",
+          "₩67,565"
         ],
         [
           "취득가",
@@ -955,27 +958,27 @@
         ],
         [
           "전일대비",
-          "-3.03%",
+          "-5.35%",
           null
         ],
         [
           "전주대비",
-          "+0.85%",
+          "-5.35%",
           null
         ],
         [
           "거래량(20일比)",
-          "70.13만 · 0.77x",
+          "124.23만 · 1.37x",
           null
         ],
         [
           "시가총액",
-          "$4.13B",
-          "5.55조"
+          "$3.91B",
+          "5.23조"
         ],
         [
           "52주 고점대비",
-          "-46.54%",
+          "-49.40%",
           null
         ]
       ],
@@ -990,19 +993,15 @@
         }
       ],
       "events": [
-        "CFO 투자자 컨퍼런스 참가는 IR 활동 수준이며 핵심 재무지표 변화 없음",
-        "데이터 침해 합의($10.5M) 소식은 법적 리스크 관리 측면에서 참고 수준"
+        "주(州) 단위 보험 확장은 IFP 성장 가능성을 시사하나 확정 수치 부재",
+        "애널리스트 컨센서스 Hold 유지·내부자 매도 지속은 밸류에이션 상승 제약 요인"
       ],
       "watch": [
-        "IFP 성장률 및 Loss Ratio 분기 추이",
-        "EBITDA 흑자전환 시점 가이던스 변화",
-        "밸류에이션 멀티플 변동 및 경쟁사 대비 상대 매력도"
+        "분기 IFP 성장률 및 Loss Ratio 발표 일정",
+        "신규 진출 주(州) 수 및 보험료 규모 공시",
+        "EBITDA 흑자전환 예상 시점 업데이트"
       ],
       "spark": [
-        {
-          "date": "6/8",
-          "close": 52.97
-        },
         {
           "date": "6/9",
           "close": 53.58
@@ -1250,42 +1249,46 @@
         {
           "date": "9/4",
           "close": 53.41
+        },
+        {
+          "date": "9/8",
+          "close": 50.55
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 9/4 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObW9TMXZGd2NWV1dzOW55ZGxud1hqRHQxd0VGbGotejZfdmFXRDZTcTVBRV90ZjFUOTZzb2FYUWk2M0N3T2pqTDVVZ0xWXzNweGI1X3c2a1M3Nk92UjU3OGtCYmRYZzFMbTFlUVBZQzFjMWZvQUhYcnRBaTRBSU14bGJWWjFCUmU3SzNtWE1POHptb2l3STZWQVFIUVFya2I0c0JlTg?oc=5",
+      "exchangeLine": "NYSE · 9/8 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWpSblVKNVo1bC1Zc0RJemtyNFpMZDh3SzNyblZpb0JRekNMdjVMSGZZaFQ5SGtnbFRVaUs0TlJ4VHFQZFpBZGpkajRHUlg0V3lTMHY5bDhzeDRqLWdVQnpsRlpoZjhrSFc4UWo3V0RMVEFKZGVaMTEyeWQyMjkxbHlmakRhQVMxUjcyUHlJQXRrTjk0ZU03NGZwMzFNcGNVZFAwMEl5bmlod1NRTkFvMl9BMlZjY1kwYWZRcy1kUFZXclXSAcgBQVVfeXFMTlR1NmY1Y2xQZTh1YjhKTWU2c3MyUHZ1bXltNnFaMDF4LXlUQWRBbkpUOXZhWlZLT0VkMVN3NTUya00ybWJJNGppRl9QQkttVE8wZTI5MFV2MjQ5X1ZRT2NzUGN6Q0xlcmFCWWpiTUtiUVoxZnBNMjF1em96dmdES3U2dmFWUTlOek4zTnE1cHpvRURtcWNQbm83RGZBTXFkNS1TTTZhcmJGOVpWZ3NKdWxrYWZCQ1ZRdnZKN1lkS1pLYWZCeExueXM?oc=5",
       "sources": [
         {
-          "title": "루멘 Pet Insurance vs Traditional Pet Insurance — Why 루멘 Wins in 2026",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObW9TMXZGd2NWV1dzOW55ZGxud1hqRHQxd0VGbGotejZfdmFXRDZTcTVBRV90ZjFUOTZzb2FYUWk2M0N3T2pqTDVVZ0xWXzNweGI1X3c2a1M3Nk92UjU3OGtCYmRYZzFMbTFlUVBZQzFjMWZvQUhYcnRBaTRBSU14bGJWWjFCUmU3SzNtWE1POHptb2l3STZWQVFIUVFya2I0c0JlTg?oc=5",
-          "source": "TechBullion",
+          "title": "루멘 Stock In Focus As Insurance Expansion Reaches More States",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWpSblVKNVo1bC1Zc0RJemtyNFpMZDh3SzNyblZpb0JRekNMdjVMSGZZaFQ5SGtnbFRVaUs0TlJ4VHFQZFpBZGpkajRHUlg0V3lTMHY5bDhzeDRqLWdVQnpsRlpoZjhrSFc4UWo3V0RMVEFKZGVaMTEyeWQyMjkxbHlmakRhQVMxUjcyUHlJQXRrTjk0ZU03NGZwMzFNcGNVZFAwMEl5bmlod1NRTkFvMl9BMlZjY1kwYWZRcy1kUFZXclXSAcgBQVVfeXFMTlR1NmY1Y2xQZTh1YjhKTWU2c3MyUHZ1bXltNnFaMDF4LXlUQWRBbkpUOXZhWlZLT0VkMVN3NTUya00ybWJJNGppRl9QQkttVE8wZTI5MFV2MjQ5X1ZRT2NzUGN6Q0xlcmFCWWpiTUtiUVoxZnBNMjF1em96dmdES3U2dmFWUTlOek4zTnE1cHpvRURtcWNQbm83RGZBTXFkNS1TTTZhcmJGOVpWZ3NKdWxrYWZCQ1ZRdnZKN1lkS1pLYWZCeExueXM?oc=5",
+          "source": "simplywall.st",
+          "date": "09/09"
+        },
+        {
+          "title": "루멘 (NYSE:루멘) Given Consensus Rating of \"Hold\" by Analysts",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdmpMUDBrcTFuMW5vM0FqZHdtcEsxcnRDMDZyeHdKLW1nTjd0MXBpeDVWcnppbk5qbzZfWi1Zd3o2OC1ITW44Yzd4bVEyN1pHdGhpOXRaRENxWHpTSFNzZlBtd3lQZllTUm51b242S0xCQ1pUZU10UXR4TGN0aV8tQ0R4X2d5N19nbklUd1NJbDd0eHBPNDFiY2RjcXBKZnV2YmpINkhFRVZhTUdESWRPaUM1Z1NhdG5QT1FFeW1UbWc0X1hTVjhFbw?oc=5",
+          "source": "MarketBeat",
+          "date": "09/09"
+        },
+        {
+          "title": "Insider Selling: 루멘 (NYSE:루멘) Insider Sells $56,815.20 in Stock",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWnBXZFRqd0RjTFpXRHp5RUVXLXNXdFZFU3R5dFhoeFlFZ2VuYWVaU1BVRXRNMDd6X1JrVXAzdTJtMWo1M2l4elZUS1l1XzJ6TTFLSTUyVk1JOGxjcGJtdnNGM242cXRaNWhITGZ2dGZQYVE0TmFsSFR5TEN6MmhRZjBWWlcyZVhXbm13eXVPUVhvbXlSOGczQVBWLVpIYkx3ejFSdUQ3dXNVMTZLaE5EZjRVRExGS0hOMGswM2U3dzUxS243S2c?oc=5",
+          "source": "MarketBeat",
           "date": "09/08"
         },
         {
-          "title": "루멘 CFO Tim Bixby to speak at two investor conferences in September 2026.",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZMmVhaWJCM1RBeUhTWF9wSlp1MFpGNHF1UUt3eG10X3kxS0Q3SU1iLWRuQ0gzLVhDOU1zQWZXY1hsVm82LTRYQkNPd1JTdDZYX2RKTDhQZGlzcGJ4dml4UzBiVU9aeXYzdXR5SjdFMWc3d0wxVk1OMkt3?oc=5",
-          "source": "Pluang",
+          "title": "Insider Selling: 루멘 (NYSE:루멘) Insider Sells 2,249 Shares",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWnhJa2NyWjVqMEl1ZHdzTFlQRVgwcFlsdGNnM1FGb0MzVXV5ZmIxc00wOFgzVjVlMmI0NFZuTURjWHJxVF8xUUhBeHUyYVkzQXNNLThBd3QtZGxIQ3ZsZzNYUUlRbVZQT3dBVGt4cmRVZTQ5bWp1Sk9IWFJuQTVxelItaWFNWnU0RVpHT2Z3UXZmS3BLZ0cyeEwwckcyVFFGeDZlLWYyWGpPSGxPaTdvR1ljX2RCUGlIT0oyMExYUQ?oc=5",
+          "source": "MarketBeat",
           "date": "09/08"
         },
         {
-          "title": "루멘 CFO to Participate in Upcoming Investor Conferences",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSW82TnRmbVVteTJOR01ibG5MdGNGUUxtRFlaM3hES1haZ2lrcWRmZzhVTHVya1JJWThaVDVfZ2pXMXBpOGRBem9CRDJxcUY5VzJITTZiLUJCZDU3N2xTR2Rad1ZzajIydExtU2NYSFpsOW5rMWlLWEFUTnBiNUJDajZ6YWxaYVFVOHUxNHVXRGVrenA5cWJKZm9rbVpXN2s4S2ZJUF90QVd6SWVEOEMxaGt0N0p6NVU?oc=5",
-          "source": "PR Newswire",
+          "title": "Insider Selling: 루멘 (NYSE:루멘) Insider Sells 859 Shares of Stock",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWVJQ3ZDREFhSDA0Vk1aYmlVVGlEbUZBdE1seEFGdWpmUWtpWnhsNHNDS0lxeTRqV0dTOHJMXzhWblh1SzJLVFZla1ZNRW1vQ21wN2hrT1RuYTlCMGlQVjZQd3pyUjloLTJ3RzN3M0FNTmJBVHZhYlNtdjNBLUEtWHpyREFVU2hzQ1M1ck12ODNXTjZaWXZJUU9ZZ2F0bmw4b2x6SEl6QkdXcmdLVS01VUtJN3hXVTNJVnNnNGZxRmM5QzBfNk5IYmR3?oc=5",
+          "source": "MarketBeat",
           "date": "09/08"
-        },
-        {
-          "title": "루멘 (NYSE:루멘): Could Rates Decide Its Next Breakout?",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObW01c2lTV2VBYkFLSU10c2VGcFA4SkF4WHBFbE5pNUUwNGRPd3l6d1E1eHJuTHI2blUyajFRMEhQVlBJSE9yYXRqZ1htQTRjNy12UVFyY2x6M2xmSkhSNnlQQ2VXdWRQT1BHbXVsaFJTakR0elBHRW5SRzZURnhRZENGS29YVGxnQnRQUG9Bd3RjZTZwNTA3UnhJbWRiZGc?oc=5",
-          "source": "Kalkine Media",
-          "date": "09/07"
-        },
-        {
-          "title": "루멘's $10.5M data breach settlement: See if you qualify and learn how to protect your identity",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbnNiWHZLemtpZ0ZkTkg0UXYtMGxmc3R0djRfeURTTVVtNFUwMnBGMzl1Vm5JNVB6NmhEdExPazM4eXQ0dDZWTk9GdkVJZjRJSWh1OFNWdFJoVHdoQThtR1QzSmxMVkJud2RycHNtUVpvYzUtdFMwWXVEMUNkZWZyU2szYnBNa01PNXRhZEJEOXppanl4NThr0gGcAUFVX3lxTE4xTlIzMnNGUlVxODFnQWVyUnViNlRKSDAzZUtoOTEwQUNLaFY1dzJXQTYteW5EZHNESEFMNHBiTHkzenpnSWtPT2F3ZE40bzdSOG5zWVhCT1Fka0JzdXZaZEdiY1RoT3BUV0RpbXhpUG56Wi0tN1BBWXlLQkgtNy1ab0hqTDA0OHdoNkRlLUVFM0hBM1pBc291RUJLUA?oc=5",
-          "source": "CNBC",
-          "date": "09/07"
         }
       ],
       "archive30d": [
@@ -1400,24 +1403,24 @@
       "id": "LPGI",
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
-      "g": "B",
-      "event": "인니 유닛링크 자본규제 강화 주목",
+      "g": "C",
+      "event": "주요 변동 없음",
       "tags": [
         "-0.78%",
         "자회사"
       ],
-      "priceText": "Rp640",
-      "openText": "Rp645",
-      "highText": "Rp705",
-      "lowText": "Rp630",
-      "prevCloseText": "Rp645",
+      "priceText": "Rp635",
+      "openText": "Rp660",
+      "highText": "Rp675",
+      "lowText": "Rp635",
+      "prevCloseText": "Rp640",
       "changeText": "-Rp5",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp640",
-          "₩48.7"
+          "Rp635",
+          "₩48.5"
         ],
         [
           "취득가",
@@ -1426,7 +1429,7 @@
         ],
         [
           "취득가대비",
-          "-2.11%",
+          "-2.88%",
           null
         ],
         [
@@ -1436,22 +1439,22 @@
         ],
         [
           "전주대비",
-          "+2.40%",
+          "+1.60%",
           null
         ],
         [
           "거래량(20일比)",
-          "4.12만 · 1.21x",
+          "2.47만 · 1.05x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,461억"
+          "1,455억"
         ],
         [
           "52주 고점대비",
-          "-32.35%",
+          "-32.88%",
           null
         ]
       ],
@@ -1466,19 +1469,14 @@
         }
       ],
       "events": [
-        "OJK의 유닛링크 보험사 자본요건 강화는 인니 보험 업권 전반의 자본적정성 관리 부담을 높이는 방향",
-        "자회사의 RBC 및 자본 여력이 규제 기준 충족 여부가 그룹 차원의 추가 자본지원 필요성을 결정할 수 있어 모니터링 필요"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 자본요건 개정의 자회사 적용 여부 및 시행 시기",
-        "자회사 RBC 비율 및 자본적정성 현황",
-        "PIKK 개정 관련 추가 규제 변화 동향"
+        "OJK 이슬람 보험 분리 규제 일정 및 LPGI 대응 계획",
+        "분기 RBC 비율 및 GWP 성장률 확인",
+        "PIKK 개정안 확정 여부 및 자본 적정성 영향"
       ],
       "spark": [
-        {
-          "date": "6/10",
-          "close": 640.0
-        },
         {
           "date": "6/11",
           "close": 660.0
@@ -1726,17 +1724,21 @@
         {
           "date": "9/8",
           "close": 640.0
+        },
+        {
+          "date": "9/9",
+          "close": 635.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 9/8 종가 (WIB)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXhzQjM2OEZ3MTkxcDRtWjRGR3o0dTh3WC1namZqNlZ1Um1DNnBWNnFYQW0wV1lCRzZTbWhzUTVwOGFjRU14eEVuYjlJZFZGY2JjZ19IaG13T0V3bTBPdmRFVDV5X2hOZ0w2MkxwdkZxV1V3eTJsTFE0bjFZaWl0dFB4OF9SS2I4VTZSb0xNald0Zw?oc=5",
+      "exchangeLine": "IDX · 9/9 종가 (WIB)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LeXdSRnlrOTh0azJFc3Y2Tzk0OVgtNTRveElpNFdNNFlVM2hhSDRLTHhzVnZEVExXa2pZclhaalZmLWo1TWVwN0hlSW1EM25hdUNkQ2xUQlRfOXVuU1duLU5VODlPYzQ?oc=5",
       "sources": [
         {
-          "title": "Indonesia Financial Regulator Mandates KES 8.4 Billion Capital for Unit Link Insurers",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXhzQjM2OEZ3MTkxcDRtWjRGR3o0dTh3WC1namZqNlZ1Um1DNnBWNnFYQW0wV1lCRzZTbWhzUTVwOGFjRU14eEVuYjlJZFZGY2JjZ19IaG13T0V3bTBPdmRFVDV5X2hOZ0w2MkxwdkZxV1V3eTJsTFE0bjFZaWl0dFB4OF9SS2I4VTZSb0xNald0Zw?oc=5",
-          "source": "streamlinefeed.co.ke",
+          "title": "OJK Beri Izin Usaha PT Asuransi Jiwa Central Asia Raya Syariah",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LeXdSRnlrOTh0azJFc3Y2Tzk0OVgtNTRveElpNFdNNFlVM2hhSDRLTHhzVnZEVExXa2pZclhaalZmLWo1TWVwN0hlSW1EM25hdUNkQ2xUQlRfOXVuU1duLU5VODlPYzQ?oc=5",
+          "source": "TradingView",
           "date": "09/08"
         }
       ],
