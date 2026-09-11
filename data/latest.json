@@ -1,19 +1,19 @@
 {
   "asOf": "2026-09-11",
-  "updated": "2026-09-11 18:40",
-  "fx": "환율 2026-09-11 · 시장환율   1 USD = ₩1,342.36   |   1 USD = 17,595.00 IDR   |   1 IDR = ₩0.07629",
+  "updated": "2026-09-11 21:10",
+  "fx": "환율 2026-09-11 · 시장환율   1 USD = ₩1,342.72   |   1 USD = 17,595.00 IDR   |   1 IDR = ₩0.07631",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "자회사 마티카바이오, 미국 BARDA 컨소시엄 가입해 정부 사업 참여 기대",
-      "impact": "CGT·CDMO 미국 정부 프로젝트 수주 경로 확보 시 자회사 사업가치 상승으로 당사 보유 지분가치에 긍정적",
+      "text": "자회사 마티카바이오, 美 BARDA(생물의학첨단연구개발국) 컨소시엄에 가입해 미국 정부 사업 참여 기반 마련",
+      "impact": "해외 CDMO 레퍼런스 확대로 자회사 사업가치 개선 여지 있으나 실제 수주로 이어질지는 미확정",
       "level": "mid",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wV2I0SDI5dTkwOVBZYko2QmVfWWNhYndWcEwyX29XaVNSOW9oVHV0cjljT2tabUMxZmdDamM2ODVkSFY2R3h5a2FZYllBaGEzQ2JGZ0prRWdZSWctcGlCV3Y0MEo?oc=5"
     },
     {
       "company": "차바이오텍",
-      "text": "타인에 대한 담보제공 결정 관련 공시 기재 정정",
-      "impact": "담보제공 조건·금액 변동 가능성으로 자금조달 구조 변화 여부 추가 확인 필요",
+      "text": "타인에 대한 담보제공 결정 공시 기재 정정 접수",
+      "impact": "담보 조건 변경 여부에 따라 재무구조 및 추가 자금조달 구조에 영향 가능, 세부 내용 확인 필요",
       "level": "mid",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910900561"
     }
@@ -24,7 +24,7 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "CDMO 글로벌 네트워크 확장 진행 중",
+      "event": "CDMO 해외 네트워크 확장 진행 중",
       "tags": [
         "-1.35%",
         "당사 투자"
@@ -64,7 +64,7 @@
         ],
         [
           "거래량(20일比)",
-          "20.35만 · 0.60x",
+          "20.99만 · 0.62x",
           null
         ],
         [
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "마티카바이오의 BARDA 컨소시엄 가입은 미국 정부 사업 수주 가능성을 열어 CDMO 사업가치 재평가 여지 존재",
-        "담보제공 정정 공시는 자금조달 구조 변동 여부 추가 확인 필요"
+        "자회사의 美 정부 컨소시엄 편입은 CDMO 수주 파이프라인 확대로 이어질 수 있어 사업가치에 긍정적 변수",
+        "담보제공 정정 공시는 자금조달 구조 변화 가능성을 시사하므로 CB·증자 등 추가 조달 여부 모니터링 필요"
       ],
       "watch": [
-        "BARDA 컨소시엄 통한 실제 수주 계약 여부",
-        "담보제공 정정 내용 및 자금조달 영향",
-        "추가 CB·유상증자 등 자본조달 일정"
+        "담보제공 정정의 실질 내용 변경 여부",
+        "BARDA 컨소시엄 통한 실제 수주 계약화 시점",
+        "추가 CB·유상증자 등 자금조달 공시 여부"
       ],
       "spark": [
         {
@@ -593,6 +593,20 @@
           "level": "mid",
           "date": "09/10",
           "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "자회사 마티카바이오, 美 BARDA(생물의학첨단연구개발국) 컨소시엄에 가입해 미국 정부 사업 참여 기반 마련",
+          "impact": "해외 CDMO 레퍼런스 확대로 자회사 사업가치 개선 여지 있으나 실제 수주로 이어질지는 미확정",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "타인에 대한 담보제공 결정 공시 기재 정정 접수",
+          "impact": "담보 조건 변경 여부에 따라 재무구조 및 추가 자금조달 구조에 영향 가능, 세부 내용 확인 필요",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
         }
       ]
     },
@@ -670,8 +684,8 @@
       ],
       "watch": [
         "분기 매출·영업손익 추이 확인",
-        "신규 고객사·파트너십 발표 여부",
-        "헬스케어 전환 사업 수익화 시점"
+        "신규 고객사·파트너십 공시 여부",
+        "헬스케어 전환 관련 사업확장 발표 여부"
       ],
       "spark": [
         {
@@ -930,8 +944,15 @@
       "avgCost": null,
       "currency": "KRW",
       "exchangeLine": "KRX · 9/11 종가",
-      "sourceUrl": null,
-      "sources": [],
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
+      "sources": [
+        {
+          "title": "CNC News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
+          "source": "cncnews.co.kr",
+          "date": "09/10"
+        }
+      ],
       "archive30d": []
     },
     {
@@ -939,7 +960,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "KBW 컨퍼런스서 성장·수익성 경로 제시",
+      "event": "수익성 전환 경로·AI 역량 IR 공개",
       "tags": [
         "+0.79%",
         "벤치마크"
@@ -955,7 +976,7 @@
         [
           "종가",
           "$49.61",
-          "₩66,594"
+          "₩66,612"
         ],
         [
           "취득가",
@@ -985,7 +1006,7 @@
         [
           "시가총액",
           "$3.84B",
-          "5.15조"
+          "5.16조"
         ],
         [
           "52주 고점대비",
@@ -1004,13 +1025,13 @@
         }
       ],
       "events": [
-        "CFO 교체 및 KBW 컨퍼런스 발표에서 30%+ 성장·AI 역량·수익성 근접을 언급, 투자 매력도 판단의 핵심 지표 검증 필요",
-        "283% 3년 누적 상승 후 밸류에이션 적정성 논쟁이 부상해 신규 투자 진입 타이밍 재검토 요구"
+        "KBW 컨퍼런스에서 30%+ 성장 목표·흑자전환 경로를 제시했으나 확정 수치가 아닌 가이던스 수준으로 투자 판단에는 실적 검증이 선행되어야 함",
+        "CFO 교체는 재무전략 연속성 리스크로, 흑자전환 로드맵의 신뢰도에 영향을 줄 수 있어 주시 필요"
       ],
       "watch": [
-        "IFP 성장률 및 Loss Ratio 실적 확인",
-        "EBITDA 흑자전환 시점 구체화 여부",
-        "CFO 교체 후 자본배분 전략 변화 여부"
+        "신임 CFO 확정 및 재무전략 방향 변화 여부",
+        "30%+ IFP 성장·흑자전환 시점 구체적 수치 공개 여부",
+        "Loss Ratio 개선 추이 확인"
       ],
       "spark": [
         {
@@ -1421,6 +1442,20 @@
           "level": "mid",
           "date": "09/11",
           "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "KBW 보험 컨퍼런스에서 30%+ 성장 목표, AI 역량 확대, 흑자전환 경로를 제시",
+          "impact": "벤치마크 종목의 수익성 전환 가시성이 일부 제시되어 투자 검토 시 IFP·EBITDA 목표치 비교 기준으로 활용 가능",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "CFO Timothy Bixby가 이사회(Boa...)로 전환 예정",
+          "impact": "재무전략 책임자 교체로 흑자전환 로드맵 연속성 점검 필요, 신임 CFO 선임 후 전략 변화 여부 확인 요망",
+          "level": "mid",
+          "date": "09/11",
+          "collected_at": "2026-09-11"
         }
       ]
     },
@@ -1429,7 +1464,7 @@
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
       "g": "C",
-      "event": "인도네시아 거래소 비상호화 규제 확정",
+      "event": "인도네시아 시장 규제 변화 참고",
       "tags": [
         "+0.00%",
         "자회사"
@@ -1475,7 +1510,7 @@
         [
           "시가총액",
           "Rp1.9조",
-          "1,476억"
+          "1,477억"
         ],
         [
           "52주 고점대비",
@@ -1494,12 +1529,13 @@
         }
       ],
       "events": [
-        "증권거래소 비상호화(demutualization) 규제 확정은 자회사 LPGI의 직접 영업에 즉각 영향을 주지 않으나, 인도네시아 자본시장 규제 환경 변화로 중장기 모니터링 필요"
+        "인도네시아 증권거래소 비상호화 규칙 확정은 자본시장 구조 변화로, 자회사 상장사 지위와 향후 지분 거래에 간접적 영향 가능성 존재",
+        "공시·기사 기준 자회사 직접 관련 특이사항 없음"
       ],
       "watch": [
-        "OJK 보험 규제 신규 발표 여부",
-        "LPGI RBC 비율 분기 추이",
-        "PIKK 개정안 시행 일정 확정 여부"
+        "OJK 규제 변화 및 보험업 관련 후속 조치 여부",
+        "자회사 RBC 비율 동향",
+        "PIKK 개정 관련 자본적정성 영향 여부"
       ],
       "spark": [
         {
