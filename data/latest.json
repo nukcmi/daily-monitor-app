@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-09-10",
-  "updated": "2026-09-10 21:12",
-  "fx": "환율 2026-09-10 · 시장환율   1 USD = ₩1,343.59   |   1 USD = 17,535.00 IDR   |   1 IDR = ₩0.07662",
+  "asOf": "2026-09-11",
+  "updated": "2026-09-11 18:40",
+  "fx": "환율 2026-09-11 · 시장환율   1 USD = ₩1,342.36   |   1 USD = 17,595.00 IDR   |   1 IDR = ₩0.07629",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "마티카바이오랩스, 국내 최초로 첨단바이오 세포치료제·유전자치료제·이종이식 3대 허가 취득",
-      "impact": "CGT CDMO 사업 신뢰도 제고로 당사 보유 지분가치 상승 여지 확대",
+      "text": "자회사 마티카바이오, 미국 BARDA 컨소시엄 가입해 정부 사업 참여 기대",
+      "impact": "CGT·CDMO 미국 정부 프로젝트 수주 경로 확보 시 자회사 사업가치 상승으로 당사 보유 지분가치에 긍정적",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ScVdwVE02elZPRi10U0V3MVBRZ1BHcmlNVWktYzQtZlJhNXVwaU1ZUG5YNEFEZmNGMlpoa3RZUGd0MTdoQVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wV2I0SDI5dTkwOVBZYko2QmVfWWNhYndWcEwyX29XaVNSOW9oVHV0cjljT2tabUMxZmdDamM2ODVkSFY2R3h5a2FZYllBaGEzQ2JGZ0prRWdZSWctcGlCV3Y0MEo?oc=5"
     },
     {
       "company": "차바이오텍",
-      "text": "마티카바이오, 美 BARDA(생물의학첨단연구개발청) 컨소시엄 가입 및 정부사업 참여 기대",
-      "impact": "미국 정부 수주 파이프라인 편입 가능성으로 CDMO 해외 매출 기반 확장 기대",
+      "text": "타인에 대한 담보제공 결정 관련 공시 기재 정정",
+      "impact": "담보제공 조건·금액 변동 가능성으로 자금조달 구조 변화 여부 추가 확인 필요",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wV2I0SDI5dTkwOVBZYko2QmVfWWNhYndWcEwyX29XaVNSOW9oVHV0cjljT2tabUMxZmdDamM2ODVkSFY2R3h5a2FZYllBaGEzQ2JGZ0prRWdZSWctcGlCV3Y0MEo?oc=5"
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910900561"
     }
   ],
   "companies": [
@@ -24,22 +24,22 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "CDMO 규제 인프라 강화 국면",
+      "event": "CDMO 글로벌 네트워크 확장 진행 중",
       "tags": [
-        "+0.37%",
+        "-1.35%",
         "당사 투자"
       ],
-      "priceText": "₩8,150",
-      "openText": "₩8,070",
-      "highText": "₩8,150",
-      "lowText": "₩7,900",
-      "prevCloseText": "₩8,120",
-      "changeText": "+₩30",
+      "priceText": "₩8,040",
+      "openText": "₩7,950",
+      "highText": "₩8,060",
+      "lowText": "₩7,920",
+      "prevCloseText": "₩8,150",
+      "changeText": "-₩110",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,150",
+          "₩8,040",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-36.35%",
+          "-37.21%",
           null
         ],
         [
           "전일대비",
-          "+0.37%",
+          "-1.35%",
           null
         ],
         [
           "전주대비",
-          "+0.74%",
+          "-0.62%",
           null
         ],
         [
           "거래량(20일比)",
-          "25.27만 · 0.76x",
+          "20.35만 · 0.60x",
           null
         ],
         [
           "시가총액",
-          "7,577억",
+          "7,475억",
           null
         ],
         [
           "52주 고점대비",
-          "-65.97%",
+          "-66.43%",
           null
         ]
       ],
@@ -89,19 +89,15 @@
         }
       ],
       "events": [
-        "마티카바이오의 국내 첨단바이오 3대 허가 취득 및 美 BARDA 컨소시엄 가입은 CGT/CDMO 사업의 레퍼런스·수주 기반을 동시에 확장하는 구조적 진전",
-        "담보제공 정정 공시는 자금조달 구조 변동 가능성을 시사하며, 대량보유 보고서와 함께 지분구조 변화 여부를 추가 확인 필요"
+        "마티카바이오의 BARDA 컨소시엄 가입은 미국 정부 사업 수주 가능성을 열어 CDMO 사업가치 재평가 여지 존재",
+        "담보제공 정정 공시는 자금조달 구조 변동 여부 추가 확인 필요"
       ],
       "watch": [
-        "마티카바이오 BARDA 실제 수주 여부",
-        "담보제공 정정 내역 및 규모 확인",
-        "대량보유 보고 주체·지분율 변동"
+        "BARDA 컨소시엄 통한 실제 수주 계약 여부",
+        "담보제공 정정 내용 및 자금조달 영향",
+        "추가 CB·유상증자 등 자본조달 일정"
       ],
       "spark": [
-        {
-          "date": "6/12",
-          "close": 11880.0
-        },
         {
           "date": "6/15",
           "close": 12190.0
@@ -349,11 +345,15 @@
         {
           "date": "9/10",
           "close": 8150.0
+        },
+        {
+          "date": "9/11",
+          "close": 8040.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/10 종가",
+      "exchangeLine": "KRX · 9/11 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910900561",
       "sources": [
         {
@@ -363,28 +363,10 @@
           "date": "20260910"
         },
         {
-          "title": "주식등의대량보유상황보고서(일반)",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260903000272",
-          "source": "DART",
-          "date": "20260903"
-        },
-        {
           "title": "차바이오텍 子 마티카바이오, 美 BARDA 컨소시엄 가입...정부사업 참여 기대",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wV2I0SDI5dTkwOVBZYko2QmVfWWNhYndWcEwyX29XaVNSOW9oVHV0cjljT2tabUMxZmdDamM2ODVkSFY2R3h5a2FZYllBaGEzQ2JGZ0prRWdZSWctcGlCV3Y0MEo?oc=5",
           "source": "PRESS9",
           "date": "09/10"
-        },
-        {
-          "title": "마티카바이오랩스, 국내 최초로 '첨단바이오 3대 허가' 취득",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ScVdwVE02elZPRi10U0V3MVBRZ1BHcmlNVWktYzQtZlJhNXVwaU1ZUG5YNEFEZmNGMlpoa3RZUGd0MTdoQVE?oc=5",
-          "source": "v.daum.net",
-          "date": "09/09"
-        },
-        {
-          "title": "차병원·차바이오그룹, 임원/경력직 공채",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRVl1c2lHUnFoelBKUm9JcXpjRXFRTS1jZU1SckozZU43Z2laMXFWc0oyY1R6X29TQzlPNG1GMjhqbkdHRWhJenhLU1VEUjJRcHhaNzNUeFVaYUwwaWRQQWp6cVRjeFF3aGxZckRySUhYR2JlMGc2ZWJWZG1lVnE3LU9ZYllLQjdfS3dXdFhpOG8zLVg5NFQwOXV5cFZLT1VBYjlPY1J6U0lmc2dlVGt2ZWhMSHdkUEdWMFFheU53?oc=5",
-          "source": "약업신문",
-          "date": "09/08"
         }
       ],
       "archive30d": [
@@ -597,6 +579,20 @@
           "level": "mid",
           "date": "09/03",
           "collected_at": "2026-09-10"
+        },
+        {
+          "summary": "자회사 마티카바이오, 미국 BARDA 컨소시엄 가입해 정부 사업 참여 기대",
+          "impact": "CGT·CDMO 미국 정부 프로젝트 수주 경로 확보 시 자회사 사업가치 상승으로 당사 보유 지분가치에 긍정적",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "타인에 대한 담보제공 결정 관련 공시 기재 정정",
+          "impact": "담보제공 조건·금액 변동 가능성으로 자금조달 구조 변화 여부 추가 확인 필요",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
         }
       ]
     },
@@ -607,20 +603,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+1.38%",
+        "-0.84%",
         "당사 투자"
       ],
-      "priceText": "₩4,765",
-      "openText": "₩4,680",
-      "highText": "₩4,770",
-      "lowText": "₩4,655",
-      "prevCloseText": "₩4,700",
-      "changeText": "+₩65",
+      "priceText": "₩4,725",
+      "openText": "₩4,730",
+      "highText": "₩4,765",
+      "lowText": "₩4,670",
+      "prevCloseText": "₩4,765",
+      "changeText": "-₩40",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩4,765",
+          "₩4,725",
           null
         ],
         [
@@ -635,27 +631,27 @@
         ],
         [
           "전일대비",
-          "+1.38%",
+          "-0.84%",
           null
         ],
         [
           "전주대비",
-          "-0.73%",
+          "-1.56%",
           null
         ],
         [
           "거래량(20일比)",
-          "2.34천 · 0.24x",
+          "6.26천 · 0.77x",
           null
         ],
         [
           "시가총액",
-          "867억",
+          "860억",
           null
         ],
         [
           "52주 고점대비",
-          "-75.91%",
+          "-76.11%",
           null
         ]
       ],
@@ -673,15 +669,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 추이",
-        "헬스케어 신규 고객사 확보 여부",
-        "자금조달 관련 공시 발생 여부"
+        "분기 매출·영업손익 추이 확인",
+        "신규 고객사·파트너십 발표 여부",
+        "헬스케어 전환 사업 수익화 시점"
       ],
       "spark": [
-        {
-          "date": "6/12",
-          "close": 6420.0
-        },
         {
           "date": "6/15",
           "close": 6440.0
@@ -929,50 +921,41 @@
         {
           "date": "9/10",
           "close": 4765.0
+        },
+        {
+          "date": "9/11",
+          "close": 4725.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/10 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92Z1JBWnZtOEQtTEViSm81dll6NGpOdmhTcE90X0IzQWdUOW9Ga3k5aVd6SnNCV3RNM0hTM2lVMlJvM0ViTGVSdWQyR2d4aXdFbWNaa3FxZ0NsbWtwTmx5c3ZTYkFSSGlQOEFrdm5KZ3A5bzg?oc=5",
-      "sources": [
-        {
-          "title": "차AI헬스케어 투자분석 2026. 09. 09",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92Z1JBWnZtOEQtTEViSm81dll6NGpOdmhTcE90X0IzQWdUOW9Ga3k5aVd6SnNCV3RNM0hTM2lVMlJvM0ViTGVSdWQyR2d4aXdFbWNaa3FxZ0NsbWtwTmx5c3ZTYkFSSGlQOEFrdm5KZ3A5bzg?oc=5",
-          "source": "주달",
-          "date": "09/09"
-        },
-        {
-          "title": "CNC News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
-          "source": "cncnews.co.kr",
-          "date": "09/08"
-        }
-      ],
+      "exchangeLine": "KRX · 9/11 종가",
+      "sourceUrl": null,
+      "sources": [],
       "archive30d": []
     },
     {
       "id": "LUMN",
       "name": "루멘",
       "ticker": "(미국)",
-      "g": "C",
-      "event": "주요 변동 없음",
+      "g": "B",
+      "event": "KBW 컨퍼런스서 성장·수익성 경로 제시",
       "tags": [
-        "-2.63%",
+        "+0.79%",
         "벤치마크"
       ],
-      "priceText": "$49.22",
-      "openText": "$50.00",
-      "highText": "$50.35",
-      "lowText": "$48.02",
-      "prevCloseText": "$50.55",
-      "changeText": "-$1.33",
+      "priceText": "$49.61",
+      "openText": "$48.95",
+      "highText": "$50.44",
+      "lowText": "$48.78",
+      "prevCloseText": "$49.22",
+      "changeText": "+$0.39",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$49.22",
-          "₩66,131"
+          "$49.61",
+          "₩66,594"
         ],
         [
           "취득가",
@@ -986,27 +969,27 @@
         ],
         [
           "전일대비",
-          "-2.63%",
+          "+0.79%",
           null
         ],
         [
           "전주대비",
-          "-7.84%",
+          "-7.11%",
           null
         ],
         [
           "거래량(20일比)",
-          "150.30만 · 1.62x",
+          "84.77만 · 0.87x",
           null
         ],
         [
           "시가총액",
-          "$3.81B",
-          "5.12조"
+          "$3.84B",
+          "5.15조"
         ],
         [
           "52주 고점대비",
-          "-50.73%",
+          "-50.34%",
           null
         ]
       ],
@@ -1021,18 +1004,15 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "CFO 교체 및 KBW 컨퍼런스 발표에서 30%+ 성장·AI 역량·수익성 근접을 언급, 투자 매력도 판단의 핵심 지표 검증 필요",
+        "283% 3년 누적 상승 후 밸류에이션 적정성 논쟁이 부상해 신규 투자 진입 타이밍 재검토 요구"
       ],
       "watch": [
-        "IFP 성장률 분기 추이 확인",
-        "Loss Ratio 구조적 개선 여부",
-        "EBITDA 흑자전환 시점 재확인"
+        "IFP 성장률 및 Loss Ratio 실적 확인",
+        "EBITDA 흑자전환 시점 구체화 여부",
+        "CFO 교체 후 자본배분 전략 변화 여부"
       ],
       "spark": [
-        {
-          "date": "6/10",
-          "close": 55.86
-        },
         {
           "date": "6/11",
           "close": 57.18
@@ -1280,42 +1260,46 @@
         {
           "date": "9/9",
           "close": 49.22
+        },
+        {
+          "date": "9/10",
+          "close": 49.61
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 9/9 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVm04TWlTNjlDamlXbVpoOHczYXV3V2tqekdzR255X2U2bWtXMndGNHdwaXdMZ2tqRVFLM3lZWEt0ZVNuMWZQd2lzR2lGaUpWZHBPLW5ESFBqbFZRNHhfV0M3QnBxQkRuMHVPckJ3bW5nNzEwV1Q0T0JIWi1tbGU4RnFuX1FMX3hoTWdFUFlNNGE3NmNjc0Q4ODZwdmJ3R2xJOUhIWDFoOE1nbm9FZDdCaGVDS19KVTQ3STZyRV9kWQ?oc=5",
+      "exchangeLine": "NYSE · 9/10 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYV9lNVZDNmVTakpEVVg5Z09xdTgwekx0akp3OG5jaGVoMi1zTU4tb2Y4bnhMU1dhaVdib2tycTdwLUJsdEhvSDM5alg5UG9ZRmNkYVlXZ2R1SmlHOG0zb1p5NUE3VWhQTThWR1hoRUlpRDRjaFFjem5ESEcyQkZqSA?oc=5",
       "sources": [
         {
-          "title": "Squarepoint Ops LLC Trims Stock Holdings in 루멘 $루멘",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVm04TWlTNjlDamlXbVpoOHczYXV3V2tqekdzR255X2U2bWtXMndGNHdwaXdMZ2tqRVFLM3lZWEt0ZVNuMWZQd2lzR2lGaUpWZHBPLW5ESFBqbFZRNHhfV0M3QnBxQkRuMHVPckJ3bW5nNzEwV1Q0T0JIWi1tbGU4RnFuX1FMX3hoTWdFUFlNNGE3NmNjc0Q4ODZwdmJ3R2xJOUhIWDFoOE1nbm9FZDdCaGVDS19KVTQ3STZyRV9kWQ?oc=5",
-          "source": "MarketBeat",
+          "title": "루멘 CFO Timothy Bixby to transition to Boa...",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYV9lNVZDNmVTakpEVVg5Z09xdTgwekx0akp3OG5jaGVoMi1zTU4tb2Y4bnhMU1dhaVdib2tycTdwLUJsdEhvSDM5alg5UG9ZRmNkYVlXZ2R1SmlHOG0zb1p5NUE3VWhQTThWR1hoRUlpRDRjaFFjem5ESEcyQkZqSA?oc=5",
+          "source": "Pluang",
+          "date": "09/11"
+        },
+        {
+          "title": "Is 루멘 (루멘) Fully Priced After Its 283% Three Year Gain?",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSUtNekp4Q1Y3ckR3SkZzdXkteWRNVF9KcWV0enlZOHhWbGFaLU5UbVhwbm5YZW1GQXljbkRNOTNQcHlrVkZEdTFnajdEbjZkZUpLaGVTY0hHVEZKRDZaVF9naklYd2lJc3ZmMXM3M28zRDZ5WDNwNmFvSzFONUd1SlYweWxzcGdkMHFrZVBLLTBiUVpoenFvemluWFkwcHkwQURNeUlaUzZxWUtOYTFpV2lkT2JVWmJCOXZkU3YzME5DQ1XSAcgBQVVfeXFMTUlNdTZkQ2s5RGVuSHA5MnhIenBfb2ViMmFQMm8tOE9OVTUzTGU0RXo2aTBuV0g1dVNDenozR2dKZzMxUVZiUTMzejBSQlZMQV8ta1RmMlpmRzF3U2VFUDNIU1p1M29QbG9RM2twOFRtME9USkFfTk9pMDRiNG9VV2ExNDdrVWM3UVQ0WXRfdWRjdUFURDRNbEdkXzdxdHR1YmdtYVpPMWU0RDI1X1JNRzN2R1BLX2x5Ylp3YXV6c0hyQ05Ob2txSm4?oc=5",
+          "source": "simplywall.st",
           "date": "09/10"
         },
         {
-          "title": "루멘 (NYSE:루멘): Is the Rebound Story Back?",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVppN0p0STd5Ni10ejBHaTdRU0xPenJVbEVOTWM0Wlc1X1VzYlE1LWItdjZWSHRvRVhBbThoaXJKblgwQmtRMUVPZkFNVDNwaS14RE9sd3p1cnFBeDlJRERQYnBUQlNHWTYyV1pVTUNxX3RQQWs1SzAyMWVzbGw3MXJYYnFVLVJNMEkyenpCa1RFZw?oc=5",
-          "source": "Kalkine Media",
-          "date": "09/09"
+          "title": "루멘: Targeting 30%+ growth, expanding cross-sell and AI capabilities, and nearing profitability milestones",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZ1JtWGJVNFc4di1WeU5zeS0zengydUxZY0NhNndWZGxEUDV2Q1NFQk0wSHpmeUFuNUxLNmd1Y1hXYm05c1ZtSUVBOFB1N2RCcE5QM1BOb1JrbHdQc1AyWWptdmJlMGV5bnV5MnA1NW9ZdFV3TDR6eXo0dDZKb3FqOE9Pa2E1ZjNlMlJfSm5wQ0c5VFlyRS1zVWVNMnp1dWg0VEdDNWh1cHU2VEppUlZ5MF9DQkJVUm9pWFNsZjkwa21hRU1kdUpGU0tTSHNTRFQtVEI2OFFKVnNXTnNJMm5hLXBYc25HbnJVQm9wZnFuY0JuYlhETVpfZWI2Z1JldjVjbU16ODJFTmlwZk1uRGhWdXZPcENDNVo3?oc=5",
+          "source": "TradingView",
+          "date": "09/10"
         },
         {
-          "title": "루멘 Stock In Focus As Insurance Expansion Reaches More States",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWpSblVKNVo1bC1Zc0RJemtyNFpMZDh3SzNyblZpb0JRekNMdjVMSGZZaFQ5SGtnbFRVaUs0TlJ4VHFQZFpBZGpkajRHUlg0V3lTMHY5bDhzeDRqLWdVQnpsRlpoZjhrSFc4UWo3V0RMVEFKZGVaMTEyeWQyMjkxbHlmakRhQVMxUjcyUHlJQXRrTjk0ZU03NGZwMzFNcGNVZFAwMEl5bmlod1NRTkFvMl9BMlZjY1kwYWZRcy1kUFZXclXSAcgBQVVfeXFMTlR1NmY1Y2xQZTh1YjhKTWU2c3MyUHZ1bXltNnFaMDF4LXlUQWRBbkpUOXZhWlZLT0VkMVN3NTUya00ybWJJNGppRl9QQkttVE8wZTI5MFV2MjQ5X1ZRT2NzUGN6Q0xlcmFCWWpiTUtiUVoxZnBNMjF1em96dmdES3U2dmFWUTlOek4zTnE1cHpvRURtcWNQbm83RGZBTXFkNS1TTTZhcmJGOVpWZ3NKdWxrYWZCQ1ZRdnZKN1lkS1pLYWZCeExueXM?oc=5",
-          "source": "simplywall.st",
-          "date": "09/09"
+          "title": "루멘 at KBW Insurance Conference 2026: growth, AI and profit path",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONThHTFN0TGhuSC1IbVU5b3FQRk1Qbl9uOXRkZ0RBbXhKSjRBcTlRMGJVT0xXeVRXQ05mU2VXSjRpQWotY0k5YWFPVXVyLVh5SVBuRWluUGx5R1djYktKWGlGalF3dnljbUl2aHVvVUtSMnRzcHl0OGtfQ0VfaTBXWVZvc0Zka25xdjh4dEotV0cxRTFXYkM0ZHdyUC05bmNHcS1pc3ZwTFhaZFpQUDFoSG5wa2FZQktxbndmQmFFY0RkLUdNMUdJLUN6dw?oc=5",
+          "source": "Investing.com",
+          "date": "09/10"
         },
         {
-          "title": "루멘 (NYSE:루멘) Given Consensus Rating of \"Hold\" by Analysts",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdmpMUDBrcTFuMW5vM0FqZHdtcEsxcnRDMDZyeHdKLW1nTjd0MXBpeDVWcnppbk5qbzZfWi1Zd3o2OC1ITW44Yzd4bVEyN1pHdGhpOXRaRENxWHpTSFNzZlBtd3lQZllTUm51b242S0xCQ1pUZU10UXR4TGN0aV8tQ0R4X2d5N19nbklUd1NJbDd0eHBPNDFiY2RjcXBKZnV2YmpINkhFRVZhTUdESWRPaUM1Z1NhdG5QT1FFeW1UbWc0X1hTVjhFbw?oc=5",
-          "source": "MarketBeat",
-          "date": "09/09"
-        },
-        {
-          "title": "루멘 chief insurance officer Peters sells $169k in shares By Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXhhd3hyaGJpUE04YUNaVFdSM09hY0pYSlFhM3JrOW45Mkw2bEp0OFpyOXlPdV9xMWh5RlNtSDlCNmFVTEFkeWtCUXRVekZmVzlCX1JHMlhydkQwenZ0VnR6d3o0UHJhM1dabHhReXpVMkQ3Tlh4dm41cDRyWW93ZkxHaUllVEpQaVRHYVZhcWJ6OUZXVUdkdTNtWDhQMklfN3hYVWJkcWRXUV9Wdjlqb2JnMk1DaVR3UFpLV0tB?oc=5",
-          "source": "Investing.com Nigeria",
-          "date": "09/09"
+          "title": "루멘 Pets: A Modern Approach to Pet Safety",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHhmOWZITGhmRXotOG9GbjZZRUZoN0NnNHZlS1R3QXdSSXB4M21xQlUyTjQxUG9Icmd1bVA2UnViODFGMkxEbnFqbXZFN3NGOXVmX0VQamp4ODJsbkh4dzVYaUR1UjFMdWlfbWxfZk9iX1NOUkFoVDV4U050V1hUa2ktQ1d0SFRr0gGIAUFVX3lxTFBseGY5ZkhMaGZFei04b0ZuNllFRmg3Q2c0dmVLVHdBd1JJcHgzbXFCVTJONDFQb0hyZ3VtUDZSdWI4MUYyTERucWptdkU3c0Y5dWZfRVBqang4MmxuSHh3NVhpRHVSMUx1aV9tbF9mT2JfU05SQWhUNXhTTnRXWFRraS1DV3RIVGs?oc=5",
+          "source": "findarticles.com",
+          "date": "09/10"
         }
       ],
       "archive30d": [
@@ -1423,6 +1407,20 @@
           "level": "low",
           "date": "09/06",
           "collected_at": "2026-09-07"
+        },
+        {
+          "summary": "KBW 보험 컨퍼런스에서 30%+ 성장 목표, AI 역량 확대, 수익성 근접 경로 제시",
+          "impact": "IFP 성장률·Loss Ratio 실현 여부에 따라 신규 투자 검토 판단 근거로 활용 가능",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "CFO Timothy Bixby, 이사회(Board) 역할로 전환 예정",
+          "impact": "CFO 교체는 재무전략·자본배분 방향 변화 가능성을 수반해 투자 검토 시 경영 안정성 확인 필요",
+          "level": "mid",
+          "date": "09/11",
+          "collected_at": "2026-09-11"
         }
       ]
     },
@@ -1431,23 +1429,23 @@
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
       "g": "C",
-      "event": "인니 거래소 비상장화 규제 동향",
+      "event": "인도네시아 거래소 비상호화 규제 확정",
       "tags": [
-        "+1.57%",
+        "+0.00%",
         "자회사"
       ],
       "priceText": "Rp645",
-      "openText": "Rp660",
-      "highText": "Rp660",
-      "lowText": "Rp635",
-      "prevCloseText": "Rp635",
-      "changeText": "+Rp10",
+      "openText": "Rp645",
+      "highText": "Rp645",
+      "lowText": "Rp640",
+      "prevCloseText": "Rp645",
+      "changeText": "+Rp0",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
           "Rp645",
-          "₩49.4"
+          "₩49.2"
         ],
         [
           "취득가",
@@ -1461,7 +1459,7 @@
         ],
         [
           "전일대비",
-          "+1.57%",
+          "+0.00%",
           null
         ],
         [
@@ -1471,13 +1469,13 @@
         ],
         [
           "거래량(20일比)",
-          "8.10천 · 0.33x",
+          "300 · 0.01x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,483억"
+          "1,476억"
         ],
         [
           "52주 고점대비",
@@ -1496,19 +1494,14 @@
         }
       ],
       "events": [
-        "인도네시아 증권거래소 비상장화(demutualization) 규정 확정은 자회사 상장 지위·지배구조 관련 규제 환경 변화로 모니터링 필요",
-        "직접적 재무 영향은 불확실하나 OJK 규제 기조 변화의 일환으로 자본적정성 요건 연동 가능성 유의"
+        "증권거래소 비상호화(demutualization) 규제 확정은 자회사 LPGI의 직접 영업에 즉각 영향을 주지 않으나, 인도네시아 자본시장 규제 환경 변화로 중장기 모니터링 필요"
       ],
       "watch": [
-        "OJK 자본적정성(RBC) 규제 개정 동향",
-        "PIKK 개정안 시행 일정 확인",
-        "자회사 GWP 및 손해율 분기 추이"
+        "OJK 보험 규제 신규 발표 여부",
+        "LPGI RBC 비율 분기 추이",
+        "PIKK 개정안 시행 일정 확정 여부"
       ],
       "spark": [
-        {
-          "date": "6/12",
-          "close": 660.0
-        },
         {
           "date": "6/15",
           "close": 650.0
@@ -1756,11 +1749,15 @@
         {
           "date": "9/10",
           "close": 645.0
+        },
+        {
+          "date": "9/11",
+          "close": 645.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 9/10 종가 (WIB)",
+      "exchangeLine": "IDX · 9/11 종가 (WIB)",
       "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnJJN01ZZWVTbUVVbEtXU0RhQU1YQUx4bDZBQ0JYV1JHam5RaUNHZ3BuZnc4elloWWFMZ1NLVlhsWTJYYXJ6ODVFRlNYWTBMRDU1WWsxZlg0ZXRFSi1FQ0hGRGp6TFZteGNrMHd5TUtwSmdPcTdibUY4RDhEdUNQU3FCY0d4MGJmNTYtSGFRVUFfcHBLekJKeg?oc=5",
       "sources": [
         {
@@ -1791,6 +1788,13 @@
           "level": "mid",
           "date": "09/01",
           "collected_at": "2026-09-01"
+        },
+        {
+          "summary": "인도네시아, 증권거래소 비상호화(demutualization) 관련 규정 최종 확정",
+          "impact": "인도네시아 자본시장 규제 환경 변화로 당사 자회사 영업환경 간접 영향 가능성, 참고 수준 모니터링 필요",
+          "level": "low",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
         }
       ]
     }
