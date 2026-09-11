@@ -1,33 +1,61 @@
 {
-  "updated": "2026-09-08 16:47",
+  "updated": "2026-09-11 18:39",
   "articles": [
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "스테이블코인과 보험산업 과제",
-      "takeaway": "스테이블코인 확산이 보험산업의 리스크 인수와 규제 대응에 새 과제를 제기한다.",
+      "takeaway": "스테이블코인 확산이 보험산업의 지급·자산운용·리스크 관리에 새 과제를 제기",
       "bullets": [
-        "스테이블코인 기반 결제·담보 활용 시 보험사 자산운용 리스크 변화",
-        "디지털 자산 관련 보험 상품(커스터디·해킹 등) 수요 부상 가능성",
-        "국내 규제 공백 속 보험사의 선제적 리스크 관리 체계 필요"
+        "보험료 납입·보험금 지급에 스테이블코인 활용 시 규제·회계 처리 불명확",
+        "준비자산(backing asset) 리스크가 보험사 투자 포트폴리오에 영향 가능",
+        "국내 규제 공백 속 디지털자산 언더라이팅 기준 마련 필요"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-06",
-      "collected_at": "2026-09-08"
+      "collected_at": "2026-09-11"
     },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "기업 경영환경 변화와 임원배상책임보험 시장의 과제",
-      "takeaway": "경영환경 불확실성 확대로 D&O(임원배상책임)보험 시장 성장 기회가 커진다.",
+      "takeaway": "경영환경 변화로 임원 리스크가 다양화되어 D&O 보험 시장 재편이 가속화",
       "bullets": [
-        "ESG·공정거래·중대재해법 등 임원 법적 책임 범위 지속 확대",
-        "소송 증가 및 손해액 대형화로 보험료율 산정 난이도 상승",
-        "국내 D&O 시장 저침투율(가입률) 개선 여지가 성장 동력"
+        "ESG·공급망·사이버 등 신규 임원 책임 영역 확대로 클레임 유형 다변화",
+        "국내 D&O 시장은 인수 기준·요율 체계 정비 시급",
+        "소송 리스크 증가 대비 언더라이팅(인수심사) 고도화 필요"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=805489&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-03",
-      "collected_at": "2026-09-08"
+      "collected_at": "2026-09-11"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce",
+      "takeaway": "AI 에이전트 쇼핑 시대, 보험사도 결제·추천 생태계 내 존재감 확보 시급",
+      "bullets": [
+        "AI가 소비자 대신 구매 결정 시 기존 카드·금융사 역할 축소 위험",
+        "보험료 결제·상품 추천 채널도 에이전트 플랫폼으로 이동 가능",
+        "선제적 API·데이터 연동 없이는 유통 채널에서 배제될 수 있음"
+      ],
+      "url": "https://www.bain.com/insights/how-card-issuers-and-banks-can-avoid-being-shut-out-of-agentic-commerce/",
+      "date": "09/10",
+      "collected_at": "2026-09-11"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "A Fragile Rebound for US-UK Confidence: 2026 Transatlantic Confidence Index",
+      "takeaway": "미·영 신뢰 회복세는 취약하며, 지정학 불확실성이 글로벌 보험 리스크 환경에 영향",
+      "bullets": [
+        "2025년 역대 최저 신뢰도 이후 소폭 반등에 불과해 안정성 미흡",
+        "무역·안보 긴장 지속 시 글로벌 기업보험·정치적위험보험 수요 증가 예상",
+        "친성장 정책 공조 여부가 향후 신뢰 지수 방향성 결정"
+      ],
+      "url": "https://www.bain.com/insights/a-fragile-rebound-for-us-uk-confidence-2026-transatlantic-confidence-index/",
+      "date": "09/10",
+      "collected_at": "2026-09-11"
     },
     {
       "publisher": "Bain",
