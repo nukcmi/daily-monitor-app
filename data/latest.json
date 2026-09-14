@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-09-11",
-  "updated": "2026-09-11 21:10",
-  "fx": "환율 2026-09-11 · 시장환율   1 USD = ₩1,342.72   |   1 USD = 17,595.00 IDR   |   1 IDR = ₩0.07631",
+  "asOf": "2026-09-14",
+  "updated": "2026-09-14 22:56",
+  "fx": "환율 2026-09-14 · 시장환율   1 USD = ₩1,349.52   |   1 USD = 17,630.00 IDR   |   1 IDR = ₩0.07655",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "자회사 마티카바이오, 美 BARDA(생물의학첨단연구개발국) 컨소시엄에 가입해 미국 정부 사업 참여 기반 마련",
-      "impact": "해외 CDMO 레퍼런스 확대로 자회사 사업가치 개선 여지 있으나 실제 수주로 이어질지는 미확정",
+      "text": "차광렬, 지분 25.12% 유지하며 담보계약 상대방 변경 공시",
+      "impact": "최대주주 지분율 변동 없어 지분구조 안정. 단, 담보 조건 변경은 재무 상태 모니터링 필요.",
       "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wV2I0SDI5dTkwOVBZYko2QmVfWWNhYndWcEwyX29XaVNSOW9oVHV0cjljT2tabUMxZmdDamM2ODVkSFY2R3h5a2FZYllBaGEzQ2JGZ0prRWdZSWctcGlCV3Y0MEo?oc=5"
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914000280"
     },
     {
-      "company": "차바이오텍",
-      "text": "타인에 대한 담보제공 결정 공시 기재 정정 접수",
-      "impact": "담보 조건 변경 여부에 따라 재무구조 및 추가 자금조달 구조에 영향 가능, 세부 내용 확인 필요",
+      "company": "루멘",
+      "text": "Loss Ratio 60% 개선, Gross Profit 전년 대비 76% 증가 보고",
+      "impact": "벤치마크 핵심 지표 개선 확인. 당사 디지털 손보 모델 수익성 비교 기준으로 활용 가능.",
       "level": "mid",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910900561"
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWVBSnVTVjY3STZfd3dGRlpGTnFhME91NVd1RndRREFiVFM0b1dJUWtpd1dyMlRjLVhYdl9STzZwZzJOc3JEWlo1NHpwaUlFUHRPNUduNlRXQXZwblVmWTNrWEdPNEdnWUJYQUZ2d2RsREplRWJyTTdWU0p6T19uY25hRUp6Tl9ZRWdr?oc=5"
     }
   ],
   "companies": [
@@ -24,22 +24,22 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "CDMO 해외 네트워크 확장 진행 중",
+      "event": "지분구조 이상 없으나 담보계약 변경 확인",
       "tags": [
-        "-1.35%",
+        "-1.24%",
         "당사 투자"
       ],
-      "priceText": "₩8,040",
-      "openText": "₩7,950",
-      "highText": "₩8,060",
-      "lowText": "₩7,920",
-      "prevCloseText": "₩8,150",
-      "changeText": "-₩110",
+      "priceText": "₩7,940",
+      "openText": "₩7,900",
+      "highText": "₩7,980",
+      "lowText": "₩7,750",
+      "prevCloseText": "₩8,040",
+      "changeText": "-₩100",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,040",
+          "₩7,940",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-37.21%",
+          "-37.99%",
           null
         ],
         [
           "전일대비",
-          "-1.35%",
+          "-1.24%",
           null
         ],
         [
           "전주대비",
-          "-0.62%",
+          "-1.24%",
           null
         ],
         [
           "거래량(20일比)",
-          "20.99만 · 0.62x",
+          "22.25만 · 0.66x",
           null
         ],
         [
           "시가총액",
-          "7,475억",
+          "7,382억",
           null
         ],
         [
           "52주 고점대비",
-          "-66.43%",
+          "-66.85%",
           null
         ]
       ],
@@ -89,19 +89,15 @@
         }
       ],
       "events": [
-        "자회사의 美 정부 컨소시엄 편입은 CDMO 수주 파이프라인 확대로 이어질 수 있어 사업가치에 긍정적 변수",
-        "담보제공 정정 공시는 자금조달 구조 변화 가능성을 시사하므로 CB·증자 등 추가 조달 여부 모니터링 필요"
+        "최대주주 지분율 25.12% 유지·담보 상대방 변경은 지분 매도 신호 아님. 단, 담보 규모·조건 변화는 재무 압박 여부 판단 필요.",
+        "CGT/CDMO 사업 진척·신규 자금조달 관련 실질적 공시는 부재. 사업가치 변화 없음."
       ],
       "watch": [
-        "담보제공 정정의 실질 내용 변경 여부",
-        "BARDA 컨소시엄 통한 실제 수주 계약화 시점",
-        "추가 CB·유상증자 등 자금조달 공시 여부"
+        "담보 상대방 변경 후 실제 재무 압박 여부",
+        "CGT/CDMO 신규 계약·임상 진척 공시",
+        "추가 유상증자·CB 발행 여부"
       ],
       "spark": [
-        {
-          "date": "6/15",
-          "close": 12190.0
-        },
         {
           "date": "6/16",
           "close": 12360.0
@@ -349,13 +345,23 @@
         {
           "date": "9/11",
           "close": 8040.0
+        },
+        {
+          "date": "9/14",
+          "close": 7940.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/11 종가",
-      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910900561",
+      "exchangeLine": "KRX · 9/14 종가",
+      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914000280",
       "sources": [
+        {
+          "title": "주식등의대량보유상황보고서(일반)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914000280",
+          "source": "DART",
+          "date": "20260914"
+        },
         {
           "title": "[기재정정]타인에대한담보제공결정",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910900561",
@@ -363,10 +369,22 @@
           "date": "20260910"
         },
         {
-          "title": "차바이오텍 子 마티카바이오, 美 BARDA 컨소시엄 가입...정부사업 참여 기대",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wV2I0SDI5dTkwOVBZYko2QmVfWWNhYndWcEwyX29XaVNSOW9oVHV0cjljT2tabUMxZmdDamM2ODVkSFY2R3h5a2FZYllBaGEzQ2JGZ0prRWdZSWctcGlCV3Y0MEo?oc=5",
-          "source": "PRESS9",
-          "date": "09/10"
+          "title": "차광렬, 차바이오텍 지분 25.12% 유지·담보계약 상대방 변경",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04MGl0d185V1JzMWRXODhYRWRObWo1SkNnZ2hpRmdjYUR3WjJFX3h1bHpDR3BXM05SZ3drRWNXMzZjNzBCYkZWMmdPejQxMFFpYkhHYnBHcWE5ZDRnWHBtZUt0UUNfRDNBZ3ozV2hvSHg5QnM?oc=5",
+          "source": "데이터투자",
+          "date": "09/14"
+        },
+        {
+          "title": "차바이오텍 투자분석 2026. 09. 12",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TT2tlTHRhV3gwdF9JY2JuNEVPTTlnU3VFaDNQZU1BN3IxWVhzcDF3YWpRQXhDLUtGLVoxNjJPcWRUc0JZOEl3eG8tSExyZXhFc3RDSklkb1NrRmhUVGVQZ2tmLWJCNkVaM2Z5eDFrenBZdlk?oc=5",
+          "source": "주달",
+          "date": "09/13"
+        },
+        {
+          "title": "‘롱제비티’ 키우는 차그룹… 난임서 쌓은 기술로 건강수명 연장",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5TGVHUk1vNGcyMWdaY1FQd0c0NVdVWWgwYkxPTlhsWjhlVC1ucnZfdkpEaHdvY2ZVRGlRd3hkNkR3c0t5M3p5WFBINmpYSjl1ZzROeGwyX0hUazhUMjRHVm45enRORzFXejZzY0p3?oc=5",
+          "source": "asiatoday.co.kr",
+          "date": "09/13"
         }
       ],
       "archive30d": [
@@ -607,6 +625,13 @@
           "level": "mid",
           "date": "09/10",
           "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "차광렬, 지분 25.12% 유지하며 담보계약 상대방 변경 공시",
+          "impact": "최대주주 지분율 변동 없어 지분구조 안정. 단, 담보 조건 변경은 재무 상태 모니터링 필요.",
+          "level": "mid",
+          "date": "09/14",
+          "collected_at": "2026-09-14"
         }
       ]
     },
@@ -617,20 +642,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-0.84%",
+        "-1.59%",
         "당사 투자"
       ],
-      "priceText": "₩4,725",
-      "openText": "₩4,730",
-      "highText": "₩4,765",
-      "lowText": "₩4,670",
-      "prevCloseText": "₩4,765",
-      "changeText": "-₩40",
+      "priceText": "₩4,650",
+      "openText": "₩4,725",
+      "highText": "₩4,725",
+      "lowText": "₩4,575",
+      "prevCloseText": "₩4,725",
+      "changeText": "-₩75",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩4,725",
+          "₩4,650",
           null
         ],
         [
@@ -645,27 +670,27 @@
         ],
         [
           "전일대비",
-          "-0.84%",
+          "-1.59%",
           null
         ],
         [
           "전주대비",
-          "-1.56%",
+          "-1.59%",
           null
         ],
         [
           "거래량(20일比)",
-          "6.26천 · 0.77x",
+          "6.46천 · 0.81x",
           null
         ],
         [
           "시가총액",
-          "860억",
+          "846억",
           null
         ],
         [
           "52주 고점대비",
-          "-76.11%",
+          "-76.49%",
           null
         ]
       ],
@@ -683,15 +708,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 추이 확인",
-        "신규 고객사·파트너십 공시 여부",
-        "헬스케어 전환 관련 사업확장 발표 여부"
+        "분기 매출·영업손익 추이",
+        "신규 고객사·파트너십 공시",
+        "사업 전환 관련 추가 공시"
       ],
       "spark": [
-        {
-          "date": "6/15",
-          "close": 6440.0
-        },
         {
           "date": "6/16",
           "close": 6380.0
@@ -939,20 +960,17 @@
         {
           "date": "9/11",
           "close": 4725.0
+        },
+        {
+          "date": "9/14",
+          "close": 4650.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/11 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
-      "sources": [
-        {
-          "title": "CNC News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
-          "source": "cncnews.co.kr",
-          "date": "09/10"
-        }
-      ],
+      "exchangeLine": "KRX · 9/14 종가",
+      "sourceUrl": null,
+      "sources": [],
       "archive30d": []
     },
     {
@@ -960,23 +978,23 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "수익성 전환 경로·AI 역량 IR 공개",
+      "event": "Loss Ratio 개선·매출총이익 성장 확인",
       "tags": [
-        "+0.79%",
+        "-0.42%",
         "벤치마크"
       ],
-      "priceText": "$49.61",
-      "openText": "$48.95",
-      "highText": "$50.44",
-      "lowText": "$48.78",
-      "prevCloseText": "$49.22",
-      "changeText": "+$0.39",
+      "priceText": "$49.40",
+      "openText": "$50.30",
+      "highText": "$50.99",
+      "lowText": "$49.01",
+      "prevCloseText": "$49.61",
+      "changeText": "-$0.21",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$49.61",
-          "₩66,612"
+          "$49.40",
+          "₩66,666"
         ],
         [
           "취득가",
@@ -990,27 +1008,27 @@
         ],
         [
           "전일대비",
-          "+0.79%",
+          "-0.42%",
           null
         ],
         [
           "전주대비",
-          "-7.11%",
+          "-7.51%",
           null
         ],
         [
           "거래량(20일比)",
-          "84.77만 · 0.87x",
+          "75.23만 · 0.80x",
           null
         ],
         [
           "시가총액",
-          "$3.84B",
-          "5.16조"
+          "$3.83B",
+          "5.17조"
         ],
         [
           "52주 고점대비",
-          "-50.34%",
+          "-50.55%",
           null
         ]
       ],
@@ -1025,19 +1043,15 @@
         }
       ],
       "events": [
-        "KBW 컨퍼런스에서 30%+ 성장 목표·흑자전환 경로를 제시했으나 확정 수치가 아닌 가이던스 수준으로 투자 판단에는 실적 검증이 선행되어야 함",
-        "CFO 교체는 재무전략 연속성 리스크로, 흑자전환 로드맵의 신뢰도에 영향을 줄 수 있어 주시 필요"
+        "Loss Ratio 60% 달성·Gross Profit 76% 증가는 디지털 손보 수익성 구조 개선의 실질적 신호. 벤치마크로서 참고 가치 있음.",
+        "주가가 고점 대비 49% 하락 상태로 밸류에이션 부담 완화됐으나, 흑자전환 시점·IFP 성장 지속성은 추가 확인 필요."
       ],
       "watch": [
-        "신임 CFO 확정 및 재무전략 방향 변화 여부",
-        "30%+ IFP 성장·흑자전환 시점 구체적 수치 공개 여부",
-        "Loss Ratio 개선 추이 확인"
+        "EBITDA 흑자전환 시점 및 IFP 성장률",
+        "Loss Ratio 60% 수준 지속 여부",
+        "밸류에이션 대비 신규 투자 매력도 판단"
       ],
       "spark": [
-        {
-          "date": "6/11",
-          "close": 57.18
-        },
         {
           "date": "6/12",
           "close": 57.49
@@ -1285,42 +1299,28 @@
         {
           "date": "9/10",
           "close": 49.61
+        },
+        {
+          "date": "9/11",
+          "close": 49.4
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 9/10 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYV9lNVZDNmVTakpEVVg5Z09xdTgwekx0akp3OG5jaGVoMi1zTU4tb2Y4bnhMU1dhaVdib2tycTdwLUJsdEhvSDM5alg5UG9ZRmNkYVlXZ2R1SmlHOG0zb1p5NUE3VWhQTThWR1hoRUlpRDRjaFFjem5ESEcyQkZqSA?oc=5",
+      "exchangeLine": "NYSE · 9/11 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWVBSnVTVjY3STZfd3dGRlpGTnFhME91NVd1RndRREFiVFM0b1dJUWtpd1dyMlRjLVhYdl9STzZwZzJOc3JEWlo1NHpwaUlFUHRPNUduNlRXQXZwblVmWTNrWEdPNEdnWUJYQUZ2d2RsREplRWJyTTdWU0p6T19uY25hRUp6Tl9ZRWdr?oc=5",
       "sources": [
         {
-          "title": "루멘 CFO Timothy Bixby to transition to Boa...",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYV9lNVZDNmVTakpEVVg5Z09xdTgwekx0akp3OG5jaGVoMi1zTU4tb2Y4bnhMU1dhaVdib2tycTdwLUJsdEhvSDM5alg5UG9ZRmNkYVlXZ2R1SmlHOG0zb1p5NUE3VWhQTThWR1hoRUlpRDRjaFFjem5ESEcyQkZqSA?oc=5",
-          "source": "Pluang",
-          "date": "09/11"
+          "title": "루멘's Loss Ratio Improved to 60%, and Its Gross Profit Rose 76%. The Stock Is Still 49% Off Its High.",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWVBSnVTVjY3STZfd3dGRlpGTnFhME91NVd1RndRREFiVFM0b1dJUWtpd1dyMlRjLVhYdl9STzZwZzJOc3JEWlo1NHpwaUlFUHRPNUduNlRXQXZwblVmWTNrWEdPNEdnWUJYQUZ2d2RsREplRWJyTTdWU0p6T19uY25hRUp6Tl9ZRWdr?oc=5",
+          "source": "Currently.com",
+          "date": "09/14"
         },
         {
-          "title": "Is 루멘 (루멘) Fully Priced After Its 283% Three Year Gain?",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSUtNekp4Q1Y3ckR3SkZzdXkteWRNVF9KcWV0enlZOHhWbGFaLU5UbVhwbm5YZW1GQXljbkRNOTNQcHlrVkZEdTFnajdEbjZkZUpLaGVTY0hHVEZKRDZaVF9naklYd2lJc3ZmMXM3M28zRDZ5WDNwNmFvSzFONUd1SlYweWxzcGdkMHFrZVBLLTBiUVpoenFvemluWFkwcHkwQURNeUlaUzZxWUtOYTFpV2lkT2JVWmJCOXZkU3YzME5DQ1XSAcgBQVVfeXFMTUlNdTZkQ2s5RGVuSHA5MnhIenBfb2ViMmFQMm8tOE9OVTUzTGU0RXo2aTBuV0g1dVNDenozR2dKZzMxUVZiUTMzejBSQlZMQV8ta1RmMlpmRzF3U2VFUDNIU1p1M29QbG9RM2twOFRtME9USkFfTk9pMDRiNG9VV2ExNDdrVWM3UVQ0WXRfdWRjdUFURDRNbEdkXzdxdHR1YmdtYVpPMWU0RDI1X1JNRzN2R1BLX2x5Ylp3YXV6c0hyQ05Ob2txSm4?oc=5",
-          "source": "simplywall.st",
-          "date": "09/10"
-        },
-        {
-          "title": "루멘: Targeting 30%+ growth, expanding cross-sell and AI capabilities, and nearing profitability milestones",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZ1JtWGJVNFc4di1WeU5zeS0zengydUxZY0NhNndWZGxEUDV2Q1NFQk0wSHpmeUFuNUxLNmd1Y1hXYm05c1ZtSUVBOFB1N2RCcE5QM1BOb1JrbHdQc1AyWWptdmJlMGV5bnV5MnA1NW9ZdFV3TDR6eXo0dDZKb3FqOE9Pa2E1ZjNlMlJfSm5wQ0c5VFlyRS1zVWVNMnp1dWg0VEdDNWh1cHU2VEppUlZ5MF9DQkJVUm9pWFNsZjkwa21hRU1kdUpGU0tTSHNTRFQtVEI2OFFKVnNXTnNJMm5hLXBYc25HbnJVQm9wZnFuY0JuYlhETVpfZWI2Z1JldjVjbU16ODJFTmlwZk1uRGhWdXZPcENDNVo3?oc=5",
-          "source": "TradingView",
-          "date": "09/10"
-        },
-        {
-          "title": "루멘 at KBW Insurance Conference 2026: growth, AI and profit path",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONThHTFN0TGhuSC1IbVU5b3FQRk1Qbl9uOXRkZ0RBbXhKSjRBcTlRMGJVT0xXeVRXQ05mU2VXSjRpQWotY0k5YWFPVXVyLVh5SVBuRWluUGx5R1djYktKWGlGalF3dnljbUl2aHVvVUtSMnRzcHl0OGtfQ0VfaTBXWVZvc0Zka25xdjh4dEotV0cxRTFXYkM0ZHdyUC05bmNHcS1pc3ZwTFhaZFpQUDFoSG5wa2FZQktxbndmQmFFY0RkLUdNMUdJLUN6dw?oc=5",
-          "source": "Investing.com",
-          "date": "09/10"
-        },
-        {
-          "title": "루멘 Pets: A Modern Approach to Pet Safety",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHhmOWZITGhmRXotOG9GbjZZRUZoN0NnNHZlS1R3QXdSSXB4M21xQlUyTjQxUG9Icmd1bVA2UnViODFGMkxEbnFqbXZFN3NGOXVmX0VQamp4ODJsbkh4dzVYaUR1UjFMdWlfbWxfZk9iX1NOUkFoVDV4U050V1hUa2ktQ1d0SFRr0gGIAUFVX3lxTFBseGY5ZkhMaGZFei04b0ZuNllFRmg3Q2c0dmVLVHdBd1JJcHgzbXFCVTJONDFQb0hyZ3VtUDZSdWI4MUYyTERucWptdkU3c0Y5dWZfRVBqang4MmxuSHh3NVhpRHVSMUx1aV9tbF9mT2JfU05SQWhUNXhTTnRXWFRraS1DV3RIVGs?oc=5",
-          "source": "findarticles.com",
-          "date": "09/10"
+          "title": "FSD Insurance Discounts: 5 Details That Matter for Owners - BASENOR",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTHJvaUtHVTgzMDZNWHJ2QWhTX3VYZU1hWTlOVHk0Wi16NUVCTTF0SHJoeUFQbDk2eExRbnN4MG1OR1p6S2VNVi1RSjRvQzdsMzlPTG8ydG8wMkI4SUkzTmRLQ3Nyd0JNT0dwOXY3VmFzR3ZIWWVmU1hNVUlpN0RoSEtxSWxMS1JXcDViRWg4YTc4anpoY0E?oc=5",
+          "source": "BASENOR - Tesla Accessories",
+          "date": "09/13"
         }
       ],
       "archive30d": [
@@ -1456,6 +1456,13 @@
           "level": "mid",
           "date": "09/11",
           "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "Loss Ratio 60% 개선, Gross Profit 전년 대비 76% 증가 보고",
+          "impact": "벤치마크 핵심 지표 개선 확인. 당사 디지털 손보 모델 수익성 비교 기준으로 활용 가능.",
+          "level": "mid",
+          "date": "09/14",
+          "collected_at": "2026-09-14"
         }
       ]
     },
@@ -1464,7 +1471,7 @@
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
       "g": "C",
-      "event": "인도네시아 시장 규제 변화 참고",
+      "event": "주요 변동 없음",
       "tags": [
         "+0.00%",
         "자회사"
@@ -1472,7 +1479,7 @@
       "priceText": "Rp645",
       "openText": "Rp645",
       "highText": "Rp645",
-      "lowText": "Rp640",
+      "lowText": "Rp625",
       "prevCloseText": "Rp645",
       "changeText": "+Rp0",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
@@ -1480,7 +1487,7 @@
         [
           "종가",
           "Rp645",
-          "₩49.2"
+          "₩49.4"
         ],
         [
           "취득가",
@@ -1499,18 +1506,18 @@
         ],
         [
           "전주대비",
-          "+3.20%",
+          "+0.00%",
           null
         ],
         [
           "거래량(20일比)",
-          "300 · 0.01x",
+          "3.80천 · 0.17x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,477억"
+          "1,481억"
         ],
         [
           "52주 고점대비",
@@ -1529,19 +1536,14 @@
         }
       ],
       "events": [
-        "인도네시아 증권거래소 비상호화 규칙 확정은 자본시장 구조 변화로, 자회사 상장사 지위와 향후 지분 거래에 간접적 영향 가능성 존재",
-        "공시·기사 기준 자회사 직접 관련 특이사항 없음"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 및 보험업 관련 후속 조치 여부",
-        "자회사 RBC 비율 동향",
-        "PIKK 개정 관련 자본적정성 영향 여부"
+        "OJK 규제 변화 및 PIKK 개정 동향",
+        "분기 RBC 및 GWP 성장 추이",
+        "추가 지분 변동 공시 여부"
       ],
       "spark": [
-        {
-          "date": "6/15",
-          "close": 650.0
-        },
         {
           "date": "6/17",
           "close": 670.0
@@ -1789,20 +1791,17 @@
         {
           "date": "9/11",
           "close": 645.0
+        },
+        {
+          "date": "9/14",
+          "close": 645.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 9/11 종가 (WIB)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnJJN01ZZWVTbUVVbEtXU0RhQU1YQUx4bDZBQ0JYV1JHam5RaUNHZ3BuZnc4elloWWFMZ1NLVlhsWTJYYXJ6ODVFRlNYWTBMRDU1WWsxZlg0ZXRFSi1FQ0hGRGp6TFZteGNrMHd5TUtwSmdPcTdibUY4RDhEdUNQU3FCY0d4MGJmNTYtSGFRVUFfcHBLekJKeg?oc=5",
-      "sources": [
-        {
-          "title": "Indonesia Finalizes Rules for Stock Exchange Demutualization",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnJJN01ZZWVTbUVVbEtXU0RhQU1YQUx4bDZBQ0JYV1JHam5RaUNHZ3BuZnc4elloWWFMZ1NLVlhsWTJYYXJ6ODVFRlNYWTBMRDU1WWsxZlg0ZXRFSi1FQ0hGRGp6TFZteGNrMHd5TUtwSmdPcTdibUY4RDhEdUNQU3FCY0d4MGJmNTYtSGFRVUFfcHBLekJKeg?oc=5",
-          "source": "Jakarta Globe",
-          "date": "09/10"
-        }
-      ],
+      "exchangeLine": "IDX · 9/14 종가 (WIB)",
+      "sourceUrl": null,
+      "sources": [],
       "archive30d": [
         {
           "summary": "인도네시아 보험 시장, OJK의 AI 기반 보험사 감독 체계 도입 논의 보도",
