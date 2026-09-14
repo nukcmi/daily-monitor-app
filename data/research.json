@@ -1,33 +1,61 @@
 {
-  "updated": "2026-09-11 18:39",
+  "updated": "2026-09-14 09:53",
   "articles": [
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "스테이블코인과 보험산업 과제",
-      "takeaway": "스테이블코인 확산이 보험산업의 지급·자산운용·리스크 관리에 새 과제를 제기",
+      "takeaway": "스테이블코인 확산이 보험산업 내 새로운 리스크와 기회를 동시에 제기한다.",
       "bullets": [
-        "보험료 납입·보험금 지급에 스테이블코인 활용 시 규제·회계 처리 불명확",
-        "준비자산(backing asset) 리스크가 보험사 투자 포트폴리오에 영향 가능",
-        "국내 규제 공백 속 디지털자산 언더라이팅 기준 마련 필요"
+        "스테이블코인 관련 준비자산 운용·지급 리스크 관리 필요",
+        "디지털 자산 담보 보험상품 개발 가능성 검토 시점",
+        "국내 규제 정비에 따른 보험사 대응 전략 수립 요구"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-06",
-      "collected_at": "2026-09-11"
+      "collected_at": "2026-09-14"
     },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "기업 경영환경 변화와 임원배상책임보험 시장의 과제",
-      "takeaway": "경영환경 변화로 임원 리스크가 다양화되어 D&O 보험 시장 재편이 가속화",
+      "takeaway": "경영환경 불확실성 증가로 D&O(임원배상책임)보험 시장 재편이 가속화된다.",
       "bullets": [
-        "ESG·공급망·사이버 등 신규 임원 책임 영역 확대로 클레임 유형 다변화",
-        "국내 D&O 시장은 인수 기준·요율 체계 정비 시급",
-        "소송 리스크 증가 대비 언더라이팅(인수심사) 고도화 필요"
+        "ESG·공급망 실사 등 임원 법적 책임 범위 확대",
+        "소송 증가와 손해율 상승으로 언더라이팅 강화 필요",
+        "국내 D&O 시장 성장 잠재력과 상품 고도화 과제 병존"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=805489&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-03",
-      "collected_at": "2026-09-11"
+      "collected_at": "2026-09-14"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "Make Better. Sell Better. Protect Better: How Sustainable AI Creates Value",
+      "takeaway": "AI 투자는 전사 확대보다 가치 창출 지점 집중이 핵심이다.",
+      "bullets": [
+        "많은 경영진이 AI 적용 범위를 과대평가하는 경향",
+        "선도 기업은 Make·Sell·Protect 3영역에서 선택과 집중",
+        "지속가능한 AI는 비용 절감보다 비즈니스 가치 창출에 초점"
+      ],
+      "url": "https://www.bain.com/insights/make-better-sell-better-protect-better-how-sustainable-ai-creates-value-ceo-sustainability-report-2026/",
+      "date": "09/11",
+      "collected_at": "2026-09-14"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "The New Investment Playbook for Sustainability",
+      "takeaway": "지속가능성을 장기 경쟁우위 원천으로 전환하는 투자 전략이 부상한다.",
+      "bullets": [
+        "ESG를 비용이 아닌 수익 창출 기회로 재정의",
+        "장기 투자 관점에서 지속가능성 리스크 가격 반영 필요",
+        "보험사 자산운용 전략에 ESG 통합 압력 증대"
+      ],
+      "url": "https://www.bain.com/insights/new-investment-playbook-for-sustainability-ceo-sustainability-report-2026/",
+      "date": "09/11",
+      "collected_at": "2026-09-14"
     },
     {
       "publisher": "Bain",
