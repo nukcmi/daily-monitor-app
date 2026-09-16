@@ -1,89 +1,161 @@
 {
-  "updated": "2026-09-16 13:35",
+  "updated": "2026-09-16 16:57",
   "items": [
     {
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
       "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
       "source": "TechCrunch",
       "date": "09/16",
-      "insight": "빅테크가 AI 자율규제를 주장—정부 규제 선점 전략으로 읽힌다"
+      "insight": "젠슨 황, AI 규제 불필요 주장…안전은 기업 몫",
+      "takeaway": "젠슨 황, AI 규제 불필요 주장…안전은 기업 몫",
+      "bullets": [
+        "AI는 외계 지능 아닌 하드웨어·소프트웨어",
+        "안전은 각 제품 제조사가 자체 설계해야",
+        "정부 규제 대신 업계 자율 안전 강조"
+      ]
     },
     {
       "title": "The AI data center boom is colliding with cities scarred by big industry",
       "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
       "source": "TechCrunch",
       "date": "09/15",
-      "insight": "데이터센터 입지 갈등이 도시 환경정의 이슈로 확산 중"
+      "insight": "데이터센터 건설 반발, 환경 피해 지역까지 확산",
+      "takeaway": "데이터센터 건설 반발, 환경 피해 지역까지 확산",
+      "bullets": [
+        "필라델피아 구 정유소 지역에 건설 제안",
+        "전국적 데이터센터 반대 운동 확산 중",
+        "산업 피해 지역 주민과 충돌 우려"
+      ]
     },
     {
       "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
       "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
       "source": "TechCrunch",
       "date": "09/15",
-      "insight": "MCP로 AI 에이전트가 SaaS 설정까지 대체—개발 패러다임 전환"
+      "insight": "메타, AI 에이전트로 WhatsApp 비즈니스 설정 자동화",
+      "takeaway": "메타, AI 에이전트로 WhatsApp 비즈니스 설정 자동화",
+      "bullets": [
+        "WhatsApp Business MCP 서버 새로 출시",
+        "Claude·Cursor·ChatGPT 등 AI 에이전트 지원",
+        "템플릿 설정·테스트·트러블슈팅 자동화"
+      ]
     },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
       "source": "TechCrunch",
       "date": "09/15",
-      "insight": "AI 과잉 기대 이후 정리 국면—옥석 가리기 가속화 신호"
+      "insight": "AI 프로젝트 실패 사례 누적…업계 옥석 가리기 본격화",
+      "takeaway": "AI 프로젝트 실패 사례 누적…업계 옥석 가리기 본격화",
+      "bullets": [
+        "애플 Siri AI 반복 지연 사례 포함",
+        "OpenAI 슈퍼앱 출시 혼란도 목록에",
+        "종료·기대 미달 AI 프로젝트 리스트 공개"
+      ]
     },
     {
       "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
       "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
       "source": "TechCrunch",
       "date": "09/15",
-      "insight": "AI 인프라가 국가 에너지 안보 변수로 부상하는 임계점 도달"
+      "insight": "AI 붐으로 미 데이터센터 천연가스 소비 급증 전망",
+      "takeaway": "AI 붐으로 미 데이터센터 천연가스 소비 급증 전망",
+      "bullets": [
+        "2035년 독일·일본 합산보다 많은 가스 소비 예측",
+        "AI 열풍이 에너지 수요 폭증 주도",
+        "데이터센터가 세계 최대 가스 소비처 될 수도"
+      ]
     },
     {
       "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
       "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
       "source": "TechCrunch",
       "date": "09/15",
-      "insight": "스타십 첫 궤도 진입 시도—재사용 대형 발사체 시대 현실화"
+      "insight": "스페이스X, 9월 22일 스타십 첫 궤도 진입 도전",
+      "takeaway": "스페이스X, 9월 22일 스타십 첫 궤도 진입 도전",
+      "bullets": [
+        "스타십 최초 궤도 비행 시도 예정",
+        "V3 스타링크 위성 첫 배치도 함께 시도",
+        "일론 머스크 우주 사업 핵심 이정표"
+      ]
+    },
+    {
+      "title": "Cohesity’s new Agent Resilience lets companies roll back AI agents that go wrong",
+      "url": "https://siliconangle.com/2026/09/16/cohesitys-new-agent-resilience-lets-companies-roll-back-ai-agents-that-go-wrong/",
+      "source": "SiliconANGLE",
+      "date": "09/16",
+      "insight": "코히시티, 오작동 AI 에이전트 롤백 솔루션 출시",
+      "takeaway": "코히시티, 오작동 AI 에이전트 롤백 솔루션 출시",
+      "bullets": [
+        "AI 에이전트 메모리·설정 백업 기능 제공",
+        "Catalyst 컨퍼런스서 Agent Resilience 발표",
+        "기업용 AI 안전망 수요 대응 제품"
+      ]
     },
     {
       "title": "Democrats vote down crypto’s Clarity Act, citing ethics concerns and Trump’s vast crypto wealth",
       "url": "https://siliconangle.com/2026/09/15/democrats-vote-down-cryptos-clarity-act-citing-ethics-concerns-and-trumps-vast-crypto-wealth/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "트럼프 코인 이해충돌 논란이 입법을 직접 좌초—규제 불확실성 지속"
+      "insight": "미 민주당, 트럼프 암호화폐 법안 부결…윤리 논란",
+      "takeaway": "미 민주당, 트럼프 암호화폐 법안 부결…윤리 논란",
+      "bullets": [
+        "Clarity Act 상원 표결서 부결",
+        "트럼프 방대한 암호화폐 자산 이해충돌 지적",
+        "암호화폐 업계 입법 추진 큰 타격"
+      ]
     },
     {
       "title": "OpenAI, Anthropic and Google secretly joined forces to collaborate on AI safety",
       "url": "https://siliconangle.com/2026/09/15/openai-anthropic-and-google-secretly-joined-forces-to-collaborate-on-ai-safety/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "경쟁사 3사 비밀 안전 협력—산업 자율규제 연합 형성 가능성"
+      "insight": "OpenAI·Anthropic·구글, AI 안전 공동 프레임워크 비밀 협력",
+      "takeaway": "OpenAI·Anthropic·구글, AI 안전 공동 프레임워크 비밀 협력",
+      "bullets": [
+        "세 경쟁사가 AI 안전 기준 공동 개발 중",
+        "OpenAI 정책 총괄이 협력 사실 공개",
+        "경쟁사 간 이례적 안전 분야 연대"
+      ]
     },
     {
       "title": "Governance becomes critical as AI agents move into financial reporting",
       "url": "https://siliconangle.com/2026/09/15/workiva-bets-trust-ai-agents-enter-financial-reporting-amplify/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "재무·감사 영역 AI 도입 시 속도보다 신뢰가 핵심 변수"
+      "insight": "재무보고에 AI 도입 시 거버넌스·감사 가능성이 핵심",
+      "takeaway": "재무보고에 AI 도입 시 거버넌스·감사 가능성이 핵심",
+      "bullets": [
+        "AI 에이전트 기업 소프트웨어 기본값으로 정착",
+        "재무·감사·컴플라이언스는 결과 방어력 필수",
+        "속도보다 신뢰성·설명 가능성이 우선"
+      ]
     },
     {
       "title": "Newell Brands puts internal audit at the heart of AI adoption",
       "url": "https://siliconangle.com/2026/09/15/newell-brands-puts-internal-audit-at-the-heart-of-ai-adoption-amplify/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "내부감사가 AI 자동화 속도 조절자로 부상—거버넌스 기능 재정의"
+      "insight": "Newell Brands, 내부 감사 중심으로 AI 도입 속도 조율",
+      "takeaway": "Newell Brands, 내부 감사 중심으로 AI 도입 속도 조율",
+      "bullets": [
+        "내부 감사가 자동화 속도 결정 역할 담당",
+        "AI가 명확한 통제·책임 요구 업무 수행",
+        "AI 도입에서 감사 기능의 중요성 증대"
+      ]
     },
     {
       "title": "Connected data emerges as the foundation for trusted AI: theCUBE’s keynote analysis from Amplify",
       "url": "https://siliconangle.com/2026/09/15/connected-data-emerges-as-foundation-for-trusted-ai-amplify/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "AI 에이전트 신뢰성의 핵심은 연결된 데이터 품질에 달렸다"
-    },
-    {
-      "title": "Factory raises $200M for its self-improving software development platform",
-      "url": "https://siliconangle.com/2026/09/15/factory-raises-200m-for-its-self-improving-software-development-platform/",
-      "source": "SiliconANGLE",
-      "date": "09/16",
-      "insight": "AI 에이전트 개발툴에 $200M—소프트웨어 생산방식 자체가 바뀐다"
+      "insight": "연결된 데이터가 신뢰할 수 있는 AI의 핵심 기반",
+      "takeaway": "연결된 데이터가 신뢰할 수 있는 AI의 핵심 기반",
+      "bullets": [
+        "AI 에이전트에 맥락 제공하려면 데이터 연결 필수",
+        "파편화된 데이터는 AI 신뢰성 저해",
+        "기업들이 AI에 중요 업무 점차 위임 중"
+      ]
     }
   ]
 }

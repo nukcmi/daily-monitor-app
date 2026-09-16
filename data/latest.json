@@ -1,20 +1,20 @@
 {
   "asOf": "2026-09-16",
-  "updated": "2026-09-16 13:35",
-  "fx": "환율 2026-09-16 · 시장환율   1 USD = ₩1,365.02   |   1 USD = 17,715.00 IDR   |   1 IDR = ₩0.07705",
+  "updated": "2026-09-16 16:57",
+  "fx": "환율 2026-09-16 · 시장환율   1 USD = ₩1,364.40   |   1 USD = 17,685.00 IDR   |   1 IDR = ₩0.07715",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "대량보유상황보고서 신규 제출 — 지분 구조 변동 공시 발생",
-      "impact": "지분구조 변동은 당사 보유 지분 희석 또는 대주주 구도 변화로 직결될 수 있어 즉시 내용 확인 필요",
+      "text": "9회차 신주인수권 행사가액이 1만1,301원으로 하향 조정되는 공시 접수",
+      "impact": "행사가 하향은 기존 주주 희석 압력을 높이며 당사 보유 지분가치에 부정적으로 작용",
       "level": "high",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914000280"
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900441"
     },
     {
       "company": "차바이오텍",
-      "text": "타인에 대한 담보제공 결정 기재 정정 공시 발생",
-      "impact": "담보 조건 변경은 대주주 유동성 리스크의 실질적 변화를 의미하며 당사 지분가치 안정성에 영향",
-      "level": "high",
+      "text": "타인에 대한 담보제공 결정 공시가 기재 정정됨",
+      "impact": "담보 내용 변경 여부에 따라 재무 리스크 수준이 달라지므로 정정 내용 확인 필요",
+      "level": "mid",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910900561"
     }
   ],
@@ -24,22 +24,22 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "A",
-      "event": "대주주 담보 리스크 부각",
+      "event": "자금조달 부담 가중 국면",
       "tags": [
-        "+0.13%",
+        "-1.51%",
         "당사 투자"
       ],
-      "priceText": "₩7,950",
-      "openText": "₩7,940",
-      "highText": "₩8,030",
-      "lowText": "₩7,880",
-      "prevCloseText": "₩7,940",
-      "changeText": "+₩10",
+      "priceText": "₩7,830",
+      "openText": "₩7,950",
+      "highText": "₩7,960",
+      "lowText": "₩7,770",
+      "prevCloseText": "₩7,950",
+      "changeText": "-₩120",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩7,950",
+          "₩7,830",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-37.91%",
+          "-38.85%",
           null
         ],
         [
           "전일대비",
-          "+0.13%",
+          "-1.51%",
           null
         ],
         [
           "전주대비",
-          "-1.12%",
+          "-2.61%",
           null
         ],
         [
           "거래량(20일比)",
-          "17.70만 · 0.52x",
+          "13.42만 · 0.41x",
           null
         ],
         [
           "시가총액",
-          "7,261억",
+          "7,280억",
           null
         ],
         [
           "52주 고점대비",
-          "-66.81%",
+          "-67.31%",
           null
         ]
       ],
@@ -89,19 +89,15 @@
         }
       ],
       "events": [
-        "담보주식 비율 10% 돌파·1,300억 유동성 부담은 대주주 지분 매각 또는 추가 담보 설정 압력으로 이어질 수 있어 지분구조 안정성이 훼손될 위험",
-        "자금조달 압박이 지속될 경우 CGT/CDMO 사업 투자 여력 약화로 당사 보유 지분가치에 하방 압력"
+        "신주인수권 행사가액 하향과 대주주 담보주식 비율 10% 초과가 동시에 확인되어 재무 압박이 구체화되는 국면",
+        "1,300억 수준의 유동성 부담 속 대주주 지분 방어 여부가 지분구조 안정성의 핵심 변수로 부상"
       ],
       "watch": [
-        "대주주 담보주식 추가 설정 여부",
-        "1,300억 유동성 해소 방안 구체화 시점",
-        "CB 또는 유상증자 등 자금조달 공시 발생 여부"
+        "9회차 BW 행사가 추가 하향 가능성",
+        "대주주 담보 주식 매도·반대매매 여부",
+        "추가 CB·유증 등 자금조달 계획 공시"
       ],
       "spark": [
-        {
-          "date": "6/17",
-          "close": 12580.0
-        },
         {
           "date": "6/18",
           "close": 12080.0
@@ -349,13 +345,23 @@
         {
           "date": "9/15",
           "close": 7950.0
+        },
+        {
+          "date": "9/16",
+          "close": 7830.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/15 종가",
-      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914000280",
+      "exchangeLine": "KRX · 9/16 종가",
+      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900441",
       "sources": [
+        {
+          "title": "신주인수권행사가액의조정",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900441",
+          "source": "DART",
+          "date": "20260916"
+        },
         {
           "title": "주식등의대량보유상황보고서(일반)",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914000280",
@@ -369,36 +375,30 @@
           "date": "20260910"
         },
         {
-          "title": "차바이오텍 대주주 담보주식 10% 돌파, 1,300억 유동성 부담 속 지분 방어",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81aXVjbmpGMGVQSWZtZkp1bXRFaDVTc0F0dXN1Tm0tMk1DSDN5UER1S1R6dk9fd1lxSXVwQnRGR3pZb0xsSVdNRGpDd180eE5CR1NMQw?oc=5",
-          "source": "바이오북미디어",
-          "date": "09/15"
-        },
-        {
-          "title": "차바이오텍 주가 상승 중",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OZnNsUDZEMUQ2NThLems3aFF5UlN2d3FmWXV6TGZFdEhJazV2cVp1WTVzMm9jY04yZzhjVEh1VUJqcHgzM0ctbV80UFpxNnkxYWtFRmR0enVyNGFD?oc=5",
-          "source": "아시아뉴스통신",
-          "date": "09/15"
+          "title": "차바이오텍, 9회차 신주인수권 행사가액 1만1301원으로 하향 조정",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HZmI2OGdlS2cxdXNkME5pUmpIcTlkYVRIaGZEOWZHZnVkdFdTa1lQRWc2Umw1eF9MR0ptZVRZXzdraE5VcEZKNGVhVzRUbHNMMkZ2eld1UldZWFJMQmFFcDFKa1ZzV0lrQWxCUldDLVB6VDQ?oc=5",
+          "source": "데이터투자",
+          "date": "09/16"
         }
       ],
       "archive30d": [
         {
-          "summary": "대량보유상황보고서 신규 제출 — 지분 구조 변동 공시 발생",
-          "impact": "지분구조 변동은 당사 보유 지분 희석 또는 대주주 구도 변화로 직결될 수 있어 즉시 내용 확인 필요",
+          "summary": "9회차 신주인수권 행사가액이 1만1,301원으로 하향 조정되는 공시 접수",
+          "impact": "행사가 하향은 기존 주주 희석 압력을 높이며 당사 보유 지분가치에 부정적으로 작용",
           "level": "high",
-          "date": "09/14",
+          "date": "09/16",
           "collected_at": "2026-09-16"
         },
         {
-          "summary": "타인에 대한 담보제공 결정 기재 정정 공시 발생",
-          "impact": "담보 조건 변경은 대주주 유동성 리스크의 실질적 변화를 의미하며 당사 지분가치 안정성에 영향",
-          "level": "high",
+          "summary": "타인에 대한 담보제공 결정 공시가 기재 정정됨",
+          "impact": "담보 내용 변경 여부에 따라 재무 리스크 수준이 달라지므로 정정 내용 확인 필요",
+          "level": "mid",
           "date": "09/10",
           "collected_at": "2026-09-16"
         },
         {
-          "summary": "대주주 담보주식 비율 10% 돌파, 1,300억 규모 유동성 부담 보도",
-          "impact": "대주주 강제 매각 시 주가 하락 및 당사 보유 지분 평가손 발생 가능성 높아짐",
+          "summary": "대주주 담보 제공 주식 비율이 보유 지분의 10%를 초과, 1,300억 수준의 유동성 부담 보도",
+          "impact": "반대매매 발생 시 대주주 지분율 하락 및 지분구조 불안정으로 당사 지분가치 훼손 가능성",
           "level": "mid",
           "date": "09/15",
           "collected_at": "2026-09-16"
@@ -412,20 +412,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+0.86%",
+        "-0.21%",
         "당사 투자"
       ],
-      "priceText": "₩4,690",
-      "openText": "₩4,605",
-      "highText": "₩4,690",
-      "lowText": "₩4,575",
-      "prevCloseText": "₩4,650",
-      "changeText": "+₩40",
+      "priceText": "₩4,680",
+      "openText": "₩4,830",
+      "highText": "₩4,830",
+      "lowText": "₩4,680",
+      "prevCloseText": "₩4,690",
+      "changeText": "-₩10",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩4,690",
+          "₩4,680",
           null
         ],
         [
@@ -440,27 +440,27 @@
         ],
         [
           "전일대비",
-          "+0.86%",
+          "-0.21%",
           null
         ],
         [
           "전주대비",
-          "-0.74%",
+          "-0.95%",
           null
         ],
         [
           "거래량(20일比)",
-          "3.87천 · 0.50x",
+          "1.34천 · 0.18x",
           null
         ],
         [
           "시가총액",
-          "855억",
+          "851억",
           null
         ],
         [
           "52주 고점대비",
-          "-76.29%",
+          "-76.34%",
           null
         ]
       ],
@@ -478,15 +478,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 발표 시점 확인",
-        "헬스케어 신규 고객사·파트너십 공시 여부",
-        "자금조달 관련 공시 발생 여부"
+        "반기·분기 실적(매출·영업손익) 공시",
+        "신규 고객사·파트너십 계약 발표",
+        "헬스케어 사업 전환 관련 추가 공시"
       ],
       "spark": [
-        {
-          "date": "6/17",
-          "close": 6530.0
-        },
         {
           "date": "6/18",
           "close": 6320.0
@@ -734,11 +730,15 @@
         {
           "date": "9/15",
           "close": 4690.0
+        },
+        {
+          "date": "9/16",
+          "close": 4680.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/15 종가",
+      "exchangeLine": "KRX · 9/16 종가",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -748,7 +748,7 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "B",
-      "event": "손해율 개선·자율주행 보험 검토",
+      "event": "자율주행차 보험 등 신사업 검토",
       "tags": [
         "-0.58%",
         "벤치마크"
@@ -764,7 +764,7 @@
         [
           "종가",
           "$49.74",
-          "₩67,896"
+          "₩67,865"
         ],
         [
           "취득가",
@@ -813,13 +813,13 @@
         }
       ],
       "events": [
-        "Loss Ratio 60% 달성·총이익 76% 증가는 디지털 손보 수익구조 개선의 실증 사례로 당사 사업모델 벤치마킹 시 참고 가치 있음",
-        "자율주행차 보험 및 크로스셀 전략 병행은 IFP 성장 경로 다변화 시도로, 구조적 성장 가능성을 가늠하는 지표로 관찰 필요"
+        "CFO가 자율주행차 보험과 교차판매 성장을 공개 언급하며 IFP 확장 경로를 제시한 점은 벤치마크 관점에서 주목",
+        "기술 기반 성장·안정적 전략 유지 기조가 반복 확인되나 구조적 지표 개선 여부는 미확정"
       ],
       "watch": [
-        "Loss Ratio 추가 개선 및 EBITDA 흑자전환 시점",
-        "자율주행 보험 상품화 일정 및 IFP 기여도",
-        "크로스셀 전략이 GWP 성장률에 미치는 효과"
+        "IFP 성장률 및 Loss Ratio 분기 추이",
+        "EBITDA 흑자전환 시점 가이던스",
+        "자율주행 보험 상품 구체화 일정"
       ],
       "spark": [
         {
@@ -1078,8 +1078,14 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 9/15 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQl92U0NVMURVYVZ0V0twcFNHWjhmaWttU0lNUWRKamE0dmZzSmdKcHE3aDNwa3ZORE1UclFiR2dqYUdfWG5oOEJQcmJ1QVIzcEtrZUcyeHdaRGpySm9FQm9mR0pIcVNySjJfU1BfaW10ZFBzZDZYd041czlmbTRzRVFFa0kwXzFtMjRrallYOExtOTJQOXlSMXI0eDJtTmpNQnI2OVhyX0hQV3J6SVlpRFVHNml4djlwVm5TM3JTb0tNWWdOaEdSOTNLTUNmbXlKbjdIRXBTS1lBZ3ZGcnRRZHJBYUVRYVJHcndIRzlobDRTN3BLNklheFhydl9PSG04LXFONUI4OHhnQmIwQVNocWF3SUszaTkxQkl3Vg?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2hGdkZ5MVphSGZiOFBkMm5rOGRwUVQ5RGtpNU1oRzZ3MmtjLUxCX09odFR1YnFpaGE5MXdCSERuVm81Mm13UVZWbldBdldTQnlZeUhTVllfaTg1cUw3SzZGWnVlMzlPN054THpzd0lZdDBxSUl0ZmNLZ0lHaVB3bGJwNGp1QTdkSlBsUDBjLU94ZDNtOGxCSEM0OWc0R1BYSjAxdVdjNGpIaG1walJ5eWwwbkx4R3dXaThRZHNZenlsQmZwT09jdg?oc=5",
       "sources": [
+        {
+          "title": "Baird Financial Group Inc. Acquires Shares of 54,257 루멘 $루멘",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2hGdkZ5MVphSGZiOFBkMm5rOGRwUVQ5RGtpNU1oRzZ3MmtjLUxCX09odFR1YnFpaGE5MXdCSERuVm81Mm13UVZWbldBdldTQnlZeUhTVllfaTg1cUw3SzZGWnVlMzlPN054THpzd0lZdDBxSUl0ZmNLZ0lHaVB3bGJwNGp1QTdkSlBsUDBjLU94ZDNtOGxCSEM0OWc0R1BYSjAxdVdjNGpIaG1walJ5eWwwbkx4R3dXaThRZHNZenlsQmZwT09jdg?oc=5",
+          "source": "MarketBeat",
+          "date": "09/16"
+        },
         {
           "title": "루멘: Stable strategy, tech-driven growth, and cross-sell focus position the company for sustained expansion",
           "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQl92U0NVMURVYVZ0V0twcFNHWjhmaWttU0lNUWRKamE0dmZzSmdKcHE3aDNwa3ZORE1UclFiR2dqYUdfWG5oOEJQcmJ1QVIzcEtrZUcyeHdaRGpySm9FQm9mR0pIcVNySjJfU1BfaW10ZFBzZDZYd041czlmbTRzRVFFa0kwXzFtMjRrallYOExtOTJQOXlSMXI0eDJtTmpNQnI2OVhyX0hQV3J6SVlpRFVHNml4djlwVm5TM3JTb0tNWWdOaEdSOTNLTUNmbXlKbjdIRXBTS1lBZ3ZGcnRRZHJBYUVRYVJHcndIRzlobDRTN3BLNklheFhydl9PSG04LXFONUI4OHhnQmIwQVNocWF3SUszaTkxQkl3Vg?oc=5",
@@ -1097,25 +1103,12 @@
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOXzVSNzBMaEdfVFpUeEg4Wm45RWxjbUdsc0s1bE5QcS1IcXdzNUVvVmU2VmlwMnBWd01OMzlMRmhsMlVmUXFHVzJvN0l5Yi1CQTF2U0VQSjBWYkRBTmRSZllEWjloLUNCMzM1cU91a3RuQnVDcUFkcC0yNnlmNVhtWHFDS1ZGbUV4OXR0bE0yenlncGNBYmJvX05kS2JEdW1OWHE3TTE1YmxEcXZpSXZQdDl0M3p3MTFlc3BMNjBma3puUmV2QWRmZ1VJMnRrcHNDU2VzRThyLXF4bzhnMEhMcVFZQzNxSlhOMnA1ZnVzeFNrS3E5Skc3Q3VHSXFidmlYTldQc2JxeFNCcXJMdUE?oc=5",
           "source": "TradingView",
           "date": "09/15"
-        },
-        {
-          "title": "루멘 CFO eyes self-driving car insurance, cross-selling growth",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGxfVVZ3cWhBLXZZMkgxdGJQN05WVXZodk1uWFBEUFFXQVZVZUxKSDE0RS0tY0gwTHNBTnZjeG5XQS1odWp2LXZ1WlVKREZGU2V0YVZqa3laQkJNV2FQZTJFZlBaeUxSY1lzLUlUT2NYbEZ5NVI5VXpvTnE5NUd2YjlPMklrVHZuTTIxcUp3cTdvTlBYNF9sVDZtelpYM0lyNlEwcQ?oc=5",
-          "source": "cfodive.com",
-          "date": "09/14"
         }
       ],
       "archive30d": [
         {
-          "summary": "Loss Ratio 60% 달성, 총이익 전년 대비 76% 증가 실적 보도",
-          "impact": "디지털 손보 핵심 지표 개선 확인으로 투자 검토 시 수익구조 안정성 평가에 긍정적 참고 데이터",
-          "level": "mid",
-          "date": "09/14",
-          "collected_at": "2026-09-16"
-        },
-        {
-          "summary": "CFO가 자율주행차 보험 시장 진출 및 크로스셀 성장 전략 검토 중임을 밝힘",
-          "impact": "신규 사업 영역 확장 방향성 확인으로 IFP 성장 경로 및 장기 밸류에이션 매력도 판단에 참고",
+          "summary": "루멘 CFO가 자율주행차 보험 진출 검토 및 교차판매 성장 전략을 공개 언급",
+          "impact": "디지털 손보 벤치마크로서 신사업 영역 확장 방향 확인, 당사 사업모델 비교 검토에 활용 가능",
           "level": "mid",
           "date": "09/14",
           "collected_at": "2026-09-16"
@@ -1143,7 +1136,7 @@
         [
           "종가",
           "Rp645",
-          "₩49.7"
+          "₩49.8"
         ],
         [
           "취득가",
@@ -1173,7 +1166,7 @@
         [
           "시가총액",
           "Rp1.9조",
-          "1,491억"
+          "1,493억"
         ],
         [
           "52주 고점대비",
@@ -1195,9 +1188,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 및 PIKK 개정 동향",
-        "분기 RBC 비율 유지 여부",
-        "추가 지분 변동 공시 발생 여부"
+        "OJK 규제 변경 및 PIKK 개정 동향",
+        "분기 RBC 비율 공시",
+        "추가 지분 변동 및 연결 편입 후 GWP 실적"
       ],
       "spark": [
         {
@@ -1472,6 +1465,36 @@
     ],
     "rows": [
       {
+        "company": "한화손보",
+        "cells": [
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          }
+        ],
+        "isOwn": true
+      },
+      {
         "company": "삼성화재",
         "cells": [
           {
@@ -1498,7 +1521,8 @@
             "value": null,
             "date": null
           }
-        ]
+        ],
+        "isOwn": false
       },
       {
         "company": "DB손해보험",
@@ -1527,7 +1551,8 @@
             "value": null,
             "date": null
           }
-        ]
+        ],
+        "isOwn": false
       },
       {
         "company": "현대해상",
@@ -1556,7 +1581,8 @@
             "value": null,
             "date": null
           }
-        ]
+        ],
+        "isOwn": false
       },
       {
         "company": "KB손해보험",
@@ -1585,7 +1611,8 @@
             "value": null,
             "date": null
           }
-        ]
+        ],
+        "isOwn": false
       },
       {
         "company": "메리츠화재",
@@ -1614,36 +1641,8 @@
             "value": null,
             "date": null
           }
-        ]
-      },
-      {
-        "company": "한화손해보험",
-        "cells": [
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          }
-        ]
+        ],
+        "isOwn": false
       }
     ]
   }
