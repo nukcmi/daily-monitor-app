@@ -47,6 +47,7 @@
 <div class="view-tabs">
   <button class="view-tab on" data-view="stocks">종목 모니터링</button>
   <button class="view-tab" data-view="research">트렌드 동향</button>
+  <button class="view-tab" data-view="startups">글로벌 스타트업</button>
 </div>
 
 <div id="stocksView">
@@ -63,6 +64,10 @@
 
   <h2 class="mt">핵심 확인사항</h2>
   <div id="attnList"></div>
+
+  <h2 class="mt">국내 손보사 KPI 비교</h2>
+  <div class="kpi-table-note">최근 기사·공시에 실제로 언급된 수치만 표시합니다. 빈 칸은 해당 기간 내 확인된 수치가 없다는 뜻입니다.</div>
+  <div id="insurerKpiSection"></div>
 </div>
 
 <div id="researchView" style="display:none">
@@ -72,6 +77,14 @@
   <div class="research-updated" id="researchUpdatedLine">-</div>
   <div id="researchList"></div>
   <div id="researchArchive"></div>
+</div>
+
+<div id="startupsView" style="display:none">
+  <div class="head">
+    <h2>글로벌 스타트업 동향</h2>
+  </div>
+  <div class="research-updated" id="startupsUpdatedLine">-</div>
+  <div id="startupsList"></div>
 </div>
 
 <footer class="legal">
