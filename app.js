@@ -228,6 +228,7 @@ function render(f = 'ALL') {
         <div class="mc-cell"><span>전일종가</span><b>${x.prevCloseText || '-'}</b></div>
         <div class="mc-cell"><span>시가</span><b>${x.openText || '-'}</b></div>
         <div class="mc-cell"><span>고가</span><b>${x.highText || '-'}</b></div>
+        <div class="mc-cell"><span>고가</span><b>${x.highText || '-'}</b></div>
         <div class="mc-cell"><span>저가</span><b>${x.lowText || '-'}</b></div>
       </div>
     </div>`;
@@ -338,7 +339,7 @@ function sourceRow(s, i) {
 function openExternal(url) {
   if (!url) return;
   if (window.Telegram?.WebApp?.openLink) {
-        Telegram.WebApp.openLink(url);
+    Telegram.WebApp.openLink(url);
   } else {
     window.open(url, '_blank');
   }
@@ -458,16 +459,35 @@ function renderInsurerKpi() {
     const cells = r.cells.map(c => {
       if (c.value == null) return `<td class="kpi-cell-empty">-</td>`;
       return `<td class="kpi-cell"><b>${c.value}</b>${c.date ? `<span class="kpi-cell-date">${c.date}</span>` : ''}</td>`;
+      return `<td class="kpi-cell"><b>${c.value}</b>${c.date ? `<span class="kpi-cell-date">${c.date}</span>` : ''}</td>`;
     }).join('');
-    return `<tr><td class="kpi-company">${r.company}</td>${cells}</tr>`;
+    return `<tr class="${r.isOwn ? 'kpi-own-row' : ''}"><td class="kpi-company${r.isOwn ? ' kpi-own' : ''}">${r.company}</td>${cells}</tr>`;
   }).join('');
+
+  // 모바일 전용: 좌우 스크롤 없이 회사당 카드 하나 + 지표 3열 그리드
+  const cards = kpi.rows.map(r => {
+    const cells = r.cells.map((c, i) => `
+      <div class="kpi-mc-cell">
+        <span>${kpi.columns[i]}</span>
+        ${c.value == null
+          ? '<b class="kpi-mc-empty">-</b>'
+          : `<b>${c.value}</b>${c.date ? `<i>${c.date}</i>` : ''}`}
+      </div>`).join('');
+    return `
+    <div class="kpi-mc-card">
+      <div class="kpi-mc-name${r.isOwn ? ' kpi-own' : ''}">${r.company}</div>
+      <div class="kpi-mc-grid">${cells}</div>
+    </div>`;
+  }).join('');
+
   sec.innerHTML = `
     <div class="kpi-table-wrap">
       <table class="kpi-table">
         <thead><tr><th class="kpi-company-th">회사</th>${theadCells}</tr></thead>
         <tbody>${bodyRows}</tbody>
       </table>
-    </div>`;
+    </div>
+    <div class="kpi-mc-list">${cards}</div>`;
 }
 // ── 국내 손보사 KPI 비교 끝 ──
 
@@ -579,7 +599,7 @@ function renderResearch() {
         ${byDate[d].map((a, i) => _researchCardHtml(a, i, byDate[d])).join('')}
       `).join('')}
     </div>`;
-
+  
   const toggle = document.getElementById('researchArchiveToggle');
   const body = document.getElementById('researchArchiveBody');
   toggle.onclick = () => {
@@ -623,7 +643,10 @@ function _startupCardHtml(a) {
         ${a.date ? `<span class="research-date">${a.date}</span>` : ''}
       </div>
       <div class="research-title">${a.title}</div>
-      ${a.insight ? `<div class="research-takeaway">${a.insight}</div>` : ''}
+      ${a.takeaway ? `<div class="research-takeaway">${a.takeaway}</div>` : ''}
+      ${(a.bullets && a.bullets.length)
+        ? `<ul class="research-bullets">${a.bullets.map(b => `<li>${b}</li>`).join('')}</ul>`
+        : ''}
       <div class="research-link">원문 보기 →</div>
     </div>`;
 }
