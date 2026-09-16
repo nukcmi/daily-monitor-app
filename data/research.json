@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16 16:57",
+  "updated": "2026-09-16 17:18",
   "articles": [
     {
       "publisher": "보험연구원(KIRI)",
@@ -61,11 +61,11 @@
       "publisher": "McKinsey",
       "type": "consulting",
       "title": "Backbones and networks: A blueprint for the biopharma plant of the future",
-      "takeaway": "바이오파마 생산 혁신은 생명·헬스보험 리스크 지형 변화의 선행 지표",
+      "takeaway": "바이오파마 생산혁신은 보험사 임상·공급망 리스크 재평가 계기",
       "bullets": [
-        "포트폴리오 복잡도 증가로 단순 설비 확장만으로는 생산성 한계 도달",
-        "디지털·자동화 기반 '미래형 공장' 투자가 신약 공급 안정성 좌우",
-        "바이오 생산 리스크 변화는 재보험·배상책임 상품 설계에 직결"
+        "포트폴리오 복잡화로 단순 생산능력 확대만으론 한계",
+        "디지털·자동화 기반 '미래형 공장' 구조 전환 가속",
+        "공급망 중단 리스크→제약사 대상 보험수요 변화 가능"
       ],
       "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
       "date": "09/15",
@@ -75,11 +75,11 @@
       "publisher": "McKinsey",
       "type": "consulting",
       "title": "The strategic new arenas reshaping insurance",
-      "takeaway": "AI 외 18개 고성장 산업이 보험사의 새로운 전략 무대로 부상 중",
+      "takeaway": "AI 외 18개 고성장 산업이 보험사 신시장 기회를 재편 중",
       "bullets": [
-        "모빌리티·헬스테크 등 18개 신흥 산업이 보험 수요 구조 재편",
-        "산업 경제학(industry economics) 자체가 바뀌며 기존 언더라이팅 모델 도전",
-        "선점 여부가 중장기 시장 지위를 결정하는 전략적 선택지"
+        "신산업 진입이 보험료 수익구조 자체를 바꾸는 수준",
+        "기존 보험경제학(언더라이팅·가격 모델) 재설계 필요",
+        "선점 여부가 장기 시장지위 결정적 변수로 부상"
       ],
       "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance",
       "date": "09/15",
@@ -89,14 +89,56 @@
       "publisher": "Bain",
       "type": "consulting",
       "title": "From Tailwinds to Trade-Offs: Southeast Asia Outlook 2026–2035",
-      "takeaway": "동남아 6개국 5%대 성장 지속으로 보험 신흥시장 기회 확대 전망",
+      "takeaway": "동남아 6개국 5.1% 성장은 보험사 신흥시장 전략의 근거",
       "bullets": [
-        "SEA-6 평균 성장률 5.1% 달성으로 중산층·보험 수요 확대 기반 확인",
-        "2026~2035년 성장 이면에 지정학·무역 리스크 트레이드오프 존재",
-        "국내 보험사의 동남아 현지화 전략 재검토 시점으로 시사"
+        "SEA-6 평균 성장률 5.1%로 예측치와 일치, 안정성 확인",
+        "성장 이면의 트레이드오프(무역·인구·기후) 리스크 부각",
+        "2026~2035년 중장기 전략 수립 시 지역별 차별화 필수"
       ],
       "url": "https://www.bain.com/insights/from-tailwinds-to-trade-offs-southeast-asia-outlook-2026-2035/",
       "date": "09/16",
+      "collected_at": "2026-09-16"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "Building the New Economy with Ares' Kipp deVeer",
+      "takeaway": "데이터센터 등 뉴이코노미 인프라 금융확대는 보험 수요 창출",
+      "bullets": [
+        "Ares, 데이터센터 건설·운영 파이낸싱으로 영역 확장",
+        "대체자산(인프라·사모) 성장→관련 보험·보증 수요 증가",
+        "AI 인프라 투자 붐이 신규 리스크 익스포저 형성"
+      ],
+      "url": "https://www.bain.com/insights/building-the-new-economy-with-ares-kipp-deveer-podcast/",
+      "date": "09/16",
+      "collected_at": "2026-09-16"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "에이지테크(AgeTech) 산업의 성장과 보험산업",
+      "takeaway": "에이지테크 성장은 고령자 특화 보험상품·채널 혁신 기회",
+      "bullets": [
+        "헬스케어·돌봄 기술 융합으로 고령층 니즈 세분화",
+        "에이지테크 데이터 활용 시 언더라이팅 정교화 가능",
+        "보험사-에이지테크 기업 간 제휴 생태계 형성 가속"
+      ],
+      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=868939",
+      "date": "",
+      "collected_at": "2026-09-16"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "디지털 유산 관리와 보험산업의 접점",
+      "takeaway": "디지털 자산 사후 처리 이슈가 보험업 신규 서비스 영역으로 부상",
+      "bullets": [
+        "SNS·암호화폐 등 디지털 유산의 법적 처리 공백 존재",
+        "유산 관리 서비스와 생명보험 연계 상품 설계 가능성",
+        "수익자 지정·자산이전 절차 디지털화 수요 증가"
+      ],
+      "url": "https://www.kiri.or.kr/publication/list.do?catId=29&docId=868489",
+      "date": "",
       "collected_at": "2026-09-16"
     },
     {
