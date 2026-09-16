@@ -1,33 +1,61 @@
 {
-  "updated": "2026-09-14 09:53",
+  "updated": "2026-09-16 11:12",
   "articles": [
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "스테이블코인과 보험산업 과제",
-      "takeaway": "스테이블코인 확산이 보험산업 내 새로운 리스크와 기회를 동시에 제기한다.",
+      "takeaway": "스테이블코인 확산이 보험산업에 새로운 리스크와 상품 기회를 동시에 제기한다.",
       "bullets": [
-        "스테이블코인 관련 준비자산 운용·지급 리스크 관리 필요",
-        "디지털 자산 담보 보험상품 개발 가능성 검토 시점",
-        "국내 규제 정비에 따른 보험사 대응 전략 수립 요구"
+        "스테이블코인 담보 구조에 따른 신용·유동성 리스크 상이",
+        "디지털 자산 커스터디(수탁) 및 해킹 손해 담보 수요 부상",
+        "국내 보험사의 스테이블코인 관련 언더라이팅 기준 부재"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-06",
-      "collected_at": "2026-09-14"
+      "collected_at": "2026-09-16"
     },
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "기업 경영환경 변화와 임원배상책임보험 시장의 과제",
-      "takeaway": "경영환경 불확실성 증가로 D&O(임원배상책임)보험 시장 재편이 가속화된다.",
+      "takeaway": "경영환경 불확실성 확대로 D&O 보험(임원배상책임보험) 시장의 구조적 재편이 필요하다.",
       "bullets": [
-        "ESG·공급망 실사 등 임원 법적 책임 범위 확대",
-        "소송 증가와 손해율 상승으로 언더라이팅 강화 필요",
-        "국내 D&O 시장 성장 잠재력과 상품 고도화 과제 병존"
+        "ESG·공급망·AI 규제 강화로 임원 법적 책임 범위 확대",
+        "국내 D&O 손해율 악화 및 인수 심사 강화 추세",
+        "보험사는 보장 범위 및 면책 조항 재설계 검토 시급"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=805489&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-03",
-      "collected_at": "2026-09-14"
+      "collected_at": "2026-09-16"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "The New Investment Playbook for Sustainability",
+      "takeaway": "지속가능성을 비용이 아닌 장기 경쟁우위 원천으로 재정의해야 할 시점.",
+      "bullets": [
+        "ESG를 규제 대응이 아닌 투자 알파 창출 수단으로 접근",
+        "보험사 자산운용 전략에서 지속가능성 통합 필요성 시사",
+        "장기 부채 구조를 가진 보험사에 특히 유효한 전략 프레임"
+      ],
+      "url": "https://www.bain.com/insights/new-investment-playbook-for-sustainability-ceo-sustainability-guide-2026/",
+      "date": "09/11",
+      "collected_at": "2026-09-16"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "Make Better. Sell Better. Protect Better: How Sustainable AI Creates Value",
+      "takeaway": "AI의 환경 비용을 과대평가하지 말고, 실질 가치 창출 영역에 집중해야 한다.",
+      "bullets": [
+        "경영진 다수가 AI 에너지 소비량을 실제보다 과대 인식",
+        "제조·판매·보호 각 단계별 AI 가치 창출 포인트 차별화",
+        "보험사는 언더라이팅·클레임 등 고가치 영역에 AI 집중 필요"
+      ],
+      "url": "https://www.bain.com/insights/make-better-sell-better-protect-better-how-sustainable-ai-creates-value-ceo-sustainability-guide-2026/",
+      "date": "09/11",
+      "collected_at": "2026-09-16"
     },
     {
       "publisher": "Bain",
