@@ -126,6 +126,21 @@ h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
 .attention .impact-mid{color:#FBBF6B}
 .attention .impact-low{color:#6EE7B7}
 
+/* ── 국내 손보사 KPI 비교 (신규) ── */
+.kpi-table-note{font-size:11px;color:#7B8494;line-height:1.5;margin:-6px 0 12px}
+.kpi-table-wrap{background:#12151C;border:1px solid rgba(255,255,255,.07);border-radius:12px;
+                overflow-x:auto}
+.kpi-table{width:100%;border-collapse:collapse;font-size:12px;white-space:nowrap}
+.kpi-table thead th{text-align:right;font-size:10px;font-weight:600;color:#7B8494;
+                    padding:10px 12px;border-bottom:1px solid rgba(255,255,255,.07)}
+.kpi-company-th{text-align:left!important}
+.kpi-table td{padding:10px 12px;border-bottom:1px solid rgba(255,255,255,.05);text-align:right}
+.kpi-table tr:last-child td{border-bottom:none}
+.kpi-company{text-align:left!important;font-weight:700;color:#FFFFFF;font-size:12.5px}
+.kpi-cell b{color:#E7E9ED;font-weight:700;font-size:12px}
+.kpi-cell-date{display:block;font-size:9px;color:#7B8494;margin-top:2px}
+.kpi-cell-empty{color:#3D4552}
+.kpi-empty{padding:24px;text-align:center;color:#7B8494;font-size:12px}
 /* ── 상세화면(바텀시트) ── */
 #backdrop{position:fixed;inset:0;background:rgba(0,0,0,.6);opacity:0;
           pointer-events:none;transition:opacity .2s;z-index:50}
@@ -247,7 +262,7 @@ h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
   .kpis{grid-template-columns:repeat(4,1fr)}
   #priceChart{max-height:220px}
 }
-/* ── 리서치 트렌드 탭 ── */
+/* ── 탭 (종목 모니터링 / 트렌드 동향 / 글로벌 스타트업) ── */
 .view-tabs{display:flex;gap:8px;margin:22px 0 4px}
 .view-tab{flex:1;padding:10px 0;border:1px solid rgba(255,255,255,.1);border-radius:20px;
           background:#12151C;color:#8B94A3;font-size:12.5px;font-weight:600;cursor:pointer}
@@ -267,10 +282,12 @@ h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
 .research-link{font-size:11px;color:#F89B5C;font-weight:600}
 .research-empty{text-align:center;color:#7B8494;font-size:12.5px;padding:50px 0}
 
-/* PC 웹: 2열 그리드 (기존 #attnList 패턴과 동일) */
+/* PC 웹: 2열 그리드 (기존 #attnList 패턴과 동일) — 트렌드 동향/글로벌 스타트업 둘 다 적용 */
 @media (min-width:880px){
   #researchList{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  #startupsList{display:grid;grid-template-columns:1fr 1fr;gap:14px}
   .research-card{margin-bottom:0}
+  .kpi-table td,.kpi-table th{padding:12px 16px}
 }
 .research-bullets{list-style:none;margin:0 0 10px;padding:0}
 .research-bullets li{font-size:10px;color:#7B8494;line-height:1.5;margin-bottom:3px;
