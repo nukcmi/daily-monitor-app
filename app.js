@@ -8,7 +8,7 @@ const WEB_PASSWORD = "hanwha2026";   // 필요 시 이 값만 바꾸면 된다
 
 // 배포 버전 표시 (하단 고지에 노출). 파일 올릴 때마다 갱신하면
 // "지금 보는 화면이 최신인지 캐시인지"를 화면에서 바로 확인할 수 있다.
-const APP_VERSION = "v1.40 · 2026-08-27";
+const APP_VERSION = "v1.41 · 2026-09-16";
 
 function initPasswordGate() {
   const insideTelegram = !!(window.Telegram?.WebApp?.initData);
@@ -102,6 +102,7 @@ const FALLBACK = {
   updated: "-", fx: "",
   attentionItems: [{ company: "-", text: "데이터를 불러오는 중입니다.", impact: "", level: "low", url: null }],
   companies: [],
+  insurerKpi: null,
 };
 
 let payload = FALLBACK;
@@ -337,7 +338,7 @@ function sourceRow(s, i) {
 function openExternal(url) {
   if (!url) return;
   if (window.Telegram?.WebApp?.openLink) {
-    Telegram.WebApp.openLink(url);
+        Telegram.WebApp.openLink(url);
   } else {
     window.open(url, '_blank');
   }
@@ -439,6 +440,37 @@ document.querySelectorAll('.chip').forEach(b => b.onclick = () => {
   render(b.dataset.f);
 });
 
+// ── 국내 손보사 KPI 비교 (종목 모니터링 탭 하단 섹션) ──
+// payload.insurerKpi 형태: {columns:[...], rows:[{company, cells:[{value,date}...]}]}
+// value가 null인 칸은 "최근 기사에 실제로 언급된 수치가 없다"는 뜻 — 절대
+// 빈 칸을 다른 값으로 채우거나 추정하지 않는다 (백엔드 analyze.py에서부터
+// 강제되는 규칙, 프론트는 있는 그대로 null이면 '-'만 보여준다).
+function renderInsurerKpi() {
+  const sec = document.getElementById('insurerKpiSection');
+  if (!sec) return;
+  const kpi = payload.insurerKpi;
+  if (!kpi || !kpi.rows || !kpi.rows.length) {
+    sec.innerHTML = `<div class="kpi-table-wrap"><div class="kpi-empty">최근 확인된 KPI 수치가 없습니다.</div></div>`;
+    return;
+  }
+  const theadCells = kpi.columns.map(c => `<th>${c}</th>`).join('');
+  const bodyRows = kpi.rows.map(r => {
+    const cells = r.cells.map(c => {
+      if (c.value == null) return `<td class="kpi-cell-empty">-</td>`;
+      return `<td class="kpi-cell"><b>${c.value}</b>${c.date ? `<span class="kpi-cell-date">${c.date}</span>` : ''}</td>`;
+    }).join('');
+    return `<tr><td class="kpi-company">${r.company}</td>${cells}</tr>`;
+  }).join('');
+  sec.innerHTML = `
+    <div class="kpi-table-wrap">
+      <table class="kpi-table">
+        <thead><tr><th class="kpi-company-th">회사</th>${theadCells}</tr></thead>
+        <tbody>${bodyRows}</tbody>
+      </table>
+    </div>`;
+}
+// ── 국내 손보사 KPI 비교 끝 ──
+
 function applyPayload() {
   const upd = document.getElementById('updatedLine');
   if (upd) upd.textContent = `Updated · ${payload.updated} KST`;
@@ -466,6 +498,7 @@ function applyPayload() {
     });
   }
   render();
+  renderInsurerKpi();
 }
 
 async function load() {
@@ -554,9 +587,6 @@ function renderResearch() {
     body.style.display = open ? 'none' : '';
     toggle.textContent = open ? `지난 리서치 보기 (${past.length})` : '지난 리서치 접기';
   };
-  body.querySelectorAll('.research-card').forEach(el => {
-    const dateBlock = el.closest('.research-archive-body') ? byDate[el.closest('div').previousElementSibling?.textContent] : null;
-  });
   // 클릭 이벤트는 날짜 그룹별로 다시 바인딩
   let flatIdx = 0;
   dates.forEach(d => {
@@ -579,6 +609,56 @@ async function loadResearch() {
   researchLoaded = true;
   renderResearch();
 }
+// ── 리서치 트렌드 탭 끝 ──
+
+// ── 글로벌 스타트업 탭 (신규, research.json과 완전 별개 파일 data/startups.json) ──
+let startupsPayload = null;
+let startupsLoaded = false;
+
+function _startupCardHtml(a) {
+  return `
+    <div class="research-card startup-card" data-url="${a.url || ''}">
+      <div class="research-top">
+        <span class="research-pub">${a.source}</span>
+        ${a.date ? `<span class="research-date">${a.date}</span>` : ''}
+      </div>
+      <div class="research-title">${a.title}</div>
+      ${a.insight ? `<div class="research-takeaway">${a.insight}</div>` : ''}
+      <div class="research-link">원문 보기 →</div>
+    </div>`;
+}
+
+function renderStartups() {
+  const arr = (startupsPayload && startupsPayload.items) || [];
+  const container = document.getElementById('startupsList');
+  const updLine = document.getElementById('startupsUpdatedLine');
+  if (updLine) {
+    updLine.textContent = startupsPayload && startupsPayload.updated
+      ? `Updated · ${startupsPayload.updated} KST`
+      : '-';
+  }
+  if (!arr.length) {
+    container.innerHTML = `<div class="research-empty">최근 수집된 글로벌 스타트업 기사가 없습니다.</div>`;
+    return;
+  }
+  container.innerHTML = arr.map(_startupCardHtml).join('');
+  container.querySelectorAll('.startup-card').forEach(el => {
+    el.onclick = () => openExternal(el.dataset.url);
+  });
+}
+
+async function loadStartups() {
+  if (startupsLoaded) return;
+  try {
+    const res = await fetch('./data/startups.json', { cache: 'no-store' });
+    if (res.ok) startupsPayload = await res.json();
+  } catch (e) {
+    console.warn('스타트업 데이터 로드 실패:', e);
+  }
+  startupsLoaded = true;
+  renderStartups();
+}
+// ── 글로벌 스타트업 탭 끝 ──
 
 document.querySelectorAll('.view-tab').forEach(btn => {
   btn.onclick = () => {
@@ -587,10 +667,11 @@ document.querySelectorAll('.view-tab').forEach(btn => {
     const view = btn.dataset.view;
     document.getElementById('stocksView').style.display = view === 'stocks' ? '' : 'none';
     document.getElementById('researchView').style.display = view === 'research' ? '' : 'none';
+    document.getElementById('startupsView').style.display = view === 'startups' ? '' : 'none';
     if (view === 'research') loadResearch();
+    if (view === 'startups') loadStartups();
   };
 });
-// ── 리서치 트렌드 탭 끝 ──
 
 if (window.Telegram?.WebApp) { Telegram.WebApp.ready(); Telegram.WebApp.expand(); }
 initRequestForm();
