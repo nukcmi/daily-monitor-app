@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-16 13:29",
+  "updated": "2026-09-16 16:57",
   "articles": [
     {
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "스테이블코인과 보험산업 과제",
-      "takeaway": "스테이블코인 확산이 보험사 결제·준비금 리스크 관리에 새 과제 제시",
+      "takeaway": "스테이블코인 확산이 보험사 지급·자산운용·리스크 관리에 새 과제 제기",
       "bullets": [
-        "스테이블코인의 법적 지위 불명확으로 인수 리스크 산정 난항",
-        "블록체인 기반 보험금 지급 혁신 가능성과 규제 공백 공존",
-        "자산운용 내 스테이블코인 편입 허용 여부 논의 필요"
+        "스테이블코인의 법적 지위 불확실성이 보험 계약 이행 리스크로 연결",
+        "보험료 수납·보험금 지급 시 스테이블코인 활용 가능성과 규제 공백 병존",
+        "가상자산 담보 리스크에 대한 新언더라이팅 기준 마련 필요"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-06",
@@ -19,11 +19,11 @@
       "publisher": "보험연구원(KIRI)",
       "type": "research_institute",
       "title": "기업 경영환경 변화와 임원배상책임보험 시장의 과제",
-      "takeaway": "경영환경 불확실성 고조로 D&O보험(임원배상책임) 수요·리스크 동시 확대",
+      "takeaway": "경영환경 불확실성 고조로 D&O(임원배상책임)보험 시장 재정비 시급",
       "bullets": [
-        "ESG·공급망·지정학 리스크 등 임원 책임 범위 급격히 확대",
-        "국내 D&O 시장 언더라이팅 기준 재정립 필요성 증가",
-        "소송 빈도·규모 상승으로 손해율 관리가 핵심 과제로 부상"
+        "ESG·컴플라이언스 강화로 임원 개인 법적 노출(exposure) 범위 확대",
+        "국내 D&O 시장은 클레임 증가 대비 요율·약관 체계 미성숙 상태",
+        "기업 지배구조 리스크 세분화를 통한 인수심사(underwriting) 고도화 필요"
       ],
       "url": "https://www.kiri.or.kr/report/reportList.do?docId=805489&catId=7&searchCon=&searchWord=&page=1",
       "date": "2026-03",
@@ -33,11 +33,11 @@
       "publisher": "Bain",
       "type": "consulting",
       "title": "The New Investment Playbook for Sustainability",
-      "takeaway": "지속가능성을 장기 경쟁우위로 전환하는 투자 전략이 부상",
+      "takeaway": "지속가능성을 단순 규제 대응이 아닌 장기 경쟁우위 원천으로 전환 가능",
       "bullets": [
-        "ESG 투자를 비용이 아닌 알파(초과수익) 원천으로 재정의",
-        "보험사 자산운용 포트폴리오의 ESG 편입 근거 강화",
-        "규제 강화 환경에서 선제적 지속가능 투자가 리스크 헤지 역할"
+        "ESG 투자를 비용이 아닌 수익 창출 레버로 재정의하는 프레임 제시",
+        "보험사 자산운용 포트폴리오 재편 및 그린 상품 개발 근거로 활용",
+        "지속가능 투자 선도 여부가 기관 투자자 유치·신뢰도에 영향"
       ],
       "url": "https://www.bain.com/insights/new-investment-playbook-for-sustainability-ceo-sustainability-guide-2026/",
       "date": "09/11",
@@ -61,11 +61,11 @@
       "publisher": "McKinsey",
       "type": "consulting",
       "title": "Backbones and networks: A blueprint for the biopharma plant of the future",
-      "takeaway": "바이오파마 생산혁신은 단순 증설이 아닌 네트워크 설계가 핵심",
+      "takeaway": "바이오파마 생산 혁신은 생명·헬스보험 리스크 지형 변화의 선행 지표",
       "bullets": [
-        "포트폴리오 복잡성 증가로 생산성 둔화 심화",
-        "미래 공장은 백본(핵심 인프라)·네트워크 통합 설계 필요",
-        "생명보험·헬스케어보험의 바이오파마 리스크 평가에 시사점"
+        "포트폴리오 복잡도 증가로 단순 설비 확장만으로는 생산성 한계 도달",
+        "디지털·자동화 기반 '미래형 공장' 투자가 신약 공급 안정성 좌우",
+        "바이오 생산 리스크 변화는 재보험·배상책임 상품 설계에 직결"
       ],
       "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
       "date": "09/15",
@@ -75,11 +75,11 @@
       "publisher": "McKinsey",
       "type": "consulting",
       "title": "The strategic new arenas reshaping insurance",
-      "takeaway": "AI 외 18개 고성장 산업이 보험사 신사업 기회를 재편 중",
+      "takeaway": "AI 외 18개 고성장 산업이 보험사의 새로운 전략 무대로 부상 중",
       "bullets": [
-        "신흥 산업군이 보험 인수(언더라이팅) 구조 자체를 변화시킴",
-        "신규 아레나(arena) 진입 여부가 장기 성장성 결정",
-        "기존 보험 경제학(industry economics) 재구성 불가피"
+        "모빌리티·헬스테크 등 18개 신흥 산업이 보험 수요 구조 재편",
+        "산업 경제학(industry economics) 자체가 바뀌며 기존 언더라이팅 모델 도전",
+        "선점 여부가 중장기 시장 지위를 결정하는 전략적 선택지"
       ],
       "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance",
       "date": "09/15",
@@ -89,11 +89,11 @@
       "publisher": "Bain",
       "type": "consulting",
       "title": "From Tailwinds to Trade-Offs: Southeast Asia Outlook 2026–2035",
-      "takeaway": "동남아 6개국 5.1% 성장세는 보험 신흥시장 확대 기회 신호",
+      "takeaway": "동남아 6개국 5%대 성장 지속으로 보험 신흥시장 기회 확대 전망",
       "bullets": [
-        "SEA-6 평균 성장률이 예측치와 일치해 시장 신뢰도 제고",
-        "2026~2035년 성장 전망에서 트레이드오프(양립 불가) 리스크 부각",
-        "동남아 진출 보험사의 현지화 전략 재검토 필요"
+        "SEA-6 평균 성장률 5.1% 달성으로 중산층·보험 수요 확대 기반 확인",
+        "2026~2035년 성장 이면에 지정학·무역 리스크 트레이드오프 존재",
+        "국내 보험사의 동남아 현지화 전략 재검토 시점으로 시사"
       ],
       "url": "https://www.bain.com/insights/from-tailwinds-to-trade-offs-southeast-asia-outlook-2026-2035/",
       "date": "09/16",
