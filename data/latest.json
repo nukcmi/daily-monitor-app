@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-09-15",
-  "updated": "2026-09-15 21:38",
-  "fx": "환율 2026-09-15 · 시장환율   1 USD = ₩1,358.03   |   1 USD = 17,682.00 IDR   |   1 IDR = ₩0.07680",
+  "asOf": "2026-09-16",
+  "updated": "2026-09-16 11:20",
+  "fx": "환율 2026-09-16 · 시장환율   1 USD = ₩1,369.58   |   1 USD = 17,682.00 IDR   |   1 IDR = ₩0.07746",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "차광렬 대주주, 지분 25.12% 유지하되 담보계약 상대방 변경 공시",
-      "impact": "지분율 자체는 유지되나 담보구조 변경으로 반대매매 트리거 주체가 바뀜. 당사 지분가치의 간접 리스크 요인",
-      "level": "mid",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914000280"
+      "text": "대주주 담보주식 비율이 10%를 돌파했으며, 1,300억 규모의 유동성 부담 속에서 지분 방어 상황이 보도됨",
+      "impact": "담보주식 강제처분 시 대주주 지분율 급락·지분구조 변동 위험이 있으며, 당사 보유 지분가치에 직접 영향 가능",
+      "level": "high",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81aXVjbmpGMGVQSWZtZkp1bXRFaDVTc0F0dXN1Tm0tMk1DSDN5UER1S1R6dk9fd1lxSXVwQnRGR3pZb0xsSVdNRGpDd180eE5CR1NMQw?oc=5"
     },
     {
       "company": "차바이오텍",
-      "text": "대주주 담보주식 보유지분의 10% 초과, 유동성 부담 1,300억 원 수준으로 보도",
-      "impact": "주가 하락 시 강제 매각→지분구조 변동 가능성 존재. 당사 보유 지분가치에 직접 영향 가능",
-      "level": "mid",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81aXVjbmpGMGVQSWZtZkp1bXRFaDVTc0F0dXN1Tm0tMk1DSDN5UER1S1R6dk9fd1lxSXVwQnRGR3pZb0xsSVdNRGpDd180eE5CR1NMQw?oc=5"
+      "text": "타인에 대한 담보제공 결정 공시가 기재정정 형태로 재공시됨",
+      "impact": "담보제공 조건·규모 변경 가능성이 있으며, 대주주 유동성 리스크의 공식 확인으로 지분가치 모니터링 강화 필요",
+      "level": "high",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910900561"
     }
   ],
   "companies": [
@@ -23,8 +23,8 @@
       "id": "085660",
       "name": "차바이오텍",
       "ticker": "085660",
-      "g": "B",
-      "event": "대주주 담보 부담 확대",
+      "g": "A",
+      "event": "대주주 담보주식 임계치 돌파",
       "tags": [
         "+0.13%",
         "당사 투자"
@@ -64,12 +64,12 @@
         ],
         [
           "거래량(20일比)",
-          "18.48만 · 0.55x",
+          "17.70만 · 0.52x",
           null
         ],
         [
           "시가총액",
-          "7,391억",
+          "7,242억",
           null
         ],
         [
@@ -89,13 +89,13 @@
         }
       ],
       "events": [
-        "대주주 담보주식이 보유지분의 10%를 돌파하고 1,300억 유동성 부담이 확인됨. 주가 급락 시 반대매매→지분구조 변동 경로가 현실적 위협으로 부상",
-        "담보계약 상대방 변경은 지분율 유지 자체에는 영향 없으나, 자금압박이 해소되지 않는 한 추가 담보 확대 가능성 잔존"
+        "담보주식 비율 10% 초과 및 1,300억 유동성 부담은 대주주의 지분 방어 여력을 제약하며, 강제처분 시 지분구조 급변 위험 내포",
+        "자금조달 압박이 지속될 경우 추가 담보제공 또는 유상증자·CB 등 희석성 조달로 이어질 수 있어 당사 지분가치에 부정적"
       ],
       "watch": [
-        "담보주식 추가 확대 여부 모니터링",
-        "대주주 유동성 해소 수단 확인",
-        "CGT/CDMO 기술 마일스톤 공시 여부"
+        "담보주식 추가 처분·반환 여부",
+        "1,300억 유동성 해소 방안 공시",
+        "신규 CB·유상증자 여부"
       ],
       "spark": [
         {
@@ -371,7 +371,7 @@
         {
           "title": "차바이오텍 대주주 담보주식 10% 돌파, 1,300억 유동성 부담 속 지분 방어",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81aXVjbmpGMGVQSWZtZkp1bXRFaDVTc0F0dXN1Tm0tMk1DSDN5UER1S1R6dk9fd1lxSXVwQnRGR3pZb0xsSVdNRGpDd180eE5CR1NMQw?oc=5",
-          "source": "biobookmedia.com",
+          "source": "바이오북미디어",
           "date": "09/15"
         },
         {
@@ -379,273 +379,6 @@
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OZnNsUDZEMUQ2NThLems3aFF5UlN2d3FmWXV6TGZFdEhJazV2cVp1WTVzMm9jY04yZzhjVEh1VUJqcHgzM0ctbV80UFpxNnkxYWtFRmR0enVyNGFD?oc=5",
           "source": "아시아뉴스통신",
           "date": "09/15"
-        },
-        {
-          "title": "차광렬, 차바이오텍 지분 25.12% 유지·담보계약 상대방 변경",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04MGl0d185V1JzMWRXODhYRWRObWo1SkNnZ2hpRmdjYUR3WjJFX3h1bHpDR3BXM05SZ3drRWNXMzZjNzBCYkZWMmdPejQxMFFpYkhHYnBHcWE5ZDRnWHBtZUt0UUNfRDNBZ3ozV2hvSHg5QnM?oc=5",
-          "source": "데이터투자",
-          "date": "09/14"
-        }
-      ],
-      "archive30d": [
-        {
-          "summary": "과기부 'K-HERO' 사업 선정으로 세포·유전자치료제 개발에 31.5억원 지원 확정",
-          "impact": "국책사업 자금 확보로 CGT 개발비 분담 및 기술 신뢰도 제고, 당사 보유 지분가치에 긍정적 영향",
-          "level": "mid",
-          "date": "08/25",
-          "collected_at": "2026-08-27"
-        },
-        {
-          "summary": "과기부 '2026 K-HERO 육성·지원사업'에 선정, CGT 개발 정부 지원 확보",
-          "impact": "외부 자금 유입으로 CGT 개발 비용 부담 일부 완화. 당사 보유 지분가치 하방 리스크 소폭 경감",
-          "level": "mid",
-          "date": "08/25",
-          "collected_at": "2026-08-28"
-        },
-        {
-          "summary": "지지세포 없는 배아줄기세포 단독 배양법 특허 취득",
-          "impact": "CGT 원천기술 포트폴리오 확장. 기술가치 기반 지분가치 재평가 가능성, 상업화 일정은 미확인",
-          "level": "mid",
-          "date": "08/27",
-          "collected_at": "2026-08-28"
-        },
-        {
-          "summary": "차바이오텍 계열 SMG, 싱가포르 영상의학 3개사 매각 후 여성·난임 사업에 집중",
-          "impact": "비핵심 해외 자산 정리로 현금 유입 기대. CGT/CDMO 집중도 높아져 당사 지분가치에 긍정적 방향이나 매각 금액·재투자 계획 미공시 상태로 확인 필요",
-          "level": "mid",
-          "date": "08/28",
-          "collected_at": "2026-08-28"
-        },
-        {
-          "summary": "차바이오그룹, VC 자회사 솔리더스인베스트먼트 지분 전량 매각하고 CGT 등 3대 핵심사업 집중 선언",
-          "impact": "VC 투자 비중 축소·핵심사업 자원 집중은 당사가 투자한 CGT/CDMO 사업가치 제고 방향이나, 매각 대금 규모 및 실제 재배분 여부 추가 확인 필요",
-          "level": "mid",
-          "date": "08/27",
-          "collected_at": "2026-08-28"
-        },
-        {
-          "summary": "계열사 SMG, 싱가포르 영상의학 3개사를 매각하고 여성·난임 사업에 집중",
-          "impact": "비핵심 자산 처분으로 사업 포트폴리오 단순화; 매각대금의 CGT/CDMO 재투자 여부가 당사 지분가치 핵심 변수",
-          "level": "mid",
-          "date": "08/28",
-          "collected_at": "2026-08-28"
-        },
-        {
-          "summary": "차바이오그룹, 벤처캐피털 자회사 솔리더스인베스트먼트 지분 전량 매각 후 CGT 등 3대 핵심사업 집중 선언",
-          "impact": "그룹 차원의 사업 재편으로 CGT/CDMO 투자 집중도 높아지나, 실제 자금 집행 규모·시점은 추가 확인 필요",
-          "level": "mid",
-          "date": "08/27",
-          "collected_at": "2026-08-28"
-        },
-        {
-          "summary": "계열사 SMG가 싱가포르 영상의학 3개사를 매각하고 여성·난임 사업에 집중하기로 함",
-          "impact": "비핵심 자산 매각으로 사업 포트폴리오 재편 중; 매각대금 활용 방향에 따라 당사 보유 지분가치 영향 가능",
-          "level": "mid",
-          "date": "08/28",
-          "collected_at": "2026-08-28"
-        },
-        {
-          "summary": "계열사 SMG, 싱가포르 영상의학 3개사 매각하고 여성·난임 사업에 집중하기로 함",
-          "impact": "비핵심 자산 정리로 그룹 사업 구조 단순화 진행 중. CGT/CDMO 투자 재원 확보 여부 및 당사 지분가치 영향 추적 필요",
-          "level": "mid",
-          "date": "08/28",
-          "collected_at": "2026-08-29"
-        },
-        {
-          "summary": "로아앤코그룹이 차헬스케어 투자금 320억 회수, 수익 34억 실현",
-          "impact": "차헬스케어 외부 주요 투자자 엑싯으로 계열사 지분·자금 구조 변화 가능성. 당사 보유 지분 관련 연쇄 영향 점검 필요",
-          "level": "mid",
-          "date": "08/28",
-          "collected_at": "2026-08-29"
-        },
-        {
-          "summary": "과기정통부 '박사후연구원 산학 프로젝트'에 차바이오텍 선정",
-          "impact": "CGT/CDMO 핵심 사업과의 직접 연계는 불분명하며, 지분가치 변동 영향은 제한적",
-          "level": "low",
-          "date": "08/31",
-          "collected_at": "2026-09-01"
-        },
-        {
-          "summary": "DART 주식등의대량보유상황보고서(일반) 신규 제출",
-          "impact": "보유자 정체·목적에 따라 지분구조 변동 가능성—당사 지분 희석 또는 블록딜 리스크 선제 확인 필요",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-03"
-        },
-        {
-          "summary": "과기부 'K-CGTAP(CGT 품질평가 플랫폼 구축)' 공동연구개발기관으로 선정됨",
-          "impact": "정부 CGT 플랫폼 과제 참여로 기술 공신력 확보—CDMO 수주 경쟁력 강화에 긍정적이나 직접 매출 연계 시점은 미정",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-03"
-        },
-        {
-          "summary": "DART 주식등의대량보유상황보고서 신규 제출",
-          "impact": "지분구조 변동 가능성—당사 보유 지분 희석 여부 즉각 확인 필요",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-03"
-        },
-        {
-          "summary": "과기부 K-CGTAP 공동연구개발기관으로 선정, CGT 품질평가 기술 개발 참여",
-          "impact": "국책 CGT 사업 참여 실적 확보—CDMO 수주 레퍼런스로 누적될 경우 지분가치 제고 기여",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-03"
-        },
-        {
-          "summary": "과기부 'K-CGTAP' 공동연구기관으로 선정, 정부 지원 CGT 품질평가 기술 개발 과제 참여",
-          "impact": "CGT 핵심기술 공신력 축적 경로 확보; 당사 보유 지분의 기술가치 훼손 리스크는 낮아지나 단기 재무 영향은 제한적",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-04"
-        },
-        {
-          "summary": "5% 이상 주주의 대량보유 상황 변동 공시(일반) 접수",
-          "impact": "지분구조 변동 가능성 확인 필요; 당사 보유 지분의 희석·경영권 구도 변화 여부 점검 요",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-04"
-        },
-        {
-          "summary": "과기부 K-CGTAP 공동연구기관 선정, 127~137억원 규모 정부 CGT 품질평가 기술개발 과제 참여",
-          "impact": "외부 자금 유입으로 CGT 기술 내재화 비용 절감, 당사 보유 지분가치에 긍정적 사업 모멘텀",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-04"
-        },
-        {
-          "summary": "주식등의대량보유상황보고서(일반) 공시 제출",
-          "impact": "지분구조 변동 여부 확인 필요. 주요 주주 변동 시 당사 보유 지분 희석·경영권 영향 가능",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-04"
-        },
-        {
-          "summary": "세포치료제 규제 문턱 완화로 사업화 속도가 빨라질 것으로 분석됨",
-          "impact": "CGT 사업화 가시성 제고 시 당사 보유 지분가치 재평가 여지 발생",
-          "level": "mid",
-          "date": "09/06",
-          "collected_at": "2026-09-07"
-        },
-        {
-          "summary": "주식 대량보유 상황 보고서(일반) 신규 공시 제출",
-          "impact": "지분구조 변동 가능성으로 당사 보유 지분의 희석·경영권 영향 여부 확인 필요",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-07"
-        },
-        {
-          "summary": "주식 등 대량보유상황 보고서(일반) 공시 접수",
-          "impact": "지분구조 변동 가능성으로 당사 보유 지분 희석 또는 경영권 구도 변화 여부 확인 필요",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-07"
-        },
-        {
-          "summary": "세포치료제 규제 문턱 완화로 사업화 속도가 빨라질 것이라는 분석 보도",
-          "impact": "CGT 사업 실현 가능성 제고로 당사 보유 지분가치에 중기적 긍정 요인",
-          "level": "mid",
-          "date": "09/06",
-          "collected_at": "2026-09-07"
-        },
-        {
-          "summary": "주식 등 대량보유상황 보고서(일반) 공시 발생",
-          "impact": "지분구조 변동 가능성 확인 필요. 당사 보유 지분 희석·경영권 영향 여부 점검 요함.",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-08"
-        },
-        {
-          "summary": "주식등의 대량보유상황보고서(일반) DART 공시 접수",
-          "impact": "주요 주주 지분구조 변동 가능성으로 당사 보유 지분 희석·경영권 영향 여부 점검 필요",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-09"
-        },
-        {
-          "summary": "마티카바이오랩스, 국내 최초 첨단바이오 3대 허가 동시 취득",
-          "impact": "CGT(세포·유전자치료제) CDMO 사업 신뢰도 제고로 수주 경쟁력 강화 가능성, 지분가치 긍정적",
-          "level": "mid",
-          "date": "09/09",
-          "collected_at": "2026-09-09"
-        },
-        {
-          "summary": "마티카바이오랩스, 국내 최초로 첨단바이오 세포치료제·유전자치료제·이종이식 3대 허가 취득",
-          "impact": "CGT CDMO 사업 신뢰도 제고로 당사 보유 지분가치 상승 여지 확대",
-          "level": "mid",
-          "date": "09/09",
-          "collected_at": "2026-09-10"
-        },
-        {
-          "summary": "마티카바이오, 美 BARDA(생물의학첨단연구개발청) 컨소시엄 가입 및 정부사업 참여 기대",
-          "impact": "미국 정부 수주 파이프라인 편입 가능성으로 CDMO 해외 매출 기반 확장 기대",
-          "level": "mid",
-          "date": "09/10",
-          "collected_at": "2026-09-10"
-        },
-        {
-          "summary": "타인에 대한 담보제공 결정 공시 기재 정정",
-          "impact": "담보 조건 변경 여부에 따라 자금조달 구조 변동 가능, 세부 내역 확인 필요",
-          "level": "mid",
-          "date": "09/10",
-          "collected_at": "2026-09-10"
-        },
-        {
-          "summary": "주식 등 대량보유상황 보고서(일반) 제출",
-          "impact": "지분구조 변동 발생 확인 필요, 주요 주주 변동 시 경영권·지분가치에 영향",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-10"
-        },
-        {
-          "summary": "자회사 마티카바이오, 미국 BARDA 컨소시엄 가입해 정부 사업 참여 기대",
-          "impact": "CGT·CDMO 미국 정부 프로젝트 수주 경로 확보 시 자회사 사업가치 상승으로 당사 보유 지분가치에 긍정적",
-          "level": "mid",
-          "date": "09/10",
-          "collected_at": "2026-09-11"
-        },
-        {
-          "summary": "타인에 대한 담보제공 결정 관련 공시 기재 정정",
-          "impact": "담보제공 조건·금액 변동 가능성으로 자금조달 구조 변화 여부 추가 확인 필요",
-          "level": "mid",
-          "date": "09/10",
-          "collected_at": "2026-09-11"
-        },
-        {
-          "summary": "자회사 마티카바이오, 美 BARDA(생물의학첨단연구개발국) 컨소시엄에 가입해 미국 정부 사업 참여 기반 마련",
-          "impact": "해외 CDMO 레퍼런스 확대로 자회사 사업가치 개선 여지 있으나 실제 수주로 이어질지는 미확정",
-          "level": "mid",
-          "date": "09/10",
-          "collected_at": "2026-09-11"
-        },
-        {
-          "summary": "타인에 대한 담보제공 결정 공시 기재 정정 접수",
-          "impact": "담보 조건 변경 여부에 따라 재무구조 및 추가 자금조달 구조에 영향 가능, 세부 내용 확인 필요",
-          "level": "mid",
-          "date": "09/10",
-          "collected_at": "2026-09-11"
-        },
-        {
-          "summary": "차광렬, 지분 25.12% 유지하며 담보계약 상대방 변경 공시",
-          "impact": "최대주주 지분율 변동 없어 지분구조 안정. 단, 담보 조건 변경은 재무 상태 모니터링 필요.",
-          "level": "mid",
-          "date": "09/14",
-          "collected_at": "2026-09-14"
-        },
-        {
-          "summary": "차광렬 대주주, 지분 25.12% 유지하되 담보계약 상대방 변경 공시",
-          "impact": "지분율 자체는 유지되나 담보구조 변경으로 반대매매 트리거 주체가 바뀜. 당사 지분가치의 간접 리스크 요인",
-          "level": "mid",
-          "date": "09/14",
-          "collected_at": "2026-09-15"
-        },
-        {
-          "summary": "대주주 담보주식 보유지분의 10% 초과, 유동성 부담 1,300억 원 수준으로 보도",
-          "impact": "주가 하락 시 강제 매각→지분구조 변동 가능성 존재. 당사 보유 지분가치에 직접 영향 가능",
-          "level": "mid",
-          "date": "09/15",
-          "collected_at": "2026-09-15"
         }
       ]
     },
@@ -694,12 +427,12 @@
         ],
         [
           "거래량(20일比)",
-          "3.96천 · 0.51x",
+          "3.87천 · 0.50x",
           null
         ],
         [
           "시가총액",
-          "853억",
+          "856억",
           null
         ],
         [
@@ -722,9 +455,9 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 실적(매출·영업손익) 공시 확인",
-        "신규 고객사·파트너십 체결 여부",
-        "헬스케어 사업 전환 진척 공시 여부"
+        "분기 매출·영업손익 발표",
+        "신규 고객사·파트너십 공시",
+        "헬스케어 전환 관련 사업 계약"
       ],
       "spark": [
         {
@@ -983,16 +716,8 @@
       "avgCost": null,
       "currency": "KRW",
       "exchangeLine": "KRX · 9/15 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
-      "sources": [
-        {
-          "title": "CNC News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
-          "source": "cncnews.co.kr",
-          "date": "09/14"
-        }
-      ],
-      "archive30d": []
+      "sourceUrl": null,
+      "sources": []
     },
     {
       "id": "LUMN",
@@ -1001,21 +726,21 @@
       "g": "B",
       "event": "Loss Ratio 개선·자율주행 보험 확장 검토",
       "tags": [
-        "+1.28%",
+        "-0.58%",
         "벤치마크"
       ],
-      "priceText": "$50.03",
-      "openText": "$48.65",
-      "highText": "$50.25",
-      "lowText": "$48.53",
-      "prevCloseText": "$49.40",
-      "changeText": "+$0.63",
+      "priceText": "$49.74",
+      "openText": "$49.25",
+      "highText": "$50.62",
+      "lowText": "$49.25",
+      "prevCloseText": "$50.03",
+      "changeText": "-$0.29",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$50.03",
-          "₩67,942"
+          "$49.74",
+          "₩68,123"
         ],
         [
           "취득가",
@@ -1029,27 +754,27 @@
         ],
         [
           "전일대비",
-          "+1.28%",
+          "-0.58%",
           null
         ],
         [
           "전주대비",
-          "+1.28%",
+          "+0.69%",
           null
         ],
         [
           "거래량(20일比)",
-          "88.91만 · 0.96x",
+          "69.05만 · 0.74x",
           null
         ],
         [
           "시가총액",
-          "$3.87B",
-          "5.26조"
+          "$3.85B",
+          "5.27조"
         ],
         [
           "52주 고점대비",
-          "-49.92%",
+          "-50.21%",
           null
         ]
       ],
@@ -1064,19 +789,15 @@
         }
       ],
       "events": [
-        "Loss Ratio 60% 달성·GP 76% 증가로 핵심 손익 지표가 구조적 개선 궤도 진입. 투자 매력도 재평가 근거 강화",
-        "CFO가 자율주행차 보험 및 교차판매 확장을 직접 언급. IFP 성장 경로가 신규 세그먼트로 확대될 수 있으나 실현 시점은 미확정"
+        "Loss Ratio 60% 및 Gross Profit 76% 성장은 디지털 손보 사업모델의 수익성 구조 개선을 실증하며, 신규 투자 매력도 상향 요인",
+        "자율주행차 보험과 크로스셀 전략은 IFP 성장 경로를 다각화하나, 아직 전략 추진 단계로 실적 반영 시점은 미확정"
       ],
       "watch": [
-        "IFP 성장률 분기별 추이 확인",
-        "EBITDA 흑자전환 시점 가이던스",
-        "자율주행 보험 세그먼트 매출 기여도"
+        "IFP 성장률 분기 추이",
+        "자율주행 보험 출시 일정",
+        "EBITDA 흑자전환 시점 확인"
       ],
       "spark": [
-        {
-          "date": "6/15",
-          "close": 60.75
-        },
         {
           "date": "6/16",
           "close": 60.74
@@ -1324,186 +1045,40 @@
         {
           "date": "9/14",
           "close": 50.03
+        },
+        {
+          "date": "9/15",
+          "close": 49.74
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 9/14 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGxfVVZ3cWhBLXZZMkgxdGJQN05WVXZodk1uWFBEUFFXQVZVZUxKSDE0RS0tY0gwTHNBTnZjeG5XQS1odWp2LXZ1WlVKREZGU2V0YVZqa3laQkJNV2FQZTJFZlBaeUxSY1lzLUlUT2NYbEZ5NVI5VXpvTnE5NUd2YjlPMklrVHZuTTIxcUp3cTdvTlBYNF9sVDZtelpYM0lyNlEwcQ?oc=5",
+      "exchangeLine": "NYSE · 9/15 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQl92U0NVMURVYVZ0V0twcFNHWjhmaWttU0lNUWRKamE0dmZzSmdKcHE3aDNwa3ZORE1UclFiR2dqYUdfWG5oOEJQcmJ1QVIzcEtrZUcyeHdaRGpySm9FQm9mR0pIcVNySjJfU1BfaW10ZFBzZDZYd041czlmbTRzRVFFa0kwXzFtMjRrallYOExtOTJQOXlSMXI0eDJtTmpNQnI2OVhyX0hQV3J6SVlpRFVHNml4djlwVm5TM3JTb0tNWWdOaEdSOTNLTUNmbXlKbjdIRXBTS1lBZ3ZGcnRRZHJBYUVRYVJHcndIRzlobDRTN3BLNklheFhydl9PSG04LXFONUI4OHhnQmIwQVNocWF3SUszaTkxQkl3Vg?oc=5",
       "sources": [
+        {
+          "title": "루멘: Stable strategy, tech-driven growth, and cross-sell focus position the company for sustained expansion",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQl92U0NVMURVYVZ0V0twcFNHWjhmaWttU0lNUWRKamE0dmZzSmdKcHE3aDNwa3ZORE1UclFiR2dqYUdfWG5oOEJQcmJ1QVIzcEtrZUcyeHdaRGpySm9FQm9mR0pIcVNySjJfU1BfaW10ZFBzZDZYd041czlmbTRzRVFFa0kwXzFtMjRrallYOExtOTJQOXlSMXI0eDJtTmpNQnI2OVhyX0hQV3J6SVlpRFVHNml4djlwVm5TM3JTb0tNWWdOaEdSOTNLTUNmbXlKbjdIRXBTS1lBZ3ZGcnRRZHJBYUVRYVJHcndIRzlobDRTN3BLNklheFhydl9PSG04LXFONUI4OHhnQmIwQVNocWF3SUszaTkxQkl3Vg?oc=5",
+          "source": "TradingView",
+          "date": "09/15"
+        },
+        {
+          "title": "Trading Systems Reacting to (루멘) Volatility",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXczQ05YbXdGbm5DbHdKS2xFZGxvUG1QejJVVFVGQVYzbV9leGs3N2ZFNE9OT0NyMDUtOVZJdnFwQ05rM052ajdCLTN1Y3RyMEJEUHpvTXBtWDNmOG1VcmJWS1lNbG5RTDlUTXd3di1aMklqb256WlpGWmwzQ0FsbWd2aHNQUEpmbnV2RzVBN21ScUZLNThHWTNXN3FvbDNvT2Q2WE82RlpNSUUzYzFhMU1pNExVZmZuWnpVQ2hOZU4?oc=5",
+          "source": "Stock Traders Daily",
+          "date": "09/15"
+        },
+        {
+          "title": "루멘: Stable strategy, tech-driven growth, and cross-sell focus drive profitability and expansion",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOXzVSNzBMaEdfVFpUeEg4Wm45RWxjbUdsc0s1bE5QcS1IcXdzNUVvVmU2VmlwMnBWd01OMzlMRmhsMlVmUXFHVzJvN0l5Yi1CQTF2U0VQSjBWYkRBTmRSZllEWjloLUNCMzM1cU91a3RuQnVDcUFkcC0yNnlmNVhtWHFDS1ZGbUV4OXR0bE0yenlncGNBYmJvX05kS2JEdW1OWHE3TTE1YmxEcXZpSXZQdDl0M3p3MTFlc3BMNjBma3puUmV2QWRmZ1VJMnRrcHNDU2VzRThyLXF4bzhnMEhMcVFZQzNxSlhOMnA1ZnVzeFNrS3E5Skc3Q3VHSXFidmlYTldQc2JxeFNCcXJMdUE?oc=5",
+          "source": "TradingView",
+          "date": "09/15"
+        },
         {
           "title": "루멘 CFO eyes self-driving car insurance, cross-selling growth",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGxfVVZ3cWhBLXZZMkgxdGJQN05WVXZodk1uWFBEUFFXQVZVZUxKSDE0RS0tY0gwTHNBTnZjeG5XQS1odWp2LXZ1WlVKREZGU2V0YVZqa3laQkJNV2FQZTJFZlBaeUxSY1lzLUlUT2NYbEZ5NVI5VXpvTnE5NUd2YjlPMklrVHZuTTIxcUp3cTdvTlBYNF9sVDZtelpYM0lyNlEwcQ?oc=5",
           "source": "CFO Dive",
           "date": "09/14"
-        },
-        {
-          "title": "루멘's Loss Ratio Improved to 60%, and Its Gross Profit Rose 76%. The Stock Is Still 49% Off Its High.",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjN3dlk5NHB2bmFGYW9yWHd0aEpiUi1CRmFURF9HeXQ0M010bmNPUTVzc1U0R1J2WjFRTUFGZWtEVHhNaXZWdklJclJ2Q3k3T2dydmllaVdzU3JTb2wxQjY0YTJnYWtTRDBJcGVrR1o2a2F0NnA2cVBEZ3J1aFZHb2liM1JVSFZqNDZwc1ZxQktfMENjaUJ3?oc=5",
-          "source": "The Motley Fool",
-          "date": "09/14"
-        },
-        {
-          "title": "FSD Insurance Discounts: 5 Details That Matter for Owners - BASENOR",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTHJvaUtHVTgzMDZNWHJ2QWhTX3VYZU1hWTlOVHk0Wi16NUVCTTF0SHJoeUFQbDk2eExRbnN4MG1OR1p6S2VNVi1RSjRvQzdsMzlPTG8ydG8wMkI4SUkzTmRLQ3Nyd0JNT0dwOXY3VmFzR3ZIWWVmU1hNVUlpN0RoSEtxSWxMS1JXcDViRWg4YTc4anpoY0E?oc=5",
-          "source": "BASENOR - Tesla Accessories",
-          "date": "09/13"
-        }
-      ],
-      "archive30d": [
-        {
-          "summary": "루멘, 플로리다주 자동차보험 출시로 미국 전체 인구의 약 절반 시장 커버리지 달성",
-          "impact": "IFP 확대 모멘텀 확인, 벤치마크 관점에서 디지털 손보 시장 침투 속도 및 수익성 지표 추적 필요",
-          "level": "mid",
-          "date": "08/26",
-          "collected_at": "2026-08-27"
-        },
-        {
-          "summary": "루멘 Car, 플로리다 주 자동차보험 서비스 정식 출시",
-          "impact": "IFP 성장 가속 기대 반면 플로리다 고위험 시장 진출로 Loss Ratio 악화 가능성 병존. 투자 검토 시 지표 확인 필요",
-          "level": "mid",
-          "date": "08/27",
-          "collected_at": "2026-08-28"
-        },
-        {
-          "summary": "루멘, 플로리다주 자동차보험 신규 출시 및 영업 개시",
-          "impact": "플로리다는 고손해율 지역으로 IFP 확대와 Loss Ratio 악화 리스크가 동시 존재. 벤치마크 관점에서 디지털 손보의 고위험 시장 대응 역량 확인 기회",
-          "level": "mid",
-          "date": "08/27",
-          "collected_at": "2026-08-28"
-        },
-        {
-          "summary": "루멘, 플로리다주 자동차보험 서비스 출시",
-          "impact": "신규 주(州) 진입으로 IFP 성장 기회 확대; 플로리다의 구조적 고손해율은 Loss Ratio에 하방 리스크로 작용할 수 있어 투자 검토 시 모니터링 필요",
-          "level": "mid",
-          "date": "08/27",
-          "collected_at": "2026-08-28"
-        },
-        {
-          "summary": "루멘이 플로리다주에서 자동차보험 서비스를 신규 출시함",
-          "impact": "IFP 확대 가능성이 있으나 고위험 시장 진입으로 Loss Ratio 관리 여부가 투자 매력도 판단의 추가 변수로 부상",
-          "level": "mid",
-          "date": "08/27",
-          "collected_at": "2026-08-28"
-        },
-        {
-          "summary": "루멘, 플로리다 오토 보험 출시 및 미국 인구 절반 수준 커버리지 도달 보도",
-          "impact": "IFP 확대 경로가 구체화되어 신규 투자 검토 시 성장성 가정의 근거로 활용 가능",
-          "level": "mid",
-          "date": "08/30",
-          "collected_at": "2026-08-31"
-        },
-        {
-          "summary": "루멘, 플로리다 자동차보험 출시로 미국 내 커버리지 절반 근접 보고",
-          "impact": "IFP 확대 가능성 확인되나 신시장 Loss Ratio 영향 검증 전까지 투자 판단 유보 필요",
-          "level": "mid",
-          "date": "08/30",
-          "collected_at": "2026-09-01"
-        },
-        {
-          "summary": "캐나다연금투자위원회(CPPIB), 루멘 신규 지분 매입",
-          "impact": "대형 기관의 신규 진입은 밸류에이션 저점 인식 신호로, 투자 검토 시 참고 가능",
-          "level": "low",
-          "date": "08/30",
-          "collected_at": "2026-09-01"
-        },
-        {
-          "summary": "루멘이 캔자스주 렌터스보험 서비스를 월 5달러부터 제공 개시",
-          "impact": "디지털 손보 벤치마크 관점에서 IFP 확대 방향성 확인; 실제 지표 개선 여부는 차기 실적 발표에서 검증 필요",
-          "level": "mid",
-          "date": "09/01",
-          "collected_at": "2026-09-02"
-        },
-        {
-          "summary": "미주리주에서 자동차보험 출시, 테슬라 자율주행 차량 대상 할인 적용",
-          "impact": "신규 주 진출과 테슬라 연계 상품 차별화로 IFP 확대 가능—벤치마크 관점에서 자율주행 연계 상품 구조 참고 가치 있음",
-          "level": "mid",
-          "date": "09/02",
-          "collected_at": "2026-09-03"
-        },
-        {
-          "summary": "캔자스주 세입자보험(Renters Insurance) 신규 출시",
-          "impact": "지속적 주 단위 확장으로 IFP 성장세 유지—손해율 영향은 추후 실적에서 확인 필요",
-          "level": "low",
-          "date": "09/01",
-          "collected_at": "2026-09-03"
-        },
-        {
-          "summary": "미주리주 자동차보험 출시, 테슬라 차량 대상 할인 상품 포함",
-          "impact": "IFP 성장 지속 확인—자율주행 연계 언더라이팅 모델은 당사 디지털 보험 벤치마크로 참고 가치",
-          "level": "mid",
-          "date": "09/02",
-          "collected_at": "2026-09-03"
-        },
-        {
-          "summary": "캔자스주 임차인보험 신규 출시로 영업 지역 확대",
-          "impact": "지역 다각화를 통한 IFP 누적 확대—Loss Ratio 영향은 분기 실적에서 추적 필요",
-          "level": "low",
-          "date": "09/01",
-          "collected_at": "2026-09-03"
-        },
-        {
-          "summary": "테슬라 자율주행 마일당 보험료를 일반 대비 50% 할인 적용, 자율주행 안전 데이터 근거",
-          "impact": "자율주행 연계 가격 차별화 모델은 디지털 손보 벤치마크 관점에서 pricing 혁신 사례로 참고 가능",
-          "level": "mid",
-          "date": "09/04",
-          "collected_at": "2026-09-04"
-        },
-        {
-          "summary": "루멘이 메인주로 렌터스보험 서비스 지역을 확장함",
-          "impact": "IFP 성장 경로 확인 가능하나 신규 주 진출 비용이 EBITDA 흑자전환 시점에 미치는 영향 점검 필요",
-          "level": "low",
-          "date": "09/06",
-          "collected_at": "2026-09-07"
-        },
-        {
-          "summary": "KBW 보험 컨퍼런스에서 30%+ 성장 목표, AI 역량 확대, 수익성 근접 경로 제시",
-          "impact": "IFP 성장률·Loss Ratio 실현 여부에 따라 신규 투자 검토 판단 근거로 활용 가능",
-          "level": "mid",
-          "date": "09/10",
-          "collected_at": "2026-09-11"
-        },
-        {
-          "summary": "CFO Timothy Bixby, 이사회(Board) 역할로 전환 예정",
-          "impact": "CFO 교체는 재무전략·자본배분 방향 변화 가능성을 수반해 투자 검토 시 경영 안정성 확인 필요",
-          "level": "mid",
-          "date": "09/11",
-          "collected_at": "2026-09-11"
-        },
-        {
-          "summary": "KBW 보험 컨퍼런스에서 30%+ 성장 목표, AI 역량 확대, 흑자전환 경로를 제시",
-          "impact": "벤치마크 종목의 수익성 전환 가시성이 일부 제시되어 투자 검토 시 IFP·EBITDA 목표치 비교 기준으로 활용 가능",
-          "level": "mid",
-          "date": "09/10",
-          "collected_at": "2026-09-11"
-        },
-        {
-          "summary": "CFO Timothy Bixby가 이사회(Boa...)로 전환 예정",
-          "impact": "재무전략 책임자 교체로 흑자전환 로드맵 연속성 점검 필요, 신임 CFO 선임 후 전략 변화 여부 확인 요망",
-          "level": "mid",
-          "date": "09/11",
-          "collected_at": "2026-09-11"
-        },
-        {
-          "summary": "Loss Ratio 60% 개선, Gross Profit 전년 대비 76% 증가 보고",
-          "impact": "벤치마크 핵심 지표 개선 확인. 당사 디지털 손보 모델 수익성 비교 기준으로 활용 가능.",
-          "level": "mid",
-          "date": "09/14",
-          "collected_at": "2026-09-14"
-        },
-        {
-          "summary": "Loss Ratio 60%로 개선, 분기 Gross Profit 전년 대비 76% 증가 보도",
-          "impact": "핵심 손익 지표 개선으로 벤치마크 모델 투자 매력도 상승. 당사 디지털 손보 검토 기준선 업데이트 필요",
-          "level": "mid",
-          "date": "09/14",
-          "collected_at": "2026-09-15"
-        },
-        {
-          "summary": "CFO, 자율주행차 보험 진출 및 교차판매 성장 확대 계획 언급",
-          "impact": "IFP 확장 경로 다변화 가능성. 당사 디지털 손보 사업모델 검토 시 신규 세그먼트 반영 여부 검토 필요",
-          "level": "mid",
-          "date": "09/14",
-          "collected_at": "2026-09-15"
         }
       ]
     },
@@ -1520,7 +1095,7 @@
       "priceText": "Rp645",
       "openText": "Rp645",
       "highText": "Rp645",
-      "lowText": "Rp625",
+      "lowText": "Rp645",
       "prevCloseText": "Rp645",
       "changeText": "+Rp0",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
@@ -1528,7 +1103,7 @@
         [
           "종가",
           "Rp645",
-          "₩49.5"
+          "₩50.0"
         ],
         [
           "취득가",
@@ -1552,13 +1127,13 @@
         ],
         [
           "거래량(20일比)",
-          "3.80천 · 0.17x",
+          "-",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,486억"
+          "1,487억"
         ],
         [
           "52주 고점대비",
@@ -1580,15 +1155,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 신규 가이드라인 발표 여부",
-        "분기 RBC 비율 보고 확인",
-        "PIKK 개정안 입법 진행 상황"
+        "OJK 규제 신규 지침 발표",
+        "RBC 비율 분기 보고",
+        "PIKK 개정 관련 공시"
       ],
       "spark": [
-        {
-          "date": "6/17",
-          "close": 670.0
-        },
         {
           "date": "6/18",
           "close": 650.0
@@ -1836,43 +1407,203 @@
         {
           "date": "9/14",
           "close": 645.0
+        },
+        {
+          "date": "9/15",
+          "close": 645.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 9/14 종가 (WIB)",
+      "exchangeLine": "IDX · 9/15 종가 (WIB)",
       "sourceUrl": null,
-      "sources": [],
-      "archive30d": [
-        {
-          "summary": "인도네시아 보험 시장, OJK의 AI 기반 보험사 감독 체계 도입 논의 보도",
-          "impact": "당사 관점에서 참고할 규제 동향. 자회사 내부통제·규제 준수 비용 변화 모니터링 필요",
-          "level": "low",
-          "date": "08/27",
-          "collected_at": "2026-08-28"
-        },
-        {
-          "summary": "OJK, 2045년까지 금융포용률 98% 달성 목표 제시",
-          "impact": "당사 관점에서 참고할 규제·정책 동향. 인도네시아 보험 시장 장기 성장 방향성으로 자회사 영업 환경에 간접 참고",
-          "level": "low",
-          "date": "08/28",
-          "collected_at": "2026-08-29"
-        },
-        {
-          "summary": "OJK, 인도네시아 보험사 중 82%만 2026년 최저자본 요건 충족 발표",
-          "impact": "당사 자회사의 최저자본 충족 여부 미확인 — 미충족 시 자본 확충 의사결정 필요",
-          "level": "mid",
-          "date": "09/01",
-          "collected_at": "2026-09-01"
-        },
-        {
-          "summary": "인도네시아, 증권거래소 비상호화(demutualization) 관련 규정 최종 확정",
-          "impact": "인도네시아 자본시장 규제 환경 변화로 당사 자회사 영업환경 간접 영향 가능성, 참고 수준 모니터링 필요",
-          "level": "low",
-          "date": "09/10",
-          "collected_at": "2026-09-11"
-        }
-      ]
+      "sources": []
     }
-  ]
+  ],
+  "insurerKpi": {
+    "columns": [
+      "손해율",
+      "합산비율",
+      "원수보험료",
+      "당기순이익",
+      "CSM",
+      "RBC비율"
+    ],
+    "rows": [
+      {
+        "company": "삼성화재",
+        "cells": [
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": "14.6조",
+            "date": "09/06"
+          },
+          {
+            "value": null,
+            "date": null
+          }
+        ]
+      },
+      {
+        "company": "DB손해보험",
+        "cells": [
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          }
+        ]
+      },
+      {
+        "company": "현대해상",
+        "cells": [
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          }
+        ]
+      },
+      {
+        "company": "KB손해보험",
+        "cells": [
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          }
+        ]
+      },
+      {
+        "company": "메리츠화재",
+        "cells": [
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": "12조",
+            "date": "09/15"
+          },
+          {
+            "value": null,
+            "date": null
+          }
+        ]
+      },
+      {
+        "company": "한화손해보험",
+        "cells": [
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          },
+          {
+            "value": null,
+            "date": null
+          }
+        ]
+      }
+    ]
+  }
 }
