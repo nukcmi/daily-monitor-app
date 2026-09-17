@@ -1,6 +1,90 @@
 {
-  "updated": "2026-09-16 17:18",
+  "updated": "2026-09-17 11:00",
   "articles": [
+    {
+      "publisher": "McKinsey",
+      "type": "consulting",
+      "title": "The strategic new arenas reshaping insurance",
+      "takeaway": "AI 외 18개 고성장 산업이 보험업의 신규 시장과 수익구조를 재편 중.",
+      "bullets": [
+        "모빌리티·기후테크 등 18개 신산업에서 신규 인수(underwriting) 기회 발생",
+        "신산업 성장이 기존 보험 상품의 경제성 자체를 변화시킴",
+        "단순 디지털화 넘어 산업 생태계 재편에 전략적 포지셔닝 필요"
+      ],
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance",
+      "date": "09/15",
+      "collected_at": "2026-09-17"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "Building the New Economy with Ares' Kipp deVeer",
+      "takeaway": "데이터센터 금융에서 '뉴이코노미' 인프라 전반으로 사모신용 투자가 확장 중.",
+      "bullets": [
+        "Ares는 데이터센터 파이낸싱에서 에너지·디지털 인프라로 영역 확대",
+        "사모신용(private credit) 시장의 대형화가 보험사 ALM 운용 기회 확대",
+        "뉴이코노미 인프라는 장기 고정수익 자산으로 보험사 자산배분 적합"
+      ],
+      "url": "https://www.bain.com/insights/building-the-new-economy-with-ares-kipp-deveer-podcast/",
+      "date": "09/16",
+      "collected_at": "2026-09-17"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "에이지테크(AgeTech) 산업의 성장과 보험산업",
+      "takeaway": "AgeTech 산업 성장이 고령자 대상 보험상품·서비스 모델 혁신을 촉진.",
+      "bullets": [
+        "AgeTech(고령친화 기술)는 헬스케어·생활보조 기기·플랫폼을 포함",
+        "고령 인구 증가와 기술 결합으로 보험 연계 신서비스 설계 가능",
+        "보험사의 AgeTech 파트너십이 장기간병·실버케어 시장 선점 수단"
+      ],
+      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=868939",
+      "date": "",
+      "collected_at": "2026-09-17"
+    },
+    {
+      "publisher": "보험연구원(KIRI)",
+      "type": "research_institute",
+      "title": "디지털 유산 관리와 보험산업의 접점",
+      "takeaway": "디지털 유산(사망 후 온라인 자산) 관리가 보험업의 새로운 접점으로 부상.",
+      "bullets": [
+        "사망자의 SNS·암호화폐 등 디지털 자산 처리 수요 급증",
+        "생명보험 청구·수익자 지정 프로세스와 디지털 유산 연계 가능",
+        "디지털 유산 서비스를 부가특약으로 설계 시 차별화 상품 개발 기회"
+      ],
+      "url": "https://www.kiri.or.kr/publication/list.do?catId=29&docId=868489",
+      "date": "",
+      "collected_at": "2026-09-17"
+    },
+    {
+      "publisher": "McKinsey",
+      "type": "consulting",
+      "title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "takeaway": "매년 교체되는 고객 지갑점유율을 선제적으로 방어하는 전략이 핵심.",
+      "bullets": [
+        "연간 12~25%의 wallet share(고객 금융거래 점유율)가 이동",
+        "충성도 유지보다 이탈 예측·선점이 경쟁 우위 결정",
+        "보험사도 교차판매·번들링으로 고객 고착화 필요"
+      ],
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "date": "09/16",
+      "collected_at": "2026-09-17"
+    },
+    {
+      "publisher": "Bain",
+      "type": "consulting",
+      "title": "Getting Past the AI Value Paradox in Private Equity",
+      "takeaway": "PE 포트폴리오사의 AI 투자가 확산되지만 실질 가치 창출로 이어지지 않는 역설 주목.",
+      "bullets": [
+        "AI 도입 범위와 실제 EBITDA 개선 간 괴리가 심화",
+        "가치 창출 실패 원인은 기술보다 실행·조직 역량 부재",
+        "보험 계열 투자 포트폴리오의 AI ROI 검증 기준 정립 시사"
+      ],
+      "url": "https://www.bain.com/insights/getting-past-the-ai-value-paradox-in-private-equity/",
+      "date": "09/16",
+      "collected_at": "2026-09-17"
+    },
     {
       "publisher": "Bain",
       "type": "consulting",
@@ -44,20 +128,6 @@
       "collected_at": "2026-09-16"
     },
     {
-      "publisher": "McKinsey",
-      "type": "consulting",
-      "title": "The strategic new arenas reshaping insurance",
-      "takeaway": "AI 외 18개 고성장 산업이 보험사 신시장 기회를 재편 중",
-      "bullets": [
-        "신산업 진입이 보험료 수익구조 자체를 바꾸는 수준",
-        "기존 보험경제학(언더라이팅·가격 모델) 재설계 필요",
-        "선점 여부가 장기 시장지위 결정적 변수로 부상"
-      ],
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance",
-      "date": "09/15",
-      "collected_at": "2026-09-16"
-    },
-    {
       "publisher": "Bain",
       "type": "consulting",
       "title": "From Tailwinds to Trade-Offs: Southeast Asia Outlook 2026–2035",
@@ -69,48 +139,6 @@
       ],
       "url": "https://www.bain.com/insights/from-tailwinds-to-trade-offs-southeast-asia-outlook-2026-2035/",
       "date": "09/16",
-      "collected_at": "2026-09-16"
-    },
-    {
-      "publisher": "Bain",
-      "type": "consulting",
-      "title": "Building the New Economy with Ares' Kipp deVeer",
-      "takeaway": "데이터센터 등 뉴이코노미 인프라 금융확대는 보험 수요 창출",
-      "bullets": [
-        "Ares, 데이터센터 건설·운영 파이낸싱으로 영역 확장",
-        "대체자산(인프라·사모) 성장→관련 보험·보증 수요 증가",
-        "AI 인프라 투자 붐이 신규 리스크 익스포저 형성"
-      ],
-      "url": "https://www.bain.com/insights/building-the-new-economy-with-ares-kipp-deveer-podcast/",
-      "date": "09/16",
-      "collected_at": "2026-09-16"
-    },
-    {
-      "publisher": "보험연구원(KIRI)",
-      "type": "research_institute",
-      "title": "에이지테크(AgeTech) 산업의 성장과 보험산업",
-      "takeaway": "에이지테크 성장은 고령자 특화 보험상품·채널 혁신 기회",
-      "bullets": [
-        "헬스케어·돌봄 기술 융합으로 고령층 니즈 세분화",
-        "에이지테크 데이터 활용 시 언더라이팅 정교화 가능",
-        "보험사-에이지테크 기업 간 제휴 생태계 형성 가속"
-      ],
-      "url": "https://www.kiri.or.kr/publication/list.do?catId=28&docId=868939",
-      "date": "",
-      "collected_at": "2026-09-16"
-    },
-    {
-      "publisher": "보험연구원(KIRI)",
-      "type": "research_institute",
-      "title": "디지털 유산 관리와 보험산업의 접점",
-      "takeaway": "디지털 자산 사후 처리 이슈가 보험업 신규 서비스 영역으로 부상",
-      "bullets": [
-        "SNS·암호화폐 등 디지털 유산의 법적 처리 공백 존재",
-        "유산 관리 서비스와 생명보험 연계 상품 설계 가능성",
-        "수익자 지정·자산이전 절차 디지털화 수요 증가"
-      ],
-      "url": "https://www.kiri.or.kr/publication/list.do?catId=29&docId=868489",
-      "date": "",
       "collected_at": "2026-09-16"
     },
     {
