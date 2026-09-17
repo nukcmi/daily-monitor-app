@@ -1,160 +1,95 @@
 {
-  "updated": "2026-09-16 21:34",
+  "updated": "2026-09-17 11:00",
   "items": [
     {
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "source": "TechCrunch",
-      "date": "09/16",
-      "insight": "아마존, 인도서 힌디 지원 Alexa+ 조기 출시",
-      "takeaway": "아마존, 인도서 힌디 지원 Alexa+ 조기 출시",
-      "bullets": [
-        "인도 전체 고객 대상 조기 접근 허용",
-        "힌디어 지원으로 현지화 강화",
-        "Alexa+ 글로벌 확장 전략의 일환"
-      ]
-    },
-    {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "source": "TechCrunch",
-      "date": "09/16",
-      "insight": "젠슨 황, AI 자율규제 주장…정부 개입 반대",
-      "takeaway": "젠슨 황, AI 자율규제 주장…정부 개입 반대",
-      "bullets": [
-        "AI는 하드웨어·소프트웨어에 불과하다고 주장",
-        "안전은 각 제품 개발사가 엔지니어링해야",
-        "정부 규제 대신 업계 자율 안전 관리 촉구"
-      ]
-    },
-    {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+      "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
       "source": "TechCrunch",
       "date": "09/15",
-      "insight": "데이터센터 건설 반발, 필라델피아까지 확산",
-      "takeaway": "데이터센터 건설 반발, 필라델피아까지 확산",
+      "insight": "여성 건강 마이크로바이옴 연구, 4000만 달러 투자 유치",
+      "takeaway": "여성 건강 마이크로바이옴 연구, 4000만 달러 투자 유치",
       "bullets": [
-        "폐유 정제소 인근 지역에 건설 검토 논란",
-        "AI 인프라 붐이 도시 환경 갈등 심화",
-        "전국적 데이터센터 반대 운동으로 번져"
+        "Evvy, 시리즈B 4000만 달러 조달",
+        "Catalio Capital Management 주도",
+        "질 마이크로바이옴 데이터 기반 여성 건강 연구"
       ]
     },
     {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "source": "TechCrunch",
-      "date": "09/15",
-      "insight": "메타, WhatsApp 비즈니스 설정을 AI 에이전트로 자동화",
-      "takeaway": "메타, WhatsApp 비즈니스 설정을 AI 에이전트로 자동화",
+      "title": "Inference hardware startup Delos Data raises $100M+ in funding",
+      "url": "https://siliconangle.com/2026/09/16/inference-hardware-startup-delos-data-raises-100m-in-funding/",
+      "source": "SiliconANGLE",
+      "date": "09/17",
+      "insight": "AI 추론 전용 하드웨어 스타트업, 1억 달러 이상 대규모 투자",
+      "takeaway": "AI 추론 전용 하드웨어 스타트업, 1억 달러 이상 대규모 투자",
       "bullets": [
-        "MCP 서버로 Claude·Cursor·ChatGPT 등 연동",
-        "메시지 템플릿·테스트·문제해결 자동 처리",
-        "개발자 부담 줄이는 AI 코딩 에이전트 활용"
+        "Delos Data, 1억 달러 이상 펀딩 확보",
+        "AI 클러스터용 하드웨어 개발 스타트업",
+        "Matrix·Playground·Socratic Partners 등 참여"
       ]
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch",
-      "date": "09/15",
-      "insight": "실패한 AI 프로젝트 총정리, 업계 경고음",
-      "takeaway": "실패한 AI 프로젝트 총정리, 업계 경고음",
-      "bullets": [
-        "애플 Siri AI 반복 지연 사례 포함",
-        "OpenAI 슈퍼앱 출시 혼란도 기록",
-        "종료·기대 미달 AI 프로젝트 목록 지속 업데이트"
-      ]
-    },
-    {
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "source": "TechCrunch",
-      "date": "09/15",
-      "insight": "2035년 미국 데이터센터, 천연가스 소비 급증 경고",
-      "takeaway": "2035년 미국 데이터센터, 천연가스 소비 급증 경고",
-      "bullets": [
-        "독일·일본 합산보다 많은 가스 소비 예측",
-        "AI 열풍이 에너지 수요 폭발적 증가 유발",
-        "미국 데이터센터가 세계 최대 가스 소비처 가능성"
-      ]
-    },
-    {
-      "title": "Pipedrive launches Nova AI assistant to reduce CRM admin work and keep data current",
-      "url": "https://siliconangle.com/2026/09/16/pipedrive-launches-nova-ai-assistant-to-reduce-crm-admin-work-and-keep-data-current/",
+      "title": "Ex-Infosys chief Vishal Sikka’s Hang Ten raises $53M more for enterprise AI services",
+      "url": "https://siliconangle.com/2026/09/16/ex-infosys-chief-vishal-sikkas-hang-ten-raises-another-53m-for-enterprise-ai-services/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "Pipedrive, CRM 관리 자동화 AI 어시스턴트 Nova 출시",
-      "takeaway": "Pipedrive, CRM 관리 자동화 AI 어시스턴트 Nova 출시",
+      "insight": "전 Infosys CEO 비샬 시카, 3개월 만에 두 번째 시드 조달",
+      "takeaway": "전 Infosys CEO 비샬 시카, 3개월 만에 두 번째 시드 조달",
       "bullets": [
-        "중소기업 대상 CRM 플랫폼에 AI 탑재",
-        "반복적 관리 업무 줄이고 데이터 최신화 지원",
-        "Nova 정식 출시로 AI CRM 경쟁 가열"
+        "Hang Ten, 두 번째 시드로 5300만 달러 유치",
+        "첫 시드 발표 후 3개월 미만 만에 추가 조달",
+        "엔터프라이즈 AI 서비스 분야 집중"
       ]
     },
     {
-      "title": "Cohesity’s new Agent Resilience lets companies roll back AI agents that go wrong",
-      "url": "https://siliconangle.com/2026/09/16/cohesitys-new-agent-resilience-lets-companies-roll-back-ai-agents-that-go-wrong/",
+      "title": "Noetive launches with $41M to bring self-improving AI to factories and logistics",
+      "url": "https://siliconangle.com/2026/09/16/noetive-launches-with-41m-to-bring-self-improving-ai-to-factories-and-logistics/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "Cohesity, 오작동 AI 에이전트 롤백 기능 출시",
-      "takeaway": "Cohesity, 오작동 AI 에이전트 롤백 기능 출시",
+      "insight": "공장·물류 자가학습 AI, 4100만 달러로 정식 출범",
+      "takeaway": "공장·물류 자가학습 AI, 4100만 달러로 정식 출범",
       "bullets": [
-        "에이전트 메모리·설정 백업 기능 제공",
-        "Catalyst 컨퍼런스서 Agent Resilience 발표",
-        "기업용 AI 에이전트 안전망 수요 반영"
+        "Noetive, 시드 4100만 달러로 공식 런칭",
+        "공장·물류 운영 패턴 스스로 학습하는 AI",
+        "산업 현장 최적화 목표"
       ]
     },
     {
-      "title": "Democrats vote down crypto’s Clarity Act, citing ethics concerns and Trump’s vast crypto wealth",
-      "url": "https://siliconangle.com/2026/09/15/democrats-vote-down-cryptos-clarity-act-citing-ethics-concerns-and-trumps-vast-crypto-wealth/",
+      "title": "CADDi raises $114M at $1.2B valuation to bring manufacturing AI to North America",
+      "url": "https://siliconangle.com/2026/09/16/caddi-raises-114m-at-1-2b-valuation-to-bring-manufacturing-ai-to-north-america/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "민주당, 트럼프 암호화폐 자산 문제로 Clarity Act 부결",
-      "takeaway": "민주당, 트럼프 암호화폐 자산 문제로 Clarity Act 부결",
+      "insight": "제조 AI 유니콘 CADDi, 북미 확장 위해 1.14억 달러 조달",
+      "takeaway": "제조 AI 유니콘 CADDi, 북미 확장 위해 1.14억 달러 조달",
       "bullets": [
-        "상원 투표서 암호화폐 법안 대패",
-        "트럼프의 방대한 암호화폐 자산이 윤리 논란",
-        "미국 디지털자산 입법 불확실성 지속"
+        "CADDi, 기업가치 12억 달러로 1억1400만 달러 유치",
+        "북미 시장 진출 확대가 주요 목적",
+        "제조 분야 AI 솔루션 스타트업"
       ]
     },
     {
-      "title": "OpenAI, Anthropic and Google secretly joined forces to collaborate on AI safety",
-      "url": "https://siliconangle.com/2026/09/15/openai-anthropic-and-google-secretly-joined-forces-to-collaborate-on-ai-safety/",
+      "title": "Rune raises $40M for its modular solar-powered data centers",
+      "url": "https://siliconangle.com/2026/09/16/rune-raises-40m-for-its-modular-solar-powered-data-centers/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "OpenAI·Anthropic·Google, AI 안전 프레임워크 비밀 협력",
-      "takeaway": "OpenAI·Anthropic·Google, AI 안전 프레임워크 비밀 협력",
+      "insight": "태양광 모듈형 데이터센터 Rune, Spark Capital 주도 4000만 달러 조달",
+      "takeaway": "태양광 모듈형 데이터센터 Rune, Spark Capital 주도 4000만 달러 조달",
       "bullets": [
-        "경쟁사 3사가 AI 안전 공동 체계 마련 추진",
-        "OpenAI 정책 총괄이 협력 사실 공개 언급",
-        "규제 논의 속 빅테크 자율 안전 연대 형성"
+        "Rune, Spark Capital 주도로 4000만 달러 확보",
+        "태양광 전력 기반 모듈형 데이터센터 하드웨어",
+        "법인명은 Liitto Technology Inc."
       ]
     },
     {
-      "title": "Governance becomes critical as AI agents move into financial reporting",
-      "url": "https://siliconangle.com/2026/09/15/workiva-bets-trust-ai-agents-enter-financial-reporting-amplify/",
+      "title": "TypeSafe AI exits stealth with $40M to build AI for use by software",
+      "url": "https://siliconangle.com/2026/09/16/typesafe-ai-exits-stealth-with-40m-to-build-ai-for-use-by-software/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "재무보고에 AI 도입, 거버넌스가 핵심 과제로 부상",
-      "takeaway": "재무보고에 AI 도입, 거버넌스가 핵심 과제로 부상",
+      "insight": "전 OpenAI 연구원 창업, 소프트웨어용 AI 모델로 시드 4000만 달러",
+      "takeaway": "전 OpenAI 연구원 창업, 소프트웨어용 AI 모델로 시드 4000만 달러",
       "bullets": [
-        "AI 에이전트가 기업 소프트웨어 필수 요소로 정착",
-        "재무·감사에서 결과 방어 가능성이 관건",
-        "속도보다 신뢰성·통제 가능성이 더 중요"
-      ]
-    },
-    {
-      "title": "Newell Brands puts internal audit at the heart of AI adoption",
-      "url": "https://siliconangle.com/2026/09/15/newell-brands-puts-internal-audit-at-the-heart-of-ai-adoption-amplify/",
-      "source": "SiliconANGLE",
-      "date": "09/16",
-      "insight": "Newell Brands, 내부감사를 AI 도입 핵심 축으로 활용",
-      "takeaway": "Newell Brands, 내부감사를 AI 도입 핵심 축으로 활용",
-      "bullets": [
-        "내부감사가 자동화 속도 결정에 중요 역할",
-        "AI가 명확한 통제·책임 필요한 업무 담당",
-        "AI 거버넌스 강화 위해 감사 기능 재정립"
+        "TypeSafe AI, 시드 4000만 달러로 스텔스 해제",
+        "ChatGPT 개발 참여 전 OpenAI 연구원이 설립",
+        "소프트웨어가 활용하는 AI 모델 개발 목표"
       ]
     }
   ]
