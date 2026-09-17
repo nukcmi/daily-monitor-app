@@ -1,21 +1,21 @@
 {
   "asOf": "2026-09-17",
-  "updated": "2026-09-17 11:00",
-  "fx": "환율 2026-09-16 · 시장환율   1 USD = ₩1,382.68   |   1 USD = 17,665.00 IDR   |   1 IDR = ₩0.07827",
+  "updated": "2026-09-17 18:09",
+  "fx": "환율 2026-09-17 · 시장환율   1 USD = ₩1,384.69   |   1 USD = 17,743.00 IDR   |   1 IDR = ₩0.07804",
   "attentionItems": [
     {
-      "company": "차바이오텍",
-      "text": "9회차 신주인수권 행사가액을 1만1301원으로 하향 조정하는 공시 발생",
-      "impact": "행사가 하향으로 주식 희석 규모 확대 — 당사 보유 지분의 상대적 가치 감소 가능성",
-      "level": "high",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900441"
-    },
-    {
       "company": "LPGI",
-      "text": "당사 지원을 기반으로 인도네시아 손보 시장 Top5 진입 목표를 대외 공식화",
-      "impact": "당사가 자회사 성장 전략의 핵심 지원자로 명시 — 그룹 시너지 실현이 공식 확인됨",
+      "text": "당사 지원을 배경으로 LPGI가 인도네시아 손보 Top5 진입을 목표로 제시",
+      "impact": "당사가 직접 언급된 기사로, 자회사 성장 전략에 당사 역할이 공개 확인됨. 시너지 실현 여부가 지분가치에 직결",
       "level": "high",
       "url": null
+    },
+    {
+      "company": "차바이오텍",
+      "text": "상환전환우선주(RCPS) 전환가액 조정 공시",
+      "impact": "전환가액 하향 시 전환 물량 증가로 기존 보통주 희석 가능성 — 당사 보유 지분 가치에 부정적으로 작용할 수 있음",
+      "level": "high",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917900433"
     }
   ],
   "companies": [
@@ -24,22 +24,22 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "BW 행사가 하향·대량보유 변동",
+      "event": "자본구조 조정 공시 집중",
       "tags": [
-        "-1.51%",
+        "-0.64%",
         "당사 투자"
       ],
-      "priceText": "₩7,830",
-      "openText": "₩7,950",
-      "highText": "₩7,960",
-      "lowText": "₩7,770",
-      "prevCloseText": "₩7,950",
-      "changeText": "-₩120",
+      "priceText": "₩7,780",
+      "openText": "₩7,890",
+      "highText": "₩7,890",
+      "lowText": "₩7,740",
+      "prevCloseText": "₩7,830",
+      "changeText": "-₩50",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩7,830",
+          "₩7,780",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-38.85%",
+          "-39.24%",
           null
         ],
         [
           "전일대비",
-          "-1.51%",
+          "-0.64%",
           null
         ],
         [
           "전주대비",
-          "-2.61%",
+          "-3.23%",
           null
         ],
         [
           "거래량(20일比)",
-          "13.09만 · 0.40x",
+          "14.29만 · 0.45x",
           null
         ],
         [
           "시가총액",
-          "7,280억",
+          "7,233억",
           null
         ],
         [
           "52주 고점대비",
-          "-67.31%",
+          "-67.52%",
           null
         ]
       ],
@@ -89,19 +89,15 @@
         }
       ],
       "events": [
-        "9회차 BW(신주인수권부사채) 행사가 하향은 기존 주주 희석 압력이며, 당사 지분가치에 직접 영향",
-        "대량보유 공시 발생으로 주주구성 변동 확인 필요 — 지분구조 안정성 재점검 시점"
+        "RCPS 전환가액 조정·신주인수권 행사가액 조정·대량보유 보고가 단기간 집중 — 지분구조 변동 가능성 주시 필요",
+        "담보제공 기재정정은 차입 부담 지속을 시사, 추가 자금조달 압력 상존"
       ],
       "watch": [
-        "대량보유자 신원 및 보유목적 확인",
-        "잔여 BW 행사 시 추가 희석 규모",
-        "담보제공 정정 내용의 재무 영향 범위"
+        "RCPS 전환가액 조정 후 전환 물량 규모",
+        "담보제공 변경 내용 및 차입 잔액 현황",
+        "대량보유 보고 주체의 지분 변동 방향"
       ],
       "spark": [
-        {
-          "date": "6/18",
-          "close": 12080.0
-        },
         {
           "date": "6/19",
           "close": 11930.0
@@ -349,13 +345,23 @@
         {
           "date": "9/16",
           "close": 7830.0
+        },
+        {
+          "date": "9/17",
+          "close": 7780.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/16 종가",
-      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900441",
+      "exchangeLine": "KRX · 9/17 종가",
+      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917900433",
       "sources": [
+        {
+          "title": "전환주식의전환가액조정              (상환전환우선주)",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917900433",
+          "source": "DART",
+          "date": "20260917"
+        },
         {
           "title": "신주인수권행사가액의조정",
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900441",
@@ -373,41 +379,35 @@
           "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260910900561",
           "source": "DART",
           "date": "20260910"
-        },
-        {
-          "title": "차바이오텍 주가 상승 중",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RZ083V283RjZTRHQ1UmtjWDN2MnZZS29uYkZzX2xnVlB6cldMZXdkalJNRW8tUHZPelFvWEJYb05jVC1kV0pDZG80QWNWMFZuYWR4RWNuN3RGdEly?oc=5",
-          "source": "anewsa.com",
-          "date": "09/17"
         }
       ],
       "archive30d": [
         {
-          "summary": "9회차 신주인수권 행사가액을 1만1301원으로 하향 조정하는 공시 발생",
-          "impact": "행사가 하향으로 주식 희석 규모 확대 — 당사 보유 지분의 상대적 가치 감소 가능성",
+          "summary": "상환전환우선주(RCPS) 전환가액 조정 공시",
+          "impact": "전환가액 하향 시 전환 물량 증가로 기존 보통주 희석 가능성 — 당사 보유 지분 가치에 부정적으로 작용할 수 있음",
           "level": "high",
+          "date": "09/17",
+          "collected_at": "2026-09-17"
+        },
+        {
+          "summary": "신주인수권 행사가액 조정 공시",
+          "impact": "행사가액 조정으로 워런트 행사 유인 변화 — 신주 발행 시 지분 희석 및 자본구조 변동 가능성",
+          "level": "mid",
           "date": "09/16",
           "collected_at": "2026-09-17"
         },
         {
-          "summary": "주식 등의 대량보유상황 보고서(일반) 공시 접수",
-          "impact": "주주구성 변동 발생 — 지분구조 안정성 및 우호·적대 여부 확인 필요",
+          "summary": "주식 등 대량보유 상황 보고서(일반) 제출",
+          "impact": "주요 주주 지분 변동 가능성 — 지분구조 변화는 경영권 안정성 및 당사 지분 상대적 비중에 영향",
           "level": "mid",
           "date": "09/14",
           "collected_at": "2026-09-17"
         },
         {
-          "summary": "타인에 대한 담보제공 결정 공시 기재 정정",
-          "impact": "담보제공 조건 변경 내용에 따라 재무 부담·우발채무 범위 재확인 필요",
+          "summary": "타인에 대한 담보제공 결정 기재정정 공시",
+          "impact": "담보 제공 조건 변경은 차입 구조 변화를 시사, 재무 부담 지속 여부 추가 확인 필요",
           "level": "mid",
           "date": "09/10",
-          "collected_at": "2026-09-17"
-        },
-        {
-          "summary": "자회사 마티카바이오, 미국 바이오텍과 단백질 기술 상용화 협력 추진",
-          "impact": "CDMO(위탁개발생산) 해외 레퍼런스 축적으로 중장기 사업가치 제고 가능성",
-          "level": "mid",
-          "date": "09/16",
           "collected_at": "2026-09-17"
         }
       ]
@@ -419,20 +419,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-0.21%",
+        "-0.32%",
         "당사 투자"
       ],
-      "priceText": "₩4,680",
-      "openText": "₩4,830",
-      "highText": "₩4,830",
-      "lowText": "₩4,680",
-      "prevCloseText": "₩4,690",
-      "changeText": "-₩10",
+      "priceText": "₩4,665",
+      "openText": "₩4,985",
+      "highText": "₩4,985",
+      "lowText": "₩4,630",
+      "prevCloseText": "₩4,680",
+      "changeText": "-₩15",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩4,680",
+          "₩4,665",
           null
         ],
         [
@@ -447,27 +447,27 @@
         ],
         [
           "전일대비",
-          "-0.21%",
+          "-0.32%",
           null
         ],
         [
           "전주대비",
-          "-0.95%",
+          "-1.27%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.28천 · 0.17x",
+          "8.16천 · 1.12x",
           null
         ],
         [
           "시가총액",
-          "860억",
+          "849억",
           null
         ],
         [
           "52주 고점대비",
-          "-76.34%",
+          "-76.42%",
           null
         ]
       ],
@@ -486,14 +486,10 @@
       ],
       "watch": [
         "분기 매출·영업손익 추이 확인",
-        "신규 고객사·파트너십 계약 공시 여부",
-        "헬스케어 전환 관련 자금조달 동향"
+        "헬스케어 신규 고객사·파트너십 발표 여부",
+        "자금조달 또는 증자 공시 발생 여부"
       ],
       "spark": [
-        {
-          "date": "6/18",
-          "close": 6320.0
-        },
         {
           "date": "6/19",
           "close": 5950.0
@@ -741,11 +737,15 @@
         {
           "date": "9/16",
           "close": 4680.0
+        },
+        {
+          "date": "9/17",
+          "close": 4665.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/16 종가",
+      "exchangeLine": "KRX · 9/17 종가",
       "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HcEpJUldFWHpUODdiVVItXzlWNkxSOElTNlI2UnU1eWRhcHFUX1ZjNGZWTnVQTzVHdDNtcEpmbm9HaTg3Q21Ebm1hWXV1LUtUaVQ1aWZVTFVUZXhJMUNsT0E1MjZUOHdFYXFjSVNqWE9URkk?oc=5",
       "sources": [
         {
@@ -764,21 +764,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-0.58%",
+        "-2.35%",
         "벤치마크"
       ],
-      "priceText": "$49.74",
-      "openText": "$49.25",
-      "highText": "$50.62",
-      "lowText": "$49.25",
-      "prevCloseText": "$50.03",
-      "changeText": "-$0.29",
+      "priceText": "$48.57",
+      "openText": "$49.24",
+      "highText": "$49.97",
+      "lowText": "$47.45",
+      "prevCloseText": "$49.74",
+      "changeText": "-$1.17",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$49.74",
-          "₩68,775"
+          "$48.57",
+          "₩67,254"
         ],
         [
           "취득가",
@@ -792,27 +792,27 @@
         ],
         [
           "전일대비",
-          "-0.58%",
+          "-2.35%",
           null
         ],
         [
           "전주대비",
-          "+0.69%",
+          "-1.68%",
           null
         ],
         [
           "거래량(20일比)",
-          "69.05만 · 0.74x",
+          "93.58만 · 1.03x",
           null
         ],
         [
           "시가총액",
           "$3.76B",
-          "5.20조"
+          "5.21조"
         ],
         [
           "52주 고점대비",
-          "-50.21%",
+          "-51.38%",
           null
         ]
       ],
@@ -830,15 +830,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "IFP 성장률 및 Loss Ratio 분기 발표 일정",
-        "EBITDA 흑자전환 시점 가이던스 변화",
-        "디지털 손보 벤치마크 대비 CR 격차"
+        "IFP 성장률 및 Loss Ratio 분기 업데이트",
+        "EBITDA 흑자전환 시점 관련 가이던스 변화",
+        "밸류에이션 급변 촉발 공시·실적 발표 여부"
       ],
       "spark": [
-        {
-          "date": "6/16",
-          "close": 60.74
-        },
         {
           "date": "6/17",
           "close": 57.28
@@ -1086,23 +1082,27 @@
         {
           "date": "9/15",
           "close": 49.74
+        },
+        {
+          "date": "9/16",
+          "close": 48.57
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 9/15 종가 (ET)",
+      "exchangeLine": "NYSE · 9/16 종가 (ET)",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2hGdkZ5MVphSGZiOFBkMm5rOGRwUVQ5RGtpNU1oRzZ3MmtjLUxCX09odFR1YnFpaGE5MXdCSERuVm81Mm13UVZWbldBdldTQnlZeUhTVllfaTg1cUw3SzZGWnVlMzlPN054THpzd0lZdDBxSUl0ZmNLZ0lHaVB3bGJwNGp1QTdkSlBsUDBjLU94ZDNtOGxCSEM0OWc0R1BYSjAxdVdjNGpIaG1walJ5eWwwbkx4R3dXaThRZHNZenlsQmZwT09jdg?oc=5",
       "sources": [
         {
           "title": "Baird Financial Group Inc. Acquires Shares of 54,257 루멘 $루멘",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2hGdkZ5MVphSGZiOFBkMm5rOGRwUVQ5RGtpNU1oRzZ3MmtjLUxCX09odFR1YnFpaGE5MXdCSERuVm81Mm13UVZWbldBdldTQnlZeUhTVllfaTg1cUw3SzZGWnVlMzlPN054THpzd0lZdDBxSUl0ZmNLZ0lHaVB3bGJwNGp1QTdkSlBsUDBjLU94ZDNtOGxCSEM0OWc0R1BYSjAxdVdjNGpIaG1walJ5eWwwbkx4R3dXaThRZHNZenlsQmZwT09jdg?oc=5",
-          "source": "marketbeat.com",
+          "source": "MarketBeat",
           "date": "09/16"
         },
         {
           "title": "루멘: Stable strategy, tech-driven growth, and cross-sell focus position the company for sustained expansion",
           "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQl92U0NVMURVYVZ0V0twcFNHWjhmaWttU0lNUWRKamE0dmZzSmdKcHE3aDNwa3ZORE1UclFiR2dqYUdfWG5oOEJQcmJ1QVIzcEtrZUcyeHdaRGpySm9FQm9mR0pIcVNySjJfU1BfaW10ZFBzZDZYd041czlmbTRzRVFFa0kwXzFtMjRrallYOExtOTJQOXlSMXI0eDJtTmpNQnI2OVhyX0hQV3J6SVlpRFVHNml4djlwVm5TM3JTb0tNWWdOaEdSOTNLTUNmbXlKbjdIRXBTS1lBZ3ZGcnRRZHJBYUVRYVJHcndIRzlobDRTN3BLNklheFhydl9PSG04LXFONUI4OHhnQmIwQVNocWF3SUszaTkxQkl3Vg?oc=5",
-          "source": "TradingView",
+          "source": "tradingview.com",
           "date": "09/15"
         },
         {
@@ -1119,23 +1119,23 @@
       "name": "Lippo General Insurance Tbk",
       "ticker": "(인도네시아)",
       "g": "A",
-      "event": "한화 지원 하 인니 Top5 목표 공식화",
+      "event": "한화 지원 하 인도네시아 Top5 목표 공표",
       "tags": [
-        "+0.00%",
+        "-1.55%",
         "자회사"
       ],
-      "priceText": "Rp645",
-      "openText": "Rp640",
+      "priceText": "Rp635",
+      "openText": "Rp645",
       "highText": "Rp645",
-      "lowText": "Rp620",
+      "lowText": "Rp635",
       "prevCloseText": "Rp645",
-      "changeText": "+Rp0",
+      "changeText": "-Rp10",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp645",
-          "₩50.5"
+          "Rp635",
+          "₩49.6"
         ],
         [
           "취득가",
@@ -1144,32 +1144,32 @@
         ],
         [
           "취득가대비",
-          "-1.35%",
+          "-2.88%",
           null
         ],
         [
           "전일대비",
-          "+0.00%",
+          "-1.55%",
           null
         ],
         [
           "전주대비",
-          "+0.00%",
+          "-1.55%",
           null
         ],
         [
           "거래량(20일比)",
-          "7.40천 · 0.34x",
+          "1.00천 · 0.05x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,515억"
+          "1,487억"
         ],
         [
           "52주 고점대비",
-          "-31.82%",
+          "-32.88%",
           null
         ]
       ],
@@ -1184,19 +1184,15 @@
         }
       ],
       "events": [
-        "당사 지원을 전제로 한 시장 확장 전략이 대외에 공식화 — 그룹 차원 시너지 실현 신호",
-        "Top5 목표 달성 여부는 GWP 성장률 및 자본 적정성 유지와 직결되어 경영관리 부담 수반"
+        "당사 지원을 배경으로 한 공격적 성장 목표 제시 — 자회사 전략과 당사 시너지 실현 여부가 투자가치의 핵심 변수로 부상",
+        "Top5 달성을 위한 GWP 확대 과정에서 손해율·자본적정성 관리가 병행 과제"
       ],
       "watch": [
-        "Top5 달성을 위한 GWP 목표치 및 달성 경로",
-        "확장 과정의 RBC 및 자본적정성 유지 여부",
-        "OJK 규제 변화가 확장 전략에 미치는 영향"
+        "GWP 성장률 및 목표 달성 경로 확인",
+        "RBC 비율 유지 여부 및 추가 자본 필요성",
+        "OJK 규제 대응 및 PIKK 개정 영향"
       ],
       "spark": [
-        {
-          "date": "6/19",
-          "close": 670.0
-        },
         {
           "date": "6/22",
           "close": 670.0
@@ -1444,11 +1440,15 @@
         {
           "date": "9/16",
           "close": 645.0
+        },
+        {
+          "date": "9/17",
+          "close": 635.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 9/16 종가 (WIB)",
+      "exchangeLine": "IDX · 9/17 종가 (WIB)",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wZGM4d0kzaFpkWnRERGxuRHJRZXF4aWRDelhnYzBFQzh4Mk9mc1JkMm9YTnlMaFBaUjdKTTZjbDcxRlJDRVFYZjdKQmlHVzZDaVl6WkdzUQ?oc=5",
       "sources": [
         {
@@ -1521,8 +1521,8 @@
             "date": null
           },
           {
-            "value": "14.6조",
-            "date": "09/07"
+            "value": null,
+            "date": null
           },
           {
             "value": null,
@@ -1555,8 +1555,8 @@
             "date": null
           },
           {
-            "value": null,
-            "date": null
+            "value": "27.7%p 하락",
+            "date": "09/16"
           }
         ],
         "isOwn": false
@@ -1641,8 +1641,8 @@
             "date": null
           },
           {
-            "value": "12조",
-            "date": "09/15"
+            "value": null,
+            "date": null
           },
           {
             "value": null,

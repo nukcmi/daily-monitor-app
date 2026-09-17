@@ -1,17 +1,30 @@
 {
-  "updated": "2026-09-17 11:00",
+  "updated": "2026-09-17 18:09",
   "items": [
     {
       "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
       "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
       "source": "TechCrunch",
       "date": "09/15",
-      "insight": "여성 건강 마이크로바이옴 연구, 4000만 달러 투자 유치",
-      "takeaway": "여성 건강 마이크로바이옴 연구, 4000만 달러 투자 유치",
+      "insight": "여성 건강 연구 위한 질 마이크로바이옴 데이터 스타트업, 4000만 달러 확보",
+      "takeaway": "여성 건강 연구 위한 질 마이크로바이옴 데이터 스타트업, 4000만 달러 확보",
       "bullets": [
-        "Evvy, 시리즈B 4000만 달러 조달",
-        "Catalio Capital Management 주도",
-        "질 마이크로바이옴 데이터 기반 여성 건강 연구"
+        "Evvy, 시리즈B로 4000만 달러 유치",
+        "Catalio Capital Management가 라운드 주도",
+        "여성 건강 연구에 마이크로바이옴 데이터 활용"
+      ]
+    },
+    {
+      "title": "Open-weight model developer Arcee AI reaches $1B-plus valuation with new funding",
+      "url": "https://siliconangle.com/2026/09/16/open-weight-model-developer-arcee-ai-reaches-1b-plus-valuation-with-undisclosed-series-b-funding/",
+      "source": "SiliconANGLE",
+      "date": "09/17",
+      "insight": "오픈웨이트 AI 모델 스타트업 Arcee AI, 10억 달러 이상 유니콘 등극",
+      "takeaway": "오픈웨이트 AI 모델 스타트업 Arcee AI, 10억 달러 이상 유니콘 등극",
+      "bullets": [
+        "Arcee AI, 신규 라운드로 기업가치 10억 달러 돌파",
+        "조달 금액은 미공개",
+        "오픈웨이트 AI 모델 개발사"
       ]
     },
     {
@@ -19,11 +32,11 @@
       "url": "https://siliconangle.com/2026/09/16/inference-hardware-startup-delos-data-raises-100m-in-funding/",
       "source": "SiliconANGLE",
       "date": "09/17",
-      "insight": "AI 추론 전용 하드웨어 스타트업, 1억 달러 이상 대규모 투자",
-      "takeaway": "AI 추론 전용 하드웨어 스타트업, 1억 달러 이상 대규모 투자",
+      "insight": "AI 클러스터용 추론 하드웨어 스타트업, 1억 달러 이상 대규모 자금 확보",
+      "takeaway": "AI 클러스터용 추론 하드웨어 스타트업, 1억 달러 이상 대규모 자금 확보",
       "bullets": [
-        "Delos Data, 1억 달러 이상 펀딩 확보",
-        "AI 클러스터용 하드웨어 개발 스타트업",
+        "Delos Data, AI 클러스터 하드웨어 개발",
+        "1억 달러 이상 펀딩 유치",
         "Matrix·Playground·Socratic Partners 등 참여"
       ]
     },
@@ -32,12 +45,12 @@
       "url": "https://siliconangle.com/2026/09/16/ex-infosys-chief-vishal-sikkas-hang-ten-raises-another-53m-for-enterprise-ai-services/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "전 Infosys CEO 비샬 시카, 3개월 만에 두 번째 시드 조달",
-      "takeaway": "전 Infosys CEO 비샬 시카, 3개월 만에 두 번째 시드 조달",
+      "insight": "전 Infosys CEO 창업 Hang Ten, 3개월 만에 두 번째 시드 5300만 달러 연속 유치",
+      "takeaway": "전 Infosys CEO 창업 Hang Ten, 3개월 만에 두 번째 시드 5300만 달러 연속 유치",
       "bullets": [
-        "Hang Ten, 두 번째 시드로 5300만 달러 유치",
-        "첫 시드 발표 후 3개월 미만 만에 추가 조달",
-        "엔터프라이즈 AI 서비스 분야 집중"
+        "Hang Ten, 두 번째 시드로 5300만 달러 조달",
+        "첫 시드 발표 후 3개월 미만 만에 추가 유치",
+        "전 Infosys 최고경영자 Vishal Sikka 창업"
       ]
     },
     {
@@ -45,12 +58,12 @@
       "url": "https://siliconangle.com/2026/09/16/noetive-launches-with-41m-to-bring-self-improving-ai-to-factories-and-logistics/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "공장·물류 자가학습 AI, 4100만 달러로 정식 출범",
-      "takeaway": "공장·물류 자가학습 AI, 4100만 달러로 정식 출범",
+      "insight": "공장·물류 자가개선 AI 스타트업 Noetive, 4100만 달러로 공식 출범",
+      "takeaway": "공장·물류 자가개선 AI 스타트업 Noetive, 4100만 달러로 공식 출범",
       "bullets": [
-        "Noetive, 시드 4100만 달러로 공식 런칭",
-        "공장·물류 운영 패턴 스스로 학습하는 AI",
-        "산업 현장 최적화 목표"
+        "Noetive, 시드 4100만 달러로 공식 론칭",
+        "공장·화물 운영 패턴을 스스로 학습하는 AI",
+        "산업 현장 일상 운영 데이터 기반 자가개선"
       ]
     },
     {
@@ -58,12 +71,12 @@
       "url": "https://siliconangle.com/2026/09/16/caddi-raises-114m-at-1-2b-valuation-to-bring-manufacturing-ai-to-north-america/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "제조 AI 유니콘 CADDi, 북미 확장 위해 1.14억 달러 조달",
-      "takeaway": "제조 AI 유니콘 CADDi, 북미 확장 위해 1.14억 달러 조달",
+      "insight": "제조 AI 유니콘 CADDi, 12억 달러 밸류로 1억1400만 달러 유치 후 북미 확장",
+      "takeaway": "제조 AI 유니콘 CADDi, 12억 달러 밸류로 1억1400만 달러 유치 후 북미 확장",
       "bullets": [
-        "CADDi, 기업가치 12억 달러로 1억1400만 달러 유치",
-        "북미 시장 진출 확대가 주요 목적",
-        "제조 분야 AI 솔루션 스타트업"
+        "CADDi, 기업가치 12억 달러로 1억1400만 달러 조달",
+        "북미 시장 확장에 자금 일부 투입 예정",
+        "제조업 특화 AI 솔루션 개발사"
       ]
     },
     {
@@ -71,25 +84,12 @@
       "url": "https://siliconangle.com/2026/09/16/rune-raises-40m-for-its-modular-solar-powered-data-centers/",
       "source": "SiliconANGLE",
       "date": "09/16",
-      "insight": "태양광 모듈형 데이터센터 Rune, Spark Capital 주도 4000만 달러 조달",
-      "takeaway": "태양광 모듈형 데이터센터 Rune, Spark Capital 주도 4000만 달러 조달",
+      "insight": "모듈형 태양광 데이터센터 스타트업 Rune, Spark Capital 주도로 4000만 달러 확보",
+      "takeaway": "모듈형 태양광 데이터센터 스타트업 Rune, Spark Capital 주도로 4000만 달러 확보",
       "bullets": [
-        "Rune, Spark Capital 주도로 4000만 달러 확보",
-        "태양광 전력 기반 모듈형 데이터센터 하드웨어",
-        "법인명은 Liitto Technology Inc."
-      ]
-    },
-    {
-      "title": "TypeSafe AI exits stealth with $40M to build AI for use by software",
-      "url": "https://siliconangle.com/2026/09/16/typesafe-ai-exits-stealth-with-40m-to-build-ai-for-use-by-software/",
-      "source": "SiliconANGLE",
-      "date": "09/16",
-      "insight": "전 OpenAI 연구원 창업, 소프트웨어용 AI 모델로 시드 4000만 달러",
-      "takeaway": "전 OpenAI 연구원 창업, 소프트웨어용 AI 모델로 시드 4000만 달러",
-      "bullets": [
-        "TypeSafe AI, 시드 4000만 달러로 스텔스 해제",
-        "ChatGPT 개발 참여 전 OpenAI 연구원이 설립",
-        "소프트웨어가 활용하는 AI 모델 개발 목표"
+        "Rune, 4000만 달러 펀딩 클로즈",
+        "Spark Capital이 라운드 리드",
+        "모듈형 태양광 기반 데이터센터 첫 제품 공개"
       ]
     }
   ]
