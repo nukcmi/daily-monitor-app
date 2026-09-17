@@ -2,34 +2,6 @@
   "updated": "2026-09-16 17:18",
   "articles": [
     {
-      "publisher": "보험연구원(KIRI)",
-      "type": "research_institute",
-      "title": "스테이블코인과 보험산업 과제",
-      "takeaway": "스테이블코인 확산이 보험사 지급·자산운용·리스크 관리에 새 과제 제기",
-      "bullets": [
-        "스테이블코인의 법적 지위 불확실성이 보험 계약 이행 리스크로 연결",
-        "보험료 수납·보험금 지급 시 스테이블코인 활용 가능성과 규제 공백 병존",
-        "가상자산 담보 리스크에 대한 新언더라이팅 기준 마련 필요"
-      ],
-      "url": "https://www.kiri.or.kr/report/reportList.do?docId=836539&catId=7&searchCon=&searchWord=&page=1",
-      "date": "2026-06",
-      "collected_at": "2026-09-16"
-    },
-    {
-      "publisher": "보험연구원(KIRI)",
-      "type": "research_institute",
-      "title": "기업 경영환경 변화와 임원배상책임보험 시장의 과제",
-      "takeaway": "경영환경 불확실성 고조로 D&O(임원배상책임)보험 시장 재정비 시급",
-      "bullets": [
-        "ESG·컴플라이언스 강화로 임원 개인 법적 노출(exposure) 범위 확대",
-        "국내 D&O 시장은 클레임 증가 대비 요율·약관 체계 미성숙 상태",
-        "기업 지배구조 리스크 세분화를 통한 인수심사(underwriting) 고도화 필요"
-      ],
-      "url": "https://www.kiri.or.kr/report/reportList.do?docId=805489&catId=7&searchCon=&searchWord=&page=1",
-      "date": "2026-03",
-      "collected_at": "2026-09-16"
-    },
-    {
       "publisher": "Bain",
       "type": "consulting",
       "title": "The New Investment Playbook for Sustainability",
