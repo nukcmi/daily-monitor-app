@@ -1,17 +1,30 @@
 {
-  "updated": "2026-09-17 21:34",
+  "updated": "2026-09-18 21:12",
   "items": [
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "TechCrunch",
+      "date": "09/17",
+      "insight": "Crusoe, 39억 달러 조달로 AI 데이터센터 시장 급성장 입증",
+      "takeaway": "Crusoe, 39억 달러 조달로 AI 데이터센터 시장 급성장 입증",
+      "bullets": [
+        "기업가치 309억 달러 평가",
+        "대형 데이터센터 및 소형 AI 팩토리 구축 목표",
+        "테크크런치가 '데이터센터 거인'으로 지칭"
+      ]
+    },
     {
       "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
       "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
       "source": "TechCrunch",
       "date": "09/17",
-      "insight": "AI 기반 보안·컴플라이언스 자동화에 3400만 달러 투자 유치",
-      "takeaway": "AI 기반 보안·컴플라이언스 자동화에 3400만 달러 투자 유치",
+      "insight": "AI 기반 보안·컴플라이언스 자동화 스타트업, 3400만 달러 유치",
+      "takeaway": "AI 기반 보안·컴플라이언스 자동화 스타트업, 3400만 달러 유치",
       "bullets": [
-        "Roo Capital·Grand Ventures 주도 시리즈A",
-        "지속적 에이전틱 보안·컴플라이언스 지향",
-        "사이버보안 스타트업의 AI 자동화 트렌드 반영"
+        "Roo Capital·Grand Ventures가 시리즈A 주도",
+        "지속적 에이전트 기반 보안·컴플라이언스 지향",
+        "사이버보안 컴플라이언스 자동화 특화 스타트업"
       ]
     },
     {
@@ -19,90 +32,90 @@
       "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
       "source": "TechCrunch",
       "date": "09/15",
-      "insight": "질 마이크로바이옴 데이터로 여성건강 연구 확장, 4000만 달러 조달",
-      "takeaway": "질 마이크로바이옴 데이터로 여성건강 연구 확장, 4000만 달러 조달",
+      "insight": "여성 질 마이크로바이옴 데이터로 건강 연구 확장, 4000만 달러 조달",
+      "takeaway": "여성 질 마이크로바이옴 데이터로 건강 연구 확장, 4000만 달러 조달",
       "bullets": [
-        "Catalio Capital 주도 시리즈B 4000만 달러",
+        "Catalio Capital Management가 시리즈B 주도",
         "질 마이크로바이옴 데이터 활용 여성건강 연구",
-        "여성 특화 헬스테크 투자 증가세 반영"
+        "4000만 달러 규모 시리즈B 라운드 완료"
       ]
     },
     {
-      "title": "Open-weight model developer Arcee AI reaches $1B-plus valuation with new funding",
+      "title": "AI data center builder Crusoe valued at $30.9B in $3.9B round",
+      "url": "https://siliconangle.com/2026/09/17/ai-data-center-builder-crusoe-valued-at-30-9b-in-3-9b-round/",
+      "source": "SiliconANGLE",
+      "date": "09/18",
+      "insight": "Crusoe 39억 달러 시리즈F 마감, AI 데이터센터 투자 열풍 반영",
+      "takeaway": "Crusoe 39억 달러 시리즈F 마감, AI 데이터센터 투자 열풍 반영",
+      "bullets": [
+        "Atreides·Mubadala·Valor Equity가 공동 주도",
+        "기업가치 309억 달러로 평가",
+        "late-stage 시리즈F 라운드 클로즈"
+      ]
+    },
+    {
+      "title": "Treble nabs $18M to generate audio simulations for robots",
+      "url": "https://siliconangle.com/2026/09/17/treble-nabs-18m-to-generate-audio-simulations-for-robots/",
+      "source": "SiliconANGLE",
+      "date": "09/17",
+      "insight": "아이슬란드 스타트업, 로봇용 오디오 시뮬레이션 기술로 1800만 달러 확보",
+      "takeaway": "아이슬란드 스타트업, 로봇용 오디오 시뮬레이션 기술로 1800만 달러 확보",
+      "bullets": [
+        "Paladin Capital Group이 Series-A2 주도",
+        "KOMPAS VC 등 기존 투자자 재참여",
+        "로봇 대상 오디오 시뮬레이션 생성 특화"
+      ]
+    },
+    {
+      "title": "Mind raises $72M to stop sensitive data leaking into AI tools",
+      "url": "https://siliconangle.com/2026/09/17/mind-raises-72m-to-stop-sensitive-data-leaking-into-ai-tools/",
+      "source": "SiliconANGLE",
+      "date": "09/17",
+      "insight": "AI 도구 내 민감 데이터 유출 방지 스타트업, 7200만 달러 유치",
+      "takeaway": "AI 도구 내 민감 데이터 유출 방지 스타트업, 7200만 달러 유치",
+      "bullets": [
+        "Mind Security, 7200만 달러 신규 조달",
+        "대형 엔터프라이즈 고객 확대 및 채널 파트너십 강화",
+        "AI 툴로의 민감 데이터 유출 방지 솔루션 제공"
+      ]
+    },
+    {
+      "title": "HP ties sustainability data governance to business decisions in the AI era",
+      "url": "https://siliconangle.com/2026/09/17/hp-ties-sustainability-data-governance-to-business-decisions-in-the-ai-era-amplify/",
+      "source": "SiliconANGLE",
+      "date": "09/17",
+      "insight": "HP, AI 시대 지속가능성 데이터 거버넌스를 비즈니스 의사결정에 연계",
+      "takeaway": "HP, AI 시대 지속가능성 데이터 거버넌스를 비즈니스 의사결정에 연계",
+      "bullets": [
+        "지속가능성 데이터로 기후 리스크·투자 지원",
+        "AI 확장으로 데이터 품질·거버넌스 중요성 부각",
+        "고객 환경 목표 지원에 데이터 활용 강조"
+      ]
+    },
+    {
+      "title": "Compliance automation startup Comp AI raises $34M to push into security",
+      "url": "https://siliconangle.com/2026/09/17/compliance-automation-startup-comp-ai-raises-34m-to-push-into-security/",
+      "source": "SiliconANGLE",
+      "date": "09/17",
+      "insight": "컴플라이언스 자동화 Comp AI, 보안 감사 준비 소프트웨어로 3400만 달러 조달",
+      "takeaway": "컴플라이언스 자동화 Comp AI, 보안 감사 준비 소프트웨어로 3400만 달러 조달",
+      "bullets": [
+        "보안 감사 준비 자동화 소프트웨어 개발",
+        "조달 자금으로 모니터링 기능 고도화 계획",
+        "3400만 달러 신규 펀딩 완료"
+      ]
+    },
+    {
+      "title": "Open-weight model developer Arcee AI reaches $1B+ valuation with new funding",
       "url": "https://siliconangle.com/2026/09/16/open-weight-model-developer-arcee-ai-reaches-1b-plus-valuation-with-undisclosed-series-b-funding/",
       "source": "SiliconANGLE",
       "date": "09/17",
-      "insight": "오픈웨이트 AI 모델 스타트업 Arcee AI, 기업가치 10억 달러 돌파",
-      "takeaway": "오픈웨이트 AI 모델 스타트업 Arcee AI, 기업가치 10억 달러 돌파",
+      "insight": "오픈웨이트 AI 모델 개발사 Arcee AI, 기업가치 10억 달러 돌파",
+      "takeaway": "오픈웨이트 AI 모델 개발사 Arcee AI, 기업가치 10억 달러 돌파",
       "bullets": [
-        "신규 라운드로 밸류에이션 10억 달러 이상 달성",
-        "투자 금액은 비공개로 발표",
-        "오픈웨이트 모델 개발사의 유니콘 진입 주목"
-      ]
-    },
-    {
-      "title": "Inference hardware startup Delos Data raises $100M+ in funding",
-      "url": "https://siliconangle.com/2026/09/16/inference-hardware-startup-delos-data-raises-100m-in-funding/",
-      "source": "SiliconANGLE",
-      "date": "09/17",
-      "insight": "AI 클러스터 전용 추론 하드웨어 스타트업, 1억 달러 이상 조달",
-      "takeaway": "AI 클러스터 전용 추론 하드웨어 스타트업, 1억 달러 이상 조달",
-      "bullets": [
-        "Matrix·Playground 등 복수 투자사 참여",
-        "AI 클러스터용 추론 하드웨어 개발 특화",
-        "1억 달러 이상 대규모 시드성 투자 유치"
-      ]
-    },
-    {
-      "title": "Ex-Infosys chief Vishal Sikka’s Hang Ten raises $53M more for enterprise AI services",
-      "url": "https://siliconangle.com/2026/09/16/ex-infosys-chief-vishal-sikkas-hang-ten-raises-another-53m-for-enterprise-ai-services/",
-      "source": "SiliconANGLE",
-      "date": "09/16",
-      "insight": "전 Infosys CEO 창업사, 3개월 만에 두 번째 시드라운드 5300만 달러",
-      "takeaway": "전 Infosys CEO 창업사, 3개월 만에 두 번째 시드라운드 5300만 달러",
-      "bullets": [
-        "Vishal Sikka 전 Infosys 대표 창업 스타트업",
-        "첫 시드 후 3개월 미만에 2차 시드 5300만 달러",
-        "엔터프라이즈 AI 서비스 분야 빠른 자금 조달"
-      ]
-    },
-    {
-      "title": "Noetive launches with $41M to bring self-improving AI to factories and logistics",
-      "url": "https://siliconangle.com/2026/09/16/noetive-launches-with-41m-to-bring-self-improving-ai-to-factories-and-logistics/",
-      "source": "SiliconANGLE",
-      "date": "09/16",
-      "insight": "자가 개선형 산업 AI 스타트업 Noetive, 4100만 달러 시드로 공식 출범",
-      "takeaway": "자가 개선형 산업 AI 스타트업 Noetive, 4100만 달러 시드로 공식 출범",
-      "bullets": [
-        "공장·물류 운영 학습하는 자가 개선 AI 소프트웨어",
-        "시드 단계에서 4100만 달러 대규모 조달",
-        "제조·물류 현장 AI 자동화 수요 공략"
-      ]
-    },
-    {
-      "title": "CADDi raises $114M at $1.2B valuation to bring manufacturing AI to North America",
-      "url": "https://siliconangle.com/2026/09/16/caddi-raises-114m-at-1-2b-valuation-to-bring-manufacturing-ai-to-north-america/",
-      "source": "SiliconANGLE",
-      "date": "09/16",
-      "insight": "제조 AI 유니콘 CADDi, 1.2억 달러 조달로 북미 확장 본격화",
-      "takeaway": "제조 AI 유니콘 CADDi, 1.2억 달러 조달로 북미 확장 본격화",
-      "bullets": [
-        "밸류에이션 12억 달러로 유니콘 지위 확인",
-        "1억 1400만 달러 신규 펀딩 유치",
-        "북미 시장 진출 확대를 주요 목적으로 명시"
-      ]
-    },
-    {
-      "title": "Rune raises $40M for its modular solar-powered data centers",
-      "url": "https://siliconangle.com/2026/09/16/rune-raises-40m-for-its-modular-solar-powered-data-centers/",
-      "source": "SiliconANGLE",
-      "date": "09/16",
-      "insight": "태양광 모듈형 데이터센터 하드웨어 스타트업, 4000만 달러 조달",
-      "takeaway": "태양광 모듈형 데이터센터 하드웨어 스타트업, 4000만 달러 조달",
-      "bullets": [
-        "Spark Capital 주도 4000만 달러 라운드 클로즈",
-        "모듈형 태양광 데이터센터 첫 제품 공개",
-        "법인명은 Liitto Technology Inc.로 등록"
+        "신규 라운드로 유니콘 등극(10억 달러+)",
+        "조달 금액은 미공개",
+        "오픈웨이트 AI 모델 개발에 특화"
       ]
     }
   ]
