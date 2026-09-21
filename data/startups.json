@@ -1,17 +1,30 @@
 {
-  "updated": "2026-09-18 21:12",
+  "updated": "2026-09-21 22:59",
   "items": [
+    {
+      "title": "Family offices are clamoring for AI investments",
+      "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+      "source": "TechCrunch",
+      "date": "09/18",
+      "insight": "패밀리오피스의 AI 투자 열풍, 구조적 변화인지 거품인지 주목",
+      "takeaway": "패밀리오피스의 AI 투자 열풍, 구조적 변화인지 거품인지 주목",
+      "bullets": [
+        "패밀리오피스들이 AI 투자에 적극 몰려들고 있음",
+        "이 흐름이 영구적 변화인지 반복 사이클인지 불확실",
+        "AI 투자 트렌드의 지속성에 대한 의문 제기"
+      ]
+    },
     {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "source": "TechCrunch",
       "date": "09/17",
-      "insight": "Crusoe, 39억 달러 조달로 AI 데이터센터 시장 급성장 입증",
-      "takeaway": "Crusoe, 39억 달러 조달로 AI 데이터센터 시장 급성장 입증",
+      "insight": "Crusoe, 39억 달러 조달로 AI 데이터센터 시장 판도 흔들",
+      "takeaway": "Crusoe, 39억 달러 조달로 AI 데이터센터 시장 판도 흔들",
       "bullets": [
-        "기업가치 309억 달러 평가",
-        "대형 데이터센터 및 소형 AI 팩토리 구축 목표",
-        "테크크런치가 '데이터센터 거인'으로 지칭"
+        "기업가치 309억 달러로 평가받는 초대형 라운드",
+        "대규모 데이터센터 및 소형 모듈형 AI 팩토리 구축 계획",
+        "AI 인프라 투자 규모가 급격히 확대되는 추세 반영"
       ]
     },
     {
@@ -19,25 +32,77 @@
       "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
       "source": "TechCrunch",
       "date": "09/17",
-      "insight": "AI 기반 보안·컴플라이언스 자동화 스타트업, 3400만 달러 유치",
-      "takeaway": "AI 기반 보안·컴플라이언스 자동화 스타트업, 3400만 달러 유치",
+      "insight": "Comp AI, 보안·컴플라이언스 자동화에 3400만 달러 Series A 유치",
+      "takeaway": "Comp AI, 보안·컴플라이언스 자동화에 3400만 달러 Series A 유치",
       "bullets": [
-        "Roo Capital·Grand Ventures가 시리즈A 주도",
-        "지속적 에이전트 기반 보안·컴플라이언스 지향",
-        "사이버보안 컴플라이언스 자동화 특화 스타트업"
+        "Roo Capital·Grand Ventures 주도로 3400만 달러 조달",
+        "지속적 에이전틱 방식으로 보안·컴플라이언스 자동화 추구",
+        "AI 기반 사이버보안 스타트업 투자 관심 고조"
       ]
     },
     {
-      "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
-      "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
-      "source": "TechCrunch",
-      "date": "09/15",
-      "insight": "여성 질 마이크로바이옴 데이터로 건강 연구 확장, 4000만 달러 조달",
-      "takeaway": "여성 질 마이크로바이옴 데이터로 건강 연구 확장, 4000만 달러 조달",
+      "title": "Trump says he’s planning to create an ‘AI Force’ and hire a new AI czar",
+      "url": "https://siliconangle.com/2026/09/20/trump-says-hes-planning-to-create-an-ai-force-and-hire-a-new-ai-czar/",
+      "source": "SiliconANGLE",
+      "date": "09/20",
+      "insight": "트럼프, 'AI 포스' 창설·AI 차르 임명 계획 발표로 정책 드라이브",
+      "takeaway": "트럼프, 'AI 포스' 창설·AI 차르 임명 계획 발표로 정책 드라이브",
       "bullets": [
-        "Catalio Capital Management가 시리즈B 주도",
-        "질 마이크로바이옴 데이터 활용 여성건강 연구",
-        "4000만 달러 규모 시리즈B 라운드 완료"
+        "트럼프 대통령이 'AI Force' 신설 의사 공개 발표",
+        "새로운 AI 차르(총괄 책임자) 임명 계획도 밝혀",
+        "AI 위험성 우려는 일축하며 적극 육성 의지 표명"
+      ]
+    },
+    {
+      "title": "Dynamic model routing will follow the path blazed by software-defined wide-area networks",
+      "url": "https://siliconangle.com/2026/09/20/dynamic-model-routing-will-follow-the-path-blazed-by-software-defined-wide-area-networks/",
+      "source": "SiliconANGLE",
+      "date": "09/20",
+      "insight": "Stripe의 OpenRouter 인수로 동적 모델 라우팅 기술이 핵심 화두로 부상",
+      "takeaway": "Stripe의 OpenRouter 인수로 동적 모델 라우팅 기술이 핵심 화두로 부상",
+      "bullets": [
+        "Stripe의 OpenRouter 인수가 동적 모델 라우팅 주목도 높임",
+        "SD-WAN이 걸어온 길을 동적 모델 라우팅이 따를 것으로 전망",
+        "IT 조직들의 동적 모델 라우팅 이해·도입 필요성 강조"
+      ]
+    },
+    {
+      "title": "Data center builder Nscale files for IPO after multibillion-dollar Anthropic deal",
+      "url": "https://siliconangle.com/2026/09/18/data-center-builder-nscale-files-for-ipo-after-multibillion-dollar-anthropic-deal/",
+      "source": "SiliconANGLE",
+      "date": "09/19",
+      "insight": "Nscale, Anthropic 딜 후 NYSE 상장 신청…AI 인프라 IPO 시동",
+      "takeaway": "Nscale, Anthropic 딜 후 NYSE 상장 신청…AI 인프라 IPO 시동",
+      "bullets": [
+        "AI 특화 데이터센터 기업 Nscale이 NYSE 상장 신청",
+        "수십억 달러 규모 Anthropic 계약 체결 이후 IPO 추진",
+        "공모 조달 목표액은 아직 미공개 상태"
+      ]
+    },
+    {
+      "title": "What to expect during CoreWeave’s ‘Fully Connected’ event: Join theCUBE Sept. 30-Oct. 1",
+      "url": "https://siliconangle.com/2026/09/18/cloud-platform-coreweave-ai-thecube-fullyconnected/",
+      "source": "SiliconANGLE",
+      "date": "09/18",
+      "insight": "CoreWeave, 비용 효율 AI 클라우드로 차별화…Fully Connected 이벤트 예고",
+      "takeaway": "CoreWeave, 비용 효율 AI 클라우드로 차별화…Fully Connected 이벤트 예고",
+      "bullets": [
+        "CoreWeave가 비용 효율적 AI 배포 플랫폼으로 포지셔닝",
+        "9월 30일~10월 1일 'Fully Connected' 행사 개최 예정",
+        "AI 생태계 내 특화 클라우드 공급자의 역할 부각"
+      ]
+    },
+    {
+      "title": "What to expect from theCUBE’s analysis of Dreamforce: Tune in Sept. 25",
+      "url": "https://siliconangle.com/2026/09/18/connected-ai-workflows-shape-dreamforce-dreamforce/",
+      "source": "SiliconANGLE",
+      "date": "09/18",
+      "insight": "Dreamforce에서 AI 에이전트 워크플로우 통합이 핵심 의제로 부상",
+      "takeaway": "Dreamforce에서 AI 에이전트 워크플로우 통합이 핵심 의제로 부상",
+      "bullets": [
+        "기업들이 독립형 AI 툴을 넘어 연결된 AI 워크플로우로 전환",
+        "직원·고객 업무에 AI 에이전트를 엮는 방식에 관심 집중",
+        "9월 25일 theCUBE의 Dreamforce 분석 예정"
       ]
     },
     {
@@ -45,77 +110,12 @@
       "url": "https://siliconangle.com/2026/09/17/ai-data-center-builder-crusoe-valued-at-30-9b-in-3-9b-round/",
       "source": "SiliconANGLE",
       "date": "09/18",
-      "insight": "Crusoe 39억 달러 시리즈F 마감, AI 데이터센터 투자 열풍 반영",
-      "takeaway": "Crusoe 39억 달러 시리즈F 마감, AI 데이터센터 투자 열풍 반영",
+      "insight": "Crusoe, Series F로 기업가치 309억 달러…AI 인프라 투자 과열 신호",
+      "takeaway": "Crusoe, Series F로 기업가치 309억 달러…AI 인프라 투자 과열 신호",
       "bullets": [
-        "Atreides·Mubadala·Valor Equity가 공동 주도",
-        "기업가치 309억 달러로 평가",
-        "late-stage 시리즈F 라운드 클로즈"
-      ]
-    },
-    {
-      "title": "Treble nabs $18M to generate audio simulations for robots",
-      "url": "https://siliconangle.com/2026/09/17/treble-nabs-18m-to-generate-audio-simulations-for-robots/",
-      "source": "SiliconANGLE",
-      "date": "09/17",
-      "insight": "아이슬란드 스타트업, 로봇용 오디오 시뮬레이션 기술로 1800만 달러 확보",
-      "takeaway": "아이슬란드 스타트업, 로봇용 오디오 시뮬레이션 기술로 1800만 달러 확보",
-      "bullets": [
-        "Paladin Capital Group이 Series-A2 주도",
-        "KOMPAS VC 등 기존 투자자 재참여",
-        "로봇 대상 오디오 시뮬레이션 생성 특화"
-      ]
-    },
-    {
-      "title": "Mind raises $72M to stop sensitive data leaking into AI tools",
-      "url": "https://siliconangle.com/2026/09/17/mind-raises-72m-to-stop-sensitive-data-leaking-into-ai-tools/",
-      "source": "SiliconANGLE",
-      "date": "09/17",
-      "insight": "AI 도구 내 민감 데이터 유출 방지 스타트업, 7200만 달러 유치",
-      "takeaway": "AI 도구 내 민감 데이터 유출 방지 스타트업, 7200만 달러 유치",
-      "bullets": [
-        "Mind Security, 7200만 달러 신규 조달",
-        "대형 엔터프라이즈 고객 확대 및 채널 파트너십 강화",
-        "AI 툴로의 민감 데이터 유출 방지 솔루션 제공"
-      ]
-    },
-    {
-      "title": "HP ties sustainability data governance to business decisions in the AI era",
-      "url": "https://siliconangle.com/2026/09/17/hp-ties-sustainability-data-governance-to-business-decisions-in-the-ai-era-amplify/",
-      "source": "SiliconANGLE",
-      "date": "09/17",
-      "insight": "HP, AI 시대 지속가능성 데이터 거버넌스를 비즈니스 의사결정에 연계",
-      "takeaway": "HP, AI 시대 지속가능성 데이터 거버넌스를 비즈니스 의사결정에 연계",
-      "bullets": [
-        "지속가능성 데이터로 기후 리스크·투자 지원",
-        "AI 확장으로 데이터 품질·거버넌스 중요성 부각",
-        "고객 환경 목표 지원에 데이터 활용 강조"
-      ]
-    },
-    {
-      "title": "Compliance automation startup Comp AI raises $34M to push into security",
-      "url": "https://siliconangle.com/2026/09/17/compliance-automation-startup-comp-ai-raises-34m-to-push-into-security/",
-      "source": "SiliconANGLE",
-      "date": "09/17",
-      "insight": "컴플라이언스 자동화 Comp AI, 보안 감사 준비 소프트웨어로 3400만 달러 조달",
-      "takeaway": "컴플라이언스 자동화 Comp AI, 보안 감사 준비 소프트웨어로 3400만 달러 조달",
-      "bullets": [
-        "보안 감사 준비 자동화 소프트웨어 개발",
-        "조달 자금으로 모니터링 기능 고도화 계획",
-        "3400만 달러 신규 펀딩 완료"
-      ]
-    },
-    {
-      "title": "Open-weight model developer Arcee AI reaches $1B+ valuation with new funding",
-      "url": "https://siliconangle.com/2026/09/16/open-weight-model-developer-arcee-ai-reaches-1b-plus-valuation-with-undisclosed-series-b-funding/",
-      "source": "SiliconANGLE",
-      "date": "09/17",
-      "insight": "오픈웨이트 AI 모델 개발사 Arcee AI, 기업가치 10억 달러 돌파",
-      "takeaway": "오픈웨이트 AI 모델 개발사 Arcee AI, 기업가치 10억 달러 돌파",
-      "bullets": [
-        "신규 라운드로 유니콘 등극(10억 달러+)",
-        "조달 금액은 미공개",
-        "오픈웨이트 AI 모델 개발에 특화"
+        "Atreides·Mubadala·Valor 주도로 39억 달러 Series F 클로징",
+        "기업가치 309억 달러로 AI 데이터센터 기업 중 최상위권",
+        "대형 기관투자자들이 AI 인프라 베팅 규모 키우는 중"
       ]
     }
   ]
