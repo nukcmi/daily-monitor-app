@@ -1,17 +1,43 @@
 {
-  "updated": "2026-09-21 22:59",
+  "updated": "2026-09-22 21:33",
   "items": [
+    {
+      "title": "Morphotonics raises €40M to expand its display tech into data centers",
+      "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+      "source": "TechCrunch",
+      "date": "09/22",
+      "insight": "디스플레이 기술 스타트업이 데이터센터로 영역 확장 중",
+      "takeaway": "디스플레이 기술 스타트업이 데이터센터로 영역 확장 중",
+      "bullets": [
+        "Morphotonics, 4000만 유로 투자 유치",
+        "3M Ventures 등 주요 투자자 참여",
+        "디스플레이 기술을 데이터센터에 적용 확대"
+      ]
+    },
+    {
+      "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
+      "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+      "source": "TechCrunch",
+      "date": "09/21",
+      "insight": "Oura IPO, 신규 자금보다 기존 주주 차익 실현 성격 강해",
+      "takeaway": "Oura IPO, 신규 자금보다 기존 주주 차익 실현 성격 강해",
+      "bullets": [
+        "Oura IPO 규모 22억 달러 규모",
+        "Forerunner Ventures, 최대 12.6억 달러 지분 전량 매각 예정",
+        "기존 주주 이익 실현 중심의 구조"
+      ]
+    },
     {
       "title": "Family offices are clamoring for AI investments",
       "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
       "source": "TechCrunch",
       "date": "09/18",
-      "insight": "패밀리오피스의 AI 투자 열풍, 구조적 변화인지 거품인지 주목",
-      "takeaway": "패밀리오피스의 AI 투자 열풍, 구조적 변화인지 거품인지 주목",
+      "insight": "패밀리오피스의 AI 투자 열풍, 구조적 변화인지 사이클인지 불분명",
+      "takeaway": "패밀리오피스의 AI 투자 열풍, 구조적 변화인지 사이클인지 불분명",
       "bullets": [
-        "패밀리오피스들이 AI 투자에 적극 몰려들고 있음",
-        "이 흐름이 영구적 변화인지 반복 사이클인지 불확실",
-        "AI 투자 트렌드의 지속성에 대한 의문 제기"
+        "패밀리오피스, AI 투자 수요 급증",
+        "영구적 트렌드인지 일시적 사이클인지 불확실",
+        "고액 자산가 투자 집단의 AI 관심 급등"
       ]
     },
     {
@@ -19,25 +45,25 @@
       "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "source": "TechCrunch",
       "date": "09/17",
-      "insight": "Crusoe, 39억 달러 조달로 AI 데이터센터 시장 판도 흔들",
-      "takeaway": "Crusoe, 39억 달러 조달로 AI 데이터센터 시장 판도 흔들",
+      "insight": "Crusoe, 39억 달러 조달로 데이터센터·AI 팩토리 대규모 구축",
+      "takeaway": "Crusoe, 39억 달러 조달로 데이터센터·AI 팩토리 대규모 구축",
       "bullets": [
-        "기업가치 309억 달러로 평가받는 초대형 라운드",
-        "대규모 데이터센터 및 소형 모듈형 AI 팩토리 구축 계획",
-        "AI 인프라 투자 규모가 급격히 확대되는 추세 반영"
+        "기업가치 309억 달러로 평가",
+        "대규모 데이터센터 및 소형 AI 팩토리 건설 계획",
+        "대형 데이터센터 분야 초대형 라운드"
       ]
     },
     {
-      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-      "source": "TechCrunch",
-      "date": "09/17",
-      "insight": "Comp AI, 보안·컴플라이언스 자동화에 3400만 달러 Series A 유치",
-      "takeaway": "Comp AI, 보안·컴플라이언스 자동화에 3400만 달러 Series A 유치",
+      "title": "8 insights from the ‘Certinia at Dreamforce’ event: AI resets the economics of professional services",
+      "url": "https://siliconangle.com/2026/09/21/ai-professional-services-fixed-bid-pricing-certiniaatdreamforce/",
+      "source": "SiliconANGLE",
+      "date": "09/21",
+      "insight": "AI가 전문 서비스 과금 구조를 시간제에서 고정가로 전환 중",
+      "takeaway": "AI가 전문 서비스 과금 구조를 시간제에서 고정가로 전환 중",
       "bullets": [
-        "Roo Capital·Grand Ventures 주도로 3400만 달러 조달",
-        "지속적 에이전틱 방식으로 보안·컴플라이언스 자동화 추구",
-        "AI 기반 사이버보안 스타트업 투자 관심 고조"
+        "AI 도입으로 프로젝트 납기 단축",
+        "시간제 청구에서 고정 입찰 방식으로 전환",
+        "기업이 기존보다 더 많은 리스크 직접 부담"
       ]
     },
     {
@@ -45,12 +71,12 @@
       "url": "https://siliconangle.com/2026/09/20/trump-says-hes-planning-to-create-an-ai-force-and-hire-a-new-ai-czar/",
       "source": "SiliconANGLE",
       "date": "09/20",
-      "insight": "트럼프, 'AI 포스' 창설·AI 차르 임명 계획 발표로 정책 드라이브",
-      "takeaway": "트럼프, 'AI 포스' 창설·AI 차르 임명 계획 발표로 정책 드라이브",
+      "insight": "트럼프, AI 포스 창설·AI 총책 임명 계획 발표로 정책 주도권 강화",
+      "takeaway": "트럼프, AI 포스 창설·AI 총책 임명 계획 발표로 정책 주도권 강화",
       "bullets": [
-        "트럼프 대통령이 'AI Force' 신설 의사 공개 발표",
-        "새로운 AI 차르(총괄 책임자) 임명 계획도 밝혀",
-        "AI 위험성 우려는 일축하며 적극 육성 의지 표명"
+        "트럼프, 'AI Force' 신설 계획 발표",
+        "AI 분야 총괄 책임자(AI czar) 임명 예정",
+        "AI 위험성 우려는 일축하는 입장 표명"
       ]
     },
     {
@@ -58,12 +84,12 @@
       "url": "https://siliconangle.com/2026/09/20/dynamic-model-routing-will-follow-the-path-blazed-by-software-defined-wide-area-networks/",
       "source": "SiliconANGLE",
       "date": "09/20",
-      "insight": "Stripe의 OpenRouter 인수로 동적 모델 라우팅 기술이 핵심 화두로 부상",
-      "takeaway": "Stripe의 OpenRouter 인수로 동적 모델 라우팅 기술이 핵심 화두로 부상",
+      "insight": "동적 모델 라우팅, SD-WAN처럼 AI 인프라 핵심 기술로 부상 전망",
+      "takeaway": "동적 모델 라우팅, SD-WAN처럼 AI 인프라 핵심 기술로 부상 전망",
       "bullets": [
-        "Stripe의 OpenRouter 인수가 동적 모델 라우팅 주목도 높임",
-        "SD-WAN이 걸어온 길을 동적 모델 라우팅이 따를 것으로 전망",
-        "IT 조직들의 동적 모델 라우팅 이해·도입 필요성 강조"
+        "Stripe의 OpenRouter 인수로 주목받는 기술",
+        "동적 모델 라우팅, SD-WAN 경로와 유사하게 발전 예상",
+        "IT 조직의 이해와 대비 필요성 강조"
       ]
     },
     {
@@ -71,12 +97,12 @@
       "url": "https://siliconangle.com/2026/09/18/data-center-builder-nscale-files-for-ipo-after-multibillion-dollar-anthropic-deal/",
       "source": "SiliconANGLE",
       "date": "09/19",
-      "insight": "Nscale, Anthropic 딜 후 NYSE 상장 신청…AI 인프라 IPO 시동",
-      "takeaway": "Nscale, Anthropic 딜 후 NYSE 상장 신청…AI 인프라 IPO 시동",
+      "insight": "Anthropic 계약 등에 힘입어 AI 데이터센터 업체 Nscale IPO 신청",
+      "takeaway": "Anthropic 계약 등에 힘입어 AI 데이터센터 업체 Nscale IPO 신청",
       "bullets": [
-        "AI 특화 데이터센터 기업 Nscale이 NYSE 상장 신청",
-        "수십억 달러 규모 Anthropic 계약 체결 이후 IPO 추진",
-        "공모 조달 목표액은 아직 미공개 상태"
+        "Nscale, NYSE 상장 신청 완료",
+        "Anthropic과 수십억 달러 규모 계약 체결",
+        "구체적 공모 금액은 아직 미공개"
       ]
     },
     {
@@ -84,12 +110,12 @@
       "url": "https://siliconangle.com/2026/09/18/cloud-platform-coreweave-ai-thecube-fullyconnected/",
       "source": "SiliconANGLE",
       "date": "09/18",
-      "insight": "CoreWeave, 비용 효율 AI 클라우드로 차별화…Fully Connected 이벤트 예고",
-      "takeaway": "CoreWeave, 비용 효율 AI 클라우드로 차별화…Fully Connected 이벤트 예고",
+      "insight": "CoreWeave, 비용 효율적 AI 클라우드로 포지셔닝 강화 이벤트 예고",
+      "takeaway": "CoreWeave, 비용 효율적 AI 클라우드로 포지셔닝 강화 이벤트 예고",
       "bullets": [
-        "CoreWeave가 비용 효율적 AI 배포 플랫폼으로 포지셔닝",
-        "9월 30일~10월 1일 'Fully Connected' 행사 개최 예정",
-        "AI 생태계 내 특화 클라우드 공급자의 역할 부각"
+        "CoreWeave, 9월 30일~10월 1일 자체 행사 개최",
+        "AI 배포 비용 절감 강점으로 시장 공략",
+        "전문 클라우드 플랫폼으로서의 역할 정의 중"
       ]
     },
     {
@@ -97,25 +123,12 @@
       "url": "https://siliconangle.com/2026/09/18/connected-ai-workflows-shape-dreamforce-dreamforce/",
       "source": "SiliconANGLE",
       "date": "09/18",
-      "insight": "Dreamforce에서 AI 에이전트 워크플로우 통합이 핵심 의제로 부상",
-      "takeaway": "Dreamforce에서 AI 에이전트 워크플로우 통합이 핵심 의제로 부상",
+      "insight": "기업들, 단독 AI 툴에서 연결된 AI 워크플로우로 전환 가속",
+      "takeaway": "기업들, 단독 AI 툴에서 연결된 AI 워크플로우로 전환 가속",
       "bullets": [
-        "기업들이 독립형 AI 툴을 넘어 연결된 AI 워크플로우로 전환",
-        "직원·고객 업무에 AI 에이전트를 엮는 방식에 관심 집중",
-        "9월 25일 theCUBE의 Dreamforce 분석 예정"
-      ]
-    },
-    {
-      "title": "AI data center builder Crusoe valued at $30.9B in $3.9B round",
-      "url": "https://siliconangle.com/2026/09/17/ai-data-center-builder-crusoe-valued-at-30-9b-in-3-9b-round/",
-      "source": "SiliconANGLE",
-      "date": "09/18",
-      "insight": "Crusoe, Series F로 기업가치 309억 달러…AI 인프라 투자 과열 신호",
-      "takeaway": "Crusoe, Series F로 기업가치 309억 달러…AI 인프라 투자 과열 신호",
-      "bullets": [
-        "Atreides·Mubadala·Valor 주도로 39억 달러 Series F 클로징",
-        "기업가치 309억 달러로 AI 데이터센터 기업 중 최상위권",
-        "대형 기관투자자들이 AI 인프라 베팅 규모 키우는 중"
+        "AI 에이전트를 업무 흐름에 통합하는 방향으로 진화",
+        "Dreamforce에서 연결형 AI 워크플로우 논의 예정",
+        "AI 도입의 조직·사회적 영향 질문도 부상"
       ]
     }
   ]

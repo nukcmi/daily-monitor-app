@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-09-21",
-  "updated": "2026-09-21 22:59",
-  "fx": "환율 2026-09-21 · 시장환율   1 USD = ₩1,372.77   |   1 USD = 17,808.00 IDR   |   1 IDR = ₩0.07709",
+  "asOf": "2026-09-22",
+  "updated": "2026-09-22 21:33",
+  "fx": "환율 2026-09-22 · 시장환율   1 USD = ₩1,357.77   |   1 USD = 17,865.00 IDR   |   1 IDR = ₩0.07600",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "주식 등 대량보유상황 보고서(일반) 공시 발생",
-      "impact": "지분구조 변동 가능성 확인 필요. 당사 보유 지분 희석 또는 우호·적대적 주주 등장 여부 점검 요",
-      "level": "mid",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914000280"
+      "text": "상환전환우선주 전환가액 조정 공시 발생",
+      "impact": "전환가액 하향 시 당사 보유 지분의 희석 효과 발생 가능—지분율 변동 규모 산출 필요",
+      "level": "high",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917900433"
     },
     {
       "company": "차바이오텍",
-      "text": "상환전환우선주 전환가액 조정 공시",
-      "impact": "전환가액 하향 시 보통주 희석 확대로 당사 보유 지분 가치 희석 리스크 직접 발생",
-      "level": "mid",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917900433"
+      "text": "신주인수권 행사가액 조정 공시 발생",
+      "impact": "행사가액 조정으로 잠재 신주 물량 증가—기존 주주 희석 리스크를 전환가액 조정과 함께 복합 점검 필요",
+      "level": "high",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260916900441"
     }
   ],
   "companies": [
@@ -24,22 +24,22 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "CDMO 영역 확대·지분구조 변동 병존",
+      "event": "자금조달 구조 지속 조정 중",
       "tags": [
-        "+0.50%",
+        "-2.86%",
         "당사 투자"
       ],
-      "priceText": "₩8,040",
-      "openText": "₩7,990",
-      "highText": "₩8,070",
-      "lowText": "₩7,830",
-      "prevCloseText": "₩8,000",
-      "changeText": "+₩40",
+      "priceText": "₩7,810",
+      "openText": "₩8,090",
+      "highText": "₩8,140",
+      "lowText": "₩7,770",
+      "prevCloseText": "₩8,040",
+      "changeText": "-₩230",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,040",
+          "₩7,810",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-37.21%",
+          "-39.01%",
           null
         ],
         [
           "전일대비",
-          "+0.50%",
+          "-2.86%",
           null
         ],
         [
           "전주대비",
-          "+0.50%",
+          "-2.38%",
           null
         ],
         [
           "거래량(20일比)",
-          "12.13만 · 0.39x",
+          "20.31만 · 0.68x",
           null
         ],
         [
           "시가총액",
-          "7,475억",
+          "7,261억",
           null
         ],
         [
           "52주 고점대비",
-          "-66.43%",
+          "-67.39%",
           null
         ]
       ],
@@ -89,19 +89,15 @@
         }
       ],
       "events": [
-        "대량보유 보고 및 전환가액·행사가액 조정 공시가 동시 발생, 지분구조·희석 리스크 점검 필요",
-        "미국 자회사의 재조합 단백질 공정개발 협력은 CDMO 기술 범위 확대 신호이나 매출 기여 시점은 미확정"
+        "상환전환우선주 전환가액·신주인수권 행사가액 동시 조정은 기존 투자자 희석 리스크를 내포하며 지분가치 방어 필요",
+        "플라바이오로직스 Pre-A 투자 참여는 태반줄기세포 영역 외부 확장을 시사하나, 핵심 CGT/CDMO 사업과의 직접 연관성은 불명확"
       ],
       "watch": [
-        "대량보유자 신원·목적(우호/적대) 확인",
-        "전환가액 하향 조정에 따른 당사 지분 희석 규모",
-        "단백질 CDMO 계약 수주 실적 가시화 시점"
+        "전환가액 조정 이후 추가 희석 규모 확인",
+        "CGT/CDMO 수주 파이프라인 진척 여부",
+        "마티카바이오 신임 대표 체제 사업전략 변화"
       ],
       "spark": [
-        {
-          "date": "6/23",
-          "close": 11470.0
-        },
         {
           "date": "6/24",
           "close": 11380.0
@@ -349,11 +345,15 @@
         {
           "date": "9/21",
           "close": 8040.0
+        },
+        {
+          "date": "9/22",
+          "close": 7810.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/21 종가",
+      "exchangeLine": "KRX · 9/22 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260917900433",
       "sources": [
         {
@@ -369,39 +369,39 @@
           "date": "20260916"
         },
         {
-          "title": "주식등의대량보유상황보고서(일반)",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260914000280",
-          "source": "DART",
-          "date": "20260914"
+          "title": "플라바이오로직스, Pre-A 투자 유치…차바이오텍∙성광의료재단 전략적 투자 참여",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Nb1pOSWw0NUpRVW54akI1TGVVSURDcjI4YXR2dzk1MzhFU202eHVxakdHM2hhTTF6ZkRZQzRheVB1VkdMZXJrQkFrOW1od3NwVG5GZ2VjTnZkZTRUaW11SWk3SktLdFBxcDZTbA?oc=5",
+          "source": "바이오타임즈",
+          "date": "09/22"
         },
         {
-          "title": "마티카 바이오, 美 본드웰과 단백질 바이오소재 공정 개발 협력",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWenQ5MHNjVUpHZjRHY1BKbjhKSkVpcktRTkxQaTYwWlM3QjdMc0swSTdOTkRTZTdLYUJhMXNhcVNaLVZlNmlVT0gwV25yMkVqUlU3Q2h2YXlIMDVGOHZVVHJjTXVhRVFLeW9FTFdJTnBBcHPSAXNBVV95cUxQVnp0OTBzY1VKR2Y0R2NQSm44SkpFaXJLUU5MUGk2MFpTN0I3THNLMEk3Tk5EU2U3S2FCYTFzYXFTWi1WZTZpVU9IMFducjJFalJVN0NodmF5SDA1Rjh2VVRyY011YUVRS3lvRUxXSU5wQXBz?oc=5",
-          "source": "데일리한국",
+          "title": "차바이오텍, 태반줄기세포 플라바이오로직스 Pre-A 베팅",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ORDNaQ3FsMG9hMnUyb1VqcG9vOVBjd3h5NUhlOF93X0ZoSjZ6aXJYNHpPYXB1SVBJS3BNXzhJaTRPVTVnMm12aElVakRQV1k4TWxrT2l2cklfOFBNRmhCNmJteVBjdXNpVDJJ?oc=5",
+          "source": "hitnews.co.kr",
           "date": "09/21"
         }
       ],
       "archive30d": [
         {
-          "summary": "주식 등 대량보유상황 보고서(일반) 공시 발생",
-          "impact": "지분구조 변동 가능성 확인 필요. 당사 보유 지분 희석 또는 우호·적대적 주주 등장 여부 점검 요",
-          "level": "mid",
-          "date": "09/14",
-          "collected_at": "2026-09-21"
-        },
-        {
-          "summary": "상환전환우선주 전환가액 조정 공시",
-          "impact": "전환가액 하향 시 보통주 희석 확대로 당사 보유 지분 가치 희석 리스크 직접 발생",
-          "level": "mid",
+          "summary": "상환전환우선주 전환가액 조정 공시 발생",
+          "impact": "전환가액 하향 시 당사 보유 지분의 희석 효과 발생 가능—지분율 변동 규모 산출 필요",
+          "level": "high",
           "date": "09/17",
-          "collected_at": "2026-09-21"
+          "collected_at": "2026-09-22"
         },
         {
-          "summary": "미국 자회사, 재조합 단백질 공정개발 협력 통해 CDMO 기술 영역 확대",
-          "impact": "CDMO 사업 범위 확장은 중장기 사업가치 제고 요인이나 수익 기여 시점은 미확정",
-          "level": "low",
-          "date": "09/21",
-          "collected_at": "2026-09-21"
+          "summary": "신주인수권 행사가액 조정 공시 발생",
+          "impact": "행사가액 조정으로 잠재 신주 물량 증가—기존 주주 희석 리스크를 전환가액 조정과 함께 복합 점검 필요",
+          "level": "high",
+          "date": "09/16",
+          "collected_at": "2026-09-22"
+        },
+        {
+          "summary": "차바이오텍, 플라바이오로직스(태반줄기세포) Pre-A 라운드에 전략적 투자자로 참여",
+          "impact": "외부 투자 집행은 내부 유동성 사용을 의미—핵심 CGT/CDMO 재원 배분 영향 여부 모니터링 필요",
+          "level": "mid",
+          "date": "09/22",
+          "collected_at": "2026-09-22"
         }
       ]
     },
@@ -412,20 +412,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+0.73%",
+        "-2.49%",
         "당사 투자"
       ],
-      "priceText": "₩4,810",
-      "openText": "₩4,770",
-      "highText": "₩4,870",
-      "lowText": "₩4,665",
-      "prevCloseText": "₩4,775",
-      "changeText": "+₩35",
+      "priceText": "₩4,690",
+      "openText": "₩4,785",
+      "highText": "₩4,785",
+      "lowText": "₩4,685",
+      "prevCloseText": "₩4,810",
+      "changeText": "-₩120",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩4,810",
+          "₩4,690",
           null
         ],
         [
@@ -440,27 +440,27 @@
         ],
         [
           "전일대비",
-          "+0.73%",
+          "-2.49%",
           null
         ],
         [
           "전주대비",
-          "+0.73%",
+          "-1.78%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.05만 · 1.37x",
+          "6.61천 · 0.86x",
           null
         ],
         [
           "시가총액",
-          "875억",
+          "853억",
           null
         ],
         [
           "52주 고점대비",
-          "-75.68%",
+          "-76.29%",
           null
         ]
       ],
@@ -478,15 +478,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 매출·영업손익 개선 추이",
-        "헬스케어 신규 고객사·파트너십 공시 여부",
-        "자금조달(유증·CB) 계획 발생 여부"
+        "분기 매출·영업손익 추이 확인",
+        "헬스케어 신규 고객사 확보 여부",
+        "사업모델 전환 관련 파트너십 공시"
       ],
       "spark": [
-        {
-          "date": "6/23",
-          "close": 7500.0
-        },
         {
           "date": "6/24",
           "close": 7500.0
@@ -734,11 +730,15 @@
         {
           "date": "9/21",
           "close": 4810.0
+        },
+        {
+          "date": "9/22",
+          "close": 4690.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/21 종가",
+      "exchangeLine": "KRX · 9/22 종가",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
       "sources": [
         {
@@ -755,23 +755,23 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "C",
-      "event": "켄터키 확장·경쟁사 비교 분석 부각",
+      "event": "밸류에이션 적정성 논란 부각",
       "tags": [
-        "-3.07%",
+        "+1.64%",
         "벤치마크"
       ],
-      "priceText": "$47.09",
-      "openText": "$48.85",
-      "highText": "$49.40",
-      "lowText": "$46.99",
-      "prevCloseText": "$48.58",
-      "changeText": "-$1.49",
+      "priceText": "$47.86",
+      "openText": "$48.26",
+      "highText": "$48.40",
+      "lowText": "$47.00",
+      "prevCloseText": "$47.09",
+      "changeText": "+$0.77",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$47.09",
-          "₩64,644"
+          "$47.86",
+          "₩64,983"
         ],
         [
           "취득가",
@@ -785,27 +785,27 @@
         ],
         [
           "전일대비",
-          "-3.07%",
+          "+1.64%",
           null
         ],
         [
           "전주대비",
-          "-4.68%",
+          "+1.64%",
           null
         ],
         [
           "거래량(20일比)",
-          "129.77만 · 1.43x",
+          "118.24만 · 1.27x",
           null
         ],
         [
           "시가총액",
-          "$3.66B",
+          "$3.70B",
           "5.03조"
         ],
         [
           "52주 고점대비",
-          "-52.86%",
+          "-52.09%",
           null
         ]
       ],
@@ -820,19 +820,15 @@
         }
       ],
       "events": [
-        "켄터키 진출 관련 밸류에이션 적정성 논의가 제기됐으나, IFP·Loss Ratio 등 핵심 지표 변동 확인은 미확정",
-        "경쟁사 비교 기사는 상대적 포지셔닝 파악에 참고 가능하나 투자 의사결정을 바꿀 수준의 신호는 아님"
+        "복수 매체에서 현재 주가 고평가 여부를 동시 제기—신규 투자 진입 타이밍 판단에 보수적 접근 필요",
+        "켄터키 사업 확장 등 외형 성장 신호가 있으나, IFP·Loss Ratio 등 핵심 지표 개선 여부는 미확인"
       ],
       "watch": [
-        "켄터키 확장에 따른 IFP 성장률 변화",
-        "Loss Ratio 개선·악화 추이 확인",
-        "EBITDA 흑자전환 시점 가이던스 갱신 여부"
+        "IFP 성장률 및 Loss Ratio 최신치 확인",
+        "EBITDA 흑자전환 시점 가이던스",
+        "경쟁사 대비 밸류에이션 배수 점검"
       ],
       "spark": [
-        {
-          "date": "6/22",
-          "close": 57.51
-        },
         {
           "date": "6/23",
           "close": 57.89
@@ -1080,28 +1076,38 @@
         {
           "date": "9/18",
           "close": 47.09
+        },
+        {
+          "date": "9/21",
+          "close": 47.86
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 9/18 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTJfTTRJeDg4cGJVUDNJYzNvOGVma0RBSWs4UUg4eGtrU0h4dHA5dEdWeHU3aWJxNjVuVGtiX2d5VzRKVUVfRlpxQ1hMNXVHaE5ac19Od1hxaFVTdlY3eFZPSXlRMzdYWGI3WDBJU2ZydFZzY2NvdlRqS1BoV0NSajU0NnlHRElkS0M2eE5vMmVmWmNUeU9SRDlWa2NRZmZOTDBVbnh5SXBtZ010WFZsckg4SGpIUFhU?oc=5",
+      "exchangeLine": "NYSE · 9/21 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeTdxTTl1VUowclFKRkdnS1Q3dTMyVlI5SERIN0FIdmR5M1VlZmxKX3RaTGRkeXVKSzItOXlhakJ5UUdGUmx1aVFpN25zVHB4NlNVUVhHbWtXLTI4cktTMFNpaGxZZjlDUnhhUXcxcGZVaTFuY19sLWc4R1VUV2xiRi02RTBPRUFXV1lodFFnZTlneTJuS0FUclFR0gFeQVVfeXFMUFZ1VkV2dktzSVc4TDZ2Z3h2bkVsUl9GeHRpZ0VaS1laZ1VETzZ4QUVkQTlHc0FBWDM0M1BDNUFDQmVIZHNudWhjaVAyVXRJTU1fTVVEVk92SXFVUVc2UQ?oc=5",
       "sources": [
+        {
+          "title": "루멘 Taps Ex-Via Legal Chief As Its New Top Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeTdxTTl1VUowclFKRkdnS1Q3dTMyVlI5SERIN0FIdmR5M1VlZmxKX3RaTGRkeXVKSzItOXlhakJ5UUdGUmx1aVFpN25zVHB4NlNVUVhHbWtXLTI4cktTMFNpaGxZZjlDUnhhUXcxcGZVaTFuY19sLWc4R1VUV2xiRi02RTBPRUFXV1lodFFnZTlneTJuS0FUclFR0gFeQVVfeXFMUFZ1VkV2dktzSVc4TDZ2Z3h2bkVsUl9GeHRpZ0VaS1laZ1VETzZ4QUVkQTlHc0FBWDM0M1BDNUFDQmVIZHNudWhjaVAyVXRJTU1fTVVEVk92SXFVUVc2UQ?oc=5",
+          "source": "Law360",
+          "date": "09/21"
+        },
+        {
+          "title": "Could 루멘 (NYSE:루멘) Be Priced Too High?",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSkkxQ3Z0aGtyZmpqSUJ5VWJsbWw2aENBbXpQaWxDcnMwVk83ZXoxWFM2T2l1cm1Sd2hNSUZqYVFWRlNRaXYxVmhMdy1iQ21yQzB2cHpsNXZGdkFNcjdFWm9CVDdpVlpsdWFxbEE3Z2w0MDd5YXNVUXpFeDNYZGx5MmZMeDY0Wm9tMlhIMFFMUDU?oc=5",
+          "source": "Kalkine Media",
+          "date": "09/21"
+        },
         {
           "title": "Critical Survey: 루멘 (NYSE:루멘) vs. International General Insurance (NASDAQ:IGIC)",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcTJfTTRJeDg4cGJVUDNJYzNvOGVma0RBSWs4UUg4eGtrU0h4dHA5dEdWeHU3aWJxNjVuVGtiX2d5VzRKVUVfRlpxQ1hMNXVHaE5ac19Od1hxaFVTdlY3eFZPSXlRMzdYWGI3WDBJU2ZydFZzY2NvdlRqS1BoV0NSajU0NnlHRElkS0M2eE5vMmVmWmNUeU9SRDlWa2NRZmZOTDBVbnh5SXBtZ010WFZsckg4SGpIUFhU?oc=5",
-          "source": "InsuranceNewsNet",
+          "source": "insurancenewsnet.com",
           "date": "09/21"
         },
         {
           "title": "루멘 (루멘) Expands In Kentucky, Is The Stock Fully Valued?",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMFAtVWU2bWV3SjBUMXp1Yy11aXhzQmoySFNNVTJhOTBUSC0zNnlRVDNzZnRHU2Ztd2VZLTZ5X0ctRnRUZXVuMGFUOVRUUTBHY3VQd2VfVWlJOEd2STR2blhTZjY0MGdpWWZqSF9ZUEZ5MUREUmVmanFMS2pXZzNWbUZJSDZ5RHdQQWR3SFd2UlZKUzRWYjJ3ODFfWHZZb1pkajVvbkZkaUs0LUk5bnVwWmhwa0hDUkYxRnFHNlVhWjlHTEdjSVN6X9IByAFBVV95cUxNMFAtVWU2bWV3SjBUMXp1Yy11aXhzQmoySFNNVTJhOTBUSC0zNnlRVDNzZnRHU2Ztd2VZLTZ5X0ctRnRUZXVuMGFUOVRUUTBHY3VQd2VfVWlJOEd2STR2blhTZjY0MGdpWWZqSF9ZUEZ5MUREUmVmanFMS2pXZzNWbUZJSDZ5RHdQQWR3SFd2UlZKUzRWYjJ3ODFfWHZZb1pkajVvbkZkaUs0LUk5bnVwWmhwa0hDUkYxRnFHNlVhWjlHTEdjSVN6Xw?oc=5",
-          "source": "simplywall.st",
-          "date": "09/20"
-        },
-        {
-          "title": "루멘 (루멘) Expands In Kentucky, Is The Stock Fully Valued?",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjVwWktGTkJjcE5OZVZNTGlHVGxTRFhucUtsTWVCV1U2bk5PVEF6NkE2T2JjLXJ3YlJQSXREaF9ySjA1S3VtRjdkblQwRHNiaTJlaXFxdEp2bVRVUExnVmVUT0pvYkM2QWlzV3hjSmlCZWtqVVdlMmJfeFN2QVY1RC1FVmFzNUJBQ2F3NVJueVNDRy1LTUU5d3ZYSDk1enAyVFlvWXJYclY1dEtpT0c1SW9YM196Z2xtaXlnRXViWTBqbDTSAcgBQVVfeXFMTTBQLVVlNm1ld0owVDF6dWMtdWl4c0JqMkhTTVUyYTkwVEgtMzZ5UVQzc2Z0R1NmbXdlWS02eV9HLUZ0VGV1bjBhVDlUVFEwR2N1UHdlX1VpSThHdkk0dm5YU2Y2NDBnaVlmakhfWVBGeTFERFJlZmpxTEtqV2czVm1GSUg2eUR3UEFkd0hXdlJWSlM0VmIydzgxX1h2WW9aZGo1b25GZGlLNC1JOW51cFpocGtIQ1JGMUZxRzZVYVo5R0xHY0lTel8?oc=5",
           "source": "simplywall.st",
           "date": "09/20"
         }
@@ -1115,21 +1121,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+0.78%",
+        "+0.00%",
         "자회사"
       ],
       "priceText": "Rp645",
       "openText": "Rp645",
-      "highText": "Rp660",
-      "lowText": "Rp635",
-      "prevCloseText": "Rp640",
-      "changeText": "+Rp5",
+      "highText": "Rp645",
+      "lowText": "Rp630",
+      "prevCloseText": "Rp645",
+      "changeText": "+Rp0",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
           "Rp645",
-          "₩49.7"
+          "₩49.0"
         ],
         [
           "취득가",
@@ -1143,7 +1149,7 @@
         ],
         [
           "전일대비",
-          "+0.78%",
+          "+0.00%",
           null
         ],
         [
@@ -1153,13 +1159,13 @@
         ],
         [
           "거래량(20일比)",
-          "2.60천 · 0.13x",
+          "600 · 0.03x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,492억"
+          "1,471억"
         ],
         [
           "52주 고점대비",
@@ -1181,15 +1187,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변화 및 PIKK 개정 동향",
-        "RBC 비율 유지 여부",
-        "GWP 성장·손해율 분기 실적 공시"
+        "OJK 규제 개정 동향 모니터링",
+        "RBC 비율 최신 수치 확인",
+        "PIKK 개정 관련 이행 현황"
       ],
       "spark": [
-        {
-          "date": "6/24",
-          "close": 670.0
-        },
         {
           "date": "6/25",
           "close": 685.0
@@ -1437,11 +1439,15 @@
         {
           "date": "9/21",
           "close": 645.0
+        },
+        {
+          "date": "9/22",
+          "close": 645.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 9/21 종가 (WIB)",
+      "exchangeLine": "IDX · 9/22 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -1491,8 +1497,8 @@
         "company": "삼성화재",
         "cells": [
           {
-            "value": null,
-            "date": null
+            "value": "84.3%",
+            "date": "09/22"
           },
           {
             "value": null,
@@ -1521,8 +1527,8 @@
         "company": "DB손해보험",
         "cells": [
           {
-            "value": null,
-            "date": null
+            "value": "84.7%",
+            "date": "09/22"
           },
           {
             "value": null,
@@ -1581,8 +1587,8 @@
         "company": "KB손해보험",
         "cells": [
           {
-            "value": null,
-            "date": null
+            "value": "84.7%",
+            "date": "09/22"
           },
           {
             "value": null,
@@ -1611,8 +1617,8 @@
         "company": "메리츠화재",
         "cells": [
           {
-            "value": null,
-            "date": null
+            "value": "84.3%",
+            "date": "09/22"
           },
           {
             "value": null,
