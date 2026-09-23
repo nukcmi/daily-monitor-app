@@ -1,17 +1,30 @@
 {
-  "updated": "2026-09-22 21:33",
+  "updated": "2026-09-23 21:43",
   "items": [
+    {
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "source": "TechCrunch",
+      "date": "09/22",
+      "insight": "TechCrunch, 창업자 대상 펀딩·채용·AI 인사이트 서밋 개최",
+      "takeaway": "TechCrunch, 창업자 대상 펀딩·채용·AI 인사이트 서밋 개최",
+      "bullets": [
+        "11월 4일 보스턴에서 Founder Summit 개최",
+        "펀딩·채용·AI 주제를 집중적으로 다룸",
+        "창업 난제를 쉽게 풀어주는 것이 목표"
+      ]
+    },
     {
       "title": "Morphotonics raises €40M to expand its display tech into data centers",
       "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
       "source": "TechCrunch",
       "date": "09/22",
-      "insight": "디스플레이 기술 스타트업이 데이터센터로 영역 확장 중",
-      "takeaway": "디스플레이 기술 스타트업이 데이터센터로 영역 확장 중",
+      "insight": "디스플레이 기술 스타트업, 데이터센터 확장 위해 €40M 유치",
+      "takeaway": "디스플레이 기술 스타트업, 데이터센터 확장 위해 €40M 유치",
       "bullets": [
-        "Morphotonics, 4000만 유로 투자 유치",
+        "Morphotonics, €40M 시리즈 투자 유치",
         "3M Ventures 등 주요 투자자 참여",
-        "디스플레이 기술을 데이터센터에 적용 확대"
+        "데이터센터 시장으로 사업 영역 확대 예정"
       ]
     },
     {
@@ -19,12 +32,12 @@
       "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
       "source": "TechCrunch",
       "date": "09/21",
-      "insight": "Oura IPO, 신규 자금보다 기존 주주 차익 실현 성격 강해",
-      "takeaway": "Oura IPO, 신규 자금보다 기존 주주 차익 실현 성격 강해",
+      "insight": "Oura IPO, 기존 주주 차익실현 성격 강해 시장 주목",
+      "takeaway": "Oura IPO, 기존 주주 차익실현 성격 강해 시장 주목",
       "bullets": [
-        "Oura IPO 규모 22억 달러 규모",
-        "Forerunner Ventures, 최대 12.6억 달러 지분 전량 매각 예정",
-        "기존 주주 이익 실현 중심의 구조"
+        "Oura IPO 규모 22억 달러로 책정",
+        "Forerunner Ventures, 최대 12.6억 달러에 전량 매각 계획",
+        "기존 주주 이익 실현 중심의 IPO 구조"
       ]
     },
     {
@@ -32,103 +45,90 @@
       "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
       "source": "TechCrunch",
       "date": "09/18",
-      "insight": "패밀리오피스의 AI 투자 열풍, 구조적 변화인지 사이클인지 불분명",
-      "takeaway": "패밀리오피스의 AI 투자 열풍, 구조적 변화인지 사이클인지 불분명",
+      "insight": "패밀리오피스, AI 투자 급증…구조적 변화인지 주목",
+      "takeaway": "패밀리오피스, AI 투자 급증…구조적 변화인지 주목",
       "bullets": [
-        "패밀리오피스, AI 투자 수요 급증",
-        "영구적 트렌드인지 일시적 사이클인지 불확실",
-        "고액 자산가 투자 집단의 AI 관심 급등"
+        "패밀리오피스의 AI 분야 투자 수요 급증",
+        "일시적 트렌드인지 영구적 변화인지 불확실",
+        "AI 투자 열풍의 지속성에 대한 의문 제기"
       ]
     },
     {
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "source": "TechCrunch",
-      "date": "09/17",
-      "insight": "Crusoe, 39억 달러 조달로 데이터센터·AI 팩토리 대규모 구축",
-      "takeaway": "Crusoe, 39억 달러 조달로 데이터센터·AI 팩토리 대규모 구축",
-      "bullets": [
-        "기업가치 309억 달러로 평가",
-        "대규모 데이터센터 및 소형 AI 팩토리 건설 계획",
-        "대형 데이터센터 분야 초대형 라운드"
-      ]
-    },
-    {
-      "title": "8 insights from the ‘Certinia at Dreamforce’ event: AI resets the economics of professional services",
-      "url": "https://siliconangle.com/2026/09/21/ai-professional-services-fixed-bid-pricing-certiniaatdreamforce/",
+      "title": "Ekai raises $1.7M to give enterprise AI agents verified business context",
+      "url": "https://siliconangle.com/2026/09/23/ekai-raises-1-7m-to-give-enterprise-ai-agents-verified-business-context/",
       "source": "SiliconANGLE",
-      "date": "09/21",
-      "insight": "AI가 전문 서비스 과금 구조를 시간제에서 고정가로 전환 중",
-      "takeaway": "AI가 전문 서비스 과금 구조를 시간제에서 고정가로 전환 중",
+      "date": "09/23",
+      "insight": "엔터프라이즈 AI 에이전트에 비즈니스 맥락 제공 스타트업 등장",
+      "takeaway": "엔터프라이즈 AI 에이전트에 비즈니스 맥락 제공 스타트업 등장",
       "bullets": [
-        "AI 도입으로 프로젝트 납기 단축",
-        "시간제 청구에서 고정 입찰 방식으로 전환",
-        "기업이 기존보다 더 많은 리스크 직접 부담"
+        "Ekai, 170만 달러 신규 투자 유치",
+        "AI 에이전트용 비즈니스 컨텍스트 구축 소프트웨어 개발",
+        "기업 신뢰 확보를 위한 검증된 데이터 제공이 핵심"
       ]
     },
     {
-      "title": "Trump says he’s planning to create an ‘AI Force’ and hire a new AI czar",
-      "url": "https://siliconangle.com/2026/09/20/trump-says-hes-planning-to-create-an-ai-force-and-hire-a-new-ai-czar/",
+      "title": "Training data provider Snorkel AI raises $350M at $3.5B valuation",
+      "url": "https://siliconangle.com/2026/09/22/training-data-provider-snorkel-ai-raises-350m-at-3-5b-valuation/",
       "source": "SiliconANGLE",
-      "date": "09/20",
-      "insight": "트럼프, AI 포스 창설·AI 총책 임명 계획 발표로 정책 주도권 강화",
-      "takeaway": "트럼프, AI 포스 창설·AI 총책 임명 계획 발표로 정책 주도권 강화",
+      "date": "09/23",
+      "insight": "AI 학습 데이터 업체 Snorkel AI, 35억 달러 밸류로 3.5억 달러 조달",
+      "takeaway": "AI 학습 데이터 업체 Snorkel AI, 35억 달러 밸류로 3.5억 달러 조달",
       "bullets": [
-        "트럼프, 'AI Force' 신설 계획 발표",
-        "AI 분야 총괄 책임자(AI czar) 임명 예정",
-        "AI 위험성 우려는 일축하는 입장 표명"
+        "Snorkel AI, 시리즈E로 3억 5천만 달러 유치",
+        "Insight·S32가 라운드 공동 리드",
+        "밸류에이션 35억 달러로 책정"
       ]
     },
     {
-      "title": "Dynamic model routing will follow the path blazed by software-defined wide-area networks",
-      "url": "https://siliconangle.com/2026/09/20/dynamic-model-routing-will-follow-the-path-blazed-by-software-defined-wide-area-networks/",
+      "title": "Machine vision company Cognex buys Intel robotics spinoff RealSense for $600M",
+      "url": "https://siliconangle.com/2026/09/22/machine-vision-company-cognex-buys-intel-robotics-spinoff-realsense-for-600m/",
       "source": "SiliconANGLE",
-      "date": "09/20",
-      "insight": "동적 모델 라우팅, SD-WAN처럼 AI 인프라 핵심 기술로 부상 전망",
-      "takeaway": "동적 모델 라우팅, SD-WAN처럼 AI 인프라 핵심 기술로 부상 전망",
+      "date": "09/22",
+      "insight": "Cognex, 인텔 분사 RealSense를 6억 달러에 인수해 역량 강화",
+      "takeaway": "Cognex, 인텔 분사 RealSense를 6억 달러에 인수해 역량 강화",
       "bullets": [
-        "Stripe의 OpenRouter 인수로 주목받는 기술",
-        "동적 모델 라우팅, SD-WAN 경로와 유사하게 발전 예상",
-        "IT 조직의 이해와 대비 필요성 강조"
+        "Cognex, RealSense를 6억 달러에 인수 예정",
+        "RealSense는 14개월 전 인텔에서 분사한 스타트업",
+        "머신비전·로보틱스 역량 확대가 목적"
       ]
     },
     {
-      "title": "Data center builder Nscale files for IPO after multibillion-dollar Anthropic deal",
-      "url": "https://siliconangle.com/2026/09/18/data-center-builder-nscale-files-for-ipo-after-multibillion-dollar-anthropic-deal/",
+      "title": "Web scraping startup Firecrawl closes $75M investment",
+      "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/",
       "source": "SiliconANGLE",
-      "date": "09/19",
-      "insight": "Anthropic 계약 등에 힘입어 AI 데이터센터 업체 Nscale IPO 신청",
-      "takeaway": "Anthropic 계약 등에 힘입어 AI 데이터센터 업체 Nscale IPO 신청",
+      "date": "09/22",
+      "insight": "AI 에이전트용 웹 스크래핑 툴 Firecrawl, 7500만 달러 투자 유치",
+      "takeaway": "AI 에이전트용 웹 스크래핑 툴 Firecrawl, 7500만 달러 투자 유치",
       "bullets": [
-        "Nscale, NYSE 상장 신청 완료",
-        "Anthropic과 수십억 달러 규모 계약 체결",
-        "구체적 공모 금액은 아직 미공개"
+        "Firecrawl, 7500만 달러 투자 유치 발표",
+        "LA 소재 Smash Ventures가 리드 투자",
+        "AI 에이전트용 웹 스크래핑 도구 전문 제공"
       ]
     },
     {
-      "title": "What to expect during CoreWeave’s ‘Fully Connected’ event: Join theCUBE Sept. 30-Oct. 1",
-      "url": "https://siliconangle.com/2026/09/18/cloud-platform-coreweave-ai-thecube-fullyconnected/",
+      "title": "Cyera raises $400M more amid AI agent security push",
+      "url": "https://siliconangle.com/2026/09/22/cyera-raises-another-400m-amid-ai-agent-security-push/",
       "source": "SiliconANGLE",
-      "date": "09/18",
-      "insight": "CoreWeave, 비용 효율적 AI 클라우드로 포지셔닝 강화 이벤트 예고",
-      "takeaway": "CoreWeave, 비용 효율적 AI 클라우드로 포지셔닝 강화 이벤트 예고",
+      "date": "09/22",
+      "insight": "AI 에이전트 보안 스타트업 Cyera, 골드만삭스로부터 4억 달러 추가 유치",
+      "takeaway": "AI 에이전트 보안 스타트업 Cyera, 골드만삭스로부터 4억 달러 추가 유치",
       "bullets": [
-        "CoreWeave, 9월 30일~10월 1일 자체 행사 개최",
-        "AI 배포 비용 절감 강점으로 시장 공략",
-        "전문 클라우드 플랫폼으로서의 역할 정의 중"
+        "Cyera, Goldman Sachs로부터 4억 달러 조달",
+        "기존 시리즈G 라운드의 익스텐션 형태",
+        "AI 에이전트 보안 수요 증가가 배경"
       ]
     },
     {
-      "title": "What to expect from theCUBE’s analysis of Dreamforce: Tune in Sept. 25",
-      "url": "https://siliconangle.com/2026/09/18/connected-ai-workflows-shape-dreamforce-dreamforce/",
+      "title": "European neocloud Verda raises $189M to build the AI infrastructure of tomorrow",
+      "url": "https://siliconangle.com/2026/09/22/european-neocloud-verda-raises-189m-to-build-the-ai-infrastructure-of-tomorrow/",
       "source": "SiliconANGLE",
-      "date": "09/18",
-      "insight": "기업들, 단독 AI 툴에서 연결된 AI 워크플로우로 전환 가속",
-      "takeaway": "기업들, 단독 AI 툴에서 연결된 AI 워크플로우로 전환 가속",
+      "date": "09/22",
+      "insight": "핀란드 네오클라우드 Verda, AI 인프라 확장 위해 1.89억 달러 조달",
+      "takeaway": "핀란드 네오클라우드 Verda, AI 인프라 확장 위해 1.89억 달러 조달",
       "bullets": [
-        "AI 에이전트를 업무 흐름에 통합하는 방향으로 진화",
-        "Dreamforce에서 연결형 AI 워크플로우 논의 예정",
-        "AI 도입의 조직·사회적 영향 질문도 부상"
+        "헬싱키 기반 Verda Cloud, 1억 8900만 달러 초기 유치",
+        "구 사명은 DataCrunch에서 Verda로 변경",
+        "AI 클라우드 인프라 확장이 자금 사용 목적"
       ]
     }
   ]
