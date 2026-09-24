@@ -1,17 +1,30 @@
 {
-  "updated": "2026-09-23 21:43",
+  "updated": "2026-09-24 21:42",
   "items": [
+    {
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "source": "TechCrunch",
+      "date": "09/23",
+      "insight": "AI로 변화하는 VC 규칙을 TechCrunch Disrupt 2026에서 논의",
+      "takeaway": "AI로 변화하는 VC 규칙을 TechCrunch Disrupt 2026에서 논의",
+      "bullets": [
+        "StrictlyVC가 TechCrunch Disrupt 2026에 참가",
+        "AI로 인한 VC 환경 변화가 핵심 주제",
+        "9월 25일 전 등록 시 $200 할인 혜택"
+      ]
+    },
     {
       "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
       "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
       "source": "TechCrunch",
       "date": "09/22",
-      "insight": "TechCrunch, 창업자 대상 펀딩·채용·AI 인사이트 서밋 개최",
-      "takeaway": "TechCrunch, 창업자 대상 펀딩·채용·AI 인사이트 서밋 개최",
+      "insight": "창업자 대상 펀딩·채용·AI 인사이트 특화 서밋 보스턴 개최",
+      "takeaway": "창업자 대상 펀딩·채용·AI 인사이트 특화 서밋 보스턴 개최",
       "bullets": [
-        "11월 4일 보스턴에서 Founder Summit 개최",
-        "펀딩·채용·AI 주제를 집중적으로 다룸",
-        "창업 난제를 쉽게 풀어주는 것이 목표"
+        "TechCrunch Founder Summit 의제 공개",
+        "11월 4일 보스턴에서 개최 예정",
+        "펀딩, 채용, AI 인사이트 세션 구성"
       ]
     },
     {
@@ -19,12 +32,12 @@
       "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
       "source": "TechCrunch",
       "date": "09/22",
-      "insight": "디스플레이 기술 스타트업, 데이터센터 확장 위해 €40M 유치",
-      "takeaway": "디스플레이 기술 스타트업, 데이터센터 확장 위해 €40M 유치",
+      "insight": "디스플레이 기술 스타트업, 데이터센터 확장 위해 €40M 조달",
+      "takeaway": "디스플레이 기술 스타트업, 데이터센터 확장 위해 €40M 조달",
       "bullets": [
-        "Morphotonics, €40M 시리즈 투자 유치",
+        "Morphotonics가 €4000만 유로 투자 유치",
         "3M Ventures 등 주요 투자자 참여",
-        "데이터센터 시장으로 사업 영역 확대 예정"
+        "디스플레이 기술을 데이터센터로 확장 추진"
       ]
     },
     {
@@ -32,103 +45,90 @@
       "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
       "source": "TechCrunch",
       "date": "09/21",
-      "insight": "Oura IPO, 기존 주주 차익실현 성격 강해 시장 주목",
-      "takeaway": "Oura IPO, 기존 주주 차익실현 성격 강해 시장 주목",
+      "insight": "Oura IPO, 기존 주주 차익실현 구조로 신규 투자자 주목 필요",
+      "takeaway": "Oura IPO, 기존 주주 차익실현 구조로 신규 투자자 주목 필요",
       "bullets": [
-        "Oura IPO 규모 22억 달러로 책정",
-        "Forerunner Ventures, 최대 12.6억 달러에 전량 매각 계획",
-        "기존 주주 이익 실현 중심의 IPO 구조"
+        "Oura IPO 규모 22억 달러 수준",
+        "Forerunner Ventures 전체 지분 최대 $1.26B에 매각",
+        "IPO 수익 대부분이 기존 주주에게 귀속"
       ]
     },
     {
-      "title": "Family offices are clamoring for AI investments",
-      "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
-      "source": "TechCrunch",
-      "date": "09/18",
-      "insight": "패밀리오피스, AI 투자 급증…구조적 변화인지 주목",
-      "takeaway": "패밀리오피스, AI 투자 급증…구조적 변화인지 주목",
+      "title": "Pat Gelsinger-backed startup PicoJool raises $27.5M to boost bandwidth for AI clusters",
+      "url": "https://siliconangle.com/2026/09/24/pat-gelsinger-backed-startup-picojool-raises-27-5m-to-boost-bandwidth-for-ai-clusters/",
+      "source": "SiliconANGLE",
+      "date": "09/24",
+      "insight": "전 인텔 CEO 지지 스타트업, AI 클러스터 대역폭 문제 해결 도전",
+      "takeaway": "전 인텔 CEO 지지 스타트업, AI 클러스터 대역폭 문제 해결 도전",
       "bullets": [
-        "패밀리오피스의 AI 분야 투자 수요 급증",
-        "일시적 트렌드인지 영구적 변화인지 불확실",
-        "AI 투자 열풍의 지속성에 대한 의문 제기"
+        "PicoJool이 $2750만 시드 투자 유치",
+        "전 인텔 CEO Pat Gelsinger가 후원",
+        "AI 데이터센터 대역폭 병목 해소 목표"
       ]
     },
     {
-      "title": "Ekai raises $1.7M to give enterprise AI agents verified business context",
-      "url": "https://siliconangle.com/2026/09/23/ekai-raises-1-7m-to-give-enterprise-ai-agents-verified-business-context/",
+      "title": "Kontext raises $4M to control what AI agents are allowed to do inside businesses",
+      "url": "https://siliconangle.com/2026/09/24/kontext-raises-4m-to-control-what-ai-agents-are-allowed-to-do-inside-businesses/",
+      "source": "SiliconANGLE",
+      "date": "09/24",
+      "insight": "AI 에이전트 내부 권한 제어 솔루션, 독일 스타트업 $4M 조달",
+      "takeaway": "AI 에이전트 내부 권한 제어 솔루션, 독일 스타트업 $4M 조달",
+      "bullets": [
+        "독일 AI 보안 스타트업 Kontext $400만 조달",
+        "기업 내 AI 에이전트 허용 행동 제어 소프트웨어",
+        "엔터프라이즈 AI 거버넌스 수요 겨냥"
+      ]
+    },
+    {
+      "title": "AI drug discovery startup Basecamp Research raises $140M",
+      "url": "https://siliconangle.com/2026/09/23/ai-drug-discovery-startup-basecamp-research-raises-140m/",
       "source": "SiliconANGLE",
       "date": "09/23",
-      "insight": "엔터프라이즈 AI 에이전트에 비즈니스 맥락 제공 스타트업 등장",
-      "takeaway": "엔터프라이즈 AI 에이전트에 비즈니스 맥락 제공 스타트업 등장",
+      "insight": "AI 신약 발굴 스타트업, 구글 공동창업자 펀드 주도로 $140M 조달",
+      "takeaway": "AI 신약 발굴 스타트업, 구글 공동창업자 펀드 주도로 $140M 조달",
       "bullets": [
-        "Ekai, 170만 달러 신규 투자 유치",
-        "AI 에이전트용 비즈니스 컨텍스트 구축 소프트웨어 개발",
-        "기업 신뢰 확보를 위한 검증된 데이터 제공이 핵심"
+        "Basecamp Research가 시리즈C $1억4000만 유치",
+        "구글 공동창업자 Bill Maris 연계 펀드 S32가 리드",
+        "AI 기반 신약 발굴 분야 대규모 투자 지속"
       ]
     },
     {
-      "title": "Training data provider Snorkel AI raises $350M at $3.5B valuation",
-      "url": "https://siliconangle.com/2026/09/22/training-data-provider-snorkel-ai-raises-350m-at-3-5b-valuation/",
+      "title": "Hubble Network raises $200M to bring global coverage to all Bluetooth LE devices",
+      "url": "https://siliconangle.com/2026/09/23/hubble-network-raises-200m-to-bring-global-coverage-to-all-bluetooth-le-devices/",
       "source": "SiliconANGLE",
       "date": "09/23",
-      "insight": "AI 학습 데이터 업체 Snorkel AI, 35억 달러 밸류로 3.5억 달러 조달",
-      "takeaway": "AI 학습 데이터 업체 Snorkel AI, 35억 달러 밸류로 3.5억 달러 조달",
+      "insight": "블루투스를 위성에 연결하는 혁신 기술로 $200M 시리즈C 달성",
+      "takeaway": "블루투스를 위성에 연결하는 혁신 기술로 $200M 시리즈C 달성",
       "bullets": [
-        "Snorkel AI, 시리즈E로 3억 5천만 달러 유치",
-        "Insight·S32가 라운드 공동 리드",
-        "밸류에이션 35억 달러로 책정"
+        "Hubble Network가 시리즈C $2억 달러 조달",
+        "블루투스 LE 기기에 위성 글로벌 커버리지 제공",
+        "기존에 불가능하다 여겨진 기술 구현"
       ]
     },
     {
-      "title": "Machine vision company Cognex buys Intel robotics spinoff RealSense for $600M",
-      "url": "https://siliconangle.com/2026/09/22/machine-vision-company-cognex-buys-intel-robotics-spinoff-realsense-for-600m/",
+      "title": "Flux expands its platform to show whether AI coding investments are paying off",
+      "url": "https://siliconangle.com/2026/09/23/flux-expands-its-platform-to-show-whether-ai-coding-investments-are-paying-off/",
       "source": "SiliconANGLE",
-      "date": "09/22",
-      "insight": "Cognex, 인텔 분사 RealSense를 6억 달러에 인수해 역량 강화",
-      "takeaway": "Cognex, 인텔 분사 RealSense를 6억 달러에 인수해 역량 강화",
+      "date": "09/23",
+      "insight": "AI 코딩 투자 ROI를 측정하는 엔지니어링 인텔리전스 플랫폼 확장",
+      "takeaway": "AI 코딩 투자 ROI를 측정하는 엔지니어링 인텔리전스 플랫폼 확장",
       "bullets": [
-        "Cognex, RealSense를 6억 달러에 인수 예정",
-        "RealSense는 14개월 전 인텔에서 분사한 스타트업",
-        "머신비전·로보틱스 역량 확대가 목적"
+        "Flux가 AI 개발 투자 효과 측정 도구 출시",
+        "엔지니어링 리더 대상 ROI 가시성 제공",
+        "코드 퍼스트 엔지니어링 인텔리전스 플랫폼 확장"
       ]
     },
     {
-      "title": "Web scraping startup Firecrawl closes $75M investment",
-      "url": "https://siliconangle.com/2026/09/22/web-scraping-startup-firecrawl-closes-75m-investment/",
+      "title": "Ema raises $77M in funding to deploy AI employees across enterprise HR, IT and finance departments",
+      "url": "https://siliconangle.com/2026/09/23/ema-raises-77m-in-funding-to-deploy-ai-employees-across-enterprise-hr-it-and-finance-departments/",
       "source": "SiliconANGLE",
-      "date": "09/22",
-      "insight": "AI 에이전트용 웹 스크래핑 툴 Firecrawl, 7500만 달러 투자 유치",
-      "takeaway": "AI 에이전트용 웹 스크래핑 툴 Firecrawl, 7500만 달러 투자 유치",
+      "date": "09/23",
+      "insight": "AI 에이전트 직원 스타트업 Ema, $77M 조달로 엔터프라이즈 대확장",
+      "takeaway": "AI 에이전트 직원 스타트업 Ema, $77M 조달로 엔터프라이즈 대확장",
       "bullets": [
-        "Firecrawl, 7500만 달러 투자 유치 발표",
-        "LA 소재 Smash Ventures가 리드 투자",
-        "AI 에이전트용 웹 스크래핑 도구 전문 제공"
-      ]
-    },
-    {
-      "title": "Cyera raises $400M more amid AI agent security push",
-      "url": "https://siliconangle.com/2026/09/22/cyera-raises-another-400m-amid-ai-agent-security-push/",
-      "source": "SiliconANGLE",
-      "date": "09/22",
-      "insight": "AI 에이전트 보안 스타트업 Cyera, 골드만삭스로부터 4억 달러 추가 유치",
-      "takeaway": "AI 에이전트 보안 스타트업 Cyera, 골드만삭스로부터 4억 달러 추가 유치",
-      "bullets": [
-        "Cyera, Goldman Sachs로부터 4억 달러 조달",
-        "기존 시리즈G 라운드의 익스텐션 형태",
-        "AI 에이전트 보안 수요 증가가 배경"
-      ]
-    },
-    {
-      "title": "European neocloud Verda raises $189M to build the AI infrastructure of tomorrow",
-      "url": "https://siliconangle.com/2026/09/22/european-neocloud-verda-raises-189m-to-build-the-ai-infrastructure-of-tomorrow/",
-      "source": "SiliconANGLE",
-      "date": "09/22",
-      "insight": "핀란드 네오클라우드 Verda, AI 인프라 확장 위해 1.89억 달러 조달",
-      "takeaway": "핀란드 네오클라우드 Verda, AI 인프라 확장 위해 1.89억 달러 조달",
-      "bullets": [
-        "헬싱키 기반 Verda Cloud, 1억 8900만 달러 초기 유치",
-        "구 사명은 DataCrunch에서 Verda로 변경",
-        "AI 클라우드 인프라 확장이 자금 사용 목적"
+        "Ema Unlimited가 $7700만 투자 유치",
+        "HR·IT·재무 부서 대상 AI 직원 배포",
+        "엔터프라이즈 자율 AI 에이전트 시장 공략"
       ]
     }
   ]
