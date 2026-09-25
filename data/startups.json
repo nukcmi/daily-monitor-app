@@ -1,17 +1,30 @@
 {
-  "updated": "2026-09-24 21:42",
+  "updated": "2026-09-25 21:43",
   "items": [
+    {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "source": "TechCrunch",
+      "date": "09/25",
+      "insight": "라이트스피드, 인도 AI 초기 투자에 2,500억 원 규모 펀드 조성",
+      "takeaway": "라이트스피드, 인도 AI 초기 투자에 2,500억 원 규모 펀드 조성",
+      "bullets": [
+        "Lightspeed, 인도 전용 펀드 2억5천만 달러 목표",
+        "글로벌 펀드와 인도 펀드 사이클 처음으로 일치",
+        "AI 초기 단계 스타트업에 집중 투자 방향"
+      ]
+    },
     {
       "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
       "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
       "source": "TechCrunch",
       "date": "09/23",
-      "insight": "AI로 변화하는 VC 규칙을 TechCrunch Disrupt 2026에서 논의",
-      "takeaway": "AI로 변화하는 VC 규칙을 TechCrunch Disrupt 2026에서 논의",
+      "insight": "AI가 바꾸는 VC 생태계, TechCrunch Disrupt 2026서 심층 논의",
+      "takeaway": "AI가 바꾸는 VC 생태계, TechCrunch Disrupt 2026서 심층 논의",
       "bullets": [
-        "StrictlyVC가 TechCrunch Disrupt 2026에 참가",
-        "AI로 인한 VC 환경 변화가 핵심 주제",
-        "9월 25일 전 등록 시 $200 할인 혜택"
+        "StrictlyVC가 TechCrunch Disrupt 2026 참가",
+        "AI로 변화하는 벤처캐피털 환경 집중 조명",
+        "투자자 패스 9월 25일까지 200달러 할인"
       ]
     },
     {
@@ -19,25 +32,25 @@
       "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
       "source": "TechCrunch",
       "date": "09/22",
-      "insight": "창업자 대상 펀딩·채용·AI 인사이트 특화 서밋 보스턴 개최",
-      "takeaway": "창업자 대상 펀딩·채용·AI 인사이트 특화 서밋 보스턴 개최",
+      "insight": "창업자 대상 펀드레이징·채용·AI 인사이트 서밋, 보스턴 11월 개최",
+      "takeaway": "창업자 대상 펀드레이징·채용·AI 인사이트 서밋, 보스턴 11월 개최",
       "bullets": [
-        "TechCrunch Founder Summit 의제 공개",
-        "11월 4일 보스턴에서 개최 예정",
-        "펀딩, 채용, AI 인사이트 세션 구성"
+        "TechCrunch Founder Summit 11월 4일 보스턴 개최",
+        "펀드레이징, 채용, AI 관련 세션 구성",
+        "창업 초기 난관 극복 노하우 공유 목적"
       ]
     },
     {
       "title": "Morphotonics raises €40M to expand its display tech into data centers",
-      "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+      "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-to-expand-its-display-tech-into-data-centers/",
       "source": "TechCrunch",
       "date": "09/22",
-      "insight": "디스플레이 기술 스타트업, 데이터센터 확장 위해 €40M 조달",
-      "takeaway": "디스플레이 기술 스타트업, 데이터센터 확장 위해 €40M 조달",
+      "insight": "Morphotonics, 디스플레이 기술을 데이터센터로 확장하며 €4천만 조달",
+      "takeaway": "Morphotonics, 디스플레이 기술을 데이터센터로 확장하며 €4천만 조달",
       "bullets": [
-        "Morphotonics가 €4000만 유로 투자 유치",
-        "3M Ventures 등 주요 투자자 참여",
-        "디스플레이 기술을 데이터센터로 확장 추진"
+        "딥테크 기업 Morphotonics, €40M 시리즈 펀딩 완료",
+        "3M Ventures 등 주요 기관 투자자 참여",
+        "데이터센터 시장으로 디스플레이 기술 영역 확대"
       ]
     },
     {
@@ -45,12 +58,77 @@
       "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
       "source": "TechCrunch",
       "date": "09/21",
-      "insight": "Oura IPO, 기존 주주 차익실현 구조로 신규 투자자 주목 필요",
-      "takeaway": "Oura IPO, 기존 주주 차익실현 구조로 신규 투자자 주목 필요",
+      "insight": "Oura IPO, 기존 주주 차익 실현 구조로 신규 투자자 주의 필요",
+      "takeaway": "Oura IPO, 기존 주주 차익 실현 구조로 신규 투자자 주의 필요",
       "bullets": [
-        "Oura IPO 규모 22억 달러 수준",
-        "Forerunner Ventures 전체 지분 최대 $1.26B에 매각",
-        "IPO 수익 대부분이 기존 주주에게 귀속"
+        "Oura IPO 규모 22억 달러로 추진",
+        "Forerunner Ventures, 최대 12.6억 달러 전량 매도 예정",
+        "기존 주주 이익 실현 위주의 IPO 구조"
+      ]
+    },
+    {
+      "title": "Enterprise browser developer Island raises $400M at $6.4B valuation",
+      "url": "https://siliconangle.com/2026/09/24/enterprise-browser-developer-island-raises-400m-at-6-4b-valuation/",
+      "source": "SiliconANGLE",
+      "date": "09/25",
+      "insight": "엔터프라이즈 브라우저 Island, 64억 달러 밸류에이션으로 4억 달러 유치",
+      "takeaway": "엔터프라이즈 브라우저 Island, 64억 달러 밸류에이션으로 4억 달러 유치",
+      "bullets": [
+        "Island, 시리즈 F로 4억 달러 조달 완료",
+        "기업가치 64억 달러로 평가",
+        "Evolution Equity Partners가 라운드 리드"
+      ]
+    },
+    {
+      "title": "Databricks acquires spreadsheet startup Row Zero to enhance its AI capabilities",
+      "url": "https://siliconangle.com/2026/09/24/databricks-acquires-spreadsheet-startup-row-zero-to-enhance-its-ai-capabilities/",
+      "source": "SiliconANGLE",
+      "date": "09/24",
+      "insight": "Databricks, 대용량 스프레드시트 스타트업 Row Zero 인수로 AI 역량 강화",
+      "takeaway": "Databricks, 대용량 스프레드시트 스타트업 Row Zero 인수로 AI 역량 강화",
+      "bullets": [
+        "Databricks가 Row Zero 인수, 금액 미공개",
+        "Row Zero는 대규모 데이터셋 최적화 스프레드시트 개발사",
+        "시애틀 기반 스타트업으로 외부 투자 유치 이력 있음"
+      ]
+    },
+    {
+      "title": "Okta turns Dex AI agent into a customer-zero proving ground",
+      "url": "https://siliconangle.com/2026/09/24/okta-turns-dex-ai-agent-into-customer-zero-proving-ground-oktane/",
+      "source": "SiliconANGLE",
+      "date": "09/24",
+      "insight": "Okta, Dex AI 에이전트로 내부 운영 효율화 및 고객 검증 동시 추진",
+      "takeaway": "Okta, Dex AI 에이전트로 내부 운영 효율화 및 고객 검증 동시 추진",
+      "bullets": [
+        "Dex AI 에이전트로 직원 지원 프로세스 간소화",
+        "전년도 목표 25만 건 절감 초과 달성",
+        "고객 제공 아이덴티티 통제 기술의 내부 테스트베드 활용"
+      ]
+    },
+    {
+      "title": "AI agents creating a new insider security risk: theCUBE’s Oktane keynote analysis",
+      "url": "https://siliconangle.com/2026/09/24/ai-agents-security-thecubes-keynote-analysis-oktane/",
+      "source": "SiliconANGLE",
+      "date": "09/24",
+      "insight": "AI 에이전트의 내부자 보안 위협, 접근 권한 이후 행동 통제가 핵심",
+      "takeaway": "AI 에이전트의 내부자 보안 위협, 접근 권한 이후 행동 통제가 핵심",
+      "bullets": [
+        "AI 에이전트가 새로운 내부자 보안 리스크로 부상",
+        "에이전트 간 작업 위임·다중 앱 접근이 위험 요소",
+        "보안팀 검토 속도보다 빠른 변경 실행이 문제"
+      ]
+    },
+    {
+      "title": "Groundcover picks up Kubernetes optimization startup Wand in its first acquisition",
+      "url": "https://siliconangle.com/2026/09/24/groundcover-picks-up-kubernetes-optimization-startup-wand-in-its-first-acquisition/",
+      "source": "SiliconANGLE",
+      "date": "09/24",
+      "insight": "옵저버빌리티 기업 groundcover, 첫 인수로 쿠버네티스 최적화 역량 확보",
+      "takeaway": "옵저버빌리티 기업 groundcover, 첫 인수로 쿠버네티스 최적화 역량 확보",
+      "bullets": [
+        "groundcover, Wand Cloud 인수로 첫 M&A 단행",
+        "Wand는 쿠버네티스 리소스 최적화 전문 스타트업",
+        "인수 금액은 비공개, Wand 창업자·직원 합류"
       ]
     },
     {
@@ -58,77 +136,12 @@
       "url": "https://siliconangle.com/2026/09/24/pat-gelsinger-backed-startup-picojool-raises-27-5m-to-boost-bandwidth-for-ai-clusters/",
       "source": "SiliconANGLE",
       "date": "09/24",
-      "insight": "전 인텔 CEO 지지 스타트업, AI 클러스터 대역폭 문제 해결 도전",
-      "takeaway": "전 인텔 CEO 지지 스타트업, AI 클러스터 대역폭 문제 해결 도전",
+      "insight": "전 인텔 CEO 겔싱어 지원 PicoJool, AI 클러스터 대역폭 병목 해소 나서",
+      "takeaway": "전 인텔 CEO 겔싱어 지원 PicoJool, AI 클러스터 대역폭 병목 해소 나서",
       "bullets": [
-        "PicoJool이 $2750만 시드 투자 유치",
-        "전 인텔 CEO Pat Gelsinger가 후원",
-        "AI 데이터센터 대역폭 병목 해소 목표"
-      ]
-    },
-    {
-      "title": "Kontext raises $4M to control what AI agents are allowed to do inside businesses",
-      "url": "https://siliconangle.com/2026/09/24/kontext-raises-4m-to-control-what-ai-agents-are-allowed-to-do-inside-businesses/",
-      "source": "SiliconANGLE",
-      "date": "09/24",
-      "insight": "AI 에이전트 내부 권한 제어 솔루션, 독일 스타트업 $4M 조달",
-      "takeaway": "AI 에이전트 내부 권한 제어 솔루션, 독일 스타트업 $4M 조달",
-      "bullets": [
-        "독일 AI 보안 스타트업 Kontext $400만 조달",
-        "기업 내 AI 에이전트 허용 행동 제어 소프트웨어",
-        "엔터프라이즈 AI 거버넌스 수요 겨냥"
-      ]
-    },
-    {
-      "title": "AI drug discovery startup Basecamp Research raises $140M",
-      "url": "https://siliconangle.com/2026/09/23/ai-drug-discovery-startup-basecamp-research-raises-140m/",
-      "source": "SiliconANGLE",
-      "date": "09/23",
-      "insight": "AI 신약 발굴 스타트업, 구글 공동창업자 펀드 주도로 $140M 조달",
-      "takeaway": "AI 신약 발굴 스타트업, 구글 공동창업자 펀드 주도로 $140M 조달",
-      "bullets": [
-        "Basecamp Research가 시리즈C $1억4000만 유치",
-        "구글 공동창업자 Bill Maris 연계 펀드 S32가 리드",
-        "AI 기반 신약 발굴 분야 대규모 투자 지속"
-      ]
-    },
-    {
-      "title": "Hubble Network raises $200M to bring global coverage to all Bluetooth LE devices",
-      "url": "https://siliconangle.com/2026/09/23/hubble-network-raises-200m-to-bring-global-coverage-to-all-bluetooth-le-devices/",
-      "source": "SiliconANGLE",
-      "date": "09/23",
-      "insight": "블루투스를 위성에 연결하는 혁신 기술로 $200M 시리즈C 달성",
-      "takeaway": "블루투스를 위성에 연결하는 혁신 기술로 $200M 시리즈C 달성",
-      "bullets": [
-        "Hubble Network가 시리즈C $2억 달러 조달",
-        "블루투스 LE 기기에 위성 글로벌 커버리지 제공",
-        "기존에 불가능하다 여겨진 기술 구현"
-      ]
-    },
-    {
-      "title": "Flux expands its platform to show whether AI coding investments are paying off",
-      "url": "https://siliconangle.com/2026/09/23/flux-expands-its-platform-to-show-whether-ai-coding-investments-are-paying-off/",
-      "source": "SiliconANGLE",
-      "date": "09/23",
-      "insight": "AI 코딩 투자 ROI를 측정하는 엔지니어링 인텔리전스 플랫폼 확장",
-      "takeaway": "AI 코딩 투자 ROI를 측정하는 엔지니어링 인텔리전스 플랫폼 확장",
-      "bullets": [
-        "Flux가 AI 개발 투자 효과 측정 도구 출시",
-        "엔지니어링 리더 대상 ROI 가시성 제공",
-        "코드 퍼스트 엔지니어링 인텔리전스 플랫폼 확장"
-      ]
-    },
-    {
-      "title": "Ema raises $77M in funding to deploy AI employees across enterprise HR, IT and finance departments",
-      "url": "https://siliconangle.com/2026/09/23/ema-raises-77m-in-funding-to-deploy-ai-employees-across-enterprise-hr-it-and-finance-departments/",
-      "source": "SiliconANGLE",
-      "date": "09/23",
-      "insight": "AI 에이전트 직원 스타트업 Ema, $77M 조달로 엔터프라이즈 대확장",
-      "takeaway": "AI 에이전트 직원 스타트업 Ema, $77M 조달로 엔터프라이즈 대확장",
-      "bullets": [
-        "Ema Unlimited가 $7700만 투자 유치",
-        "HR·IT·재무 부서 대상 AI 직원 배포",
-        "엔터프라이즈 자율 AI 에이전트 시장 공략"
+        "PicoJool, 2,750만 달러 펀딩 유치 완료",
+        "AI 데이터센터 대역폭 병목 문제 해결 목표",
+        "전 인텔 CEO 팻 겔싱어가 투자자로 참여"
       ]
     }
   ]
