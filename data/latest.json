@@ -1,14 +1,21 @@
 {
   "asOf": "2026-09-29",
-  "updated": "2026-09-29 00:20",
-  "fx": "환율 2026-09-28 · 시장환율   1 USD = ₩1,361.47   |   1 USD = 17,960.00 IDR   |   1 IDR = ₩0.07581",
+  "updated": "2026-09-29 23:00",
+  "fx": "환율 2026-09-29 · 시장환율   1 USD = ₩1,354.65   |   1 USD = 17,993.00 IDR   |   1 IDR = ₩0.07529",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "타인에 대한 담보제공 결정 공시의 기재 정정 공시 발생",
-      "impact": "담보제공 조건 변경은 자금조달 구조에 영향을 줄 수 있어 당사 보유 지분가치 모니터링 필요",
+      "text": "타인에 대한 담보제공 결정 관련 기재정정 공시 제출.",
+      "impact": "담보제공 구조 변경은 재무건전성 및 자금조달 여력에 영향을 줄 수 있어 보유 지분가치 관점에서 내용 확인 필요.",
       "level": "mid",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928900839"
+    },
+    {
+      "company": "루멘",
+      "text": "루멘, 알래스카에 세입자보험 서비스 공식 출시. 월 5달러부터 시작.",
+      "impact": "지리적 커버리지 확대로 IFP 성장 가능성은 있으나, 투자 판단을 바꿀 핵심 지표 개선 여부는 미확인.",
+      "level": "low",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1NtaDNaNXN6Z2h0d215X3UzSnBXV2FHa2tJNjV0NEZwNWtjdklLMUNHU0t5RWtpdUdEaDV0WFlHNHB1SlBraV9ZXzNiRlZ6MW91dWpkWU9vT1NwbXdTcEV6bHBMWEhVOE0wd01sYkRsYkNodTZ6alhoMm9hRTV4NHVRd3ZEQ2hkY0RNRll4U3RvdF9mYlJvRW44c3BUcTB1Nnc?oc=5"
     }
   ],
   "companies": [
@@ -17,22 +24,22 @@
       "name": "차바이오텍",
       "ticker": "085660",
       "g": "B",
-      "event": "담보제공 정정 공시 발생",
+      "event": "담보제공 정정공시 발생",
       "tags": [
-        "+3.02%",
+        "-0.24%",
         "당사 투자"
       ],
-      "priceText": "₩8,200",
-      "openText": "₩8,130",
-      "highText": "₩8,320",
+      "priceText": "₩8,180",
+      "openText": "₩8,320",
+      "highText": "₩8,340",
       "lowText": "₩8,030",
-      "prevCloseText": "₩7,960",
-      "changeText": "+₩240",
+      "prevCloseText": "₩8,200",
+      "changeText": "-₩20",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,200",
+          "₩8,180",
           null
         ],
         [
@@ -42,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-35.96%",
+          "-36.12%",
           null
         ],
         [
           "전일대비",
-          "+3.02%",
+          "-0.24%",
           null
         ],
         [
           "전주대비",
-          "+3.02%",
+          "+2.76%",
           null
         ],
         [
           "거래량(20일比)",
-          "21.35만 · 0.75x",
+          "23.07만 · 0.82x",
           null
         ],
         [
           "시가총액",
-          "7,624억",
+          "7,605억",
           null
         ],
         [
           "52주 고점대비",
-          "-65.76%",
+          "-65.85%",
           null
         ]
       ],
@@ -82,19 +89,15 @@
         }
       ],
       "events": [
-        "타인에 대한 담보제공 기재정정 공시는 자금조달 구조 변동 가능성을 시사하며 지분가치에 간접 영향",
-        "CGT/CDMO 사업 진척 관련 신규 공시는 없어 모멘텀 공백 국면 지속"
+        "타인 담보제공 결정 정정공시는 기존 자금조달 구조 변경 가능성을 시사하며, 세부 내용 확인이 필요하다.",
+        "CGT/CDMO 사업 진척 관련 신규 공시는 없어 사업가치 변화 신호는 부재한 상태다."
       ],
       "watch": [
-        "담보제공 정정 내용 및 실제 자금조달 연계 여부",
-        "CGT/CDMO 임상·계약 관련 신규 공시 발생 여부",
-        "추가 CB·유상증자 등 자금조달 계획 공시 여부"
+        "담보제공 정정 내용 및 규모 확인",
+        "CB·유상증자 등 추가 자금조달 계획 여부",
+        "CGT/CDMO 임상·계약 진척 공시 여부"
       ],
       "spark": [
-        {
-          "date": "6/26",
-          "close": 10480.0
-        },
         {
           "date": "6/29",
           "close": 11610.0
@@ -342,11 +345,15 @@
         {
           "date": "9/28",
           "close": 8200.0
+        },
+        {
+          "date": "9/29",
+          "close": 8180.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/28 종가",
+      "exchangeLine": "KRX · 9/29 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928900839",
       "sources": [
         {
@@ -362,12 +369,6 @@
           "date": "09/28"
         },
         {
-          "title": "바이오텍, 제24차 세계한상대회서 AI 무역 솔루션 ‘스마트로’'와 생명수 소금 ‘비타솔트-로’ 동시 출품",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nQkl1YW5HYWJBa0dXazZIVkxtcGpsRzREdHdxMUFzNDNSSk5DS2M5T3R4cnVpNGdCck5scHdJclJXczFuM1RRanY5Y0R6a3lSN1MtYjdPVDZTX2plUWZ4STZuaFJGQQ?oc=5",
-          "source": "nvp.co.kr",
-          "date": "09/28"
-        },
-        {
           "title": "차바이오텍 주가 상승 중",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nWlN5MnNQN00yaDZEMENITFVYN0lfNDNnd0hkaDRIcklvTlZpdXJtTElPMFFQTkpGRWFMOFVjMi1JeGRVaXdTZjJOWTl2Zkp0LUtWVUFHemY0UXEz?oc=5",
           "source": "아시아뉴스통신",
@@ -376,8 +377,8 @@
       ],
       "archive30d": [
         {
-          "summary": "타인에 대한 담보제공 결정 공시의 기재 정정 공시 발생",
-          "impact": "담보제공 조건 변경은 자금조달 구조에 영향을 줄 수 있어 당사 보유 지분가치 모니터링 필요",
+          "summary": "타인에 대한 담보제공 결정 관련 기재정정 공시 제출.",
+          "impact": "담보제공 구조 변경은 재무건전성 및 자금조달 여력에 영향을 줄 수 있어 보유 지분가치 관점에서 내용 확인 필요.",
           "level": "mid",
           "date": "09/28",
           "collected_at": "2026-09-29"
@@ -391,20 +392,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+7.84%",
+        "+1.38%",
         "당사 투자"
       ],
-      "priceText": "₩5,090",
-      "openText": "₩4,745",
-      "highText": "₩5,300",
-      "lowText": "₩4,745",
-      "prevCloseText": "₩4,720",
-      "changeText": "+₩370",
+      "priceText": "₩5,160",
+      "openText": "₩5,260",
+      "highText": "₩5,260",
+      "lowText": "₩4,920",
+      "prevCloseText": "₩5,090",
+      "changeText": "+₩70",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,090",
+          "₩5,160",
           null
         ],
         [
@@ -419,27 +420,27 @@
         ],
         [
           "전일대비",
-          "+7.84%",
+          "+1.38%",
           null
         ],
         [
           "전주대비",
-          "+7.84%",
+          "+9.32%",
           null
         ],
         [
           "거래량(20일比)",
-          "3.39만 · 4.26x",
+          "1.86만 · 2.04x",
           null
         ],
         [
           "시가총액",
-          "926억",
+          "939억",
           null
         ],
         [
           "52주 고점대비",
-          "-74.27%",
+          "-73.91%",
           null
         ]
       ],
@@ -457,15 +458,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "분기 실적(매출·영업손익) 발표 시점 및 수치",
-        "헬스케어 전환 관련 신규 고객사·파트너십 공시 여부",
-        "자금조달(CB·증자 등) 관련 공시 발생 여부"
+        "분기 매출·영업손익 추이 확인",
+        "헬스케어 신규 고객사·파트너십 공시 여부",
+        "사업모델 전환 관련 경영 공시 여부"
       ],
       "spark": [
-        {
-          "date": "6/26",
-          "close": 5700.0
-        },
         {
           "date": "6/29",
           "close": 7410.0
@@ -713,11 +710,15 @@
         {
           "date": "9/28",
           "close": 5090.0
+        },
+        {
+          "date": "9/29",
+          "close": 5160.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/28 종가",
+      "exchangeLine": "KRX · 9/29 종가",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -727,23 +728,23 @@
       "name": "루멘",
       "ticker": "(미국)",
       "g": "C",
-      "event": "주요 변동 없음",
+      "event": "알래스카 세입자보험 출시",
       "tags": [
-        "-0.77%",
+        "-2.27%",
         "벤치마크"
       ],
-      "priceText": "$44.93",
-      "openText": "$45.59",
-      "highText": "$46.32",
-      "lowText": "$44.85",
-      "prevCloseText": "$45.28",
-      "changeText": "-$0.35",
+      "priceText": "$43.91",
+      "openText": "$44.14",
+      "highText": "$44.48",
+      "lowText": "$43.39",
+      "prevCloseText": "$44.93",
+      "changeText": "-$1.02",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$44.93",
-          "₩61,171"
+          "$43.91",
+          "₩59,483"
         ],
         [
           "취득가",
@@ -757,27 +758,27 @@
         ],
         [
           "전일대비",
-          "-0.77%",
+          "-2.27%",
           null
         ],
         [
           "전주대비",
-          "-4.59%",
+          "-2.27%",
           null
         ],
         [
           "거래량(20일比)",
-          "114.02만 · 1.09x",
+          "113.94만 · 1.09x",
           null
         ],
         [
           "시가총액",
-          "$3.41B",
-          "4.64조"
+          "$3.42B",
+          "4.63조"
         ],
         [
           "52주 고점대비",
-          "-55.03%",
+          "-56.05%",
           null
         ]
       ],
@@ -792,18 +793,15 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "알래스카 신규 진출은 지리적 확장 신호이나, IFP 성장률·Loss Ratio 등 핵심 투자 판단 지표 변화 여부는 미확인이다.",
+        "월 5달러 저가 상품 전략은 IFP 볼륨 확대에 기여할 수 있으나 손해율 영향은 추가 확인이 필요하다."
       ],
       "watch": [
-        "분기 IFP 성장률 및 Loss Ratio 발표 시점",
-        "EBITDA 흑자전환 관련 가이던스 변경 여부",
-        "경쟁사 대비 밸류에이션 배수 변동 추이"
+        "주별 확장에 따른 IFP 누적 성장률 변화",
+        "저가 상품 확대 시 Loss Ratio 추이",
+        "EBITDA 흑자전환 시점 가이던스 업데이트"
       ],
       "spark": [
-        {
-          "date": "6/29",
-          "close": 62.18
-        },
         {
           "date": "6/30",
           "close": 65.05
@@ -1051,39 +1049,51 @@
         {
           "date": "9/25",
           "close": 44.93
+        },
+        {
+          "date": "9/28",
+          "close": 43.91
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 9/25 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEhOZ2doZndoY2p1M3RaTzFUVU0yTGhUdWMxYzl4N0puYjU1YmFBV3VYV25nM0hTdDZHYzNoM3l2bW9OUTVmOGRxRjU0TGhCSUVDX1hISHF6TlJRMjZKdjUzZ2FxSE1NRDh4WTJJWnJxNDk4bWFWMndfSmttLVJ6UUVSLW11QVVkVG9yZ0pCQnpXdi1mbmpFVm13?oc=5",
+      "exchangeLine": "NYSE · 9/28 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVhoYURjay1EN0ZQeWNsdTNVY0F4WDZHN2tPbjlabWNPUzdRdnplR1VsaWdMSFU5STVsN2VKN3d4OXN5QmxQVE1xcjZIbGRpcVZ1b21ZeGZRZ3B2QkZDbmE1UjUyczY4UElhZjVRZjR6anJRV3gxUTB6V3BFSjZRa0dLNTEzbWM1MUMycmphRG1aWkU3LWk1bTE5LWJkZG5oRV9ld0JKVi1xQzBvODJEM3MydHFydVFhTFZUbXZxZ2hsN1k?oc=5",
       "sources": [
         {
-          "title": "3 Growth Stocks with Warning Signs",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEhOZ2doZndoY2p1M3RaTzFUVU0yTGhUdWMxYzl4N0puYjU1YmFBV3VYV25nM0hTdDZHYzNoM3l2bW9OUTVmOGRxRjU0TGhCSUVDX1hISHF6TlJRMjZKdjUzZ2FxSE1NRDh4WTJJWnJxNDk4bWFWMndfSmttLVJ6UUVSLW11QVVkVG9yZ0pCQnpXdi1mbmpFVm13?oc=5",
-          "source": "Yahoo Finance",
-          "date": "09/28"
+          "title": "Roadway Moving Partners with 루멘 to Help Customers Prepare for Their Next Home",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVhoYURjay1EN0ZQeWNsdTNVY0F4WDZHN2tPbjlabWNPUzdRdnplR1VsaWdMSFU5STVsN2VKN3d4OXN5QmxQVE1xcjZIbGRpcVZ1b21ZeGZRZ3B2QkZDbmE1UjUyczY4UElhZjVRZjR6anJRV3gxUTB6V3BFSjZRa0dLNTEzbWM1MUMycmphRG1aWkU3LWk1bTE5LWJkZG5oRV9ld0JKVi1xQzBvODJEM3MydHFydVFhTFZUbXZxZ2hsN1k?oc=5",
+          "source": "EIN News",
+          "date": "09/29"
         },
         {
-          "title": "루멘261016C00050000 Interactive Stock Chart | 루멘 Oct 2026 50.000 call Stock - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00UkxEcDJWOWF4U0w4dzlUbmNER0xvZmpyeGdnS0dSX2U0NnlQMEdHTU5hbjdMd20tRVVjOUZGMXAyTGhSYWU5ZXVUM0w2RUdvN2RSTHdDVFRvR0VzcHE5bGhTRC0?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "date": "09/28"
+          "title": "루멘 launches affordable renters insurance in Alaska starting at $5/month",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT3RjRS1XS1ZSckljemRsUWpwc2RlQU82Z3NWOXpQV0o0SjFaVjVrWkYzRmZ4RmdyM2tDc2JzTEpaOHFRb250cTY0ZktDZjNUVUlHVnZJYVBPbnZjaG5nVHRrSW0ta3NtNndPeXljMnZyMUVqbDlPZ25mdUhWd21vRWdn?oc=5",
+          "source": "Pluang",
+          "date": "09/29"
         },
         {
-          "title": "루멘 Oct 2026 54.000 put (루멘261002P00054000) interactive stock chart",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90OGRZSE9fVHNFQU8tTExocGR5NmhyTm1FU3FGbWxaTURRVTdJZVVRNnpGdkVQOG1rY0tJV3pBWXRZdDFZR0hwaTdLbkFqY0xuUjZYa2RxZm90ZVVyaGFtVTJrT1Zkb0JKV2U2Z3hB?oc=5",
-          "source": "Yahoo Finance UK",
-          "date": "09/27"
+          "title": "Renters insurance in Alaska now starts at $5 a month from 루멘.",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUc5OS1uX3gxQTFua3pEMkVYVGxCdTBQZGZyR2g5bDI3NDZreE9jUnBIbHh6WnlILUxmWjlCVzFCdUpWSWNuLWlGV293cXdCR0RRUXlOZEpPQTRvS01fRGN2RFFCR2VFdEVpVElXZFFYMV9JSUd3bFVwdzg1WHdUZU4ycldFMm1PQWFoMmQtMlZaY2JWcTRR?oc=5",
+          "source": "Stock Titan",
+          "date": "09/29"
         },
         {
-          "title": "루멘 Oct 2026 49.500 call (루멘261002C00049500) stock price, news, quote and history",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JRW53SlZxVjBBZHkybDVMWHlkSVd4RmpESHc0cXBCVnpjZWV3UVRIbm13VHdNMTRTV3V2U0tabnhXT1k1eWxuODF3RlJ5NXpOLVNlNVZmaEhUSmVJblNzdFZLcDZsUQ?oc=5",
-          "source": "Yahoo Finance UK",
-          "date": "09/27"
+          "title": "루멘 Expands Renters Insurance to Alaska",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1NtaDNaNXN6Z2h0d215X3UzSnBXV2FHa2tJNjV0NEZwNWtjdklLMUNHU0t5RWtpdUdEaDV0WFlHNHB1SlBraV9ZXzNiRlZ6MW91dWpkWU9vT1NwbXdTcEV6bHBMWEhVOE0wd01sYkRsYkNodTZ6alhoMm9hRTV4NHVRd3ZEQ2hkY0RNRll4U3RvdF9mYlJvRW44c3BUcTB1Nnc?oc=5",
+          "source": "PR Newswire",
+          "date": "09/29"
         }
       ],
-      "archive30d": []
+      "archive30d": [
+        {
+          "summary": "루멘, 알래스카에 세입자보험 서비스 공식 출시. 월 5달러부터 시작.",
+          "impact": "지리적 커버리지 확대로 IFP 성장 가능성은 있으나, 투자 판단을 바꿀 핵심 지표 개선 여부는 미확인.",
+          "level": "low",
+          "date": "09/29",
+          "collected_at": "2026-09-29"
+        }
+      ]
     },
     {
       "id": "LPGI",
@@ -1092,21 +1102,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+0.00%",
+        "-0.78%",
         "자회사"
       ],
-      "priceText": "Rp645",
-      "openText": "Rp645",
-      "highText": "Rp645",
-      "lowText": "Rp640",
+      "priceText": "Rp640",
+      "openText": "Rp640",
+      "highText": "Rp640",
+      "lowText": "Rp610",
       "prevCloseText": "Rp645",
-      "changeText": "+Rp0",
+      "changeText": "-Rp5",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp645",
-          "₩48.9"
+          "Rp640",
+          "₩48.2"
         ],
         [
           "취득가",
@@ -1115,32 +1125,32 @@
         ],
         [
           "취득가대비",
-          "-1.35%",
+          "-2.11%",
           null
         ],
         [
           "전일대비",
-          "+0.00%",
+          "-0.78%",
           null
         ],
         [
           "전주대비",
-          "+0.00%",
+          "-0.78%",
           null
         ],
         [
           "거래량(20일比)",
-          "600 · 0.03x",
+          "2.10천 · 0.12x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,467억"
+          "1,446억"
         ],
         [
           "52주 고점대비",
-          "-31.82%",
+          "-32.35%",
           null
         ]
       ],
@@ -1158,15 +1168,11 @@
         "공시·기사 기준 특이사항 없음"
       ],
       "watch": [
-        "OJK 규제 변경 사항 및 자회사 영향 범위",
-        "RBC 비율 최신 수치 및 적정성 유지 여부",
-        "PIKK 개정 관련 현지 규제 동향"
+        "OJK 규제 변화 및 PIKK 개정 동향",
+        "RBC 비율 최신 수치 확인",
+        "연결 편입 후 GWP·손해율 분기 실적 공시 여부"
       ],
       "spark": [
-        {
-          "date": "7/1",
-          "close": 675.0
-        },
         {
           "date": "7/2",
           "close": 675.0
@@ -1414,11 +1420,15 @@
         {
           "date": "9/28",
           "close": 645.0
+        },
+        {
+          "date": "9/29",
+          "close": 640.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 9/28 종가 (WIB)",
+      "exchangeLine": "IDX · 9/29 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -1498,8 +1508,8 @@
         "company": "DB손해보험",
         "cells": [
           {
-            "value": null,
-            "date": null
+            "value": "84.3%",
+            "date": "09/26"
           },
           {
             "value": null,
@@ -1600,12 +1610,12 @@
             "date": null
           },
           {
-            "value": null,
-            "date": null
+            "value": "1조원",
+            "date": "09/29"
           },
           {
-            "value": null,
-            "date": null
+            "value": "12조원",
+            "date": "09/29"
           },
           {
             "value": null,
