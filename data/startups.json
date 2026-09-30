@@ -1,135 +1,95 @@
 {
-  "updated": "2026-09-29 23:00",
+  "updated": "2026-09-30 22:38",
   "items": [
+    {
+      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+      "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+      "source": "TechCrunch",
+      "date": "09/29",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
     {
       "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
       "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
       "source": "TechCrunch",
       "date": "09/29",
-      "insight": "Peak XV, 시드 투자 한도 5M으로 상향하며 글로벌 공략 강화",
-      "takeaway": "Peak XV, 시드 투자 한도 5M으로 상향하며 글로벌 공략 강화",
-      "bullets": [
-        "Surge 코호트 18개 스타트업 공개",
-        "이 중 13개가 글로벌 시장 타깃",
-        "절반 이상은 인도 기반 스타트업"
-      ]
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
     },
     {
       "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
       "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
       "source": "TechCrunch",
       "date": "09/28",
-      "insight": "AI 붐이 만들어낸 신종 회계 인력 수요, MAVI가 선점 도전",
-      "takeaway": "AI 붐이 만들어낸 신종 회계 인력 수요, MAVI가 선점 도전",
-      "bullets": [
-        "회계 스태핑 회사 MAVI 스텔스 공개",
-        "400만 달러 펀딩 확보",
-        "AI 붐에 따른 새로운 회계사 수요 겨냥"
-      ]
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
     },
     {
       "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
       "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
       "source": "TechCrunch",
       "date": "09/25",
-      "insight": "영국 AI 네오클라우드 Nscale, IPO 앞두고 33억 달러 조달",
-      "takeaway": "영국 AI 네오클라우드 Nscale, IPO 앞두고 33억 달러 조달",
-      "bullets": [
-        "전환사채 방식으로 33.6억 달러 확보",
-        "Third Point·Nvidia 등이 투자 참여",
-        "AI 데이터센터 대규모 구축 자금 활용"
-      ]
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
     },
     {
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "source": "TechCrunch",
-      "date": "09/25",
-      "insight": "Lightspeed, 인도 AI 초기 투자용 2.5억 달러 펀드 조성 추진",
-      "takeaway": "Lightspeed, 인도 AI 초기 투자용 2.5억 달러 펀드 조성 추진",
-      "bullets": [
-        "목표 규모 2억 5천만 달러",
-        "글로벌 펀드와 처음으로 사이클 일치",
-        "초기 단계 AI 스타트업 집중 투자"
-      ]
+      "title": "On-demand GPU infrastructure startup GMI Cloud raises $263M to fuel global expansion",
+      "url": "https://siliconangle.com/2026/09/30/on-demand-gpu-infrastructure-startup-gmi-cloud-raises-263m-to-fuel-global-expansion/",
+      "source": "SiliconANGLE",
+      "date": "09/30",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
     },
     {
-      "title": "Accel and Google back Dodge AI’s ambitions to automate enterprise software maintenance with agents",
-      "url": "https://siliconangle.com/2026/09/29/accel-and-google-back-startup-dodge-ais-ambitions-to-automate-enterprise-software-maintenance-with-ai-agents/",
+      "title": "Smart radio startup Relay raises $36M to help businesses capture vital intelligence from frontline workers",
+      "url": "https://siliconangle.com/2026/09/30/smart-radio-startup-relay-raises-36m-in-funding-to-help-businesses-capture-intelligence-from-frontline-workers/",
+      "source": "SiliconANGLE",
+      "date": "09/30",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Startup Ascerta collects $18M in funding to help enterprises understand the value AI provides",
+      "url": "https://siliconangle.com/2026/09/30/startup-ascerta-collects-18m-in-funding-to-help-enterprises-understand-the-value-ai-provides/",
+      "source": "SiliconANGLE",
+      "date": "09/30",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Low-energy chip startup Efficient Computer closes on $97M in funding",
+      "url": "https://siliconangle.com/2026/09/29/low-energy-chip-startup-efficient-computer-closes-on-97m-in-funding/",
+      "source": "SiliconANGLE",
+      "date": "09/30",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "World model startup General Intuition closes  $220M investment",
+      "url": "https://siliconangle.com/2026/09/29/world-model-startup-general-intuition-closes-220m-investment/",
+      "source": "SiliconANGLE",
+      "date": "09/30",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "EliseAI raises $350M to enhance its AI work automation suite",
+      "url": "https://siliconangle.com/2026/09/29/eliseai-raises-350m-to-enhance-its-ai-work-automation-suite/",
       "source": "SiliconANGLE",
       "date": "09/29",
-      "insight": "Accel·Google 지원 Dodge AI, 엔터프라이즈 SW 유지보수 자동화 도전",
-      "takeaway": "Accel·Google 지원 Dodge AI, 엔터프라이즈 SW 유지보수 자동화 도전",
-      "bullets": [
-        "시드 펀딩 265만 달러 클로즈",
-        "AI 에이전트로 ERP 유지보수 자동화",
-        "외부 컨설턴트 비용 절감 가치 제안"
-      ]
-    },
-    {
-      "title": "Rig Security launches with $12M to watch AI agents that run under employees’ accounts",
-      "url": "https://siliconangle.com/2026/09/29/rig-security-launches-with-12m-to-watch-ai-agents-that-run-under-employees-accounts/",
-      "source": "SiliconANGLE",
-      "date": "09/29",
-      "insight": "AI 에이전트 계정 보안 전문 이스라엘 스타트업 Rig Security 등장",
-      "takeaway": "AI 에이전트 계정 보안 전문 이스라엘 스타트업 Rig Security 등장",
-      "bullets": [
-        "1,200만 달러 펀딩으로 공식 론칭",
-        "직원 계정으로 작동하는 AI 에이전트 감시",
-        "엔터프라이즈 대상 머신 아이덴티티 보안"
-      ]
-    },
-    {
-      "title": "RemoteThreat launches with $7M for an offensive cyber operations platform",
-      "url": "https://siliconangle.com/2026/09/29/remotethreat-launches-with-7m-for-an-offensive-cyber-operations-platform/",
-      "source": "SiliconANGLE",
-      "date": "09/29",
-      "insight": "공격적 사이버 작전 플랫폼 RemoteThreat, 700만 달러로 출발",
-      "takeaway": "공격적 사이버 작전 플랫폼 RemoteThreat, 700만 달러로 출발",
-      "bullets": [
-        "700만 달러 펀딩으로 공식 론칭",
-        "O/C/O 플랫폼으로 레드팀 지원",
-        "미국 정부 고객도 타깃 시장 포함"
-      ]
-    },
-    {
-      "title": "AI agent identity security demands layered defenses, Omdia says",
-      "url": "https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/",
-      "source": "SiliconANGLE",
-      "date": "09/29",
-      "insight": "AI 에이전트 신원 보안, 통합 플랫폼 접근이 핵심 화두로 부상",
-      "takeaway": "AI 에이전트 신원 보안, 통합 플랫폼 접근이 핵심 화두로 부상",
-      "bullets": [
-        "Omdia, AI 에이전트 머신 아이덴티티 위협 경고",
-        "다층 방어 전략 필요성 강조",
-        "Palo Alto의 CyberArk 인수가 트렌드 반영"
-      ]
-    },
-    {
-      "title": "AMD acquires world model developer World Labs for $8.2B",
-      "url": "https://siliconangle.com/2026/09/28/amd-acquires-world-model-developer-world-labs-for-8-2b/",
-      "source": "SiliconANGLE",
-      "date": "09/29",
-      "insight": "AMD, 82억 달러에 World Labs 인수로 AI 월드모델 시장 진출",
-      "takeaway": "AMD, 82억 달러에 World Labs 인수로 AI 월드모델 시장 진출",
-      "bullets": [
-        "전액 주식으로 82억 달러 규모 인수",
-        "7개월 전 10억 달러 투자 후 전략적 인수",
-        "당시 스타트업 밸류에이션은 50억 달러"
-      ]
-    },
-    {
-      "title": "Defense cyber intelligence company RedLattice to go public in $1.25B SPAC deal",
-      "url": "https://siliconangle.com/2026/09/28/defense-cyber-intelligence-company-redlattice-to-go-public-in-1-25b-spac-deal/",
-      "source": "SiliconANGLE",
-      "date": "09/28",
-      "insight": "방산 사이버 인텔리전스 RedLattice, 12.5억 달러 SPAC으로 상장 추진",
-      "takeaway": "방산 사이버 인텔리전스 RedLattice, 12.5억 달러 SPAC으로 상장 추진",
-      "bullets": [
-        "Bold Eagle Acquisition Corp과 합병 발표",
-        "기업가치 12.5억 달러 평가",
-        "나스닥 상장 목표"
-      ]
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
     }
   ]
 }
