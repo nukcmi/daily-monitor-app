@@ -1,7 +1,7 @@
 {
-  "asOf": "2026-09-30",
-  "updated": "2026-09-30 22:38",
-  "fx": "환율 2026-09-30 · 시장환율   1 USD = ₩1,353.08   |   1 USD = 17,872.00 IDR   |   1 IDR = ₩0.07571",
+  "asOf": "2026-10-01",
+  "updated": "2026-10-01 23:25",
+  "fx": "환율 2026-10-01 · 시장환율   1 USD = ₩1,360.94   |   1 USD = 17,932.00 IDR   |   1 IDR = ₩0.07589",
   "attentionItems": [
     {
       "company": "차바이오텍",
@@ -12,10 +12,10 @@
     },
     {
       "company": "차AI헬스케어",
-      "text": "차바이오그룹-한화손보·한화생명, 헬스케어-보험 융합 MOU",
+      "text": "차AI헬스케어 투자분석 2026. 09. 30",
       "impact": "-",
       "level": "low",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR1F3WmtiY1RKWHNxYTBJS1dfREpMMEk1aF9XMHFNcS1NaERoQzRJR2J4dFBGMDJpRjZQbVNqdmJJbDJhaGxOZFNHUkM1SzdidFZieWVSNXF5blkxUVNGby1ldVFYZEVlci0tZDB4R3V3UkJEQk9FOUdPMkl1R0pUUXNpcm9tOUhlYXFLdzRnelo4R3FhdHRFbFNJNXFxcDdvRVhpSjdpNWRhTlFYR0lhT1FrZFF2d2VzWmlGWEVwNl9FOVg1UjhJQWJaNGE5cy10a3YxRzlMT1o?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wZ2pqQmhaMjQ5S0dVTUJFcUFsZjc5NUp5d2EyT0JiUGhlZE9HSlRabHU3Z01BQUczOW5INUVzek9GMk9IVFJYWXZRNDJNNkNOVWlHRWlKSUYxWkU4T2hKUk1oLWwwMEdYTUUzako2RW9RT0E?oc=5"
     }
   ],
   "companies": [
@@ -26,20 +26,20 @@
       "g": "B",
       "event": "공시·기사 확인 필요",
       "tags": [
-        "+0.12%",
+        "+5.86%",
         "당사 투자"
       ],
-      "priceText": "₩8,190",
-      "openText": "₩8,260",
-      "highText": "₩8,300",
-      "lowText": "₩8,120",
-      "prevCloseText": "₩8,180",
-      "changeText": "+₩10",
+      "priceText": "₩8,670",
+      "openText": "₩8,140",
+      "highText": "₩8,700",
+      "lowText": "₩8,100",
+      "prevCloseText": "₩8,190",
+      "changeText": "+₩480",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,190",
+          "₩8,670",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-36.04%",
+          "-32.29%",
           null
         ],
         [
           "전일대비",
-          "+0.12%",
+          "+5.86%",
           null
         ],
         [
           "전주대비",
-          "+2.89%",
+          "+8.92%",
           null
         ],
         [
           "거래량(20일比)",
-          "13.63만 · 0.48x",
+          "26.51만 · 1.35x",
           null
         ],
         [
           "시가총액",
-          "7,614억",
+          "8,061억",
           null
         ],
         [
           "52주 고점대비",
-          "-65.80%",
+          "-63.80%",
           null
         ]
       ],
@@ -94,10 +94,6 @@
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "6/30",
-          "close": 10860.0
-        },
         {
           "date": "7/1",
           "close": 10810.0
@@ -345,11 +341,15 @@
         {
           "date": "9/30",
           "close": 8190.0
+        },
+        {
+          "date": "10/1",
+          "close": 8670.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/30 종가",
+      "exchangeLine": "KRX · 10/1 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901259",
       "sources": [
         {
@@ -365,15 +365,15 @@
           "date": "20260928"
         },
         {
+          "title": "차바이오텍 주가 상승 중",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtWk5wVDZ3WTZTbVl0d18xRmI1MVl3WUpVc0huNl9uVTI5QVBBblEwUjVLNHBvNVVyZ2EwT1ZTTUkwUERXdmhrYWl0Yi10TE9hdmRPTjQzOHBNVFBs?oc=5",
+          "source": "아시아뉴스통신",
+          "date": "10/01"
+        },
+        {
           "title": "JW중외제약, 바이오 VC '솔리더스' 307억에 품었다…6개월 만에 그룹 내 재배치한 이유",
           "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLSk5HSFR5RE1GVm1uakh5V3pnc3FZY19haWN2ejBybkJpU3hnSzBQdXpFLThSV3BYa0dDNVhNS2dhRGZ6OVF4VUZSd0tacFN6bVc3TA?oc=5",
           "source": "바이오북미디어",
-          "date": "09/30"
-        },
-        {
-          "title": "차바이오그룹 ‘CMG제약’, 비타민A·E 담은 송침유 ‘명품 메가플러스’ 선보여",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BZk82dHg3N0RkU1FCblMxUWYtY2VDOUNLMEhDdnNzM3hIR2k2N01vb2pna1ZrY3VWd0NxMlBLWTVDd1VVMnpRaTNDMWYydzU1dFdVTjFMZTRQemIwMnJPVlRmekZiSzVObU9V?oc=5",
-          "source": "비즈월드",
           "date": "09/30"
         }
       ],
@@ -383,14 +383,14 @@
           "impact": "-",
           "level": "low",
           "date": "20260930",
-          "collected_at": "2026-09-30"
+          "collected_at": "2026-10-01"
         },
         {
           "summary": "[기재정정]타인에대한담보제공결정",
           "impact": "-",
           "level": "low",
           "date": "20260928",
-          "collected_at": "2026-09-30"
+          "collected_at": "2026-10-01"
         }
       ]
     },
@@ -401,20 +401,20 @@
       "g": "B",
       "event": "공시·기사 확인 필요",
       "tags": [
-        "-2.13%",
+        "+3.56%",
         "당사 투자"
       ],
-      "priceText": "₩5,050",
-      "openText": "₩5,120",
-      "highText": "₩5,120",
-      "lowText": "₩4,980",
-      "prevCloseText": "₩5,160",
-      "changeText": "-₩110",
+      "priceText": "₩5,230",
+      "openText": "₩4,990",
+      "highText": "₩5,250",
+      "lowText": "₩4,880",
+      "prevCloseText": "₩5,050",
+      "changeText": "+₩180",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,050",
+          "₩5,230",
           null
         ],
         [
@@ -429,27 +429,27 @@
         ],
         [
           "전일대비",
-          "-2.13%",
+          "+3.56%",
           null
         ],
         [
           "전주대비",
-          "+6.99%",
+          "+10.81%",
           null
         ],
         [
           "거래량(20일比)",
-          "3.20천 · 0.33x",
+          "1.47만 · 1.59x",
           null
         ],
         [
           "시가총액",
-          "919억",
+          "952억",
           null
         ],
         [
           "52주 고점대비",
-          "-74.47%",
+          "-73.56%",
           null
         ]
       ],
@@ -464,15 +464,11 @@
         }
       ],
       "events": [
-        "차바이오그룹-한화손보·한화생명, 헬스케어-보험 융합 MOU",
-        "CNC News"
+        "차AI헬스케어 투자분석 2026. 09. 30",
+        "차바이오그룹-한화손보·한화생명, 헬스케어-보험 융합 MOU"
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "6/30",
-          "close": 7090.0
-        },
         {
           "date": "7/1",
           "close": 6960.0
@@ -720,40 +716,44 @@
         {
           "date": "9/30",
           "close": 5050.0
+        },
+        {
+          "date": "10/1",
+          "close": 5230.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 9/30 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR1F3WmtiY1RKWHNxYTBJS1dfREpMMEk1aF9XMHFNcS1NaERoQzRJR2J4dFBGMDJpRjZQbVNqdmJJbDJhaGxOZFNHUkM1SzdidFZieWVSNXF5blkxUVNGby1ldVFYZEVlci0tZDB4R3V3UkJEQk9FOUdPMkl1R0pUUXNpcm9tOUhlYXFLdzRnelo4R3FhdHRFbFNJNXFxcDdvRVhpSjdpNWRhTlFYR0lhT1FrZFF2d2VzWmlGWEVwNl9FOVg1UjhJQWJaNGE5cy10a3YxRzlMT1o?oc=5",
+      "exchangeLine": "KRX · 10/1 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wZ2pqQmhaMjQ5S0dVTUJFcUFsZjc5NUp5d2EyT0JiUGhlZE9HSlRabHU3Z01BQUczOW5INUVzek9GMk9IVFJYWXZRNDJNNkNOVWlHRWlKSUYxWkU4T2hKUk1oLWwwMEdYTUUzako2RW9RT0E?oc=5",
       "sources": [
+        {
+          "title": "차AI헬스케어 투자분석 2026. 09. 30",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wZ2pqQmhaMjQ5S0dVTUJFcUFsZjc5NUp5d2EyT0JiUGhlZE9HSlRabHU3Z01BQUczOW5INUVzek9GMk9IVFJYWXZRNDJNNkNOVWlHRWlKSUYxWkU4T2hKUk1oLWwwMEdYTUUzako2RW9RT0E?oc=5",
+          "source": "주달",
+          "date": "09/30"
+        },
         {
           "title": "차바이오그룹-한화손보·한화생명, 헬스케어-보험 융합 MOU",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR1F3WmtiY1RKWHNxYTBJS1dfREpMMEk1aF9XMHFNcS1NaERoQzRJR2J4dFBGMDJpRjZQbVNqdmJJbDJhaGxOZFNHUkM1SzdidFZieWVSNXF5blkxUVNGby1ldVFYZEVlci0tZDB4R3V3UkJEQk9FOUdPMkl1R0pUUXNpcm9tOUhlYXFLdzRnelo4R3FhdHRFbFNJNXFxcDdvRVhpSjdpNWRhTlFYR0lhT1FrZFF2d2VzWmlGWEVwNl9FOVg1UjhJQWJaNGE5cy10a3YxRzlMT1o?oc=5",
-          "source": "미주조선일보",
-          "date": "09/29"
-        },
-        {
-          "title": "CNC News",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVm1UWXZVVDV3VjdBejhqYUtreXdHaEhWNXpHNlpnVFVJZU9DYVFnVWhqN1pCY29aN01SR3JkekFhV1BtbHd6ek1GUFRWYkNXNDAwMzIxX3Q3Y0JvTjhHeUxvSmw0anh0dGc2Q05oSktvTDdJNDJzY2lJa2dJaUdGQXpVaHpNRVU0Z2c?oc=5",
-          "source": "cncnews.co.kr",
+          "source": "chosundaily.com",
           "date": "09/29"
         }
       ],
       "archive30d": [
         {
+          "summary": "차AI헬스케어 투자분석 2026. 09. 30",
+          "impact": "-",
+          "level": "low",
+          "date": "09/30",
+          "collected_at": "2026-10-01"
+        },
+        {
           "summary": "차바이오그룹-한화손보·한화생명, 헬스케어-보험 융합 MOU",
           "impact": "-",
           "level": "low",
           "date": "09/29",
-          "collected_at": "2026-09-30"
-        },
-        {
-          "summary": "CNC News",
-          "impact": "-",
-          "level": "low",
-          "date": "09/29",
-          "collected_at": "2026-09-30"
+          "collected_at": "2026-10-01"
         }
       ]
     },
@@ -764,21 +764,21 @@
       "g": "B",
       "event": "공시·기사 확인 필요",
       "tags": [
-        "+1.57%",
+        "+1.21%",
         "벤치마크"
       ],
-      "priceText": "$44.60",
-      "openText": "$44.30",
-      "highText": "$44.96",
-      "lowText": "$43.92",
-      "prevCloseText": "$43.91",
-      "changeText": "+$0.69",
+      "priceText": "$45.14",
+      "openText": "$45.24",
+      "highText": "$45.95",
+      "lowText": "$44.58",
+      "prevCloseText": "$44.60",
+      "changeText": "+$0.54",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$44.60",
-          "₩60,347"
+          "$45.14",
+          "₩61,433"
         ],
         [
           "취득가",
@@ -792,27 +792,27 @@
         ],
         [
           "전일대비",
-          "+1.57%",
+          "+1.21%",
           null
         ],
         [
           "전주대비",
-          "-0.73%",
+          "+0.47%",
           null
         ],
         [
           "거래량(20일比)",
-          "111.95만 · 1.05x",
+          "98.36만 · 0.91x",
           null
         ],
         [
           "시가총액",
-          "$3.50B",
-          "4.73조"
+          "$3.54B",
+          "4.81조"
         ],
         [
           "52주 고점대비",
-          "-55.36%",
+          "-54.81%",
           null
         ]
       ],
@@ -827,15 +827,11 @@
         }
       ],
       "events": [
-        "루멘 Oct 2026 52.000 put (루멘261002P0005200",
-        "루멘 Oct 2026 44.500 call (루멘261002C000445"
+        "루멘 (루멘) Stock Price, News, Quote & Histo",
+        "루멘 Oct 2026 46.000 call (루멘261002C000460"
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/1",
-          "close": 69.33
-        },
         {
           "date": "7/2",
           "close": 71.52
@@ -1083,45 +1079,49 @@
         {
           "date": "9/29",
           "close": 44.6
+        },
+        {
+          "date": "9/30",
+          "close": 45.14
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 9/29 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QdndYTVd5aEZ2OXJzTXRqR2l6SnpSTUUxUlpweFo1RHRiTnFBUkhMMTU1LVNIRDlHb0pIM2cwbEU3ZGxnQVVPR0R6NTZtSXJIX1J1UUI2dHdmR25KWTFkQTQyUVBXbUFURHpqNHdtTlQ?oc=5",
+      "exchangeLine": "NYSE · 9/30 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVYWtQMmVMWVIxMkc4ZHFteEhIN29UT2UxX0VmM2VJQzFnWnNoNW5RYkJMQnBkZ0hzeHp4em9LeXV5NUp6RlRkbF8yRVRtTGJ0TFE?oc=5",
       "sources": [
         {
-          "title": "루멘 Oct 2026 52.000 put (루멘261002P00052000) stock historical prices and data",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QdndYTVd5aEZ2OXJzTXRqR2l6SnpSTUUxUlpweFo1RHRiTnFBUkhMMTU1LVNIRDlHb0pIM2cwbEU3ZGxnQVVPR0R6NTZtSXJIX1J1UUI2dHdmR25KWTFkQTQyUVBXbUFURHpqNHdtTlQ?oc=5",
-          "source": "Yahoo Finance UK",
+          "title": "루멘 (루멘) Stock Price, News, Quote & History",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVYWtQMmVMWVIxMkc4ZHFteEhIN29UT2UxX0VmM2VJQzFnWnNoNW5RYkJMQnBkZ0hzeHp4em9LeXV5NUp6RlRkbF8yRVRtTGJ0TFE?oc=5",
+          "source": "Yahoo! Finance Canada",
           "date": "09/30"
         },
         {
-          "title": "루멘 Oct 2026 44.500 call (루멘261002C00044500) stock price, news, quote and history",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TN09OSktfdDVaWHM2M2FWaTFTdzNTaDVtd3dYalFyYWo4SjNvLWNhM2NhM3E0TzA5SlZ1VnlCOXB3dURxY3AxVUVubW5peFBKYVJpVWtqNzFxdW9nWHduZDdFNFpOdw?oc=5",
-          "source": "Yahoo Finance Singapore",
+          "title": "루멘 Oct 2026 46.000 call (루멘261002C00046000) stock historical prices and data",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03dEhxX01QUEVDM09taFVCbVlZdmFXZUFCdTBYRTZ2c3pDLVJDc0d3cGRrRDBDMG1MUTJleTIyX3VfSnllWDlmcE1BZmw4dGxHT3oxT3pPMnVOQV9WU0FmdTB1U1g2VjRETlp2VmxRdXo?oc=5",
+          "source": "Yahoo Finance Australia",
           "date": "09/30"
         },
         {
-          "title": "루멘 Oct 2026 45.000 call (루멘261002C00045000) stock price, news, quote and history",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1bF9pblhVMkZDSXdSOVg0Q0Exazd5b0M4NGIxQnJKR180WW9OaExuUnJQQmVGQmtLQ01xNjFBQlBYbndsa0dsRFRTaE9JZlVicDd3eUMyQV9YNjFjY3J3Ylkxb2pyQQ?oc=5",
-          "source": "Yahoo Finance Singapore",
+          "title": "루멘 Oct 2026 39.000 call (루멘261002C00039000) Interactive Stock Chart",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pYWZsUzV6cktidmhKcmcyYy1aRWEzRmdIcEpiTEVrYmZKV25ZeXRmTjdDekhuM3pSWVZ2WlAweDRDQkRpenBVOFhZd0FUd19lQjhvcmZCU05mcTNSdXNfZ2E3N1Q1ejNuTWowLXRn?oc=5",
+          "source": "Yahoo! Finance Canada",
           "date": "09/30"
         },
         {
-          "title": "루멘 (루멘) Expands In Alaska And Kentucky As Fair Value Debate Builds",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONEdjLXNya3hxeHhiNlRYX1FXS1VlRFJ6cndMekZUVnp0QXd0dFRlZ0Z6WUt0aXRNa203WUVwcHZQUWxoYW9tZEVQWk9TMjJ6QnZ5Ym9wRXkxa2FFX2U0MFVFamdkTnl6a3YxMHM0aVFWTVFqMlZPNkQtejM5TmYwSVZQTDZrYmVlMXF6ZU1ZbWhuVmx6U1dzTVlEZF9PXzNleHlUNVFpTHdzM0NkbG5MSjR1WERhdzdzVUFuZE5iOWZGMUFxWERuRHlR0gHKAUFVX3lxTE40R2Mtc3JreHF4eGI2VFhfUVdLVWVEUnpyd0x6RlRWenRBd3R0VGVnRnpZS3RpdE1rbTdZRXBwdlBRbGhhb21kRVBaT1MyMnpCdnlib3BFeTFrYUVfZTQwVUVqZ2ROeXprdjEwczRpUVZNUWoyVk82RC16MzlOZjBJVlBMNmtiZWUxcXplTVltaG5WbHpTV3NNWURkX09fM2V4eVQ1UWlMd3MzQ2RsbkxKNHVYRGF3N3NVQW5kTmI5ZkYxQXFYRG5EeVE?oc=5",
-          "source": "simplywall.st",
-          "date": "09/29"
+          "title": "루멘 Oct 2026 40.000 call (루멘261002C00040000) Interactive Stock Chart",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vS1RvVXZKcDZKUS1jX2JMSFgwODhOMzlWV3haYzlPNHowcGFDMHBBd0J1RGNJcm0zbUhjN29yYkh2R0RGME9WZ1Fyclo4RENKWFV5WmJuSG1xZkdXTmdGb2dMT3lxaFJyMjNMWmJ3?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "date": "09/30"
         }
       ],
       "archive30d": [
         {
-          "summary": "루멘 Oct 2026 52.000 put (루멘261002P00052000) stock histor",
+          "summary": "루멘 (루멘) Stock Price, News, Quote & History",
           "impact": "-",
           "level": "low",
           "date": "09/30",
-          "collected_at": "2026-09-30"
+          "collected_at": "2026-10-01"
         }
       ]
     },
@@ -1132,21 +1132,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+0.00%",
+        "+0.78%",
         "자회사"
       ],
-      "priceText": "Rp640",
-      "openText": "Rp675",
-      "highText": "Rp675",
-      "lowText": "Rp570",
+      "priceText": "Rp645",
+      "openText": "Rp640",
+      "highText": "Rp660",
+      "lowText": "Rp595",
       "prevCloseText": "Rp640",
-      "changeText": "+Rp0",
+      "changeText": "+Rp5",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp640",
-          "₩48.5"
+          "Rp645",
+          "₩49.0"
         ],
         [
           "취득가",
@@ -1155,32 +1155,32 @@
         ],
         [
           "취득가대비",
-          "-2.11%",
+          "-1.35%",
           null
         ],
         [
           "전일대비",
-          "+0.00%",
+          "+0.78%",
           null
         ],
         [
           "전주대비",
-          "-0.78%",
+          "+0.00%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.17만 · 1.28x",
+          "1.64만 · 1.70x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,454억"
+          "1,469억"
         ],
         [
           "52주 고점대비",
-          "-32.35%",
+          "-31.82%",
           null
         ]
       ],
@@ -1199,10 +1199,6 @@
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/3",
-          "close": 680.0
-        },
         {
           "date": "7/6",
           "close": 675.0
@@ -1450,11 +1446,15 @@
         {
           "date": "9/30",
           "close": 640.0
+        },
+        {
+          "date": "10/1",
+          "close": 645.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 9/30 종가 (WIB)",
+      "exchangeLine": "IDX · 10/1 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []

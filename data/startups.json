@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-30 22:38",
+  "updated": "2026-10-01 23:25",
   "items": [
+    {
+      "title": "A Neko Health investor on the $700M bet to scan your whole body",
+      "url": "https://techcrunch.com/podcast/the-investor-behind-neko-healths-700m-bet-on-scanning-your-whole-body/",
+      "source": "TechCrunch",
+      "date": "09/30",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
     {
       "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
       "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
@@ -29,17 +38,26 @@
       "bullets": []
     },
     {
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "source": "TechCrunch",
-      "date": "09/25",
+      "title": "Metaview wants to eliminate recruiting grunt work and speed up hiring after raising $60M",
+      "url": "https://siliconangle.com/2026/09/30/metaview-wants-to-eliminate-recruiting-grunt-work-and-speed-up-hiring-after-raising-60m-in-funding/",
+      "source": "SiliconANGLE",
+      "date": "10/01",
       "insight": "",
       "takeaway": "",
       "bullets": []
     },
     {
-      "title": "On-demand GPU infrastructure startup GMI Cloud raises $263M to fuel global expansion",
-      "url": "https://siliconangle.com/2026/09/30/on-demand-gpu-infrastructure-startup-gmi-cloud-raises-263m-to-fuel-global-expansion/",
+      "title": "Scale-up interconnect startup CScale launches with $188M in funding",
+      "url": "https://siliconangle.com/2026/09/30/scale-up-interconnect-startup-cscale-launches-with-188m-in-funding/",
+      "source": "SiliconANGLE",
+      "date": "10/01",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Destro AI raises $8M to coordinate mixed robot fleets in enterprise warehouses",
+      "url": "https://siliconangle.com/2026/09/30/destro-ai-raises-8m-to-coordinate-mixed-robot-fleets-in-enterprise-warehouses/",
       "source": "SiliconANGLE",
       "date": "09/30",
       "insight": "",
@@ -47,8 +65,8 @@
       "bullets": []
     },
     {
-      "title": "Smart radio startup Relay raises $36M to help businesses capture vital intelligence from frontline workers",
-      "url": "https://siliconangle.com/2026/09/30/smart-radio-startup-relay-raises-36m-in-funding-to-help-businesses-capture-intelligence-from-frontline-workers/",
+      "title": "Five takeaways from HPE’s Networking Investor Day",
+      "url": "https://siliconangle.com/2026/09/30/five-takeaways-from-hpes-networking-investor-day/",
       "source": "SiliconANGLE",
       "date": "09/30",
       "insight": "",
@@ -56,8 +74,8 @@
       "bullets": []
     },
     {
-      "title": "Startup Ascerta collects $18M in funding to help enterprises understand the value AI provides",
-      "url": "https://siliconangle.com/2026/09/30/startup-ascerta-collects-18m-in-funding-to-help-enterprises-understand-the-value-ai-provides/",
+      "title": "Prominent tech CEOs sign voluntary White House AI safety accord",
+      "url": "https://siliconangle.com/2026/09/30/prominent-tech-ceos-sign-voluntary-white-house-ai-safety-accord/",
       "source": "SiliconANGLE",
       "date": "09/30",
       "insight": "",
@@ -65,28 +83,10 @@
       "bullets": []
     },
     {
-      "title": "Low-energy chip startup Efficient Computer closes on $97M in funding",
-      "url": "https://siliconangle.com/2026/09/29/low-energy-chip-startup-efficient-computer-closes-on-97m-in-funding/",
+      "title": "Jeeves raises $110M to scale stablecoin-native banking platform for global payments",
+      "url": "https://siliconangle.com/2026/09/30/jeeves-raises-110m-to-scale-stablecoin-native-banking-platform-for-global-payments/",
       "source": "SiliconANGLE",
       "date": "09/30",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "World model startup General Intuition closes  $220M investment",
-      "url": "https://siliconangle.com/2026/09/29/world-model-startup-general-intuition-closes-220m-investment/",
-      "source": "SiliconANGLE",
-      "date": "09/30",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "EliseAI raises $350M to enhance its AI work automation suite",
-      "url": "https://siliconangle.com/2026/09/29/eliseai-raises-350m-to-enhance-its-ai-work-automation-suite/",
-      "source": "SiliconANGLE",
-      "date": "09/29",
       "insight": "",
       "takeaway": "",
       "bullets": []
