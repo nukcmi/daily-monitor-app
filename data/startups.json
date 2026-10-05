@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 22:48",
+  "updated": "2026-10-06 00:55",
   "items": [
     {
       "title": "A Neko Health investor on the $700M bet to scan your whole body",
@@ -11,28 +11,46 @@
       "bullets": []
     },
     {
-      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-      "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-      "source": "TechCrunch",
-      "date": "09/29",
+      "title": "Clockwork.io bags $31M in funding to keep AI inference and training workloads running like … clockwork",
+      "url": "https://siliconangle.com/2026/10/05/clockwork-io-bags-31m-in-funding-to-keep-ai-inference-and-training-workloads-running-like-clockwork/",
+      "source": "SiliconANGLE",
+      "date": "10/05",
       "insight": "",
       "takeaway": "",
       "bullets": []
     },
     {
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "source": "TechCrunch",
-      "date": "09/29",
+      "title": "NetApp puts ONTAP inside Oracle’s cloud, betting native beats bolted-on",
+      "url": "https://siliconangle.com/2026/10/05/infrastructure-modernization-netapp-ontap-native-oci-netappinsight/",
+      "source": "SiliconANGLE",
+      "date": "10/05",
       "insight": "",
       "takeaway": "",
       "bullets": []
     },
     {
-      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
-      "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
-      "source": "TechCrunch",
-      "date": "09/28",
+      "title": "Robotics AI developer FieldAI reportedly raising $700M in funding",
+      "url": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
+      "source": "SiliconANGLE",
+      "date": "10/03",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Database startup Supabase raises $150M, acquires Turso",
+      "url": "https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso/",
+      "source": "SiliconANGLE",
+      "date": "10/02",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering",
+      "url": "https://siliconangle.com/2026/10/02/despite-ipo-jitters-and-ai-safety-worries-anthropic-sticks-to-a-2026-offering/",
+      "source": "SiliconANGLE",
+      "date": "10/02",
       "insight": "",
       "takeaway": "",
       "bullets": []
@@ -42,51 +60,6 @@
       "url": "https://siliconangle.com/2026/10/02/flexpod-brings-validated-ai-infrastructure-enterprises-netappinsight/",
       "source": "SiliconANGLE",
       "date": "10/02",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Satellite software provider Satlyt closes $8M investment",
-      "url": "https://siliconangle.com/2026/10/01/satellite-software-provider-satlyt-closes-8m-investment/",
-      "source": "SiliconANGLE",
-      "date": "10/02",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Report: Anthropic targets pre-Thanksgiving IPO launch, despite warning of AI’s ‘existential risks’",
-      "url": "https://siliconangle.com/2026/10/01/report-anthropic-targets-pre-thanksgiving-ipo-launch-despite-warning-of-ais-existential-risks/",
-      "source": "SiliconANGLE",
-      "date": "10/01",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Volantis raises $88M to develop photonic inference systems",
-      "url": "https://siliconangle.com/2026/10/01/volantis-raises-88m-to-develop-photonic-inference-systems/",
-      "source": "SiliconANGLE",
-      "date": "10/01",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Armadin nabs $255.5M to detect vulnerabilities with AI agent swarms",
-      "url": "https://siliconangle.com/2026/10/01/armadin-nabs-255-5m-to-detect-vulnerabilities-with-ai-agent-swarms/",
-      "source": "SiliconANGLE",
-      "date": "10/01",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Flow Engineering raises $50M to bring the power of AI to hardware engineering",
-      "url": "https://siliconangle.com/2026/10/01/flow-engineering-raises-50m-to-bring-the-power-of-ai-to-hardware-engineering/",
-      "source": "SiliconANGLE",
-      "date": "10/01",
       "insight": "",
       "takeaway": "",
       "bullets": []

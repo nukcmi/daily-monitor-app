@@ -1,7 +1,7 @@
 {
-  "asOf": "2026-10-02",
-  "updated": "2026-10-02 22:48",
-  "fx": "환율 2026-10-02 · 시장환율   1 USD = ₩1,345.72   |   1 USD = 17,893.00 IDR   |   1 IDR = ₩0.07521",
+  "asOf": "2026-10-06",
+  "updated": "2026-10-06 00:55",
+  "fx": "환율 2026-10-05 · 시장환율   1 USD = ₩1,341.83   |   1 USD = 17,912.00 IDR   |   1 IDR = ₩0.07491",
   "attentionItems": [
     {
       "company": "차바이오텍",
@@ -11,11 +11,11 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901259"
     },
     {
-      "company": "차AI헬스케어",
-      "text": "차병원·차바이오그룹 2026년 신입∙주니어 공채",
+      "company": "루멘",
+      "text": "루멘261009C00043000 Interactive Stock Chart | 루멘 Oct 2026",
       "impact": "-",
       "level": "low",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FeFp2NXdJaE5Ibkt3ZHprUGt3aERGM0J0WEdPZ213TWt6ZjRUbkg5UE1oMGl5U003VUFtYjUxSTJUemtrLTdKaW1LMXlBeUVjSE9XZDJ1S2l3cFhHcnNTYUtKQWpfajJoT3ZfdHY1UFBSOVFs?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNWtDZ2VwbDJBMzhmb05LUm16Rmg2RmpfN0ZkamhDdzFnUzFWamtzU01wdGF4MEVOVmFTUUM1V082U3otMVVuTVEtcDBnRGoyUkQwcjVOclp5M1FoYm5LYg?oc=5"
     }
   ],
   "companies": [
@@ -365,16 +365,10 @@
           "date": "20260928"
         },
         {
-          "title": "차병원·차바이오그룹, 3개 부문 ‘2026년 신입·주니어’ 공채",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZUFZIUVpfZVhvb2pjOUM4SEREdU03a2ZyMWVOb3BSa2g1VXVmemtzbkJvUzVDbzVCNGFWSFlFWklZLXhIU3VnS1dreFRMU3ZkY1IwQ2I2a0xMeFZSdjdSbmt0aGFoVjVT?oc=5",
-          "source": "시사캐스트",
-          "date": "10/02"
-        },
-        {
-          "title": "차병원·차바이오그룹 2026년 신입∙주니어 공채",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FeFp2NXdJaE5Ibkt3ZHprUGt3aERGM0J0WEdPZ213TWt6ZjRUbkg5UE1oMGl5U003VUFtYjUxSTJUemtrLTdKaW1LMXlBeUVjSE9XZDJ1S2l3cFhHcnNTYUtKQWpfajJoT3ZfdHY1UFBSOVFs?oc=5",
-          "source": "데일리메디",
-          "date": "10/02"
+          "title": "차병원·차바이오그룹, 오는 15일까지 신입∙주니어 공개 모집",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMcm1xV25QU0xwbE51N0NEVmJxNXF6dnNIV2EzMDdWcXJJRW9tRlc5NmQyemQ3SE94WWE3cVJSOXp1NFh6ZkdhLVBCdVFlX1FWalo0akJ4bVg3ckd4VVZZTFBzOTZDXzYwVXFr?oc=5",
+          "source": "bizwnews.com",
+          "date": "10/05"
         }
       ],
       "archive30d": [
@@ -383,14 +377,14 @@
           "impact": "-",
           "level": "low",
           "date": "20260930",
-          "collected_at": "2026-10-02"
+          "collected_at": "2026-10-06"
         },
         {
           "summary": "[기재정정]타인에대한담보제공결정",
           "impact": "-",
           "level": "low",
           "date": "20260928",
-          "collected_at": "2026-10-02"
+          "collected_at": "2026-10-06"
         }
       ]
     },
@@ -398,8 +392,8 @@
       "id": "025620",
       "name": "차AI헬스케어",
       "ticker": "025620",
-      "g": "B",
-      "event": "공시·기사 확인 필요",
+      "g": "C",
+      "event": "주요 변동 없음",
       "tags": [
         "+0.19%",
         "당사 투자"
@@ -439,7 +433,7 @@
         ],
         [
           "거래량(20일比)",
-          "1.32만 · 1.43x",
+          "1.29만 · 1.41x",
           null
         ],
         [
@@ -464,8 +458,7 @@
         }
       ],
       "events": [
-        "차병원·차바이오그룹 2026년 신입∙주니어 공채",
-        "차병원·차바이오그룹, 의료·연구·기업 3개 부문 인재 모집"
+        "공시·기사 기준 특이사항 없음"
       ],
       "watch": [],
       "spark": [
@@ -725,37 +718,9 @@
       "avgCost": null,
       "currency": "KRW",
       "exchangeLine": "KRX · 10/2 종가",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FeFp2NXdJaE5Ibkt3ZHprUGt3aERGM0J0WEdPZ213TWt6ZjRUbkg5UE1oMGl5U003VUFtYjUxSTJUemtrLTdKaW1LMXlBeUVjSE9XZDJ1S2l3cFhHcnNTYUtKQWpfajJoT3ZfdHY1UFBSOVFs?oc=5",
-      "sources": [
-        {
-          "title": "차병원·차바이오그룹 2026년 신입∙주니어 공채",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FeFp2NXdJaE5Ibkt3ZHprUGt3aERGM0J0WEdPZ213TWt6ZjRUbkg5UE1oMGl5U003VUFtYjUxSTJUemtrLTdKaW1LMXlBeUVjSE9XZDJ1S2l3cFhHcnNTYUtKQWpfajJoT3ZfdHY1UFBSOVFs?oc=5",
-          "source": "데일리메디",
-          "date": "10/02"
-        },
-        {
-          "title": "차병원·차바이오그룹, 의료·연구·기업 3개 부문 인재 모집",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jUmNOdHlHUEdwUlp2Z1FPdjdEU3ZuNWtCTWdIUk51RHZhTUVDM3pBNGV2QTlZcXlJSUQzNl9MbGIzV0Q3aGY5UVRvV19nSFFzRmJuN2ZEbjJpWGVwUTdWYzNseFo1SEVYNUVKUUNhaEfSAXRBVV95cUxPTmFxajFlVUpzdHhCWDhVclNYdGh1YlZBN3ZhX0RYYmw4dXVQaFkySHVveWxxYWZQNUgwb3BubkdweklVR2JZck5NZGV0SnBIeUJmZmN2MW12b0pfVW1XYWQyVmRQOTY0SGV4dFByZWxsSmkxSw?oc=5",
-          "source": "우먼타임스",
-          "date": "10/02"
-        }
-      ],
-      "archive30d": [
-        {
-          "summary": "차병원·차바이오그룹 2026년 신입∙주니어 공채",
-          "impact": "-",
-          "level": "low",
-          "date": "10/02",
-          "collected_at": "2026-10-02"
-        },
-        {
-          "summary": "차병원·차바이오그룹, 의료·연구·기업 3개 부문 인재 모집",
-          "impact": "-",
-          "level": "low",
-          "date": "10/02",
-          "collected_at": "2026-10-02"
-        }
-      ]
+      "sourceUrl": null,
+      "sources": [],
+      "archive30d": []
     },
     {
       "id": "LUMN",
@@ -764,21 +729,21 @@
       "g": "B",
       "event": "공시·기사 확인 필요",
       "tags": [
-        "+3.59%",
+        "-0.58%",
         "벤치마크"
       ],
-      "priceText": "$46.76",
-      "openText": "$45.48",
-      "highText": "$46.90",
-      "lowText": "$45.05",
-      "prevCloseText": "$45.14",
-      "changeText": "+$1.62",
+      "priceText": "$46.49",
+      "openText": "$48.00",
+      "highText": "$48.47",
+      "lowText": "$45.94",
+      "prevCloseText": "$46.76",
+      "changeText": "-$0.27",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$46.76",
-          "₩62,926"
+          "$46.49",
+          "₩62,382"
         ],
         [
           "취득가",
@@ -792,27 +757,27 @@
         ],
         [
           "전일대비",
-          "+3.59%",
+          "-0.58%",
           null
         ],
         [
           "전주대비",
-          "+4.07%",
+          "+3.47%",
           null
         ],
         [
           "거래량(20일比)",
-          "99.67만 · 0.91x",
+          "78.66만 · 0.71x",
           null
         ],
         [
           "시가총액",
-          "$3.68B",
-          "4.95조"
+          "$3.60B",
+          "4.83조"
         ],
         [
           "52주 고점대비",
-          "-53.19%",
+          "-53.46%",
           null
         ]
       ],
@@ -827,15 +792,11 @@
         }
       ],
       "events": [
-        "Is It Too Late to Buy 루멘 Inc (루멘) After ",
-        "Is Renters Expansion Altering The Invest"
+        "루멘261009C00043000 Interactive Stock Char",
+        "루멘 Oct 2026 64.000 call (루멘261009C000640"
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/6",
-          "close": 78.7
-        },
         {
           "date": "7/7",
           "close": 77.59
@@ -1083,45 +1044,56 @@
         {
           "date": "10/1",
           "close": 46.76
+        },
+        {
+          "date": "10/2",
+          "close": 46.49
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 10/1 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ1oydjRFcVpEeUpQSEpCTHVnRF9LVUl0YkJWZWdpZzR2am9KSUFkQkRKUmhSNGRNa0hLYW5MWWF1ekxfXzhOVmdBUUJBbUlIZlFWYVBSVlpHQWpWOWtaTlFKbEdNRlN1ZXl2ZXRyX2xDZDY5RDc2dmE3YTBqY3hyV0plaC1aTG1yLUdFOXhtRFpSM0thWnNld2czNUlDR2VqWGh1TUgzbkJEU0JKd0xiY2lvdmtreE9iSTJR?oc=5",
+      "exchangeLine": "NYSE · 10/2 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNWtDZ2VwbDJBMzhmb05LUm16Rmg2RmpfN0ZkamhDdzFnUzFWamtzU01wdGF4MEVOVmFTUUM1V082U3otMVVuTVEtcDBnRGoyUkQwcjVOclp5M1FoYm5LYg?oc=5",
       "sources": [
         {
-          "title": "Is It Too Late to Buy 루멘 Inc (루멘) After 3.6% Rally? GF Value Says Undervalued",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ1oydjRFcVpEeUpQSEpCTHVnRF9LVUl0YkJWZWdpZzR2am9KSUFkQkRKUmhSNGRNa0hLYW5MWWF1ekxfXzhOVmdBUUJBbUlIZlFWYVBSVlpHQWpWOWtaTlFKbEdNRlN1ZXl2ZXRyX2xDZDY5RDc2dmE3YTBqY3hyV0plaC1aTG1yLUdFOXhtRFpSM0thWnNld2czNUlDR2VqWGh1TUgzbkJEU0JKd0xiY2lvdmtreE9iSTJR?oc=5",
-          "source": "GuruFocus",
-          "date": "10/02"
+          "title": "루멘261009C00043000 Interactive Stock Chart | 루멘 Oct 2026 43.000 call Stock",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNWtDZ2VwbDJBMzhmb05LUm16Rmg2RmpfN0ZkamhDdzFnUzFWamtzU01wdGF4MEVOVmFTUUM1V082U3otMVVuTVEtcDBnRGoyUkQwcjVOclp5M1FoYm5LYg?oc=5",
+          "source": "Yahoo Finance",
+          "date": "10/04"
         },
         {
-          "title": "Is Renters Expansion Altering The Investment Case For 루멘 (루멘)?",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVGhieDRpdVk2b3JScGR5Ql9IVmMtMWJtQ1ZDbTdnTVcxNjZuV1NrRUJzZkVPSlhWeHZQVkQ1OFF2dUFLTzBTVm9aSDBiN3d4djhnYTdfU25udGF5ZTAzRUsyUmstNS1oX19oU0FYMlVDRmd2MmtfeW92XzN6a255eFdMaWpDVDBHLXc0TWw0SDEwR3ZKOElxNHU3T1lmZWdOaGtVX2dXUmhKS1FRSlgwbEpUUjBLMmIxRTJhaEVxU2dvczNH0gHKAUFVX3lxTE5Yc3lTS3BIRXpJRjc4WDVLdmdFVkJQVlBQUVZ6Y1hsc08tNHNLc1laOUdSVVNlejBDOWZ3NlRqbTRxOElZMHQ1b1hLS2xmeE9ycFJvYmhVSG16aXBjdWhlclhKN3hoSWF1bnF6a0NkOG4zeVZ2WjhKMUJ6b2hwUUtETmFfS2QyaWpnRk04S1pOS2Z2d0NvZE9OOFdYc1VBc3FjaVlnVlJjcFp4VldMZ0ZWYjZVSjkyZFlEVi1GSVBRNmpsbVMxTGNlMEE?oc=5",
-          "source": "Simply Wall Street",
-          "date": "10/01"
+          "title": "루멘 Oct 2026 64.000 call (루멘261009C00064000) stock historical prices and data",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nd29CQ3ZRVkJmaWJ6eDZmemZzRkVxTFFKSXNBdWlSb2JpWEN4a2JoM0ZtY0pLS2oxUERJMUNMS3o2Uy1NWFkzc09XWjdwRlZjbFVoaUJTaUJDay1fWkRNbmlqN2xQU25ablU3ZGViSks?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "date": "10/04"
         },
         {
-          "title": "Forbes’ Best Pet Insurance Companies Of 2026 – Forbes Advisor",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0SUhETDJPSGlIM0RKWGszZXJ4NnRWVGxfZkUxeFlwa0Q2QWRtRzZCMDdfMUEyZ093ZHAtS1M1alpCQlgzSFZlUTRFWlMxVUgyTTJpc0tXTFBXWUdQX2ZQWF9kbm4tVHMtOW1vQW1B?oc=5",
-          "source": "Forbes",
-          "date": "10/01"
+          "title": "루멘 Jun 2027 80.000 call (루멘270617C00080000) Interactive Stock Chart",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53UVhUNkw2S1ZQSUMtUXhPNmllSXFPSVU1MnBuNU1KRzdIWVVfY0l5R0I5Njdtclc4RUliQjJIcGEwTU15OXdQWUU1Y0xQWjl1ZzQ4a2lTYnFXbF94T2NGZ1ZfbDhzaTE5QkZFVFp3?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "date": "10/04"
         },
         {
-          "title": "The best car insurance for Teslas of 2026",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zQnhlSVZmbU03ZGFhYUV6dURQcHhacWJkX2VVdmFBbFNCUzZ6NXppMFJ4cWswQkNucnoxY2ItTEI4c0hOODdOUWNMQUFyMUJ3YjFMblEzWDg2MXdobWNNdkxYNWVPZkUwSmfSAW9BVV95cUxPa3hFTVlnUGNwNmFPc19iY2FoelhQZkVMMTdKQ0dwRjNORmxmZktBQnNvQ3A2VHRzLVd4bzMyNWVaQU94Y1lCZ2Y4eGFXZ3lWN3hTWlBFcmpxUTlKMjAtQTN6TVJRdmJ0MGRVcFRRa28?oc=5",
-          "source": "CNBC",
-          "date": "10/01"
+          "title": "루멘 Oct 2026 57.000 put (루멘261002P00057000) Interactive Stock Chart",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pOUN2bzJ1MHNKdGl4UHNKT0phb05majNBVWVHYWRid3ZHZDJrd1dGdVhBUEJjR25YdHlZZHJ1S25HdGJZeHFPaDZndWVsVjlHVkR2MVJHNVpjWS1EQ0xRY0xGcTRhR2VjX1ZCMmpB?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "date": "10/04"
         }
       ],
       "archive30d": [
         {
-          "summary": "Is It Too Late to Buy 루멘 Inc (루멘) After 3.6% Rally? GF ",
+          "summary": "루멘261009C00043000 Interactive Stock Chart | 루멘 Oct 2026",
           "impact": "-",
           "level": "low",
-          "date": "10/02",
-          "collected_at": "2026-10-02"
+          "date": "10/04",
+          "collected_at": "2026-10-06"
+        },
+        {
+          "summary": "루멘 Oct 2026 64.000 call (루멘261009C00064000) stock histo",
+          "impact": "-",
+          "level": "low",
+          "date": "10/04",
+          "collected_at": "2026-10-06"
         }
       ]
     },
@@ -1136,9 +1108,9 @@
         "자회사"
       ],
       "priceText": "Rp645",
-      "openText": "Rp650",
-      "highText": "Rp650",
-      "lowText": "Rp625",
+      "openText": "Rp620",
+      "highText": "Rp645",
+      "lowText": "Rp620",
       "prevCloseText": "Rp645",
       "changeText": "+Rp0",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
@@ -1146,7 +1118,7 @@
         [
           "종가",
           "Rp645",
-          "₩48.5"
+          "₩48.3"
         ],
         [
           "취득가",
@@ -1170,13 +1142,13 @@
         ],
         [
           "거래량(20일比)",
-          "2.20천 · 0.22x",
+          "9.70천 · 1.01x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,455억"
+          "1,450억"
         ],
         [
           "52주 고점대비",
@@ -1199,10 +1171,6 @@
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/7",
-          "close": 675.0
-        },
         {
           "date": "7/8",
           "close": 680.0
@@ -1450,11 +1418,15 @@
         {
           "date": "10/2",
           "close": 645.0
+        },
+        {
+          "date": "10/5",
+          "close": 645.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 10/2 종가 (WIB)",
+      "exchangeLine": "IDX · 10/5 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
