@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06 15:19",
+  "updated": "2026-10-06 23:08",
   "items": [
     {
       "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
@@ -15,6 +15,15 @@
       "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
       "source": "TechCrunch",
       "date": "10/05",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Hadrian raises $40M for AI agents that find the weaknesses attackers can exploit",
+      "url": "https://siliconangle.com/2026/10/06/hadrian-raises-40m-for-ai-agents-that-find-the-weaknesses-attackers-can-exploit/",
+      "source": "SiliconANGLE",
+      "date": "10/06",
       "insight": "",
       "takeaway": "",
       "bullets": []
@@ -58,15 +67,6 @@
     {
       "title": "Namespace raises $42M to build out developer-focused compute cloud",
       "url": "https://siliconangle.com/2026/10/05/namespace-raises-42m-to-build-out-developer-focused-compute-cloud/",
-      "source": "SiliconANGLE",
-      "date": "10/05",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Clockwork.io bags $31M in funding to keep AI inference and training workloads running like … clockwork",
-      "url": "https://siliconangle.com/2026/10/05/clockwork-io-bags-31m-in-funding-to-keep-ai-inference-and-training-workloads-running-like-clockwork/",
       "source": "SiliconANGLE",
       "date": "10/05",
       "insight": "",

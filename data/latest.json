@@ -1,7 +1,7 @@
 {
   "asOf": "2026-10-06",
-  "updated": "2026-10-06 15:19",
-  "fx": "환율 2026-10-06 · 시장환율   1 USD = ₩1,343.48   |   1 USD = 17,902.00 IDR   |   1 IDR = ₩0.07505",
+  "updated": "2026-10-06 23:08",
+  "fx": "환율 2026-10-06 · 시장환율   1 USD = ₩1,338.53   |   1 USD = 17,905.00 IDR   |   1 IDR = ₩0.07476",
   "attentionItems": [
     {
       "company": "차바이오텍",
@@ -26,20 +26,20 @@
       "g": "B",
       "event": "공시·기사 확인 필요",
       "tags": [
-        "-2.42%",
+        "+2.36%",
         "당사 투자"
       ],
-      "priceText": "₩8,460",
-      "openText": "₩8,680",
-      "highText": "₩8,720",
-      "lowText": "₩8,410",
-      "prevCloseText": "₩8,670",
-      "changeText": "-₩210",
+      "priceText": "₩8,660",
+      "openText": "₩8,480",
+      "highText": "₩8,890",
+      "lowText": "₩8,320",
+      "prevCloseText": "₩8,460",
+      "changeText": "+₩200",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,460",
+          "₩8,660",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-33.93%",
+          "-32.37%",
           null
         ],
         [
           "전일대비",
-          "-2.42%",
+          "+2.36%",
           null
         ],
         [
           "전주대비",
-          "+6.28%",
+          "+2.36%",
           null
         ],
         [
           "거래량(20일比)",
-          "12.70만 · 0.66x",
+          "21.05만 · 1.13x",
           null
         ],
         [
           "시가총액",
-          "8,061억",
+          "8,051억",
           null
         ],
         [
           "52주 고점대비",
-          "-64.68%",
+          "-63.84%",
           null
         ]
       ],
@@ -94,10 +94,6 @@
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/2",
-          "close": 10650.0
-        },
         {
           "date": "7/3",
           "close": 10460.0
@@ -345,11 +341,15 @@
         {
           "date": "10/2",
           "close": 8460.0
+        },
+        {
+          "date": "10/6",
+          "close": 8660.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 10/2 종가",
+      "exchangeLine": "KRX · 10/6 종가",
       "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901259",
       "sources": [
         {
@@ -366,7 +366,7 @@
         },
         {
           "title": "차바이오텍 주가 상승 중",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIQlgwakVWYkRmQUxxM2NfNzRJWGRPVTlVY0FWQ1RpeE9kUk5JWE5SdHFQRDRQRkNNeVZNRUFCNjR4YzBnT09yQkdwakV5dWxvd2t0cnh1Vk5MZjJn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LRUxXTmw3d1NQYW95THV2QTJPZV9FZGhmMFdGWjJ5VlljUGppRFZZU1hSS0s0Y216d29uZU5sX3FnQy12azdzNGxoVV82TXlFQXNQZXV3eTdnUWQwTkI2M1JXYWQ5TUoxdXRzaFd4RHNKX2I2?oc=5",
           "source": "아시아뉴스통신",
           "date": "10/06"
         },
@@ -527,20 +527,20 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+0.19%",
+        "+4.58%",
         "당사 투자"
       ],
-      "priceText": "₩5,240",
-      "openText": "₩5,230",
-      "highText": "₩5,240",
-      "lowText": "₩5,080",
-      "prevCloseText": "₩5,230",
-      "changeText": "+₩10",
+      "priceText": "₩5,480",
+      "openText": "₩5,200",
+      "highText": "₩5,480",
+      "lowText": "₩5,100",
+      "prevCloseText": "₩5,240",
+      "changeText": "+₩240",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,240",
+          "₩5,480",
           null
         ],
         [
@@ -555,27 +555,27 @@
         ],
         [
           "전일대비",
-          "+0.19%",
+          "+4.58%",
           null
         ],
         [
           "전주대비",
-          "+11.02%",
+          "+4.58%",
           null
         ],
         [
           "거래량(20일比)",
-          "1.29만 · 1.41x",
+          "2.36만 · 2.56x",
           null
         ],
         [
           "시가총액",
-          "993억",
+          "997억",
           null
         ],
         [
           "52주 고점대비",
-          "-73.51%",
+          "-72.30%",
           null
         ]
       ],
@@ -594,10 +594,6 @@
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/2",
-          "close": 6880.0
-        },
         {
           "date": "7/3",
           "close": 7210.0
@@ -845,11 +841,15 @@
         {
           "date": "10/2",
           "close": 5240.0
+        },
+        {
+          "date": "10/6",
+          "close": 5480.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 10/2 종가",
+      "exchangeLine": "KRX · 10/6 종가",
       "sourceUrl": null,
       "sources": [],
       "archive30d": []
@@ -875,7 +875,7 @@
         [
           "종가",
           "$46.67",
-          "₩62,700"
+          "₩62,469"
         ],
         [
           "취득가",
@@ -904,8 +904,8 @@
         ],
         [
           "시가총액",
-          "$3.61B",
-          "4.85조"
+          "$3.59B",
+          "4.80조"
         ],
         [
           "52주 고점대비",
@@ -924,8 +924,8 @@
         }
       ],
       "events": [
-        "루멘 Oct 2026 45.000 call (루멘261002C000450",
-        "루멘 Oct 2026 41.000 put (루멘261009P0004100"
+        "루멘 (루멘) Launches Renters Insurance in Ha",
+        "Hawaii renters can now get affordable 루멘"
       ],
       "watch": [],
       "spark": [
@@ -1185,31 +1185,31 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 10/5 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIX21wNHZXNFFZdC0yRnVLSWNpZ1V0SnlrNzRicUZTSll1cVRKMGY1R1ZLeTl6QXAwVFFkUFZQX2dwVlltX25jdGtBNFRiZkdEZ2h1VG1CaldZRWNPdEJyeWdPczFMMVo1RE1nNGZXWkE?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEdWNnZfY3IwUFp5WUpXcl9hbFlSNTVhYzY3MjU0NThkUmhIa3lMSHJDbkswVERsNVNGVHlsUUxuVjY5VWFKWWJZdTlDd2ttRU9xb2IxeEFHQXhRWlR3anQwQUpZLTcyZ3NsS3pESFBXdlE2dkxCeHRzVHJsMU53Uk1hQnpBTnU5NTZESUliRFppLWpUU0xid21ScVlFaEtNeWxtdEFVVjJuUDljRU94SGNUeC0?oc=5",
       "sources": [
         {
-          "title": "루멘 Oct 2026 45.000 call (루멘261002C00045000) stock historical prices and data",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIX21wNHZXNFFZdC0yRnVLSWNpZ1V0SnlrNzRicUZTSll1cVRKMGY1R1ZLeTl6QXAwVFFkUFZQX2dwVlltX25jdGtBNFRiZkdEZ2h1VG1CaldZRWNPdEJyeWdPczFMMVo1RE1nNGZXWkE?oc=5",
-          "source": "Yahoo Finance UK",
-          "date": "10/05"
+          "title": "루멘 (루멘) Launches Renters Insurance in Hawaii with Compet",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEdWNnZfY3IwUFp5WUpXcl9hbFlSNTVhYzY3MjU0NThkUmhIa3lMSHJDbkswVERsNVNGVHlsUUxuVjY5VWFKWWJZdTlDd2ttRU9xb2IxeEFHQXhRWlR3anQwQUpZLTcyZ3NsS3pESFBXdlE2dkxCeHRzVHJsMU53Uk1hQnpBTnU5NTZESUliRFppLWpUU0xid21ScVlFaEtNeWxtdEFVVjJuUDljRU94SGNUeC0?oc=5",
+          "source": "GuruFocus",
+          "date": "10/06"
         },
         {
-          "title": "루멘 Oct 2026 41.000 put (루멘261009P00041000) Stock Price, News, Quote & History",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4RlJNZjdMMkg0Y1FkaWtac3VFRFBDR2VZQmpBcXNFV3U1ZU1TR1VBcUlQV0RLOGdmb2NiWmZMUGN1NVl5bE9QcHhOb2FLejNMMi1xVVJsQWFRNEJHenVndFI4eHQwUQ?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "date": "10/05"
+          "title": "Hawaii renters can now get affordable 루멘 insurance starting at $5/month with fast claims.",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUFNWZElUQzlzcE02Y0FYQUVORlBmOXZ4UjN5RmNaY1lVTFVabHpXZW5iMjg2NGVjMHpiQkVWWHY1bzVNX2RsTkpIckVGT0x2aGxCVVpNeGowTWlKbzdlaVNvUHBuMXJzelM1RjhYSkJVdWZaTGNqYWYwNUFfVlZNYXJ3?oc=5",
+          "source": "Pluang",
+          "date": "10/06"
         },
         {
-          "title": "루멘261009P00057000 interactive stock chart | 루멘 Oct 2026 57.000 put stock",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tVjlIT2Z4djJvamx2Mm8tRUx1NERfUU5xcFRSZExFZzUwSlBHcjJYTU5OXzJ4Vm5vOThrWkUzOFJ3a0NMSTBVMlhKc0FZcHhhMEJGdFdxZGo5OXMwX2JRaDZXdXB4UQ?oc=5",
-          "source": "Yahoo Finance Australia",
-          "date": "10/05"
-        },
-        {
-          "title": "루멘 Stock 12‑Month Price Target Cut to $58.33, Implies 25% Upside",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFM4ZU5ZS2tJNURiRVpQdHZxS3V6d1FSYkJ5ZUgtWndDLUsyZVgxYVNUZC00VnU4U1pkV2lLMVVNcWlOTjN1enZwUU52ZUVILVVsU1Zlb2UyTEdVMUFXRnNjWGhGekJmcWQxbVRRS0xmM2dQZmV6cVNQanM0SVJSWjVYOWFfRmQ1R2l1MUNDVlZjM2poZUx2eWFhOVItODNGeVp3WE9CSTlmOFlDeGs2SVlfOXAzMDVoVllyejZPVlptM213SmhmLXV0emd3dw?oc=5",
+          "title": "루멘 Expands Renters Insurance To Hawaii",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSTRyX0JlczJNSUFrWHVaR3BaNVdIV0RSS0tHX2RtWTlkenA2UHZpd3pUZmNQQ0VWcldBSTJYX1poeGpwVkR3OS1RUnFwZjh1WldFSjRIV0ZYaVJ2OGpVY3dDck9ZYl8xM19zLWlWYm40NVhkR0tUdW9Wd2VVSlF6ZzZzNWs1ZE1Ya1FMMFhuTUdTRlZhYXJzRnUyUDV6c2M5bUdPU3hOYVBxNW5RUVNrMDdmU3U?oc=5",
           "source": "TradingView",
-          "date": "10/05"
+          "date": "10/06"
+        },
+        {
+          "title": "루멘 Expands Renters Insurance to Hawaii",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0NkbXJiazJEcUVaMTE5Yk02WlQySFB0bktybHUyd0dQZlUyZ2NNNVo1WEV3a3g4cmliSk1sV2owR2J0VHFyYThhODlvZUtnbDl1X1pBY2EwY1RKTkdXaXFoU0RCd2cxN1JRaTVmT3ROMEZuUEE4cGpXUC00ZXJGZmRJT1A3YnUyVVUyWC1iTzNjdUJEa3NEdnI4dTZ5QXNNUzQwMzhfSHUydw?oc=5",
+          "source": "Yahoo Finance",
+          "date": "10/06"
         }
       ],
       "archive30d": [
@@ -1282,6 +1282,20 @@
           "level": "low",
           "date": "10/05",
           "collected_at": "2026-10-06"
+        },
+        {
+          "summary": "루멘 (루멘) Launches Renters Insurance in Hawaii with Compe",
+          "impact": "-",
+          "level": "low",
+          "date": "10/06",
+          "collected_at": "2026-10-06"
+        },
+        {
+          "summary": "Hawaii renters can now get affordable 루멘 insurance star",
+          "impact": "-",
+          "level": "low",
+          "date": "10/06",
+          "collected_at": "2026-10-06"
         }
       ]
     },
@@ -1296,9 +1310,9 @@
         "자회사"
       ],
       "priceText": "Rp645",
-      "openText": "Rp620",
+      "openText": "Rp645",
       "highText": "Rp645",
-      "lowText": "Rp620",
+      "lowText": "Rp640",
       "prevCloseText": "Rp645",
       "changeText": "+Rp0",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
@@ -1306,7 +1320,7 @@
         [
           "종가",
           "Rp645",
-          "₩48.4"
+          "₩48.2"
         ],
         [
           "취득가",
@@ -1330,13 +1344,13 @@
         ],
         [
           "거래량(20일比)",
-          "9.70천 · 1.01x",
+          "2.76만 · 3.78x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,452억"
+          "1,447억"
         ],
         [
           "52주 고점대비",
@@ -1359,10 +1373,6 @@
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/8",
-          "close": 680.0
-        },
         {
           "date": "7/9",
           "close": 680.0
@@ -1610,11 +1620,15 @@
         {
           "date": "10/5",
           "close": 645.0
+        },
+        {
+          "date": "10/6",
+          "close": 645.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 10/5 종가 (WIB)",
+      "exchangeLine": "IDX · 10/6 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": [
@@ -1941,6 +1955,6 @@
         "comment": "1Q25 당사 당기순이익 1,427억 (4개사 중 4위)"
       }
     },
-    "updated": "2026-10-06 15:22"
+    "updated": "2026-10-06 23:12"
   }
 }
