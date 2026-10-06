@@ -1,0 +1,110 @@
+{
+  "updated": "2026-10-06 15:22",
+  "processed_urls": [],
+  "data": {
+    "2026Q1": {
+      "한화손보": {
+        "net_income": {
+          "value": 989.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
+          "date": "2026-05-15"
+        }
+      },
+      "삼성화재": {
+        "net_income": {
+          "value": 6347.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
+          "date": "2026-05-15"
+        }
+      },
+      "DB손보": {
+        "net_income": {
+          "value": 2685.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
+          "date": "2026-05-15"
+        }
+      },
+      "현대해상": {
+        "net_income": {
+          "value": 2233.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
+          "date": "2026-05-15"
+        }
+      },
+      "KB손보": {
+        "net_income": {
+          "value": 2007.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
+          "date": "2026-05-15"
+        }
+      },
+      "메리츠화재": {
+        "net_income": {
+          "value": 4661.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
+          "date": "2026-05-15"
+        }
+      }
+    },
+    "2025Q1": {
+      "한화손보": {
+        "net_income": {
+          "value": 1427.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
+          "date": "2026-05-15"
+        }
+      },
+      "삼성화재": {
+        "net_income": {
+          "value": 6081.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
+          "date": "2026-05-15"
+        }
+      },
+      "KB손보": {
+        "net_income": {
+          "value": 3135.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
+          "date": "2026-05-15"
+        }
+      },
+      "메리츠화재": {
+        "net_income": {
+          "value": 4625.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
+          "date": "2026-05-15"
+        }
+      }
+    }
+  }
+}

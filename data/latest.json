@@ -1,7 +1,7 @@
 {
   "asOf": "2026-10-06",
-  "updated": "2026-10-06 00:55",
-  "fx": "환율 2026-10-05 · 시장환율   1 USD = ₩1,341.83   |   1 USD = 17,912.00 IDR   |   1 IDR = ₩0.07491",
+  "updated": "2026-10-06 15:19",
+  "fx": "환율 2026-10-06 · 시장환율   1 USD = ₩1,343.48   |   1 USD = 17,902.00 IDR   |   1 IDR = ₩0.07505",
   "attentionItems": [
     {
       "company": "차바이오텍",
@@ -11,11 +11,11 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901259"
     },
     {
-      "company": "루멘",
-      "text": "루멘261009C00043000 Interactive Stock Chart | 루멘 Oct 2026",
+      "company": "차바이오텍",
+      "text": "[Weekly 제약&바이오] 차병원·차바이오그룹·동아제약·심평원",
       "impact": "-",
       "level": "low",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNWtDZ2VwbDJBMzhmb05LUm16Rmg2RmpfN0ZkamhDdzFnUzFWamtzU01wdGF4MEVOVmFTUUM1V082U3otMVVuTVEtcDBnRGoyUkQwcjVOclp5M1FoYm5LYg?oc=5"
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901259"
     }
   ],
   "companies": [
@@ -69,7 +69,7 @@
         ],
         [
           "시가총액",
-          "7,866억",
+          "8,061억",
           null
         ],
         [
@@ -90,7 +90,7 @@
       ],
       "events": [
         "[기재정정]타인에대한담보제공결정",
-        "[기재정정]타인에대한담보제공결정"
+        "[Weekly 제약&바이오] 차병원·차바이오그룹·동아제약·심평원"
       ],
       "watch": [],
       "spark": [
@@ -359,19 +359,151 @@
           "date": "20260930"
         },
         {
-          "title": "[기재정정]타인에대한담보제공결정",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260928900839",
-          "source": "DART",
-          "date": "20260928"
+          "title": "[Weekly 제약&바이오] 차병원·차바이오그룹·동아제약·심평원",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hSUVnWThuSVRud2I3ZjNWdjBSOGljbFhQOHFkaEVEMW1WOUxEZ0hjN2NCVHdwalVsS1FqaEl1M0FaMWxoOTNsTlN5cVVsR25rMkJnUV81aS0xbzlZUFRHWWNuWGN0bHNJSFRxV05iVDljb0E?oc=5",
+          "source": "오늘경제",
+          "date": "10/06"
         },
         {
-          "title": "차병원·차바이오그룹, 오는 15일까지 신입∙주니어 공개 모집",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMcm1xV25QU0xwbE51N0NEVmJxNXF6dnNIV2EzMDdWcXJJRW9tRlc5NmQyemQ3SE94WWE3cVJSOXp1NFh6ZkdhLVBCdVFlX1FWalo0akJ4bVg3ckd4VVZZTFBzOTZDXzYwVXFr?oc=5",
-          "source": "bizwnews.com",
+          "title": "차바이오텍 주가 상승 중",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIQlgwakVWYkRmQUxxM2NfNzRJWGRPVTlVY0FWQ1RpeE9kUk5JWE5SdHFQRDRQRkNNeVZNRUFCNjR4YzBnT09yQkdwakV5dWxvd2t0cnh1Vk5MZjJn?oc=5",
+          "source": "아시아뉴스통신",
+          "date": "10/06"
+        },
+        {
+          "title": "차병원·차바이오그룹 2026년 신입∙주니어 공채",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Lbk1sTXUtcHBhWmN4UzJHaEJEd0RMQUtMRXZzZ2hhc2tmSUU3eWhUb0FMVUhwT0RtTVBHVlowbWlaUTAzTThoaEduRDMxNldlaW5nUVQyakRmTGhZcmI0VmJJSWFIREIxQUd5bnRB?oc=5",
+          "source": "메드월드뉴스",
           "date": "10/05"
         }
       ],
       "archive30d": [
+        {
+          "summary": "세포치료제 규제 문턱 완화로 사업화 속도가 빨라질 것으로 분석됨",
+          "impact": "CGT 사업화 가시성 제고 시 당사 보유 지분가치 재평가 여지 발생",
+          "level": "mid",
+          "date": "09/06",
+          "collected_at": "2026-09-07"
+        },
+        {
+          "summary": "주식 대량보유 상황 보고서(일반) 신규 공시 제출",
+          "impact": "지분구조 변동 가능성으로 당사 보유 지분의 희석·경영권 영향 여부 확인 필요",
+          "level": "mid",
+          "date": "09/03",
+          "collected_at": "2026-09-07"
+        },
+        {
+          "summary": "주식 등 대량보유상황 보고서(일반) 공시 접수",
+          "impact": "지분구조 변동 가능성으로 당사 보유 지분 희석 또는 경영권 구도 변화 여부 확인 필요",
+          "level": "mid",
+          "date": "09/03",
+          "collected_at": "2026-09-07"
+        },
+        {
+          "summary": "세포치료제 규제 문턱 완화로 사업화 속도가 빨라질 것이라는 분석 보도",
+          "impact": "CGT 사업 실현 가능성 제고로 당사 보유 지분가치에 중기적 긍정 요인",
+          "level": "mid",
+          "date": "09/06",
+          "collected_at": "2026-09-07"
+        },
+        {
+          "summary": "주식 등 대량보유상황 보고서(일반) 공시 발생",
+          "impact": "지분구조 변동 가능성 확인 필요. 당사 보유 지분 희석·경영권 영향 여부 점검 요함.",
+          "level": "mid",
+          "date": "09/03",
+          "collected_at": "2026-09-08"
+        },
+        {
+          "summary": "주식등의 대량보유상황보고서(일반) DART 공시 접수",
+          "impact": "주요 주주 지분구조 변동 가능성으로 당사 보유 지분 희석·경영권 영향 여부 점검 필요",
+          "level": "mid",
+          "date": "09/03",
+          "collected_at": "2026-09-09"
+        },
+        {
+          "summary": "마티카바이오랩스, 국내 최초 첨단바이오 3대 허가 동시 취득",
+          "impact": "CGT(세포·유전자치료제) CDMO 사업 신뢰도 제고로 수주 경쟁력 강화 가능성, 지분가치 긍정적",
+          "level": "mid",
+          "date": "09/09",
+          "collected_at": "2026-09-09"
+        },
+        {
+          "summary": "마티카바이오랩스, 국내 최초로 첨단바이오 세포치료제·유전자치료제·이종이식 3대 허가 취득",
+          "impact": "CGT CDMO 사업 신뢰도 제고로 당사 보유 지분가치 상승 여지 확대",
+          "level": "mid",
+          "date": "09/09",
+          "collected_at": "2026-09-10"
+        },
+        {
+          "summary": "마티카바이오, 美 BARDA(생물의학첨단연구개발청) 컨소시엄 가입 및 정부사업 참여 기대",
+          "impact": "미국 정부 수주 파이프라인 편입 가능성으로 CDMO 해외 매출 기반 확장 기대",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-10"
+        },
+        {
+          "summary": "타인에 대한 담보제공 결정 공시 기재 정정",
+          "impact": "담보 조건 변경 여부에 따라 자금조달 구조 변동 가능, 세부 내역 확인 필요",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-10"
+        },
+        {
+          "summary": "주식 등 대량보유상황 보고서(일반) 제출",
+          "impact": "지분구조 변동 발생 확인 필요, 주요 주주 변동 시 경영권·지분가치에 영향",
+          "level": "mid",
+          "date": "09/03",
+          "collected_at": "2026-09-10"
+        },
+        {
+          "summary": "자회사 마티카바이오, 미국 BARDA 컨소시엄 가입해 정부 사업 참여 기대",
+          "impact": "CGT·CDMO 미국 정부 프로젝트 수주 경로 확보 시 자회사 사업가치 상승으로 당사 보유 지분가치에 긍정적",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "타인에 대한 담보제공 결정 관련 공시 기재 정정",
+          "impact": "담보제공 조건·금액 변동 가능성으로 자금조달 구조 변화 여부 추가 확인 필요",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "자회사 마티카바이오, 美 BARDA(생물의학첨단연구개발국) 컨소시엄에 가입해 미국 정부 사업 참여 기반 마련",
+          "impact": "해외 CDMO 레퍼런스 확대로 자회사 사업가치 개선 여지 있으나 실제 수주로 이어질지는 미확정",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "타인에 대한 담보제공 결정 공시 기재 정정 접수",
+          "impact": "담보 조건 변경 여부에 따라 재무구조 및 추가 자금조달 구조에 영향 가능, 세부 내용 확인 필요",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "차광렬, 지분 25.12% 유지하며 담보계약 상대방 변경 공시",
+          "impact": "최대주주 지분율 변동 없어 지분구조 안정. 단, 담보 조건 변경은 재무 상태 모니터링 필요.",
+          "level": "mid",
+          "date": "09/14",
+          "collected_at": "2026-09-14"
+        },
+        {
+          "summary": "차광렬 대주주, 지분 25.12% 유지하되 담보계약 상대방 변경 공시",
+          "impact": "지분율 자체는 유지되나 담보구조 변경으로 반대매매 트리거 주체가 바뀜. 당사 지분가치의 간접 리스크 요인",
+          "level": "mid",
+          "date": "09/14",
+          "collected_at": "2026-09-15"
+        },
+        {
+          "summary": "대주주 담보주식 보유지분의 10% 초과, 유동성 부담 1,300억 원 수준으로 보도",
+          "impact": "주가 하락 시 강제 매각→지분구조 변동 가능성 존재. 당사 보유 지분가치에 직접 영향 가능",
+          "level": "mid",
+          "date": "09/15",
+          "collected_at": "2026-09-15"
+        },
         {
           "summary": "[기재정정]타인에대한담보제공결정",
           "impact": "-",
@@ -380,10 +512,10 @@
           "collected_at": "2026-10-06"
         },
         {
-          "summary": "[기재정정]타인에대한담보제공결정",
+          "summary": "[Weekly 제약&바이오] 차병원·차바이오그룹·동아제약·심평원",
           "impact": "-",
           "level": "low",
-          "date": "20260928",
+          "date": "10/06",
           "collected_at": "2026-10-06"
         }
       ]
@@ -438,7 +570,7 @@
         ],
         [
           "시가총액",
-          "953억",
+          "993억",
           null
         ],
         [
@@ -729,21 +861,21 @@
       "g": "B",
       "event": "공시·기사 확인 필요",
       "tags": [
-        "-0.58%",
+        "+0.39%",
         "벤치마크"
       ],
-      "priceText": "$46.49",
-      "openText": "$48.00",
-      "highText": "$48.47",
-      "lowText": "$45.94",
-      "prevCloseText": "$46.76",
-      "changeText": "-$0.27",
+      "priceText": "$46.67",
+      "openText": "$46.05",
+      "highText": "$46.88",
+      "lowText": "$45.74",
+      "prevCloseText": "$46.49",
+      "changeText": "+$0.18",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$46.49",
-          "₩62,382"
+          "$46.67",
+          "₩62,700"
         ],
         [
           "취득가",
@@ -757,27 +889,27 @@
         ],
         [
           "전일대비",
-          "-0.58%",
+          "+0.39%",
           null
         ],
         [
           "전주대비",
-          "+3.47%",
+          "+0.39%",
           null
         ],
         [
           "거래량(20일比)",
-          "78.66만 · 0.71x",
+          "87.96만 · 0.80x",
           null
         ],
         [
           "시가총액",
-          "$3.60B",
-          "4.83조"
+          "$3.61B",
+          "4.85조"
         ],
         [
           "52주 고점대비",
-          "-53.46%",
+          "-53.28%",
           null
         ]
       ],
@@ -792,15 +924,11 @@
         }
       ],
       "events": [
-        "루멘261009C00043000 Interactive Stock Char",
-        "루멘 Oct 2026 64.000 call (루멘261009C000640"
+        "루멘 Oct 2026 45.000 call (루멘261002C000450",
+        "루멘 Oct 2026 41.000 put (루멘261009P0004100"
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/7",
-          "close": 77.59
-        },
         {
           "date": "7/8",
           "close": 71.03
@@ -1048,51 +1176,111 @@
         {
           "date": "10/2",
           "close": 46.49
+        },
+        {
+          "date": "10/5",
+          "close": 46.67
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 10/2 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNWtDZ2VwbDJBMzhmb05LUm16Rmg2RmpfN0ZkamhDdzFnUzFWamtzU01wdGF4MEVOVmFTUUM1V082U3otMVVuTVEtcDBnRGoyUkQwcjVOclp5M1FoYm5LYg?oc=5",
+      "exchangeLine": "NYSE · 10/5 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIX21wNHZXNFFZdC0yRnVLSWNpZ1V0SnlrNzRicUZTSll1cVRKMGY1R1ZLeTl6QXAwVFFkUFZQX2dwVlltX25jdGtBNFRiZkdEZ2h1VG1CaldZRWNPdEJyeWdPczFMMVo1RE1nNGZXWkE?oc=5",
       "sources": [
         {
-          "title": "루멘261009C00043000 Interactive Stock Chart | 루멘 Oct 2026 43.000 call Stock",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpNWtDZ2VwbDJBMzhmb05LUm16Rmg2RmpfN0ZkamhDdzFnUzFWamtzU01wdGF4MEVOVmFTUUM1V082U3otMVVuTVEtcDBnRGoyUkQwcjVOclp5M1FoYm5LYg?oc=5",
-          "source": "Yahoo Finance",
-          "date": "10/04"
+          "title": "루멘 Oct 2026 45.000 call (루멘261002C00045000) stock historical prices and data",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIX21wNHZXNFFZdC0yRnVLSWNpZ1V0SnlrNzRicUZTSll1cVRKMGY1R1ZLeTl6QXAwVFFkUFZQX2dwVlltX25jdGtBNFRiZkdEZ2h1VG1CaldZRWNPdEJyeWdPczFMMVo1RE1nNGZXWkE?oc=5",
+          "source": "Yahoo Finance UK",
+          "date": "10/05"
         },
         {
-          "title": "루멘 Oct 2026 64.000 call (루멘261009C00064000) stock historical prices and data",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nd29CQ3ZRVkJmaWJ6eDZmemZzRkVxTFFKSXNBdWlSb2JpWEN4a2JoM0ZtY0pLS2oxUERJMUNMS3o2Uy1NWFkzc09XWjdwRlZjbFVoaUJTaUJDay1fWkRNbmlqN2xQU25ablU3ZGViSks?oc=5",
-          "source": "Yahoo Finance Singapore",
-          "date": "10/04"
-        },
-        {
-          "title": "루멘 Jun 2027 80.000 call (루멘270617C00080000) Interactive Stock Chart",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53UVhUNkw2S1ZQSUMtUXhPNmllSXFPSVU1MnBuNU1KRzdIWVVfY0l5R0I5Njdtclc4RUliQjJIcGEwTU15OXdQWUU1Y0xQWjl1ZzQ4a2lTYnFXbF94T2NGZ1ZfbDhzaTE5QkZFVFp3?oc=5",
+          "title": "루멘 Oct 2026 41.000 put (루멘261009P00041000) Stock Price, News, Quote & History",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4RlJNZjdMMkg0Y1FkaWtac3VFRFBDR2VZQmpBcXNFV3U1ZU1TR1VBcUlQV0RLOGdmb2NiWmZMUGN1NVl5bE9QcHhOb2FLejNMMi1xVVJsQWFRNEJHenVndFI4eHQwUQ?oc=5",
           "source": "Yahoo! Finance Canada",
-          "date": "10/04"
+          "date": "10/05"
         },
         {
-          "title": "루멘 Oct 2026 57.000 put (루멘261002P00057000) Interactive Stock Chart",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pOUN2bzJ1MHNKdGl4UHNKT0phb05majNBVWVHYWRid3ZHZDJrd1dGdVhBUEJjR25YdHlZZHJ1S25HdGJZeHFPaDZndWVsVjlHVkR2MVJHNVpjWS1EQ0xRY0xGcTRhR2VjX1ZCMmpB?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "date": "10/04"
+          "title": "루멘261009P00057000 interactive stock chart | 루멘 Oct 2026 57.000 put stock",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tVjlIT2Z4djJvamx2Mm8tRUx1NERfUU5xcFRSZExFZzUwSlBHcjJYTU5OXzJ4Vm5vOThrWkUzOFJ3a0NMSTBVMlhKc0FZcHhhMEJGdFdxZGo5OXMwX2JRaDZXdXB4UQ?oc=5",
+          "source": "Yahoo Finance Australia",
+          "date": "10/05"
+        },
+        {
+          "title": "루멘 Stock 12‑Month Price Target Cut to $58.33, Implies 25% Upside",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFM4ZU5ZS2tJNURiRVpQdHZxS3V6d1FSYkJ5ZUgtWndDLUsyZVgxYVNUZC00VnU4U1pkV2lLMVVNcWlOTjN1enZwUU52ZUVILVVsU1Zlb2UyTEdVMUFXRnNjWGhGekJmcWQxbVRRS0xmM2dQZmV6cVNQanM0SVJSWjVYOWFfRmQ1R2l1MUNDVlZjM2poZUx2eWFhOVItODNGeVp3WE9CSTlmOFlDeGs2SVlfOXAzMDVoVllyejZPVlptM213SmhmLXV0emd3dw?oc=5",
+          "source": "TradingView",
+          "date": "10/05"
         }
       ],
       "archive30d": [
         {
-          "summary": "루멘261009C00043000 Interactive Stock Chart | 루멘 Oct 2026",
+          "summary": "루멘이 메인주로 렌터스보험 서비스 지역을 확장함",
+          "impact": "IFP 성장 경로 확인 가능하나 신규 주 진출 비용이 EBITDA 흑자전환 시점에 미치는 영향 점검 필요",
+          "level": "low",
+          "date": "09/06",
+          "collected_at": "2026-09-07"
+        },
+        {
+          "summary": "KBW 보험 컨퍼런스에서 30%+ 성장 목표, AI 역량 확대, 수익성 근접 경로 제시",
+          "impact": "IFP 성장률·Loss Ratio 실현 여부에 따라 신규 투자 검토 판단 근거로 활용 가능",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "CFO Timothy Bixby, 이사회(Board) 역할로 전환 예정",
+          "impact": "CFO 교체는 재무전략·자본배분 방향 변화 가능성을 수반해 투자 검토 시 경영 안정성 확인 필요",
+          "level": "mid",
+          "date": "09/11",
+          "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "KBW 보험 컨퍼런스에서 30%+ 성장 목표, AI 역량 확대, 흑자전환 경로를 제시",
+          "impact": "벤치마크 종목의 수익성 전환 가시성이 일부 제시되어 투자 검토 시 IFP·EBITDA 목표치 비교 기준으로 활용 가능",
+          "level": "mid",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "CFO Timothy Bixby가 이사회(Boa...)로 전환 예정",
+          "impact": "재무전략 책임자 교체로 흑자전환 로드맵 연속성 점검 필요, 신임 CFO 선임 후 전략 변화 여부 확인 요망",
+          "level": "mid",
+          "date": "09/11",
+          "collected_at": "2026-09-11"
+        },
+        {
+          "summary": "Loss Ratio 60% 개선, Gross Profit 전년 대비 76% 증가 보고",
+          "impact": "벤치마크 핵심 지표 개선 확인. 당사 디지털 손보 모델 수익성 비교 기준으로 활용 가능.",
+          "level": "mid",
+          "date": "09/14",
+          "collected_at": "2026-09-14"
+        },
+        {
+          "summary": "Loss Ratio 60%로 개선, 분기 Gross Profit 전년 대비 76% 증가 보도",
+          "impact": "핵심 손익 지표 개선으로 벤치마크 모델 투자 매력도 상승. 당사 디지털 손보 검토 기준선 업데이트 필요",
+          "level": "mid",
+          "date": "09/14",
+          "collected_at": "2026-09-15"
+        },
+        {
+          "summary": "CFO, 자율주행차 보험 진출 및 교차판매 성장 확대 계획 언급",
+          "impact": "IFP 확장 경로 다변화 가능성. 당사 디지털 손보 사업모델 검토 시 신규 세그먼트 반영 여부 검토 필요",
+          "level": "mid",
+          "date": "09/14",
+          "collected_at": "2026-09-15"
+        },
+        {
+          "summary": "루멘 Oct 2026 45.000 call (루멘261002C00045000) stock histo",
           "impact": "-",
           "level": "low",
-          "date": "10/04",
+          "date": "10/05",
           "collected_at": "2026-10-06"
         },
         {
-          "summary": "루멘 Oct 2026 64.000 call (루멘261009C00064000) stock histo",
+          "summary": "루멘 Oct 2026 41.000 put (루멘261009P00041000) Stock Price,",
           "impact": "-",
           "level": "low",
-          "date": "10/04",
+          "date": "10/05",
           "collected_at": "2026-10-06"
         }
       ]
@@ -1118,7 +1306,7 @@
         [
           "종가",
           "Rp645",
-          "₩48.3"
+          "₩48.4"
         ],
         [
           "취득가",
@@ -1148,7 +1336,7 @@
         [
           "시가총액",
           "Rp1.9조",
-          "1,450억"
+          "1,452억"
         ],
         [
           "52주 고점대비",
@@ -1429,199 +1617,330 @@
       "exchangeLine": "IDX · 10/5 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
-      "archive30d": []
+      "archive30d": [
+        {
+          "summary": "인도네시아, 증권거래소 비상호화(demutualization) 관련 규정 최종 확정",
+          "impact": "인도네시아 자본시장 규제 환경 변화로 당사 자회사 영업환경 간접 영향 가능성, 참고 수준 모니터링 필요",
+          "level": "low",
+          "date": "09/10",
+          "collected_at": "2026-09-11"
+        }
+      ]
     }
   ],
   "insurerKpi": {
-    "columns": [
-      "손해율",
-      "합산비율",
-      "원수보험료",
-      "당기순이익",
-      "CSM",
-      "RBC비율"
-    ],
-    "rows": [
+    "quarters": [
       {
-        "company": "한화손보",
-        "cells": [
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          }
-        ],
-        "isOwn": true
+        "key": "2026Q1",
+        "label": "1Q26"
       },
       {
-        "company": "삼성화재",
-        "cells": [
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          }
-        ],
-        "isOwn": false
-      },
-      {
-        "company": "DB손해보험",
-        "cells": [
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          }
-        ],
-        "isOwn": false
-      },
-      {
-        "company": "현대해상",
-        "cells": [
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          }
-        ],
-        "isOwn": false
-      },
-      {
-        "company": "KB손해보험",
-        "cells": [
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          }
-        ],
-        "isOwn": false
-      },
-      {
-        "company": "메리츠화재",
-        "cells": [
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          },
-          {
-            "value": null,
-            "date": null
-          }
-        ],
-        "isOwn": false
+        "key": "2025Q1",
+        "label": "1Q25"
       }
-    ]
+    ],
+    "columns": [
+      {
+        "key": "net_income",
+        "label": "당기순이익",
+        "unit": "억원",
+        "lowerBetter": false
+      },
+      {
+        "key": "gwp",
+        "label": "원수보험료",
+        "unit": "억원",
+        "lowerBetter": false
+      },
+      {
+        "key": "csm",
+        "label": "CSM",
+        "unit": "억원",
+        "lowerBetter": false
+      },
+      {
+        "key": "kics",
+        "label": "K-ICS",
+        "unit": "%",
+        "lowerBetter": false
+      },
+      {
+        "key": "combined_ratio",
+        "label": "합산비율",
+        "unit": "%",
+        "lowerBetter": true
+      }
+    ],
+    "byQuarter": {
+      "2026Q1": {
+        "rows": [
+          {
+            "company": "한화손보",
+            "isOwn": true,
+            "cells": [
+              {
+                "value": 989.0,
+                "display": "989억",
+                "cum": false,
+                "yoy": {
+                  "text": "-30.7%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 6,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-15",
+                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
+              },
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "삼성화재",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 6347.0,
+                "display": "6,347억",
+                "cum": false,
+                "yoy": {
+                  "text": "+4.4%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 1,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-15",
+                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
+              },
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "DB손보",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 2685.0,
+                "display": "2,685억",
+                "cum": false,
+                "yoy": null,
+                "rank": 3,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-15",
+                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
+              },
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "현대해상",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 2233.0,
+                "display": "2,233억",
+                "cum": false,
+                "yoy": null,
+                "rank": 4,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-15",
+                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
+              },
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "KB손보",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 2007.0,
+                "display": "2,007억",
+                "cum": false,
+                "yoy": {
+                  "text": "-36.0%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 5,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-15",
+                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
+              },
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "메리츠화재",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 4661.0,
+                "display": "4,661억",
+                "cum": false,
+                "yoy": {
+                  "text": "+0.8%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 2,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-15",
+                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
+              },
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        ],
+        "comment": "1Q26 당사 당기순이익 989억 (6개사 중 6위, YoY -30.7%)"
+      },
+      "2025Q1": {
+        "rows": [
+          {
+            "company": "한화손보",
+            "isOwn": true,
+            "cells": [
+              {
+                "value": 1427.0,
+                "display": "1,427억",
+                "cum": false,
+                "yoy": null,
+                "rank": 4,
+                "of": 4,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-15",
+                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
+              },
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "삼성화재",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 6081.0,
+                "display": "6,081억",
+                "cum": false,
+                "yoy": null,
+                "rank": 1,
+                "of": 4,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-15",
+                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
+              },
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "DB손보",
+            "isOwn": false,
+            "cells": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "현대해상",
+            "isOwn": false,
+            "cells": [
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "KB손보",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 3135.0,
+                "display": "3,135억",
+                "cum": false,
+                "yoy": null,
+                "rank": 3,
+                "of": 4,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-15",
+                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
+              },
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "company": "메리츠화재",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 4625.0,
+                "display": "4,625억",
+                "cum": false,
+                "yoy": null,
+                "rank": 2,
+                "of": 4,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-15",
+                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
+              },
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        ],
+        "comment": "1Q25 당사 당기순이익 1,427억 (4개사 중 4위)"
+      }
+    },
+    "updated": "2026-10-06 15:22"
   }
 }

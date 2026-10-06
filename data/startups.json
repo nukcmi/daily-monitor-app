@@ -1,11 +1,65 @@
 {
-  "updated": "2026-10-06 00:55",
+  "updated": "2026-10-06 15:19",
   "items": [
     {
-      "title": "A Neko Health investor on the $700M bet to scan your whole body",
-      "url": "https://techcrunch.com/podcast/the-investor-behind-neko-healths-700m-bet-on-scanning-your-whole-body/",
+      "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+      "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
       "source": "TechCrunch",
-      "date": "09/30",
+      "date": "10/05",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "source": "TechCrunch",
+      "date": "10/05",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Signed data pioneer SignSplit launches with $400M to help everyone get paid for their AI contributions",
+      "url": "https://siliconangle.com/2026/10/05/signed-data-pioneer-signsplit-launches-with-400m-to-help-everyone-get-paid-for-their-ai-contributions/",
+      "source": "SiliconANGLE",
+      "date": "10/06",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Reflection AI debuts open-source Beam model with 501B parameters",
+      "url": "https://siliconangle.com/2026/10/05/reflection-ai-debuts-open-source-beam-model-with-501b-parameters/",
+      "source": "SiliconANGLE",
+      "date": "10/06",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "AI agent hardware startup Ghost, led by its 19-year-old-founder, raises $11M",
+      "url": "https://siliconangle.com/2026/10/05/ai-agent-hardware-startup-ghost-led-by-its-19-year-old-founder-raises-11m/",
+      "source": "SiliconANGLE",
+      "date": "10/06",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Robotics startup RobCo valued at $1B+ in $40M funding round",
+      "url": "https://siliconangle.com/2026/10/05/robotics-startup-robco-valued-at-1b-in-40m-funding-round/",
+      "source": "SiliconANGLE",
+      "date": "10/05",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Namespace raises $42M to build out developer-focused compute cloud",
+      "url": "https://siliconangle.com/2026/10/05/namespace-raises-42m-to-build-out-developer-focused-compute-cloud/",
+      "source": "SiliconANGLE",
+      "date": "10/05",
       "insight": "",
       "takeaway": "",
       "bullets": []
@@ -15,51 +69,6 @@
       "url": "https://siliconangle.com/2026/10/05/clockwork-io-bags-31m-in-funding-to-keep-ai-inference-and-training-workloads-running-like-clockwork/",
       "source": "SiliconANGLE",
       "date": "10/05",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "NetApp puts ONTAP inside Oracle’s cloud, betting native beats bolted-on",
-      "url": "https://siliconangle.com/2026/10/05/infrastructure-modernization-netapp-ontap-native-oci-netappinsight/",
-      "source": "SiliconANGLE",
-      "date": "10/05",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Robotics AI developer FieldAI reportedly raising $700M in funding",
-      "url": "https://siliconangle.com/2026/10/02/robotics-ai-developer-fieldai-reportedly-raising-700m-in-funding/",
-      "source": "SiliconANGLE",
-      "date": "10/03",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Database startup Supabase raises $150M, acquires Turso",
-      "url": "https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso/",
-      "source": "SiliconANGLE",
-      "date": "10/02",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering",
-      "url": "https://siliconangle.com/2026/10/02/despite-ipo-jitters-and-ai-safety-worries-anthropic-sticks-to-a-2026-offering/",
-      "source": "SiliconANGLE",
-      "date": "10/02",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Decades of DIY best-of-breed give way to pretested stacks as AI raises integration risk",
-      "url": "https://siliconangle.com/2026/10/02/flexpod-brings-validated-ai-infrastructure-enterprises-netappinsight/",
-      "source": "SiliconANGLE",
-      "date": "10/02",
       "insight": "",
       "takeaway": "",
       "bullets": []
