@@ -8,7 +8,7 @@ const WEB_PASSWORD = "hanwha2026";   // 필요 시 이 값만 바꾸면 된다
 
 // 배포 버전 표시 (하단 고지에 노출). 파일 올릴 때마다 갱신하면
 // "지금 보는 화면이 최신인지 캐시인지"를 화면에서 바로 확인할 수 있다.
-const APP_VERSION = "v1.41 · 2026-09-16";
+const APP_VERSION = "v1.50 · 2026-10-06";
 
 function initPasswordGate() {
   const insideTelegram = !!(window.Telegram?.WebApp?.initData);
@@ -228,7 +228,6 @@ function render(f = 'ALL') {
         <div class="mc-cell"><span>전일종가</span><b>${x.prevCloseText || '-'}</b></div>
         <div class="mc-cell"><span>시가</span><b>${x.openText || '-'}</b></div>
         <div class="mc-cell"><span>고가</span><b>${x.highText || '-'}</b></div>
-        <div class="mc-cell"><span>고가</span><b>${x.highText || '-'}</b></div>
         <div class="mc-cell"><span>저가</span><b>${x.lowText || '-'}</b></div>
       </div>
     </div>`;
@@ -441,53 +440,110 @@ document.querySelectorAll('.chip').forEach(b => b.onclick = () => {
   render(b.dataset.f);
 });
 
-// ── 국내 손보사 KPI 비교 (종목 모니터링 탭 하단 섹션) ──
-// payload.insurerKpi 형태: {columns:[...], rows:[{company, cells:[{value,date}...]}]}
-// value가 null인 칸은 "최근 기사에 실제로 언급된 수치가 없다"는 뜻 — 절대
-// 빈 칸을 다른 값으로 채우거나 추정하지 않는다 (백엔드 analyze.py에서부터
-// 강제되는 규칙, 프론트는 있는 그대로 null이면 '-'만 보여준다).
+// ── 국내 손보사 KPI 비교 (분기 히스토리, v1.50) ──
+// payload.insurerKpi 형태:
+//   {quarters:[{key,label}], columns:[{key,label,unit,lowerBetter}],
+//    byQuarter:{[분기]:{rows:[{company,isOwn,cells:[칸|null]}], comment}}}
+// null 칸 = 해당 분기에 확인된 수치 없음. 프론트는 절대 추정으로 채우지 않는다.
+// PC: 회사 × 지표 표 / 모바일: 지표 하나를 골라 6개사 순위로 비교.
+const kpiState = { q: null, m: 0 };
+
+function kpiYoyHtml(y) {
+  if (!y) return '';
+  const arrow = y.dir === 'up' ? '▲' : y.dir === 'down' ? '▼' : '';
+  const cls = y.good === true ? ' good' : y.good === false ? ' bad' : '';
+  return `<span class="kpi-yoy${cls}">${arrow} YoY ${y.text}</span>`;
+}
+
+function kpiCellMeta(c) {
+  return [c.source, c.date, c.basis !== '미상' ? c.basis : null, c.cum ? '누적' : null]
+    .filter(Boolean).join(' · ');
+}
+
 function renderInsurerKpi() {
   const sec = document.getElementById('insurerKpiSection');
   if (!sec) return;
   const kpi = payload.insurerKpi;
-  if (!kpi || !kpi.rows || !kpi.rows.length) {
-    sec.innerHTML = `<div class="kpi-table-wrap"><div class="kpi-empty">최근 확인된 KPI 수치가 없습니다.</div></div>`;
+  if (!kpi || !kpi.quarters || !kpi.quarters.length) {
+    sec.innerHTML = `<div class="kpi-empty">아직 확인된 수치가 없습니다. 분기 실적 기사나 백필 데이터가 들어오면 자동으로 표시됩니다.</div>`;
     return;
   }
-  const theadCells = kpi.columns.map(c => `<th>${c}</th>`).join('');
-  const bodyRows = kpi.rows.map(r => {
-    const cells = r.cells.map(c => {
-      if (c.value == null) return `<td class="kpi-cell-empty">-</td>`;
-      return `<td class="kpi-cell"><b>${c.value}</b>${c.date ? `<span class="kpi-cell-date">${c.date}</span>` : ''}</td>`;
-      return `<td class="kpi-cell"><b>${c.value}</b>${c.date ? `<span class="kpi-cell-date">${c.date}</span>` : ''}</td>`;
-    }).join('');
-    return `<tr class="${r.isOwn ? 'kpi-own-row' : ''}"><td class="kpi-company${r.isOwn ? ' kpi-own' : ''}">${r.company}</td>${cells}</tr>`;
+  if (!kpiState.q || !kpi.byQuarter[kpiState.q]) kpiState.q = kpi.quarters[0].key;
+  const qd = kpi.byQuarter[kpiState.q];
+  const cols = kpi.columns;
+
+  const qChips = kpi.quarters.map(q =>
+    `<button class="kpi-q${q.key === kpiState.q ? ' on' : ''}" data-q="${q.key}">${q.label}</button>`).join('');
+
+  const head = cols.map(c =>
+    `<th>${c.label}${c.lowerBetter ? '<i class="kpi-lb">낮을수록 양호</i>' : ''}</th>`).join('');
+  const body = qd.rows.map((r, ri) => {
+    const tds = r.cells.map((c, ci) => c
+      ? `<td class="kpi-cell${c.url ? ' has-url' : ''}" data-r="${ri}" data-c="${ci}" title="${kpiCellMeta(c)}">
+           <b>${c.display}</b>${c.cum ? '<span class="kpi-cum">누적</span>' : ''}${kpiYoyHtml(c.yoy)}</td>`
+      : `<td class="kpi-cell-empty">-</td>`).join('');
+    return `<tr class="${r.isOwn ? 'kpi-own-row' : ''}"><td class="kpi-company${r.isOwn ? ' kpi-own' : ''}">${r.company}</td>${tds}</tr>`;
   }).join('');
 
-  // 모바일 전용: 좌우 스크롤 없이 회사당 카드 하나 + 지표 3열 그리드
-  const cards = kpi.rows.map(r => {
-    const cells = r.cells.map((c, i) => `
-      <div class="kpi-mc-cell">
-        <span>${kpi.columns[i]}</span>
-        ${c.value == null
-          ? '<b class="kpi-mc-empty">-</b>'
-          : `<b>${c.value}</b>${c.date ? `<i>${c.date}</i>` : ''}`}
-      </div>`).join('');
-    return `
-    <div class="kpi-mc-card">
-      <div class="kpi-mc-name${r.isOwn ? ' kpi-own' : ''}">${r.company}</div>
-      <div class="kpi-mc-grid">${cells}</div>
-    </div>`;
-  }).join('');
+  const mChips = cols.map((c, i) =>
+    `<button class="kpi-m-chip${i === kpiState.m ? ' on' : ''}" data-m="${i}">${c.label}</button>`).join('');
 
   sec.innerHTML = `
+    <div class="kpi-qs">${qChips}</div>
+    <div class="kpi-comment">${qd.comment}</div>
     <div class="kpi-table-wrap">
       <table class="kpi-table">
-        <thead><tr><th class="kpi-company-th">회사</th>${theadCells}</tr></thead>
-        <tbody>${bodyRows}</tbody>
+        <thead><tr><th class="kpi-company-th">회사</th>${head}</tr></thead>
+        <tbody>${body}</tbody>
       </table>
     </div>
-    <div class="kpi-mc-list">${cards}</div>`;
+    <div class="kpi-m">
+      <div class="kpi-m-chips">${mChips}</div>
+      <div class="kpi-m-list" id="kpiMList"></div>
+    </div>
+    <div class="kpi-foot">공시·IR·기사에 적힌 수치만 표시합니다. 수치를 누르면 원문이 열립니다.</div>`;
+
+  renderKpiMobileList(qd, cols);
+
+  sec.querySelectorAll('.kpi-q').forEach(b => b.onclick = () => {
+    kpiState.q = b.dataset.q;
+    renderInsurerKpi();
+  });
+  sec.querySelectorAll('.kpi-m-chip').forEach(b => b.onclick = () => {
+    kpiState.m = +b.dataset.m;
+    sec.querySelectorAll('.kpi-m-chip').forEach(x => x.classList.toggle('on', x === b));
+    renderKpiMobileList(qd, cols);
+  });
+  sec.querySelectorAll('.kpi-cell.has-url').forEach(td => {
+    td.onclick = () => openExternal(qd.rows[+td.dataset.r].cells[+td.dataset.c].url);
+  });
+}
+
+function renderKpiMobileList(qd, cols) {
+  const box = document.getElementById('kpiMList');
+  if (!box) return;
+  const m = kpiState.m;
+  const col = cols[m];
+  const items = qd.rows.map(r => ({ r, c: r.cells[m] }));
+  items.sort((a, b) => {
+    if (!a.c && !b.c) return 0;
+    if (!a.c) return 1;
+    if (!b.c) return -1;
+    return col.lowerBetter ? a.c.value - b.c.value : b.c.value - a.c.value;
+  });
+  const max = Math.max(1, ...items.map(x => (x.c && x.c.value > 0 ? x.c.value : 0)));
+  box.innerHTML = items.map((x, i) => `
+    <div class="kpi-m-row${x.r.isOwn ? ' own' : ''}${x.c && x.c.url ? ' has-url' : ''}" data-i="${i}">
+      <span class="kpi-m-rank">${x.c ? x.c.rank : ''}</span>
+      <span class="kpi-m-name">${x.r.company}</span>
+      <span class="kpi-m-bar">${x.c && x.c.value > 0 ? `<i style="width:${(x.c.value / max * 100).toFixed(1)}%"></i>` : ''}</span>
+      <span class="kpi-m-val">${x.c
+        ? `<b>${x.c.display}</b>${x.c.cum ? '<span class="kpi-cum">누적</span>' : ''}${kpiYoyHtml(x.c.yoy)}`
+        : '<b class="kpi-m-empty">-</b>'}</span>
+    </div>`).join('');
+  box.querySelectorAll('.kpi-m-row.has-url').forEach(el => {
+    el.onclick = () => openExternal(items[+el.dataset.i].c.url);
+  });
 }
 // ── 국내 손보사 KPI 비교 끝 ──
 
@@ -599,7 +655,7 @@ function renderResearch() {
         ${byDate[d].map((a, i) => _researchCardHtml(a, i, byDate[d])).join('')}
       `).join('')}
     </div>`;
-  
+
   const toggle = document.getElementById('researchArchiveToggle');
   const body = document.getElementById('researchArchiveBody');
   toggle.onclick = () => {
@@ -699,3 +755,4 @@ document.querySelectorAll('.view-tab').forEach(btn => {
 if (window.Telegram?.WebApp) { Telegram.WebApp.ready(); Telegram.WebApp.expand(); }
 initRequestForm();
 load();
+// ── app.js 끝 (이 줄이 GitHub에 보이면 파일이 잘리지 않고 다 올라간 것) ──
