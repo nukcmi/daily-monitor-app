@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06 23:12",
+  "updated": "2026-10-07 16:36",
   "processed_urls": [],
   "data": {
     "2026Q1": {
@@ -73,6 +73,22 @@
           "source": "article",
           "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
           "date": "2026-05-15"
+        },
+        "csm": {
+          "value": 39760.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.dealsitetv.com/articles/154471",
+          "date": "2025-05-14"
+        },
+        "kics": {
+          "value": 182.5,
+          "cum": false,
+          "basis": "경과조치 전",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146523",
+          "date": "2025-08-14"
         }
       },
       "삼성화재": {
@@ -83,6 +99,22 @@
           "source": "article",
           "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
           "date": "2026-05-15"
+        },
+        "csm": {
+          "value": 143328.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "kics": {
+          "value": 266.6,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
         }
       },
       "KB손보": {
@@ -93,6 +125,22 @@
           "source": "article",
           "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
           "date": "2026-05-15"
+        },
+        "csm": {
+          "value": 89225.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "kics": {
+          "value": 182.1,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
         }
       },
       "메리츠화재": {
@@ -103,6 +151,724 @@
           "source": "article",
           "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
           "date": "2026-05-15"
+        },
+        "csm": {
+          "value": 111671.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "kics": {
+          "value": 239.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        }
+      },
+      "현대해상": {
+        "net_income": {
+          "value": 2031.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "csm": {
+          "value": 91078.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "kics": {
+          "value": 157.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        }
+      },
+      "DB손보": {
+        "csm": {
+          "value": 128693.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "kics": {
+          "value": 204.7,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        }
+      }
+    },
+    "2024Q2": {
+      "메리츠화재": {
+        "net_income": {
+          "value": 9977.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146476",
+          "date": "2025-08-13"
+        }
+      },
+      "DB손보": {
+        "net_income": {
+          "value": 11241.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.tf.co.kr/read/economy/2153089.htm",
+          "date": "2024-11-20"
+        }
+      },
+      "한화손보": {
+        "net_income": {
+          "value": 2547.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146523",
+          "date": "2025-08-14"
+        }
+      }
+    },
+    "2024Q3": {
+      "삼성화재": {
+        "net_income": {
+          "value": 18665.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151409",
+          "date": "2025-11-13"
+        }
+      },
+      "DB손보": {
+        "net_income": {
+          "value": 15780.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151516",
+          "date": "2025-11-14"
+        },
+        "csm": {
+          "value": 131750.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151516",
+          "date": "2025-11-14"
+        }
+      },
+      "메리츠화재": {
+        "net_income": {
+          "value": 14928.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151546",
+          "date": "2025-11-14"
+        },
+        "csm": {
+          "value": 106417.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/133086",
+          "date": "2024-12-10"
+        },
+        "kics": {
+          "value": 257.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151546",
+          "date": "2025-11-14"
+        }
+      },
+      "현대해상": {
+        "net_income": {
+          "value": 10464.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://v.daum.net/v/20241118150105161",
+          "date": "2024-11-18"
+        },
+        "kics": {
+          "value": 170.1,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151492",
+          "date": "2025-11-14"
+        }
+      },
+      "KB손보": {
+        "net_income": {
+          "value": 7402.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/150602",
+          "date": "2025-11-04"
+        }
+      },
+      "한화손보": {
+        "net_income": {
+          "value": 3457.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151459",
+          "date": "2025-11-13"
+        }
+      }
+    },
+    "2024Q4": {
+      "삼성화재": {
+        "net_income": {
+          "value": 20736.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.bizwatch.co.kr/article/finance/2025/02/25/0042",
+          "date": "2025-02-25"
+        },
+        "kics": {
+          "value": 264.5,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151409",
+          "date": "2025-11-13"
+        }
+      },
+      "현대해상": {
+        "net_income": {
+          "value": 10310.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.bizwatch.co.kr/article/finance/2025/02/25/0042",
+          "date": "2025-02-25"
+        },
+        "kics": {
+          "value": 155.8,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.bizwatch.co.kr/article/finance/2025/02/25/0042",
+          "date": "2025-02-25"
+        }
+      },
+      "KB손보": {
+        "net_income": {
+          "value": 8395.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/156511",
+          "date": "2026-02-06"
+        },
+        "kics": {
+          "value": 188.1,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2025/02/24/2025022400178.amp.html",
+          "date": "2025-02-24"
+        },
+        "csm": {
+          "value": 88205.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/156511",
+          "date": "2026-02-06"
+        }
+      },
+      "한화손보": {
+        "net_income": {
+          "value": 3823.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/73290",
+          "date": "2025-02-21"
+        },
+        "csm": {
+          "value": 38032.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/73290",
+          "date": "2025-02-21"
+        },
+        "kics": {
+          "value": 174.0,
+          "cum": false,
+          "basis": "경과조치 전",
+          "source": "article",
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/73290",
+          "date": "2025-02-21"
+        }
+      }
+    },
+    "2025Q2": {
+      "삼성화재": {
+        "net_income": {
+          "value": 12456.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024",
+          "date": "2025-08-14"
+        },
+        "csm": {
+          "value": 143776.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151409",
+          "date": "2025-11-13"
+        },
+        "kics": {
+          "value": 274.5,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024",
+          "date": "2025-08-14"
+        }
+      },
+      "DB손보": {
+        "net_income": {
+          "value": 9069.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024",
+          "date": "2025-08-14"
+        },
+        "csm": {
+          "value": 132310.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/147290",
+          "date": "2025-09-02"
+        },
+        "kics": {
+          "value": 213.3,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151516",
+          "date": "2025-11-14"
+        }
+      },
+      "KB손보": {
+        "net_income": {
+          "value": 5581.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024",
+          "date": "2025-08-14"
+        },
+        "csm": {
+          "value": 92176.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/145253",
+          "date": "2025-07-24"
+        },
+        "kics": {
+          "value": 187.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/145253",
+          "date": "2025-07-24"
+        }
+      },
+      "현대해상": {
+        "net_income": {
+          "value": 4510.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024",
+          "date": "2025-08-14"
+        },
+        "csm": {
+          "value": 93764.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024",
+          "date": "2025-08-14"
+        },
+        "kics": {
+          "value": 170.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024",
+          "date": "2025-08-14"
+        }
+      },
+      "메리츠화재": {
+        "net_income": {
+          "value": 9873.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146476",
+          "date": "2025-08-13"
+        },
+        "csm": {
+          "value": 112482.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146476",
+          "date": "2025-08-13"
+        },
+        "kics": {
+          "value": 238.9,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146476",
+          "date": "2025-08-13"
+        }
+      },
+      "한화손보": {
+        "net_income": {
+          "value": 2226.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146523",
+          "date": "2025-08-14"
+        },
+        "csm": {
+          "value": 41228.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146523",
+          "date": "2025-08-14"
+        },
+        "kics": {
+          "value": 180.0,
+          "cum": false,
+          "basis": "경과조치 전",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146523",
+          "date": "2025-08-14"
+        }
+      }
+    },
+    "2025Q3": {
+      "삼성화재": {
+        "net_income": {
+          "value": 17836.0,
+          "cum": true,
+          "basis": "연결(지배)",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151409",
+          "date": "2025-11-13"
+        },
+        "csm": {
+          "value": 150077.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151409",
+          "date": "2025-11-13"
+        },
+        "kics": {
+          "value": 275.9,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151409",
+          "date": "2025-11-13"
+        }
+      },
+      "DB손보": {
+        "net_income": {
+          "value": 11999.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://m.ceoscoredaily.com/page/view/2025111416145428105",
+          "date": "2025-11-14"
+        },
+        "csm": {
+          "value": 134640.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151516",
+          "date": "2025-11-14"
+        },
+        "kics": {
+          "value": 226.5,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151516",
+          "date": "2025-11-14"
+        }
+      },
+      "메리츠화재": {
+        "net_income": {
+          "value": 14511.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151546",
+          "date": "2025-11-14"
+        },
+        "csm": {
+          "value": 114712.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151546",
+          "date": "2025-11-14"
+        },
+        "kics": {
+          "value": 242.7,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151546",
+          "date": "2025-11-14"
+        }
+      },
+      "현대해상": {
+        "net_income": {
+          "value": 6341.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151492",
+          "date": "2025-11-14"
+        },
+        "csm": {
+          "value": 96287.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151492",
+          "date": "2025-11-14"
+        },
+        "kics": {
+          "value": 179.8,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151492",
+          "date": "2025-11-14"
+        }
+      },
+      "KB손보": {
+        "net_income": {
+          "value": 7669.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/150602",
+          "date": "2025-11-04"
+        }
+      },
+      "한화손보": {
+        "net_income": {
+          "value": 2942.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151459",
+          "date": "2025-11-13"
+        },
+        "csm": {
+          "value": 42607.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/151459",
+          "date": "2025-11-13"
+        }
+      }
+    },
+    "2025Q4": {
+      "삼성화재": {
+        "net_income": {
+          "value": 20183.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "csm": {
+          "value": 141677.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "kics": {
+          "value": 262.9,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        }
+      },
+      "메리츠화재": {
+        "net_income": {
+          "value": 16810.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "csm": {
+          "value": 111037.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "kics": {
+          "value": 237.4,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        }
+      },
+      "DB손보": {
+        "net_income": {
+          "value": 15348.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "csm": {
+          "value": 122053.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "kics": {
+          "value": 217.9,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        }
+      },
+      "KB손보": {
+        "net_income": {
+          "value": 7782.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "csm": {
+          "value": 92850.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "kics": {
+          "value": 190.2,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        }
+      },
+      "현대해상": {
+        "net_income": {
+          "value": 5611.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "csm": {
+          "value": 89017.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "kics": {
+          "value": 190.1,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        }
+      },
+      "한화손보": {
+        "net_income": {
+          "value": 3611.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.kukinews.com/article/view/kuk202602230096",
+          "date": "2026-02-23"
+        },
+        "csm": {
+          "value": 40694.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.twig24.com/news/finance/2026/02/23/20260223500117",
+          "date": "2026-02-23"
         }
       }
     }
