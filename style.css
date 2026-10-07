@@ -143,9 +143,9 @@ h2.mt{font-size:15px;font-weight:700;color:#FFFFFF;margin:26px 0 12px}
 .kpi-table thead th{text-align:right;font-size:10px;font-weight:600;color:#7B8494;
                     padding:10px 14px;border-bottom:1px solid rgba(255,255,255,.07);vertical-align:bottom}
 .kpi-company-th{text-align:left!important}
-/* 컬럼 폭 고정 — 회사명 20%, 지표 5개 각 16% (총 100%) */
-.kpi-table th:nth-child(1),.kpi-table td:nth-child(1){width:20%}
-.kpi-table th:nth-child(n+2),.kpi-table td:nth-child(n+2){width:16%}
+/* 컬럼 폭 고정 — 회사명 16%, 지표 6개 각 14% (총 100%) */
+.kpi-table th:nth-child(1),.kpi-table td:nth-child(1){width:16%}
+.kpi-table th:nth-child(n+2),.kpi-table td:nth-child(n+2){width:14%}
 .kpi-table td{padding:10px 14px;border-bottom:1px solid rgba(255,255,255,.05);text-align:right;
               vertical-align:top}
 .kpi-table tr:last-child td{border-bottom:none}
