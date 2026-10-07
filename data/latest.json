@@ -1,7 +1,7 @@
 {
   "asOf": "2026-10-07",
-  "updated": "2026-10-07 17:10",
-  "fx": "환율 2026-10-07 · 시장환율   1 USD = ₩1,337.85   |   1 USD = 17,877.00 IDR   |   1 IDR = ₩0.07484",
+  "updated": "2026-10-07 23:26",
+  "fx": "환율 2026-10-07 · 시장환율   1 USD = ₩1,339.10   |   1 USD = 17,878.00 IDR   |   1 IDR = ₩0.07490",
   "attentionItems": [
     {
       "company": "차바이오텍",
@@ -12,7 +12,7 @@
     },
     {
       "company": "차바이오텍",
-      "text": "[경력채용] 한림제약, 휴메딕스, GC녹십자웰빙, 삼익제약, 차바이오텍",
+      "text": "[Business News] 할리우드 차병원 마티카바이오, 송윤정 신임대표 선임",
       "impact": "-",
       "level": "low",
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901259"
@@ -64,7 +64,7 @@
         ],
         [
           "거래량(20일比)",
-          "14.37만 · 0.77x",
+          "14.95만 · 0.80x",
           null
         ],
         [
@@ -90,7 +90,7 @@
       ],
       "events": [
         "[기재정정]타인에대한담보제공결정",
-        "[경력채용] 한림제약, 휴메딕스, GC녹십자웰빙, 삼익제약, 차바이오텍"
+        "[Business News] 할리우드 차병원 마티카바이오, 송윤정 신임대"
       ],
       "watch": [],
       "spark": [
@@ -359,12 +359,6 @@
           "date": "20260930"
         },
         {
-          "title": "[경력채용] 한림제약, 휴메딕스, GC녹십자웰빙, 삼익제약, 차바이오텍",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOU0FJVWNmU3lQUGUxOFNvRUcxLUNJY25xZ3lacERkc056NlFPVFZUUVRfSDc5dDVNMkRWUS1sczAxVTFwdHcyRmhoU1FrSklxQVpnYWVlbXhmU3BNZjlqejlmMkpMdkJoQ3dn?oc=5",
-          "source": "히트뉴스",
-          "date": "10/06"
-        },
-        {
           "title": "[Business News] 할리우드 차병원 마티카바이오, 송윤정 신임대표 선임",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa3pod1E2UUhnTEZfQXFBZjRRWFJTejU3Si12LXFoalhIMTZtWjVLM1IwcGtPZHhDR28xM0hWaGFhb21BRXdCdmtISHFCMk96RlktR3dXc1VXQmZ6SC1OX05SM0lnRTFpaVRLTGVHRWotLTVsS1pmcDFXV2lBN1g5azl4VmlBTGROVmJXMk1EWkZ2dzVOTWlWaERlblRNMEFzM2d0ZzdpNHRoX0JQX0ViRUtlOEpNTWJlTlBtMFpBWEFwUjUxMlo5SGNHVDhmdWRQR3dVVF9TZ2tuVTNFRzdZaC1nWWdJQQ?oc=5",
           "source": "미주조선일보",
@@ -374,6 +368,12 @@
           "title": "[Weekly 제약&바이오] 차병원·차바이오그룹·동아제약·심평원",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hSUVnWThuSVRud2I3ZjNWdjBSOGljbFhQOHFkaEVEMW1WOUxEZ0hjN2NCVHdwalVsS1FqaEl1M0FaMWxoOTNsTlN5cVVsR25rMkJnUV81aS0xbzlZUFRHWWNuWGN0bHNJSFRxV05iVDljb0E?oc=5",
           "source": "오늘경제",
+          "date": "10/06"
+        },
+        {
+          "title": "차바이오텍 주가 상승 중",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LRUxXTmw3d1NQYW95THV2QTJPZV9FZGhmMFdGWjJ5VlljUGppRFZZU1hSS0s0Y216d29uZU5sX3FnQy12azdzNGxoVV82TXlFQXNQZXV3eTdnUWQwTkI2M1JXYWQ5TUoxdXRzaFd4RHNKX2I2?oc=5",
+          "source": "아시아뉴스통신",
           "date": "10/06"
         }
       ],
@@ -524,6 +524,13 @@
           "level": "low",
           "date": "10/06",
           "collected_at": "2026-10-07"
+        },
+        {
+          "summary": "[Business News] 할리우드 차병원 마티카바이오, 송윤정 신임대표 선임",
+          "impact": "-",
+          "level": "low",
+          "date": "10/06",
+          "collected_at": "2026-10-07"
         }
       ]
     },
@@ -572,7 +579,7 @@
         ],
         [
           "거래량(20일比)",
-          "5.17천 · 0.51x",
+          "5.30천 · 0.53x",
           null
         ],
         [
@@ -882,7 +889,7 @@
         [
           "종가",
           "$46.30",
-          "₩61,942"
+          "₩62,000"
         ],
         [
           "취득가",
@@ -911,8 +918,8 @@
         ],
         [
           "시가총액",
-          "$3.58B",
-          "4.79조"
+          "$3.54B",
+          "4.74조"
         ],
         [
           "52주 고점대비",
@@ -931,8 +938,8 @@
         }
       ],
       "events": [
-        "루멘 Oct 2026 75.000 call (루멘261009C000750",
-        "루멘 Oct 2026 47.000 call (루멘261030C000470"
+        "루멘 Oct 2026 47.000 call (루멘261023C000470",
+        "루멘 (루멘) Options Chain"
       ],
       "watch": [],
       "spark": [
@@ -1192,17 +1199,17 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 10/6 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11MkU4bWlsWHhWWndlejNMcGRSZkhqYXo1MGd3M2o1WFZwemVwWHRSOE1SQ2ZOSG5UMmxNeTFhM3QxRXU3TmF5Ymt5TUlCR09ucGlMdS1hQ2d6TmJIWjBnNkFDUDJ1SHFwTWU5Nm93?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15VHBFV2R3cklBai1JbUkwcjhvWC1wVFFacXV4YWs1Sm1maHI3UUNfUjRzUlR1SjZSX2VPMEgxZmhBdVd0WDRVaklUZVVNZ0JxXzkxLUhYOEdWaDFKdDdpMngxTk9mdw?oc=5",
       "sources": [
         {
-          "title": "루멘 Oct 2026 75.000 call (루멘261009C00075000) Interactive Stock Chart",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11MkU4bWlsWHhWWndlejNMcGRSZkhqYXo1MGd3M2o1WFZwemVwWHRSOE1SQ2ZOSG5UMmxNeTFhM3QxRXU3TmF5Ymt5TUlCR09ucGlMdS1hQ2d6TmJIWjBnNkFDUDJ1SHFwTWU5Nm93?oc=5",
+          "title": "루멘 Oct 2026 47.000 call (루멘261023C00047000) Stock Price, News, Quote & History",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15VHBFV2R3cklBai1JbUkwcjhvWC1wVFFacXV4YWs1Sm1maHI3UUNfUjRzUlR1SjZSX2VPMEgxZmhBdVd0WDRVaklUZVVNZ0JxXzkxLUhYOEdWaDFKdDdpMngxTk9mdw?oc=5",
           "source": "Yahoo! Finance Canada",
           "date": "10/07"
         },
         {
-          "title": "루멘 Oct 2026 47.000 call (루멘261030C00047000) Stock Price, News, Quote & History",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16VUVSZ2E1Sl9qTG5RNjlHenhwbGRHYXhscGRTRkgtX005U3FHc2k1MVRTQTlqejRxa1pLd2xOLVRoQjBtdEZ5MkxYck50UThndElLNGRTUUc1LU5hcGlFMG1PcnVtZw?oc=5",
+          "title": "루멘 (루멘) Options Chain",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0ZPTnppelBxaHgwVUFvaXF3OGhlWlRYUzdDQ1NjQVdBNjM0SkpsTTdHcUpLejlKWVdMM2UzdlVjZ1hBam1iSGYyVzc2ZkNNNC1CZE9yZFNLVWt2aHV2ekVEMjhPQXU1d1VlOGlyWXhjNm9EaTZmV3g2WEZMeXBoNzY1Wlp3eGVhMFppbXk3MTZVQQ?oc=5",
           "source": "Yahoo! Finance Canada",
           "date": "10/06"
         },
@@ -1324,6 +1331,20 @@
           "level": "low",
           "date": "10/06",
           "collected_at": "2026-10-07"
+        },
+        {
+          "summary": "루멘 Oct 2026 47.000 call (루멘261023C00047000) Stock Price",
+          "impact": "-",
+          "level": "low",
+          "date": "10/07",
+          "collected_at": "2026-10-07"
+        },
+        {
+          "summary": "루멘 (루멘) Options Chain",
+          "impact": "-",
+          "level": "low",
+          "date": "10/06",
+          "collected_at": "2026-10-07"
         }
       ]
     },
@@ -1334,21 +1355,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "+0.00%",
+        "-0.78%",
         "자회사"
       ],
-      "priceText": "Rp645",
+      "priceText": "Rp640",
       "openText": "Rp645",
-      "highText": "Rp645",
+      "highText": "Rp665",
       "lowText": "Rp640",
       "prevCloseText": "Rp645",
-      "changeText": "+Rp0",
+      "changeText": "-Rp5",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
-          "Rp645",
-          "₩48.3"
+          "Rp640",
+          "₩47.9"
         ],
         [
           "취득가",
@@ -1357,32 +1378,32 @@
         ],
         [
           "취득가대비",
-          "-1.35%",
+          "-2.11%",
           null
         ],
         [
           "전일대비",
-          "+0.00%",
+          "-0.78%",
           null
         ],
         [
           "전주대비",
-          "+0.00%",
+          "-0.78%",
           null
         ],
         [
           "거래량(20일比)",
-          "2.76만 · 3.78x",
+          "8.80만 · 13.35x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,448억"
+          "1,438억"
         ],
         [
           "52주 고점대비",
-          "-31.82%",
+          "-32.35%",
           null
         ]
       ],
@@ -1401,10 +1422,6 @@
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/9",
-          "close": 680.0
-        },
         {
           "date": "7/10",
           "close": 690.0
@@ -1652,11 +1669,15 @@
         {
           "date": "10/6",
           "close": 645.0
+        },
+        {
+          "date": "10/7",
+          "close": 640.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 10/6 종가 (WIB)",
+      "exchangeLine": "IDX · 10/7 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": [
@@ -3413,6 +3434,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-10-07 17:11"
+    "updated": "2026-10-07 23:30"
   }
 }

@@ -146,6 +146,13 @@
       "level": "low",
       "date": "10/06",
       "collected_at": "2026-10-07"
+    },
+    {
+      "summary": "[Business News] 할리우드 차병원 마티카바이오, 송윤정 신임대표 선임",
+      "impact": "-",
+      "level": "low",
+      "date": "10/06",
+      "collected_at": "2026-10-07"
     }
   ],
   "LUMN": [
@@ -249,6 +256,20 @@
     },
     {
       "summary": "루멘 Oct 2026 47.000 call (루멘261030C00047000) Stock Price",
+      "impact": "-",
+      "level": "low",
+      "date": "10/06",
+      "collected_at": "2026-10-07"
+    },
+    {
+      "summary": "루멘 Oct 2026 47.000 call (루멘261023C00047000) Stock Price",
+      "impact": "-",
+      "level": "low",
+      "date": "10/07",
+      "collected_at": "2026-10-07"
+    },
+    {
+      "summary": "루멘 (루멘) Options Chain",
       "impact": "-",
       "level": "low",
       "date": "10/06",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07 17:10",
+  "updated": "2026-10-07 23:26",
   "items": [
     {
       "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
@@ -15,6 +15,15 @@
       "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
       "source": "TechCrunch",
       "date": "10/05",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Stuut cashes in on agentic order-to-cash automation with $52.5M in funding",
+      "url": "https://siliconangle.com/2026/10/07/stuut-cashes-in-on-agentic-order-to-cash-automation-with-52-5m-in-funding/",
+      "source": "SiliconANGLE",
+      "date": "10/07",
       "insight": "",
       "takeaway": "",
       "bullets": []
@@ -40,15 +49,6 @@
     {
       "title": "Three key insights you may have missed from theCUBE’s coverage of the Supermicro Open Storage Summit interview series",
       "url": "https://siliconangle.com/2026/10/06/ai-storage-strategy-three-insightgs-supermicro-summit-supermicroopenstoragesummit/",
-      "source": "SiliconANGLE",
-      "date": "10/06",
-      "insight": "",
-      "takeaway": "",
-      "bullets": []
-    },
-    {
-      "title": "Hadrian raises $40M for AI agents that find the weaknesses attackers can exploit",
-      "url": "https://siliconangle.com/2026/10/06/hadrian-raises-40m-for-ai-agents-that-find-the-weaknesses-attackers-can-exploit/",
       "source": "SiliconANGLE",
       "date": "10/06",
       "insight": "",
