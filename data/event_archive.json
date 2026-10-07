@@ -239,6 +239,20 @@
       "level": "low",
       "date": "10/06",
       "collected_at": "2026-10-07"
+    },
+    {
+      "summary": "루멘 Oct 2026 75.000 call (루멘261009C00075000) Interactive",
+      "impact": "-",
+      "level": "low",
+      "date": "10/07",
+      "collected_at": "2026-10-07"
+    },
+    {
+      "summary": "루멘 Oct 2026 47.000 call (루멘261030C00047000) Stock Price",
+      "impact": "-",
+      "level": "low",
+      "date": "10/06",
+      "collected_at": "2026-10-07"
     }
   ],
   "LPGI": [

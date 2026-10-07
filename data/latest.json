@@ -1,7 +1,7 @@
 {
   "asOf": "2026-10-07",
-  "updated": "2026-10-07 16:32",
-  "fx": "환율 2026-10-07 · 시장환율   1 USD = ₩1,336.98   |   1 USD = 17,885.00 IDR   |   1 IDR = ₩0.07475",
+  "updated": "2026-10-07 17:10",
+  "fx": "환율 2026-10-07 · 시장환율   1 USD = ₩1,337.85   |   1 USD = 17,877.00 IDR   |   1 IDR = ₩0.07484",
   "attentionItems": [
     {
       "company": "차바이오텍",
@@ -64,7 +64,7 @@
         ],
         [
           "거래량(20일比)",
-          "14.25만 · 0.77x",
+          "14.37만 · 0.77x",
           null
         ],
         [
@@ -365,15 +365,15 @@
           "date": "10/06"
         },
         {
-          "title": "[Weekly 제약&바이오] 차병원·차바이오그룹·동아제약·심평원",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hSUVnWThuSVRud2I3ZjNWdjBSOGljbFhQOHFkaEVEMW1WOUxEZ0hjN2NCVHdwalVsS1FqaEl1M0FaMWxoOTNsTlN5cVVsR25rMkJnUV81aS0xbzlZUFRHWWNuWGN0bHNJSFRxV05iVDljb0E?oc=5",
-          "source": "오늘경제",
+          "title": "[Business News] 할리우드 차병원 마티카바이오, 송윤정 신임대표 선임",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa3pod1E2UUhnTEZfQXFBZjRRWFJTejU3Si12LXFoalhIMTZtWjVLM1IwcGtPZHhDR28xM0hWaGFhb21BRXdCdmtISHFCMk96RlktR3dXc1VXQmZ6SC1OX05SM0lnRTFpaVRLTGVHRWotLTVsS1pmcDFXV2lBN1g5azl4VmlBTGROVmJXMk1EWkZ2dzVOTWlWaERlblRNMEFzM2d0ZzdpNHRoX0JQX0ViRUtlOEpNTWJlTlBtMFpBWEFwUjUxMlo5SGNHVDhmdWRQR3dVVF9TZ2tuVTNFRzdZaC1nWWdJQQ?oc=5",
+          "source": "미주조선일보",
           "date": "10/06"
         },
         {
-          "title": "차바이오텍 주가 상승 중",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LRUxXTmw3d1NQYW95THV2QTJPZV9FZGhmMFdGWjJ5VlljUGppRFZZU1hSS0s0Y216d29uZU5sX3FnQy12azdzNGxoVV82TXlFQXNQZXV3eTdnUWQwTkI2M1JXYWQ5TUoxdXRzaFd4RHNKX2I2?oc=5",
-          "source": "아시아뉴스통신",
+          "title": "[Weekly 제약&바이오] 차병원·차바이오그룹·동아제약·심평원",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hSUVnWThuSVRud2I3ZjNWdjBSOGljbFhQOHFkaEVEMW1WOUxEZ0hjN2NCVHdwalVsS1FqaEl1M0FaMWxoOTNsTlN5cVVsR25rMkJnUV81aS0xbzlZUFRHWWNuWGN0bHNJSFRxV05iVDljb0E?oc=5",
+          "source": "오늘경제",
           "date": "10/06"
         }
       ],
@@ -572,7 +572,7 @@
         ],
         [
           "거래량(20일比)",
-          "5.26천 · 0.52x",
+          "5.17천 · 0.51x",
           null
         ],
         [
@@ -882,7 +882,7 @@
         [
           "종가",
           "$46.30",
-          "₩61,902"
+          "₩61,942"
         ],
         [
           "취득가",
@@ -931,8 +931,8 @@
         }
       ],
       "events": [
-        "루멘 Maintained by Morgan Stanley -- Price",
-        "루멘 (루멘) Launches Renters Insurance in Ha"
+        "루멘 Oct 2026 75.000 call (루멘261009C000750",
+        "루멘 Oct 2026 47.000 call (루멘261030C000470"
       ],
       "watch": [],
       "spark": [
@@ -1192,8 +1192,20 @@
       "avgCost": null,
       "currency": "USD",
       "exchangeLine": "NYSE · 10/6 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUIteVY0NW95R2hORmtpYlhvTEszME5rbll4VEJMU2N0T0R3elQ5amRfa1NhS2d4R3JlaUsyN1pCYzAwa1NJdG9iMnBoRk5sVENXS0ZiNnJtR1FjVUxjM2EzZXhCeUdfX0o2d0tNcC1JN3J3WXVvT3YwT2VESjcxWVVYbTg4ZHM3UENYWHFfV0FvZVdXR3ZGTUIyRm9BN28?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11MkU4bWlsWHhWWndlejNMcGRSZkhqYXo1MGd3M2o1WFZwemVwWHRSOE1SQ2ZOSG5UMmxNeTFhM3QxRXU3TmF5Ymt5TUlCR09ucGlMdS1hQ2d6TmJIWjBnNkFDUDJ1SHFwTWU5Nm93?oc=5",
       "sources": [
+        {
+          "title": "루멘 Oct 2026 75.000 call (루멘261009C00075000) Interactive Stock Chart",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11MkU4bWlsWHhWWndlejNMcGRSZkhqYXo1MGd3M2o1WFZwemVwWHRSOE1SQ2ZOSG5UMmxNeTFhM3QxRXU3TmF5Ymt5TUlCR09ucGlMdS1hQ2d6TmJIWjBnNkFDUDJ1SHFwTWU5Nm93?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "date": "10/07"
+        },
+        {
+          "title": "루멘 Oct 2026 47.000 call (루멘261030C00047000) Stock Price, News, Quote & History",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16VUVSZ2E1Sl9qTG5RNjlHenhwbGRHYXhscGRTRkgtX005U3FHc2k1MVRTQTlqejRxa1pLd2xOLVRoQjBtdEZ5MkxYck50UThndElLNGRTUUc1LU5hcGlFMG1PcnVtZw?oc=5",
+          "source": "Yahoo! Finance Canada",
+          "date": "10/06"
+        },
         {
           "title": "루멘 Maintained by Morgan Stanley -- Price Target Lowers to $48",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUIteVY0NW95R2hORmtpYlhvTEszME5rbll4VEJMU2N0T0R3elQ5amRfa1NhS2d4R3JlaUsyN1pCYzAwa1NJdG9iMnBoRk5sVENXS0ZiNnJtR1FjVUxjM2EzZXhCeUdfX0o2d0tNcC1JN3J3WXVvT3YwT2VESjcxWVVYbTg4ZHM3UENYWHFfV0FvZVdXR3ZGTUIyRm9BN28?oc=5",
@@ -1204,18 +1216,6 @@
           "title": "루멘 (루멘) Launches Renters Insurance in Hawaii with Compet",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEdWNnZfY3IwUFp5WUpXcl9hbFlSNTVhYzY3MjU0NThkUmhIa3lMSHJDbkswVERsNVNGVHlsUUxuVjY5VWFKWWJZdTlDd2ttRU9xb2IxeEFHQXhRWlR3anQwQUpZLTcyZ3NsS3pESFBXdlE2dkxCeHRzVHJsMU53Uk1hQnpBTnU5NTZESUliRFppLWpUU0xid21ScVlFaEtNeWxtdEFVVjJuUDljRU94SGNUeC0?oc=5",
           "source": "GuruFocus",
-          "date": "10/06"
-        },
-        {
-          "title": "루멘 (루멘) Stock Price, News, Quote & History",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVYWtQMmVMWVIxMkc4ZHFteEhIN29UT2UxX0VmM2VJQzFnWnNoNW5RYkJMQnBkZ0hzeHp4em9LeXV5NUp6RlRkbF8yRVRtTGJ0TFE?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "date": "10/06"
-        },
-        {
-          "title": "Hawaii renters can now get affordable 루멘 insurance starting at $5/month with fast claims.",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUFNWZElUQzlzcE02Y0FYQUVORlBmOXZ4UjN5RmNaY1lVTFVabHpXZW5iMjg2NGVjMHpiQkVWWHY1bzVNX2RsTkpIckVGT0x2aGxCVVpNeGowTWlKbzdlaVNvUHBuMXJzelM1RjhYSkJVdWZaTGNqYWYwNUFfVlZNYXJ3?oc=5",
-          "source": "Pluang",
           "date": "10/06"
         }
       ],
@@ -1310,6 +1310,20 @@
           "level": "low",
           "date": "10/06",
           "collected_at": "2026-10-07"
+        },
+        {
+          "summary": "루멘 Oct 2026 75.000 call (루멘261009C00075000) Interactive",
+          "impact": "-",
+          "level": "low",
+          "date": "10/07",
+          "collected_at": "2026-10-07"
+        },
+        {
+          "summary": "루멘 Oct 2026 47.000 call (루멘261030C00047000) Stock Price",
+          "impact": "-",
+          "level": "low",
+          "date": "10/06",
+          "collected_at": "2026-10-07"
         }
       ]
     },
@@ -1334,7 +1348,7 @@
         [
           "종가",
           "Rp645",
-          "₩48.2"
+          "₩48.3"
         ],
         [
           "취득가",
@@ -1364,7 +1378,7 @@
         [
           "시가총액",
           "Rp1.9조",
-          "1,458억"
+          "1,448억"
         ],
         [
           "52주 고점대비",
@@ -1659,36 +1673,20 @@
   "insurerKpi": {
     "quarters": [
       {
+        "key": "2026Q2",
+        "label": "2Q26"
+      },
+      {
         "key": "2026Q1",
         "label": "1Q26"
       },
       {
         "key": "2025Q4",
-        "label": "4Q25"
-      },
-      {
-        "key": "2025Q3",
-        "label": "3Q25"
-      },
-      {
-        "key": "2025Q2",
-        "label": "2Q25"
-      },
-      {
-        "key": "2025Q1",
-        "label": "1Q25"
+        "label": "FY25"
       },
       {
         "key": "2024Q4",
-        "label": "4Q24"
-      },
-      {
-        "key": "2024Q3",
-        "label": "3Q24"
-      },
-      {
-        "key": "2024Q2",
-        "label": "2Q24"
+        "label": "FY24"
       }
     ],
     "columns": [
@@ -1699,14 +1697,26 @@
         "lowerBetter": false
       },
       {
-        "key": "gwp",
-        "label": "원수보험료",
+        "key": "ins_profit",
+        "label": "보험손익",
+        "unit": "억원",
+        "lowerBetter": false
+      },
+      {
+        "key": "inv_profit",
+        "label": "투자손익",
         "unit": "억원",
         "lowerBetter": false
       },
       {
         "key": "csm",
-        "label": "CSM",
+        "label": "CSM 잔액",
+        "unit": "억원",
+        "lowerBetter": false
+      },
+      {
+        "key": "new_csm",
+        "label": "신계약 CSM",
         "unit": "억원",
         "lowerBetter": false
       },
@@ -1715,15 +1725,571 @@
         "label": "K-ICS",
         "unit": "%",
         "lowerBetter": false
-      },
-      {
-        "key": "combined_ratio",
-        "label": "합산비율",
-        "unit": "%",
-        "lowerBetter": true
       }
     ],
     "byQuarter": {
+      "2026Q2": {
+        "rows": [
+          {
+            "company": "한화손보",
+            "isOwn": true,
+            "cells": [
+              {
+                "value": 2153.0,
+                "display": "2,153억",
+                "cum": true,
+                "yoy": {
+                  "text": "-3.3%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 6,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-12",
+                "url": "https://dealsite.co.kr/articles/167059"
+              },
+              {
+                "value": 1817.0,
+                "display": "1,817억",
+                "cum": true,
+                "yoy": {
+                  "text": "-21.0%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 6,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-12",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026081214312221369efc5ce4ae_18"
+              },
+              {
+                "value": 3054.0,
+                "display": "3,054억",
+                "cum": true,
+                "yoy": {
+                  "text": "+5.3%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 4,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-12",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026081214312221369efc5ce4ae_18"
+              },
+              null,
+              {
+                "value": 6296.0,
+                "display": "6,296억",
+                "cum": true,
+                "yoy": {
+                  "text": "+39.6%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 6,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-12",
+                "url": "https://dealsite.co.kr/articles/167059"
+              },
+              {
+                "value": 185.0,
+                "display": "185.0%",
+                "cum": false,
+                "yoy": {
+                  "text": "+5.0%p",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 5,
+                "of": 6,
+                "source": "기사",
+                "basis": "경과조치 전",
+                "date": "2026-08-12",
+                "url": "https://news.bizwatch.co.kr/article/finance/2026/08/12/0043"
+              }
+            ]
+          },
+          {
+            "company": "삼성화재",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 13723.0,
+                "display": "1조 3,723억",
+                "cum": true,
+                "yoy": {
+                  "text": "+10.2%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 1,
+                "of": 6,
+                "source": "기사",
+                "basis": "연결(지배)",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 11145.0,
+                "display": "1조 1,145억",
+                "cum": true,
+                "yoy": null,
+                "rank": 1,
+                "of": 6,
+                "source": "기사",
+                "basis": "연결(지배)",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 7880.0,
+                "display": "7,880억",
+                "cum": true,
+                "yoy": null,
+                "rank": 1,
+                "of": 6,
+                "source": "기사",
+                "basis": "연결(지배)",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 145947.0,
+                "display": "14조 5,947억",
+                "cum": false,
+                "yoy": {
+                  "text": "+1.5%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 1,
+                "of": 5,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 12423.0,
+                "display": "1조 2,423억",
+                "cum": true,
+                "yoy": null,
+                "rank": 1,
+                "of": 6,
+                "source": "기사",
+                "basis": "연결(지배)",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 282.8,
+                "display": "282.8%",
+                "cum": false,
+                "yoy": {
+                  "text": "+8.3%p",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 1,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              }
+            ]
+          },
+          {
+            "company": "DB손보",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 9796.0,
+                "display": "9,796억",
+                "cum": true,
+                "yoy": {
+                  "text": "+8.0%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 3,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 7884.0,
+                "display": "7,884억",
+                "cum": true,
+                "yoy": {
+                  "text": "+17.7%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 2,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 6382.0,
+                "display": "6,382억",
+                "cum": true,
+                "yoy": null,
+                "rank": 3,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 127940.0,
+                "display": "12조 7,940억",
+                "cum": false,
+                "yoy": {
+                  "text": "-3.3%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 2,
+                "of": 5,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 12106.0,
+                "display": "1조 2,106억",
+                "cum": true,
+                "yoy": null,
+                "rank": 2,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 204.3,
+                "display": "204.3%",
+                "cum": false,
+                "yoy": {
+                  "text": "-9.0%p",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 4,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              }
+            ]
+          },
+          {
+            "company": "현대해상",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 6151.0,
+                "display": "6,151억",
+                "cum": true,
+                "yoy": {
+                  "text": "+36.4%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 4,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 7057.0,
+                "display": "7,057억",
+                "cum": true,
+                "yoy": null,
+                "rank": 3,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 1057.0,
+                "display": "1,057억",
+                "cum": true,
+                "yoy": null,
+                "rank": 6,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 98943.0,
+                "display": "9조 8,943억",
+                "cum": false,
+                "yoy": {
+                  "text": "+5.5%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 5,
+                "of": 5,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 9509.0,
+                "display": "9,509억",
+                "cum": true,
+                "yoy": null,
+                "rank": 3,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 209.0,
+                "display": "209.0%",
+                "cum": false,
+                "yoy": {
+                  "text": "+39.0%p",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 3,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              }
+            ]
+          },
+          {
+            "company": "KB손보",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 4788.0,
+                "display": "4,788억",
+                "cum": true,
+                "yoy": {
+                  "text": "-14.2%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 5,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 4406.0,
+                "display": "4,406억",
+                "cum": true,
+                "yoy": {
+                  "text": "-12.1%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 5,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 2256.0,
+                "display": "2,256억",
+                "cum": true,
+                "yoy": {
+                  "text": "-14.0%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 5,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 107216.0,
+                "display": "10조 7,216억",
+                "cum": false,
+                "yoy": {
+                  "text": "+16.3%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 4,
+                "of": 5,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 8140.0,
+                "display": "8,140억",
+                "cum": true,
+                "yoy": null,
+                "rank": 5,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 183.9,
+                "display": "183.9%",
+                "cum": false,
+                "yoy": {
+                  "text": "-3.1%p",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 6,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              }
+            ]
+          },
+          {
+            "company": "메리츠화재",
+            "isOwn": false,
+            "cells": [
+              {
+                "value": 10243.0,
+                "display": "1조 243억",
+                "cum": true,
+                "yoy": {
+                  "text": "+3.7%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 2,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 6975.0,
+                "display": "6,975억",
+                "cum": true,
+                "yoy": {
+                  "text": "-3.7%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 4,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 7031.0,
+                "display": "7,031억",
+                "cum": true,
+                "yoy": {
+                  "text": "+16.3%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 2,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 121208.0,
+                "display": "12조 1,208억",
+                "cum": false,
+                "yoy": {
+                  "text": "+7.8%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 3,
+                "of": 5,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 8942.0,
+                "display": "8,942억",
+                "cum": true,
+                "yoy": null,
+                "rank": 4,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              },
+              {
+                "value": 231.0,
+                "display": "231.0%",
+                "cum": false,
+                "yoy": {
+                  "text": "-7.9%p",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 2,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-08-27",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18"
+              }
+            ]
+          }
+        ],
+        "comment": "2Q26 당사 당기순이익 2,153억 (6개사 중 6위, YoY -3.3%), 보험손익 1,817억 (6개사 중 6위, YoY -21.0%)"
+      },
       "2026Q1": {
         "rows": [
           {
@@ -1746,8 +2312,54 @@
                 "date": "2026-05-15",
                 "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
               },
-              null,
-              null,
+              {
+                "value": 798.0,
+                "display": "798억",
+                "cum": false,
+                "yoy": {
+                  "text": "-41.0%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 4,
+                "of": 4,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-18",
+                "url": "https://stock.pstatic.net/stock-research/company/62/20260518_company_572416000.pdf"
+              },
+              {
+                "value": 1602.0,
+                "display": "1,602억",
+                "cum": false,
+                "yoy": {
+                  "text": "+0.6%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 3,
+                "of": 3,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-18",
+                "url": "https://stock.pstatic.net/stock-research/company/62/20260518_company_572416000.pdf"
+              },
+              {
+                "value": 42802.0,
+                "display": "4조 2,802억",
+                "cum": false,
+                "yoy": {
+                  "text": "+7.7%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 4,
+                "of": 4,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-18",
+                "url": "https://stock.pstatic.net/stock-research/company/62/20260518_company_572416000.pdf"
+              },
               null,
               null
             ]
@@ -1772,9 +2384,70 @@
                 "date": "2026-05-15",
                 "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
               },
-              null,
-              null,
-              null,
+              {
+                "value": 5352.0,
+                "display": "5,352억",
+                "cum": false,
+                "yoy": {
+                  "text": "+2.0%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 1,
+                "of": 4,
+                "source": "기사",
+                "basis": "연결(지배)",
+                "date": "2026-05-15",
+                "url": "https://stock.pstatic.net/stock-research/company/15/20260515_company_326350000.pdf"
+              },
+              {
+                "value": 3624.0,
+                "display": "3,624억",
+                "cum": false,
+                "yoy": {
+                  "text": "+24.4%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 1,
+                "of": 3,
+                "source": "기사",
+                "basis": "연결(지배)",
+                "date": "2026-05-15",
+                "url": "https://stock.pstatic.net/stock-research/company/15/20260515_company_326350000.pdf"
+              },
+              {
+                "value": 144690.0,
+                "display": "14조 4,690억",
+                "cum": false,
+                "yoy": {
+                  "text": "+1.0%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 1,
+                "of": 4,
+                "source": "기사",
+                "basis": "연결(지배)",
+                "date": "2026-05-15",
+                "url": "https://stock.pstatic.net/stock-research/company/15/20260515_company_326350000.pdf"
+              },
+              {
+                "value": 6270.0,
+                "display": "6,270억",
+                "cum": false,
+                "yoy": {
+                  "text": "-10.6%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 1,
+                "of": 2,
+                "source": "기사",
+                "basis": "연결(지배)",
+                "date": "2026-05-15",
+                "url": "https://stock.pstatic.net/stock-research/company/15/20260515_company_326350000.pdf"
+              },
               null
             ]
           },
@@ -1786,7 +2459,11 @@
                 "value": 2685.0,
                 "display": "2,685억",
                 "cum": false,
-                "yoy": null,
+                "yoy": {
+                  "text": "-39.9%",
+                  "dir": "down",
+                  "good": false
+                },
                 "rank": 3,
                 "of": 6,
                 "source": "기사",
@@ -1794,10 +2471,71 @@
                 "date": "2026-05-15",
                 "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
               },
+              {
+                "value": 2270.0,
+                "display": "2,270억",
+                "cum": false,
+                "yoy": {
+                  "text": "-43.6%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 3,
+                "of": 4,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-15",
+                "url": "https://dealsite.co.kr/articles/161914"
+              },
+              {
+                "value": 2360.0,
+                "display": "2,360억",
+                "cum": false,
+                "yoy": {
+                  "text": "-3.2%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 2,
+                "of": 3,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-15",
+                "url": "https://dealsite.co.kr/articles/161914"
+              },
+              {
+                "value": 128220.0,
+                "display": "12조 8,220억",
+                "cum": false,
+                "yoy": {
+                  "text": "-0.4%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 2,
+                "of": 4,
+                "source": "기사",
+                "basis": "연결",
+                "date": "2026-05-15",
+                "url": "https://dealsite.co.kr/articles/161914"
+              },
               null,
-              null,
-              null,
-              null
+              {
+                "value": 232.1,
+                "display": "232.1%",
+                "cum": false,
+                "yoy": {
+                  "text": "+27.4%p",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 1,
+                "of": 2,
+                "source": "기사",
+                "basis": "연결",
+                "date": "2026-05-15",
+                "url": "https://dealsite.co.kr/articles/161914"
+              }
             ]
           },
           {
@@ -1819,6 +2557,22 @@
                 "basis": "미상",
                 "date": "2026-05-15",
                 "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
+              },
+              {
+                "value": 3021.0,
+                "display": "3,021억",
+                "cum": false,
+                "yoy": {
+                  "text": "+71.7%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 2,
+                "of": 4,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-05-21",
+                "url": "https://www.dailian.co.kr/news/view/1646681"
               },
               null,
               null,
@@ -1848,8 +2602,54 @@
               },
               null,
               null,
-              null,
-              null
+              {
+                "value": 94776.0,
+                "display": "9조 4,776억",
+                "cum": false,
+                "yoy": {
+                  "text": "+6.2%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 3,
+                "of": 4,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-06-11",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026061115485329979efc5ce4ae_18"
+              },
+              {
+                "value": 4174.0,
+                "display": "4,174억",
+                "cum": false,
+                "yoy": {
+                  "text": "+7.6%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 2,
+                "of": 2,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-06-11",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026061115485329979efc5ce4ae_18"
+              },
+              {
+                "value": 188.0,
+                "display": "188.0%",
+                "cum": false,
+                "yoy": {
+                  "text": "+5.9%p",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 2,
+                "of": 2,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-06-11",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026061115485329979efc5ce4ae_18"
+              }
             ]
           },
           {
@@ -1875,11 +2675,12 @@
               null,
               null,
               null,
+              null,
               null
             ]
           }
         ],
-        "comment": "1Q26 당사 당기순이익 989억 (6개사 중 6위, YoY -30.7%)"
+        "comment": "1Q26 당사 당기순이익 989억 (6개사 중 6위, YoY -30.7%), 보험손익 798억 (4개사 중 4위, YoY -41.0%)"
       },
       "2025Q4": {
         "rows": [
@@ -1890,7 +2691,7 @@
               {
                 "value": 3611.0,
                 "display": "3,611억",
-                "cum": true,
+                "cum": false,
                 "yoy": {
                   "text": "-5.5%",
                   "dir": "down",
@@ -1903,7 +2704,38 @@
                 "date": "2026-02-23",
                 "url": "https://www.kukinews.com/article/view/kuk202602230096"
               },
-              null,
+              {
+                "value": 3077.0,
+                "display": "3,077억",
+                "cum": false,
+                "yoy": {
+                  "text": "-22.7%",
+                  "dir": "down",
+                  "good": false
+                },
+                "rank": 6,
+                "of": 6,
+                "source": "IR",
+                "basis": "미상",
+                "date": "2026-05-18",
+                "url": "https://stock.pstatic.net/stock-research/company/62/20260518_company_572416000.pdf"
+              },
+              {
+                "value": 6134.0,
+                "display": "6,134억",
+                "cum": false,
+                "yoy": {
+                  "text": "+21.4%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 4,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-02-23",
+                "url": "https://www.kukinews.com/article/view/kuk202602230096"
+              },
               {
                 "value": 40694.0,
                 "display": "4조 694억",
@@ -1920,7 +2752,22 @@
                 "date": "2026-02-23",
                 "url": "https://www.twig24.com/news/finance/2026/02/23/20260223500117"
               },
-              null,
+              {
+                "value": 10291.0,
+                "display": "1조 291억",
+                "cum": false,
+                "yoy": {
+                  "text": "+38.9%",
+                  "dir": "up",
+                  "good": true
+                },
+                "rank": 6,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-02-23",
+                "url": "https://www.twig24.com/news/finance/2026/02/23/20260223500117"
+              },
               null
             ]
           },
@@ -1931,7 +2778,7 @@
               {
                 "value": 20183.0,
                 "display": "2조 183억",
-                "cum": true,
+                "cum": false,
                 "yoy": {
                   "text": "-2.7%",
                   "dir": "down",
@@ -1944,13 +2791,48 @@
                 "date": "2026-03-17",
                 "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
               },
-              null,
+              {
+                "value": 15598.0,
+                "display": "1조 5,598억",
+                "cum": false,
+                "yoy": null,
+                "rank": 1,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
+              {
+                "value": 10233.0,
+                "display": "1조 233억",
+                "cum": false,
+                "yoy": null,
+                "rank": 2,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
               {
                 "value": 141677.0,
                 "display": "14조 1,677억",
                 "cum": false,
                 "yoy": null,
                 "rank": 1,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
+              {
+                "value": 28984.0,
+                "display": "2조 8,984억",
+                "cum": false,
+                "yoy": null,
+                "rank": 2,
                 "of": 6,
                 "source": "기사",
                 "basis": "미상",
@@ -1972,8 +2854,7 @@
                 "basis": "미상",
                 "date": "2026-03-17",
                 "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
-              },
-              null
+              }
             ]
           },
           {
@@ -1983,7 +2864,7 @@
               {
                 "value": 15348.0,
                 "display": "1조 5,348억",
-                "cum": true,
+                "cum": false,
                 "yoy": null,
                 "rank": 3,
                 "of": 6,
@@ -1992,13 +2873,48 @@
                 "date": "2026-03-17",
                 "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
               },
-              null,
+              {
+                "value": 10359.0,
+                "display": "1조 359억",
+                "cum": false,
+                "yoy": null,
+                "rank": 3,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
+              {
+                "value": 10777.0,
+                "display": "1조 777억",
+                "cum": false,
+                "yoy": null,
+                "rank": 1,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
               {
                 "value": 122053.0,
                 "display": "12조 2,053억",
                 "cum": false,
                 "yoy": null,
                 "rank": 2,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
+              {
+                "value": 29326.0,
+                "display": "2조 9,326억",
+                "cum": false,
+                "yoy": null,
+                "rank": 1,
                 "of": 6,
                 "source": "기사",
                 "basis": "미상",
@@ -2016,8 +2932,7 @@
                 "basis": "미상",
                 "date": "2026-03-17",
                 "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
-              },
-              null
+              }
             ]
           },
           {
@@ -2027,7 +2942,7 @@
               {
                 "value": 5611.0,
                 "display": "5,611억",
-                "cum": true,
+                "cum": false,
                 "yoy": {
                   "text": "-45.6%",
                   "dir": "down",
@@ -2040,13 +2955,48 @@
                 "date": "2026-03-17",
                 "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
               },
-              null,
+              {
+                "value": 3961.0,
+                "display": "3,961억",
+                "cum": false,
+                "yoy": null,
+                "rank": 5,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
+              {
+                "value": 3303.0,
+                "display": "3,303억",
+                "cum": false,
+                "yoy": null,
+                "rank": 6,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
               {
                 "value": 89017.0,
                 "display": "8조 9,017억",
                 "cum": false,
                 "yoy": null,
                 "rank": 5,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
+              {
+                "value": 20860.0,
+                "display": "2조 860억",
+                "cum": false,
+                "yoy": null,
+                "rank": 3,
                 "of": 6,
                 "source": "기사",
                 "basis": "미상",
@@ -2068,8 +3018,7 @@
                 "basis": "미상",
                 "date": "2026-03-17",
                 "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
-              },
-              null
+              }
             ]
           },
           {
@@ -2079,7 +3028,7 @@
               {
                 "value": 7782.0,
                 "display": "7,782억",
-                "cum": true,
+                "cum": false,
                 "yoy": {
                   "text": "-7.3%",
                   "dir": "down",
@@ -2092,7 +3041,30 @@
                 "date": "2026-03-17",
                 "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
               },
-              null,
+              {
+                "value": 6267.0,
+                "display": "6,267억",
+                "cum": false,
+                "yoy": null,
+                "rank": 4,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
+              {
+                "value": 5284.0,
+                "display": "5,284억",
+                "cum": false,
+                "yoy": null,
+                "rank": 5,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
               {
                 "value": 92850.0,
                 "display": "9조 2,850억",
@@ -2102,6 +3074,18 @@
                   "dir": "up",
                   "good": true
                 },
+                "rank": 4,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
+              {
+                "value": 17053.0,
+                "display": "1조 7,053억",
+                "cum": false,
+                "yoy": null,
                 "rank": 4,
                 "of": 6,
                 "source": "기사",
@@ -2124,8 +3108,7 @@
                 "basis": "미상",
                 "date": "2026-03-17",
                 "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
-              },
-              null
+              }
             ]
           },
           {
@@ -2135,7 +3118,7 @@
               {
                 "value": 16810.0,
                 "display": "1조 6,810억",
-                "cum": true,
+                "cum": false,
                 "yoy": null,
                 "rank": 2,
                 "of": 6,
@@ -2144,13 +3127,48 @@
                 "date": "2026-03-17",
                 "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
               },
-              null,
+              {
+                "value": 14254.0,
+                "display": "1조 4,254억",
+                "cum": false,
+                "yoy": null,
+                "rank": 2,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
+              {
+                "value": 8623.0,
+                "display": "8,623억",
+                "cum": false,
+                "yoy": null,
+                "rank": 3,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
               {
                 "value": 111037.0,
                 "display": "11조 1,037억",
                 "cum": false,
                 "yoy": null,
                 "rank": 3,
+                "of": 6,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2026-03-17",
+                "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
+              },
+              {
+                "value": 15882.0,
+                "display": "1조 5,882억",
+                "cum": false,
+                "yoy": null,
+                "rank": 5,
                 "of": 6,
                 "source": "기사",
                 "basis": "미상",
@@ -2168,827 +3186,11 @@
                 "basis": "미상",
                 "date": "2026-03-17",
                 "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18"
-              },
-              null
+              }
             ]
           }
         ],
-        "comment": "4Q25 당사 당기순이익 3,611억 (6개사 중 6위, YoY -5.5%), CSM 4조 694억 (6개사 중 6위, YoY +7.0%)"
-      },
-      "2025Q3": {
-        "rows": [
-          {
-            "company": "한화손보",
-            "isOwn": true,
-            "cells": [
-              {
-                "value": 2942.0,
-                "display": "2,942억",
-                "cum": true,
-                "yoy": {
-                  "text": "-14.9%",
-                  "dir": "down",
-                  "good": false
-                },
-                "rank": 6,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-13",
-                "url": "https://dealsite.co.kr/articles/151459"
-              },
-              null,
-              {
-                "value": 42607.0,
-                "display": "4조 2,607억",
-                "cum": false,
-                "yoy": null,
-                "rank": 5,
-                "of": 5,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-13",
-                "url": "https://dealsite.co.kr/articles/151459"
-              },
-              null,
-              null
-            ]
-          },
-          {
-            "company": "삼성화재",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 17836.0,
-                "display": "1조 7,836억",
-                "cum": true,
-                "yoy": {
-                  "text": "-4.4%",
-                  "dir": "down",
-                  "good": false
-                },
-                "rank": 1,
-                "of": 6,
-                "source": "기사",
-                "basis": "연결(지배)",
-                "date": "2025-11-13",
-                "url": "https://dealsite.co.kr/articles/151409"
-              },
-              null,
-              {
-                "value": 150077.0,
-                "display": "15조 77억",
-                "cum": false,
-                "yoy": null,
-                "rank": 1,
-                "of": 5,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-13",
-                "url": "https://dealsite.co.kr/articles/151409"
-              },
-              {
-                "value": 275.9,
-                "display": "275.9%",
-                "cum": false,
-                "yoy": null,
-                "rank": 1,
-                "of": 4,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-13",
-                "url": "https://dealsite.co.kr/articles/151409"
-              },
-              null
-            ]
-          },
-          {
-            "company": "DB손보",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 11999.0,
-                "display": "1조 1,999억",
-                "cum": true,
-                "yoy": {
-                  "text": "-24.0%",
-                  "dir": "down",
-                  "good": false
-                },
-                "rank": 3,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://m.ceoscoredaily.com/page/view/2025111416145428105"
-              },
-              null,
-              {
-                "value": 134640.0,
-                "display": "13조 4,640억",
-                "cum": false,
-                "yoy": {
-                  "text": "+2.2%",
-                  "dir": "up",
-                  "good": true
-                },
-                "rank": 2,
-                "of": 5,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151516"
-              },
-              {
-                "value": 226.5,
-                "display": "226.5%",
-                "cum": false,
-                "yoy": null,
-                "rank": 3,
-                "of": 4,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151516"
-              },
-              null
-            ]
-          },
-          {
-            "company": "현대해상",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 6341.0,
-                "display": "6,341억",
-                "cum": true,
-                "yoy": {
-                  "text": "-39.4%",
-                  "dir": "down",
-                  "good": false
-                },
-                "rank": 5,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151492"
-              },
-              null,
-              {
-                "value": 96287.0,
-                "display": "9조 6,287억",
-                "cum": false,
-                "yoy": null,
-                "rank": 4,
-                "of": 5,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151492"
-              },
-              {
-                "value": 179.8,
-                "display": "179.8%",
-                "cum": false,
-                "yoy": {
-                  "text": "+9.7%p",
-                  "dir": "up",
-                  "good": true
-                },
-                "rank": 4,
-                "of": 4,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151492"
-              },
-              null
-            ]
-          },
-          {
-            "company": "KB손보",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 7669.0,
-                "display": "7,669억",
-                "cum": true,
-                "yoy": {
-                  "text": "+3.6%",
-                  "dir": "up",
-                  "good": true
-                },
-                "rank": 4,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-04",
-                "url": "https://dealsite.co.kr/articles/150602"
-              },
-              null,
-              null,
-              null,
-              null
-            ]
-          },
-          {
-            "company": "메리츠화재",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 14511.0,
-                "display": "1조 4,511억",
-                "cum": true,
-                "yoy": {
-                  "text": "-2.8%",
-                  "dir": "down",
-                  "good": false
-                },
-                "rank": 2,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151546"
-              },
-              null,
-              {
-                "value": 114712.0,
-                "display": "11조 4,712억",
-                "cum": false,
-                "yoy": {
-                  "text": "+7.8%",
-                  "dir": "up",
-                  "good": true
-                },
-                "rank": 3,
-                "of": 5,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151546"
-              },
-              {
-                "value": 242.7,
-                "display": "242.7%",
-                "cum": false,
-                "yoy": {
-                  "text": "-14.3%p",
-                  "dir": "down",
-                  "good": false
-                },
-                "rank": 2,
-                "of": 4,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151546"
-              },
-              null
-            ]
-          }
-        ],
-        "comment": "3Q25 당사 당기순이익 2,942억 (6개사 중 6위, YoY -14.9%), CSM 4조 2,607억 (5개사 중 5위)"
-      },
-      "2025Q2": {
-        "rows": [
-          {
-            "company": "한화손보",
-            "isOwn": true,
-            "cells": [
-              {
-                "value": 2226.0,
-                "display": "2,226억",
-                "cum": true,
-                "yoy": {
-                  "text": "-12.6%",
-                  "dir": "down",
-                  "good": false
-                },
-                "rank": 6,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-14",
-                "url": "https://dealsite.co.kr/articles/146523"
-              },
-              null,
-              {
-                "value": 41228.0,
-                "display": "4조 1,228억",
-                "cum": false,
-                "yoy": null,
-                "rank": 6,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-14",
-                "url": "https://dealsite.co.kr/articles/146523"
-              },
-              {
-                "value": 180.0,
-                "display": "180.0%",
-                "cum": false,
-                "yoy": null,
-                "rank": 5,
-                "of": 6,
-                "source": "기사",
-                "basis": "경과조치 전",
-                "date": "2025-08-14",
-                "url": "https://dealsite.co.kr/articles/146523"
-              },
-              null
-            ]
-          },
-          {
-            "company": "삼성화재",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 12456.0,
-                "display": "1조 2,456억",
-                "cum": true,
-                "yoy": null,
-                "rank": 1,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-14",
-                "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024"
-              },
-              null,
-              {
-                "value": 143776.0,
-                "display": "14조 3,776억",
-                "cum": false,
-                "yoy": null,
-                "rank": 1,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-13",
-                "url": "https://dealsite.co.kr/articles/151409"
-              },
-              {
-                "value": 274.5,
-                "display": "274.5%",
-                "cum": false,
-                "yoy": null,
-                "rank": 1,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-14",
-                "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024"
-              },
-              null
-            ]
-          },
-          {
-            "company": "DB손보",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 9069.0,
-                "display": "9,069억",
-                "cum": true,
-                "yoy": {
-                  "text": "-19.3%",
-                  "dir": "down",
-                  "good": false
-                },
-                "rank": 3,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-14",
-                "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024"
-              },
-              null,
-              {
-                "value": 132310.0,
-                "display": "13조 2,310억",
-                "cum": false,
-                "yoy": null,
-                "rank": 2,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-09-02",
-                "url": "https://dealsite.co.kr/articles/147290"
-              },
-              {
-                "value": 213.3,
-                "display": "213.3%",
-                "cum": false,
-                "yoy": null,
-                "rank": 3,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151516"
-              },
-              null
-            ]
-          },
-          {
-            "company": "현대해상",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 4510.0,
-                "display": "4,510억",
-                "cum": true,
-                "yoy": null,
-                "rank": 5,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-14",
-                "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024"
-              },
-              null,
-              {
-                "value": 93764.0,
-                "display": "9조 3,764억",
-                "cum": false,
-                "yoy": null,
-                "rank": 4,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-14",
-                "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024"
-              },
-              {
-                "value": 170.0,
-                "display": "170.0%",
-                "cum": false,
-                "yoy": null,
-                "rank": 6,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-14",
-                "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024"
-              },
-              null
-            ]
-          },
-          {
-            "company": "KB손보",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 5581.0,
-                "display": "5,581억",
-                "cum": true,
-                "yoy": null,
-                "rank": 4,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-14",
-                "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024"
-              },
-              null,
-              {
-                "value": 92176.0,
-                "display": "9조 2,176억",
-                "cum": false,
-                "yoy": null,
-                "rank": 5,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-07-24",
-                "url": "https://dealsite.co.kr/articles/145253"
-              },
-              {
-                "value": 187.0,
-                "display": "187.0%",
-                "cum": false,
-                "yoy": null,
-                "rank": 4,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-07-24",
-                "url": "https://dealsite.co.kr/articles/145253"
-              },
-              null
-            ]
-          },
-          {
-            "company": "메리츠화재",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 9873.0,
-                "display": "9,873억",
-                "cum": true,
-                "yoy": {
-                  "text": "-1.0%",
-                  "dir": "down",
-                  "good": false
-                },
-                "rank": 2,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-13",
-                "url": "https://dealsite.co.kr/articles/146476"
-              },
-              null,
-              {
-                "value": 112482.0,
-                "display": "11조 2,482억",
-                "cum": false,
-                "yoy": null,
-                "rank": 3,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-13",
-                "url": "https://dealsite.co.kr/articles/146476"
-              },
-              {
-                "value": 238.9,
-                "display": "238.9%",
-                "cum": false,
-                "yoy": null,
-                "rank": 2,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-13",
-                "url": "https://dealsite.co.kr/articles/146476"
-              },
-              null
-            ]
-          }
-        ],
-        "comment": "2Q25 당사 당기순이익 2,226억 (6개사 중 6위, YoY -12.6%), CSM 4조 1,228억 (6개사 중 6위)"
-      },
-      "2025Q1": {
-        "rows": [
-          {
-            "company": "한화손보",
-            "isOwn": true,
-            "cells": [
-              {
-                "value": 1427.0,
-                "display": "1,427억",
-                "cum": false,
-                "yoy": null,
-                "rank": 5,
-                "of": 5,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2026-05-15",
-                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
-              },
-              null,
-              {
-                "value": 39760.0,
-                "display": "3조 9,760억",
-                "cum": false,
-                "yoy": null,
-                "rank": 6,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-05-14",
-                "url": "https://news.dealsitetv.com/articles/154471"
-              },
-              {
-                "value": 182.5,
-                "display": "182.5%",
-                "cum": false,
-                "yoy": null,
-                "rank": 4,
-                "of": 6,
-                "source": "기사",
-                "basis": "경과조치 전",
-                "date": "2025-08-14",
-                "url": "https://dealsite.co.kr/articles/146523"
-              },
-              null
-            ]
-          },
-          {
-            "company": "삼성화재",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 6081.0,
-                "display": "6,081억",
-                "cum": false,
-                "yoy": null,
-                "rank": 1,
-                "of": 5,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2026-05-15",
-                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
-              },
-              null,
-              {
-                "value": 143328.0,
-                "display": "14조 3,328억",
-                "cum": false,
-                "yoy": null,
-                "rank": 1,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-05-27",
-                "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18"
-              },
-              {
-                "value": 266.6,
-                "display": "266.6%",
-                "cum": false,
-                "yoy": null,
-                "rank": 1,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-05-27",
-                "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18"
-              },
-              null
-            ]
-          },
-          {
-            "company": "DB손보",
-            "isOwn": false,
-            "cells": [
-              null,
-              null,
-              {
-                "value": 128693.0,
-                "display": "12조 8,693억",
-                "cum": false,
-                "yoy": null,
-                "rank": 2,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-05-27",
-                "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18"
-              },
-              {
-                "value": 204.7,
-                "display": "204.7%",
-                "cum": false,
-                "yoy": null,
-                "rank": 3,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-05-27",
-                "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18"
-              },
-              null
-            ]
-          },
-          {
-            "company": "현대해상",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 2031.0,
-                "display": "2,031억",
-                "cum": false,
-                "yoy": null,
-                "rank": 4,
-                "of": 5,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-05-27",
-                "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18"
-              },
-              null,
-              {
-                "value": 91078.0,
-                "display": "9조 1,078억",
-                "cum": false,
-                "yoy": null,
-                "rank": 4,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-05-27",
-                "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18"
-              },
-              {
-                "value": 157.0,
-                "display": "157.0%",
-                "cum": false,
-                "yoy": null,
-                "rank": 6,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-05-27",
-                "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18"
-              },
-              null
-            ]
-          },
-          {
-            "company": "KB손보",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 3135.0,
-                "display": "3,135억",
-                "cum": false,
-                "yoy": null,
-                "rank": 3,
-                "of": 5,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2026-05-15",
-                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
-              },
-              null,
-              {
-                "value": 89225.0,
-                "display": "8조 9,225억",
-                "cum": false,
-                "yoy": null,
-                "rank": 5,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-05-27",
-                "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18"
-              },
-              {
-                "value": 182.1,
-                "display": "182.1%",
-                "cum": false,
-                "yoy": null,
-                "rank": 5,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-05-27",
-                "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18"
-              },
-              null
-            ]
-          },
-          {
-            "company": "메리츠화재",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 4625.0,
-                "display": "4,625억",
-                "cum": false,
-                "yoy": null,
-                "rank": 2,
-                "of": 5,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2026-05-15",
-                "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244"
-              },
-              null,
-              {
-                "value": 111671.0,
-                "display": "11조 1,671억",
-                "cum": false,
-                "yoy": null,
-                "rank": 3,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-05-27",
-                "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18"
-              },
-              {
-                "value": 239.0,
-                "display": "239.0%",
-                "cum": false,
-                "yoy": null,
-                "rank": 2,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-05-27",
-                "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18"
-              },
-              null
-            ]
-          }
-        ],
-        "comment": "1Q25 당사 당기순이익 1,427억 (5개사 중 5위), CSM 3조 9,760억 (6개사 중 6위)"
+        "comment": "FY25 당사 당기순이익 3,611억 (6개사 중 6위, YoY -5.5%), 보험손익 3,077억 (6개사 중 6위, YoY -22.7%)"
       },
       "2024Q4": {
         "rows": [
@@ -2999,7 +3201,7 @@
               {
                 "value": 3823.0,
                 "display": "3,823억",
-                "cum": true,
+                "cum": false,
                 "yoy": null,
                 "rank": 4,
                 "of": 4,
@@ -3008,7 +3210,30 @@
                 "date": "2025-02-21",
                 "url": "https://www.smarttoday.co.kr/ko-kr/articles/73290"
               },
-              null,
+              {
+                "value": 3982.0,
+                "display": "3,982억",
+                "cum": false,
+                "yoy": null,
+                "rank": 1,
+                "of": 1,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2025-02-21",
+                "url": "https://www.smarttoday.co.kr/ko-kr/articles/73290"
+              },
+              {
+                "value": 5052.0,
+                "display": "5,052억",
+                "cum": false,
+                "yoy": null,
+                "rank": 1,
+                "of": 1,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2025-02-21",
+                "url": "https://www.smarttoday.co.kr/ko-kr/articles/73290"
+              },
               {
                 "value": 38032.0,
                 "display": "3조 8,032억",
@@ -3016,6 +3241,18 @@
                 "yoy": null,
                 "rank": 2,
                 "of": 2,
+                "source": "기사",
+                "basis": "미상",
+                "date": "2025-02-21",
+                "url": "https://www.smarttoday.co.kr/ko-kr/articles/73290"
+              },
+              {
+                "value": 7410.0,
+                "display": "7,410억",
+                "cum": false,
+                "yoy": null,
+                "rank": 1,
+                "of": 1,
                 "source": "기사",
                 "basis": "미상",
                 "date": "2025-02-21",
@@ -3032,8 +3269,7 @@
                 "basis": "경과조치 전",
                 "date": "2025-02-21",
                 "url": "https://www.smarttoday.co.kr/ko-kr/articles/73290"
-              },
-              null
+              }
             ]
           },
           {
@@ -3043,7 +3279,7 @@
               {
                 "value": 20736.0,
                 "display": "2조 736억",
-                "cum": true,
+                "cum": false,
                 "yoy": null,
                 "rank": 1,
                 "of": 4,
@@ -3052,6 +3288,8 @@
                 "date": "2025-02-25",
                 "url": "https://news.bizwatch.co.kr/article/finance/2025/02/25/0042"
               },
+              null,
+              null,
               null,
               null,
               {
@@ -3065,14 +3303,14 @@
                 "basis": "미상",
                 "date": "2025-11-13",
                 "url": "https://dealsite.co.kr/articles/151409"
-              },
-              null
+              }
             ]
           },
           {
             "company": "DB손보",
             "isOwn": false,
             "cells": [
+              null,
               null,
               null,
               null,
@@ -3087,7 +3325,7 @@
               {
                 "value": 10310.0,
                 "display": "1조 310억",
-                "cum": true,
+                "cum": false,
                 "yoy": null,
                 "rank": 2,
                 "of": 4,
@@ -3096,6 +3334,8 @@
                 "date": "2025-02-25",
                 "url": "https://news.bizwatch.co.kr/article/finance/2025/02/25/0042"
               },
+              null,
+              null,
               null,
               null,
               {
@@ -3109,8 +3349,7 @@
                 "basis": "미상",
                 "date": "2025-02-25",
                 "url": "https://news.bizwatch.co.kr/article/finance/2025/02/25/0042"
-              },
-              null
+              }
             ]
           },
           {
@@ -3120,7 +3359,7 @@
               {
                 "value": 8395.0,
                 "display": "8,395억",
-                "cum": true,
+                "cum": false,
                 "yoy": null,
                 "rank": 3,
                 "of": 4,
@@ -3129,6 +3368,7 @@
                 "date": "2026-02-06",
                 "url": "https://dealsite.co.kr/articles/156511"
               },
+              null,
               null,
               {
                 "value": 88205.0,
@@ -3142,6 +3382,7 @@
                 "date": "2026-02-06",
                 "url": "https://dealsite.co.kr/articles/156511"
               },
+              null,
               {
                 "value": 188.1,
                 "display": "188.1%",
@@ -3153,8 +3394,7 @@
                 "basis": "미상",
                 "date": "2025-02-24",
                 "url": "https://biz.newdaily.co.kr/site/data/html/2025/02/24/2025022400178.amp.html"
-              },
-              null
+              }
             ]
           },
           {
@@ -3165,298 +3405,14 @@
               null,
               null,
               null,
-              null
-            ]
-          }
-        ],
-        "comment": "4Q24 당사 당기순이익 3,823억 (4개사 중 4위), CSM 3조 8,032억 (2개사 중 2위)"
-      },
-      "2024Q3": {
-        "rows": [
-          {
-            "company": "한화손보",
-            "isOwn": true,
-            "cells": [
-              {
-                "value": 3457.0,
-                "display": "3,457억",
-                "cum": true,
-                "yoy": null,
-                "rank": 6,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-13",
-                "url": "https://dealsite.co.kr/articles/151459"
-              },
-              null,
-              null,
-              null,
-              null
-            ]
-          },
-          {
-            "company": "삼성화재",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 18665.0,
-                "display": "1조 8,665억",
-                "cum": true,
-                "yoy": null,
-                "rank": 1,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-13",
-                "url": "https://dealsite.co.kr/articles/151409"
-              },
-              null,
-              null,
-              null,
-              null
-            ]
-          },
-          {
-            "company": "DB손보",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 15780.0,
-                "display": "1조 5,780억",
-                "cum": true,
-                "yoy": null,
-                "rank": 2,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151516"
-              },
-              null,
-              {
-                "value": 131750.0,
-                "display": "13조 1,750억",
-                "cum": false,
-                "yoy": null,
-                "rank": 1,
-                "of": 2,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151516"
-              },
-              null,
-              null
-            ]
-          },
-          {
-            "company": "현대해상",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 10464.0,
-                "display": "1조 464억",
-                "cum": true,
-                "yoy": null,
-                "rank": 4,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2024-11-18",
-                "url": "https://v.daum.net/v/20241118150105161"
-              },
-              null,
-              null,
-              {
-                "value": 170.1,
-                "display": "170.1%",
-                "cum": false,
-                "yoy": null,
-                "rank": 2,
-                "of": 2,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151492"
-              },
-              null
-            ]
-          },
-          {
-            "company": "KB손보",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 7402.0,
-                "display": "7,402억",
-                "cum": true,
-                "yoy": null,
-                "rank": 5,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-04",
-                "url": "https://dealsite.co.kr/articles/150602"
-              },
-              null,
-              null,
-              null,
-              null
-            ]
-          },
-          {
-            "company": "메리츠화재",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 14928.0,
-                "display": "1조 4,928억",
-                "cum": true,
-                "yoy": null,
-                "rank": 3,
-                "of": 6,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151546"
-              },
-              null,
-              {
-                "value": 106417.0,
-                "display": "10조 6,417억",
-                "cum": false,
-                "yoy": null,
-                "rank": 2,
-                "of": 2,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2024-12-10",
-                "url": "https://dealsite.co.kr/articles/133086"
-              },
-              {
-                "value": 257.0,
-                "display": "257.0%",
-                "cum": false,
-                "yoy": null,
-                "rank": 1,
-                "of": 2,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-11-14",
-                "url": "https://dealsite.co.kr/articles/151546"
-              },
-              null
-            ]
-          }
-        ],
-        "comment": "3Q24 당사 당기순이익 3,457억 (6개사 중 6위)"
-      },
-      "2024Q2": {
-        "rows": [
-          {
-            "company": "한화손보",
-            "isOwn": true,
-            "cells": [
-              {
-                "value": 2547.0,
-                "display": "2,547억",
-                "cum": true,
-                "yoy": null,
-                "rank": 3,
-                "of": 3,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-14",
-                "url": "https://dealsite.co.kr/articles/146523"
-              },
-              null,
-              null,
-              null,
-              null
-            ]
-          },
-          {
-            "company": "삼성화재",
-            "isOwn": false,
-            "cells": [
-              null,
-              null,
-              null,
-              null,
-              null
-            ]
-          },
-          {
-            "company": "DB손보",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 11241.0,
-                "display": "1조 1,241억",
-                "cum": true,
-                "yoy": null,
-                "rank": 1,
-                "of": 3,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2024-11-20",
-                "url": "https://news.tf.co.kr/read/economy/2153089.htm"
-              },
-              null,
-              null,
-              null,
-              null
-            ]
-          },
-          {
-            "company": "현대해상",
-            "isOwn": false,
-            "cells": [
-              null,
-              null,
-              null,
-              null,
-              null
-            ]
-          },
-          {
-            "company": "KB손보",
-            "isOwn": false,
-            "cells": [
-              null,
-              null,
-              null,
-              null,
-              null
-            ]
-          },
-          {
-            "company": "메리츠화재",
-            "isOwn": false,
-            "cells": [
-              {
-                "value": 9977.0,
-                "display": "9,977억",
-                "cum": true,
-                "yoy": null,
-                "rank": 2,
-                "of": 3,
-                "source": "기사",
-                "basis": "미상",
-                "date": "2025-08-13",
-                "url": "https://dealsite.co.kr/articles/146476"
-              },
-              null,
-              null,
               null,
               null
             ]
           }
         ],
-        "comment": "2Q24 당사 당기순이익 2,547억 (3개사 중 3위)"
+        "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-10-07 16:36"
+    "updated": "2026-10-07 17:11"
   }
 }

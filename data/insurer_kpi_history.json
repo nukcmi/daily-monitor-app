@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07 16:36",
+  "updated": "2026-10-07 17:11",
   "processed_urls": [],
   "data": {
     "2026Q1": {
@@ -11,6 +11,30 @@
           "source": "article",
           "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
           "date": "2026-05-15"
+        },
+        "ins_profit": {
+          "value": 798.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://stock.pstatic.net/stock-research/company/62/20260518_company_572416000.pdf",
+          "date": "2026-05-18"
+        },
+        "inv_profit": {
+          "value": 1602.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://stock.pstatic.net/stock-research/company/62/20260518_company_572416000.pdf",
+          "date": "2026-05-18"
+        },
+        "csm": {
+          "value": 42802.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://stock.pstatic.net/stock-research/company/62/20260518_company_572416000.pdf",
+          "date": "2026-05-18"
         }
       },
       "삼성화재": {
@@ -20,6 +44,38 @@
           "basis": "미상",
           "source": "article",
           "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
+          "date": "2026-05-15"
+        },
+        "ins_profit": {
+          "value": 5352.0,
+          "cum": false,
+          "basis": "연결(지배)",
+          "source": "article",
+          "url": "https://stock.pstatic.net/stock-research/company/15/20260515_company_326350000.pdf",
+          "date": "2026-05-15"
+        },
+        "inv_profit": {
+          "value": 3624.0,
+          "cum": false,
+          "basis": "연결(지배)",
+          "source": "article",
+          "url": "https://stock.pstatic.net/stock-research/company/15/20260515_company_326350000.pdf",
+          "date": "2026-05-15"
+        },
+        "new_csm": {
+          "value": 6270.0,
+          "cum": false,
+          "basis": "연결(지배)",
+          "source": "article",
+          "url": "https://stock.pstatic.net/stock-research/company/15/20260515_company_326350000.pdf",
+          "date": "2026-05-15"
+        },
+        "csm": {
+          "value": 144690.0,
+          "cum": false,
+          "basis": "연결(지배)",
+          "source": "article",
+          "url": "https://stock.pstatic.net/stock-research/company/15/20260515_company_326350000.pdf",
           "date": "2026-05-15"
         }
       },
@@ -31,6 +87,38 @@
           "source": "article",
           "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
           "date": "2026-05-15"
+        },
+        "ins_profit": {
+          "value": 2270.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/161914",
+          "date": "2026-05-15"
+        },
+        "inv_profit": {
+          "value": 2360.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/161914",
+          "date": "2026-05-15"
+        },
+        "csm": {
+          "value": 128220.0,
+          "cum": false,
+          "basis": "연결",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/161914",
+          "date": "2026-05-15"
+        },
+        "kics": {
+          "value": 232.1,
+          "cum": false,
+          "basis": "연결",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/161914",
+          "date": "2026-05-15"
         }
       },
       "현대해상": {
@@ -41,6 +129,14 @@
           "source": "article",
           "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
           "date": "2026-05-15"
+        },
+        "ins_profit": {
+          "value": 3021.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.dailian.co.kr/news/view/1646681",
+          "date": "2026-05-21"
         }
       },
       "KB손보": {
@@ -51,6 +147,30 @@
           "source": "article",
           "url": "https://m.ceoscoredaily.com/page/view/2026051514522934244",
           "date": "2026-05-15"
+        },
+        "new_csm": {
+          "value": 4174.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026061115485329979efc5ce4ae_18",
+          "date": "2026-06-11"
+        },
+        "csm": {
+          "value": 94776.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026061115485329979efc5ce4ae_18",
+          "date": "2026-06-11"
+        },
+        "kics": {
+          "value": 188.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026061115485329979efc5ce4ae_18",
+          "date": "2026-06-11"
         }
       },
       "메리츠화재": {
@@ -89,6 +209,22 @@
           "source": "article",
           "url": "https://dealsite.co.kr/articles/146523",
           "date": "2025-08-14"
+        },
+        "ins_profit": {
+          "value": 1353.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.dealsitetv.com/articles/154471",
+          "date": "2025-05-14"
+        },
+        "inv_profit": {
+          "value": 1592.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.dealsitetv.com/articles/154471",
+          "date": "2025-05-14"
         }
       },
       "삼성화재": {
@@ -110,6 +246,30 @@
         },
         "kics": {
           "value": 266.6,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "ins_profit": {
+          "value": 5249.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "inv_profit": {
+          "value": 2913.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "new_csm": {
+          "value": 7015.0,
           "cum": false,
           "basis": "미상",
           "source": "article",
@@ -141,6 +301,22 @@
           "source": "article",
           "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
           "date": "2025-05-27"
+        },
+        "ins_profit": {
+          "value": 2730.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "new_csm": {
+          "value": 3879.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
         }
       },
       "메리츠화재": {
@@ -162,6 +338,30 @@
         },
         "kics": {
           "value": 239.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "ins_profit": {
+          "value": 3598.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "inv_profit": {
+          "value": 2621.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "new_csm": {
+          "value": 3568.0,
           "cum": false,
           "basis": "미상",
           "source": "article",
@@ -193,6 +393,30 @@
           "source": "article",
           "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
           "date": "2025-05-27"
+        },
+        "ins_profit": {
+          "value": 1759.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "inv_profit": {
+          "value": 1069.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "new_csm": {
+          "value": 4792.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
         }
       },
       "DB손보": {
@@ -206,6 +430,38 @@
         },
         "kics": {
           "value": 204.7,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "net_income": {
+          "value": 4470.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/161914",
+          "date": "2026-05-15"
+        },
+        "ins_profit": {
+          "value": 4027.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "inv_profit": {
+          "value": 2439.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2025052616173793629efc5ce4ae_18",
+          "date": "2025-05-27"
+        },
+        "new_csm": {
+          "value": 7070.0,
           "cum": false,
           "basis": "미상",
           "source": "article",
@@ -427,6 +683,30 @@
           "source": "article",
           "url": "https://www.smarttoday.co.kr/ko-kr/articles/73290",
           "date": "2025-02-21"
+        },
+        "ins_profit": {
+          "value": 3982.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/73290",
+          "date": "2025-02-21"
+        },
+        "inv_profit": {
+          "value": 5052.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/73290",
+          "date": "2025-02-21"
+        },
+        "new_csm": {
+          "value": 7410.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/73290",
+          "date": "2025-02-21"
         }
       }
     },
@@ -481,6 +761,14 @@
           "source": "article",
           "url": "https://dealsite.co.kr/articles/151516",
           "date": "2025-11-14"
+        },
+        "ins_profit": {
+          "value": 6700.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://news.bizwatch.co.kr/article/finance/2025/08/14/0024",
+          "date": "2025-08-14"
         }
       },
       "KB손보": {
@@ -503,6 +791,22 @@
         "kics": {
           "value": 187.0,
           "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/145253",
+          "date": "2025-07-24"
+        },
+        "ins_profit": {
+          "value": 5010.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/145253",
+          "date": "2025-07-24"
+        },
+        "inv_profit": {
+          "value": 2624.0,
+          "cum": true,
           "basis": "미상",
           "source": "article",
           "url": "https://dealsite.co.kr/articles/145253",
@@ -559,6 +863,22 @@
           "source": "article",
           "url": "https://dealsite.co.kr/articles/146476",
           "date": "2025-08-13"
+        },
+        "ins_profit": {
+          "value": 7242.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146476",
+          "date": "2025-08-13"
+        },
+        "inv_profit": {
+          "value": 6048.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146476",
+          "date": "2025-08-13"
         }
       },
       "한화손보": {
@@ -582,6 +902,30 @@
           "value": 180.0,
           "cum": false,
           "basis": "경과조치 전",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146523",
+          "date": "2025-08-14"
+        },
+        "ins_profit": {
+          "value": 2300.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146523",
+          "date": "2025-08-14"
+        },
+        "inv_profit": {
+          "value": 2900.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/146523",
+          "date": "2025-08-14"
+        },
+        "new_csm": {
+          "value": 4510.0,
+          "cum": true,
+          "basis": "미상",
           "source": "article",
           "url": "https://dealsite.co.kr/articles/146523",
           "date": "2025-08-14"
@@ -747,6 +1091,30 @@
           "source": "article",
           "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
           "date": "2026-03-17"
+        },
+        "ins_profit": {
+          "value": 15598.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "inv_profit": {
+          "value": 10233.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "new_csm": {
+          "value": 28984.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
         }
       },
       "메리츠화재": {
@@ -769,6 +1137,30 @@
         "kics": {
           "value": 237.4,
           "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "ins_profit": {
+          "value": 14254.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "inv_profit": {
+          "value": 8623.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "new_csm": {
+          "value": 15882.0,
+          "cum": true,
           "basis": "미상",
           "source": "article",
           "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
@@ -799,6 +1191,30 @@
           "source": "article",
           "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
           "date": "2026-03-17"
+        },
+        "ins_profit": {
+          "value": 10359.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "inv_profit": {
+          "value": 10777.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "new_csm": {
+          "value": 29326.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
         }
       },
       "KB손보": {
@@ -821,6 +1237,30 @@
         "kics": {
           "value": 190.2,
           "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "ins_profit": {
+          "value": 6267.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "inv_profit": {
+          "value": 5284.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "new_csm": {
+          "value": 17053.0,
+          "cum": true,
           "basis": "미상",
           "source": "article",
           "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
@@ -851,6 +1291,30 @@
           "source": "article",
           "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
           "date": "2026-03-17"
+        },
+        "ins_profit": {
+          "value": 3961.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "inv_profit": {
+          "value": 3303.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
+        },
+        "new_csm": {
+          "value": 20860.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026031316084841409efc5ce4ae_18",
+          "date": "2026-03-17"
         }
       },
       "한화손보": {
@@ -869,6 +1333,324 @@
           "source": "article",
           "url": "https://www.twig24.com/news/finance/2026/02/23/20260223500117",
           "date": "2026-02-23"
+        },
+        "inv_profit": {
+          "value": 6134.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.kukinews.com/article/view/kuk202602230096",
+          "date": "2026-02-23"
+        },
+        "new_csm": {
+          "value": 10291.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.twig24.com/news/finance/2026/02/23/20260223500117",
+          "date": "2026-02-23"
+        },
+        "ins_profit": {
+          "value": 3077.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "ir",
+          "url": "https://stock.pstatic.net/stock-research/company/62/20260518_company_572416000.pdf",
+          "date": "2026-05-18"
+        }
+      }
+    },
+    "2026Q2": {
+      "삼성화재": {
+        "net_income": {
+          "value": 13723.0,
+          "cum": true,
+          "basis": "연결(지배)",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "ins_profit": {
+          "value": 11145.0,
+          "cum": true,
+          "basis": "연결(지배)",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "inv_profit": {
+          "value": 7880.0,
+          "cum": true,
+          "basis": "연결(지배)",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "new_csm": {
+          "value": 12423.0,
+          "cum": true,
+          "basis": "연결(지배)",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "csm": {
+          "value": 145947.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "kics": {
+          "value": 282.8,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        }
+      },
+      "메리츠화재": {
+        "net_income": {
+          "value": 10243.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "ins_profit": {
+          "value": 6975.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "inv_profit": {
+          "value": 7031.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "new_csm": {
+          "value": 8942.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "csm": {
+          "value": 121208.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "kics": {
+          "value": 231.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        }
+      },
+      "DB손보": {
+        "net_income": {
+          "value": 9796.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "ins_profit": {
+          "value": 7884.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "inv_profit": {
+          "value": 6382.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "new_csm": {
+          "value": 12106.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "csm": {
+          "value": 127940.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "kics": {
+          "value": 204.3,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        }
+      },
+      "현대해상": {
+        "net_income": {
+          "value": 6151.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "ins_profit": {
+          "value": 7057.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "inv_profit": {
+          "value": 1057.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "new_csm": {
+          "value": 9509.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "csm": {
+          "value": 98943.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "kics": {
+          "value": 209.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        }
+      },
+      "KB손보": {
+        "net_income": {
+          "value": 4788.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "ins_profit": {
+          "value": 4406.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "inv_profit": {
+          "value": 2256.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "new_csm": {
+          "value": 8140.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "csm": {
+          "value": 107216.0,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        },
+        "kics": {
+          "value": 183.9,
+          "cum": false,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026082716144732469efc5ce4ae_18",
+          "date": "2026-08-27"
+        }
+      },
+      "한화손보": {
+        "net_income": {
+          "value": 2153.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/167059",
+          "date": "2026-08-12"
+        },
+        "new_csm": {
+          "value": 6296.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://dealsite.co.kr/articles/167059",
+          "date": "2026-08-12"
+        },
+        "ins_profit": {
+          "value": 1817.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026081214312221369efc5ce4ae_18",
+          "date": "2026-08-12"
+        },
+        "inv_profit": {
+          "value": 3054.0,
+          "cum": true,
+          "basis": "미상",
+          "source": "article",
+          "url": "https://www.fntimes.com/html/view.php?ud=2026081214312221369efc5ce4ae_18",
+          "date": "2026-08-12"
+        },
+        "kics": {
+          "value": 185.0,
+          "cum": false,
+          "basis": "경과조치 전",
+          "source": "article",
+          "url": "https://news.bizwatch.co.kr/article/finance/2026/08/12/0043",
+          "date": "2026-08-12"
         }
       }
     }
