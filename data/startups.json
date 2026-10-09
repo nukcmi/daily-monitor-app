@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-07 23:26",
+  "updated": "2026-10-09 23:19",
   "items": [
+    {
+      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+      "source": "TechCrunch",
+      "date": "10/08",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+      "source": "TechCrunch",
+      "date": "10/07",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
     {
       "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
       "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
@@ -20,37 +38,55 @@
       "bullets": []
     },
     {
-      "title": "Stuut cashes in on agentic order-to-cash automation with $52.5M in funding",
-      "url": "https://siliconangle.com/2026/10/07/stuut-cashes-in-on-agentic-order-to-cash-automation-with-52-5m-in-funding/",
+      "title": "Gallatin AI raises $50M in funding for its military logistics platform",
+      "url": "https://siliconangle.com/2026/10/08/gallatin-ai-raises-50m-in-funding-for-its-military-logistics-platform/",
       "source": "SiliconANGLE",
-      "date": "10/07",
+      "date": "10/09",
       "insight": "",
       "takeaway": "",
       "bullets": []
     },
     {
-      "title": "Multiply Labs raises $75M to optimize pharmaceutical manufacturing with robots",
-      "url": "https://siliconangle.com/2026/10/06/multiply-labs-raises-75m-to-optimize-pharmaceutical-manufacturing-with-robots/",
+      "title": "Alphabet spinoff Isomorphic Labs reportedly raising funding at up to $50B valuation",
+      "url": "https://siliconangle.com/2026/10/08/alphabet-spinoff-isomorphic-labs-reportedly-raising-funding-at-up-to-50b-valuation/",
       "source": "SiliconANGLE",
-      "date": "10/07",
+      "date": "10/08",
       "insight": "",
       "takeaway": "",
       "bullets": []
     },
     {
-      "title": "Vinci reels in $250M for its engineering simulation platform",
-      "url": "https://siliconangle.com/2026/10/06/vinci-reels-in-250m-for-its-engineering-simulation-platform/",
+      "title": "AI agent developer Manus raises $500M+ at reported $4B valuation",
+      "url": "https://siliconangle.com/2026/10/08/ai-agent-developer-manus-raises-500m-at-reported-4b-valuation/",
       "source": "SiliconANGLE",
-      "date": "10/06",
+      "date": "10/08",
       "insight": "",
       "takeaway": "",
       "bullets": []
     },
     {
-      "title": "Three key insights you may have missed from theCUBE’s coverage of the Supermicro Open Storage Summit interview series",
-      "url": "https://siliconangle.com/2026/10/06/ai-storage-strategy-three-insightgs-supermicro-summit-supermicroopenstoragesummit/",
+      "title": "Automation Anywhere acquires Boost.ai to expand customer-facing voice AI",
+      "url": "https://siliconangle.com/2026/10/08/automation-anywhere-acquires-boost-ai-to-expand-customer-facing-voice-ai/",
       "source": "SiliconANGLE",
-      "date": "10/06",
+      "date": "10/08",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Oratomic raises $475M for neutral-atom quantum computing, Universal Quantum nets $100M+",
+      "url": "https://siliconangle.com/2026/10/08/oratomic-raises-475m-for-neutral-atom-quantum-computing-universal-quantum-nets-100m/",
+      "source": "SiliconANGLE",
+      "date": "10/08",
+      "insight": "",
+      "takeaway": "",
+      "bullets": []
+    },
+    {
+      "title": "Harness acquires Augment Code to bridge software engineering from idea to deployment",
+      "url": "https://siliconangle.com/2026/10/08/harness-acquires-augment-code-to-bridge-software-engineering-from-idea-to-deployment/",
+      "source": "SiliconANGLE",
+      "date": "10/08",
       "insight": "",
       "takeaway": "",
       "bullets": []

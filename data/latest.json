@@ -1,21 +1,21 @@
 {
-  "asOf": "2026-10-07",
-  "updated": "2026-10-07 23:26",
-  "fx": "환율 2026-10-07 · 시장환율   1 USD = ₩1,339.10   |   1 USD = 17,878.00 IDR   |   1 IDR = ₩0.07490",
+  "asOf": "2026-10-09",
+  "updated": "2026-10-09 23:19",
+  "fx": "환율 2026-10-09 · 시장환율   1 USD = ₩1,340.68   |   1 USD = 17,879.00 IDR   |   1 IDR = ₩0.07499",
   "attentionItems": [
     {
       "company": "차바이오텍",
-      "text": "[기재정정]타인에대한담보제공결정",
+      "text": "차바이오텍 주가 하락 중",
       "impact": "-",
       "level": "low",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901259"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JV2NQcFlnM2NidkxUTmNuUXpMZ0E5Yk5QUjRVTWVrZzA0MGpLOElEWVZyVGFacklLWkdXUVRoVnVrYmVvWmZOYUkyQTdTU1dWTEp5QlJnZGtFZEVPR29BNkNiRkZSOFhicTFDejRvN1A0RURC?oc=5"
     },
     {
-      "company": "차바이오텍",
-      "text": "[Business News] 할리우드 차병원 마티카바이오, 송윤정 신임대표 선임",
+      "company": "차AI헬스케어",
+      "text": "차AI헬스케어 투자분석 2026. 10. 07",
       "impact": "-",
       "level": "low",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901259"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVUUF0VUJuQ0pra3RoMGVRZ21tdUp6T2ZWZ2E2QVI2QWNrM0N2RHRadlQydWo5aWlNaTJKLWNfdnNrWDBCLUJ5X2NlTEJxU0VwWTNSc1c3MW1OQ3ZkS1BtUzZHTzFFQXZzcUh5SVhLNjk5TjA?oc=5"
     }
   ],
   "companies": [
@@ -26,20 +26,20 @@
       "g": "B",
       "event": "공시·기사 확인 필요",
       "tags": [
-        "-1.15%",
+        "-4.21%",
         "당사 투자"
       ],
-      "priceText": "₩8,560",
-      "openText": "₩8,750",
-      "highText": "₩8,800",
-      "lowText": "₩8,510",
-      "prevCloseText": "₩8,660",
-      "changeText": "-₩100",
+      "priceText": "₩8,200",
+      "openText": "₩8,560",
+      "highText": "₩8,670",
+      "lowText": "₩8,150",
+      "prevCloseText": "₩8,560",
+      "changeText": "-₩360",
       "thesis": "당사 투자 지분 보유. CGT(세포·유전자치료제)/CDMO(위탁개발생산) 사업 진행 및 자금조달 이슈 중점",
       "kpis": [
         [
           "종가",
-          "₩8,560",
+          "₩8,200",
           null
         ],
         [
@@ -49,32 +49,32 @@
         ],
         [
           "취득가대비",
-          "-33.15%",
+          "-35.96%",
           null
         ],
         [
           "전일대비",
-          "-1.15%",
+          "-4.21%",
           null
         ],
         [
           "전주대비",
-          "+1.18%",
+          "-3.07%",
           null
         ],
         [
           "거래량(20일比)",
-          "14.95만 · 0.80x",
+          "16.63만 · 0.89x",
           null
         ],
         [
           "시가총액",
-          "7,958억",
+          "7,624억",
           null
         ],
         [
           "52주 고점대비",
-          "-64.26%",
+          "-65.76%",
           null
         ]
       ],
@@ -89,15 +89,10 @@
         }
       ],
       "events": [
-        "[기재정정]타인에대한담보제공결정",
-        "[Business News] 할리우드 차병원 마티카바이오, 송윤정 신임대"
+        "차바이오텍 주가 하락 중"
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/6",
-          "close": 10480.0
-        },
         {
           "date": "7/7",
           "close": 10380.0
@@ -345,74 +340,25 @@
         {
           "date": "10/7",
           "close": 8560.0
+        },
+        {
+          "date": "10/8",
+          "close": 8200.0
         }
       ],
       "avgCost": 12805,
       "currency": "KRW",
-      "exchangeLine": "KRX · 10/7 종가",
-      "sourceUrl": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901259",
+      "exchangeLine": "KRX · 10/8 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JV2NQcFlnM2NidkxUTmNuUXpMZ0E5Yk5QUjRVTWVrZzA0MGpLOElEWVZyVGFacklLWkdXUVRoVnVrYmVvWmZOYUkyQTdTU1dWTEp5QlJnZGtFZEVPR29BNkNiRkZSOFhicTFDejRvN1A0RURC?oc=5",
       "sources": [
         {
-          "title": "[기재정정]타인에대한담보제공결정",
-          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260930901259",
-          "source": "DART",
-          "date": "20260930"
-        },
-        {
-          "title": "[Business News] 할리우드 차병원 마티카바이오, 송윤정 신임대표 선임",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOa3pod1E2UUhnTEZfQXFBZjRRWFJTejU3Si12LXFoalhIMTZtWjVLM1IwcGtPZHhDR28xM0hWaGFhb21BRXdCdmtISHFCMk96RlktR3dXc1VXQmZ6SC1OX05SM0lnRTFpaVRLTGVHRWotLTVsS1pmcDFXV2lBN1g5azl4VmlBTGROVmJXMk1EWkZ2dzVOTWlWaERlblRNMEFzM2d0ZzdpNHRoX0JQX0ViRUtlOEpNTWJlTlBtMFpBWEFwUjUxMlo5SGNHVDhmdWRQR3dVVF9TZ2tuVTNFRzdZaC1nWWdJQQ?oc=5",
-          "source": "미주조선일보",
-          "date": "10/06"
-        },
-        {
-          "title": "[Weekly 제약&바이오] 차병원·차바이오그룹·동아제약·심평원",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hSUVnWThuSVRud2I3ZjNWdjBSOGljbFhQOHFkaEVEMW1WOUxEZ0hjN2NCVHdwalVsS1FqaEl1M0FaMWxoOTNsTlN5cVVsR25rMkJnUV81aS0xbzlZUFRHWWNuWGN0bHNJSFRxV05iVDljb0E?oc=5",
-          "source": "오늘경제",
-          "date": "10/06"
-        },
-        {
-          "title": "차바이오텍 주가 상승 중",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LRUxXTmw3d1NQYW95THV2QTJPZV9FZGhmMFdGWjJ5VlljUGppRFZZU1hSS0s0Y216d29uZU5sX3FnQy12azdzNGxoVV82TXlFQXNQZXV3eTdnUWQwTkI2M1JXYWQ5TUoxdXRzaFd4RHNKX2I2?oc=5",
+          "title": "차바이오텍 주가 하락 중",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JV2NQcFlnM2NidkxUTmNuUXpMZ0E5Yk5QUjRVTWVrZzA0MGpLOElEWVZyVGFacklLWkdXUVRoVnVrYmVvWmZOYUkyQTdTU1dWTEp5QlJnZGtFZEVPR29BNkNiRkZSOFhicTFDejRvN1A0RURC?oc=5",
           "source": "아시아뉴스통신",
-          "date": "10/06"
+          "date": "10/08"
         }
       ],
       "archive30d": [
-        {
-          "summary": "세포치료제 규제 문턱 완화로 사업화 속도가 빨라질 것으로 분석됨",
-          "impact": "CGT 사업화 가시성 제고 시 당사 보유 지분가치 재평가 여지 발생",
-          "level": "mid",
-          "date": "09/06",
-          "collected_at": "2026-09-07"
-        },
-        {
-          "summary": "주식 대량보유 상황 보고서(일반) 신규 공시 제출",
-          "impact": "지분구조 변동 가능성으로 당사 보유 지분의 희석·경영권 영향 여부 확인 필요",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-07"
-        },
-        {
-          "summary": "주식 등 대량보유상황 보고서(일반) 공시 접수",
-          "impact": "지분구조 변동 가능성으로 당사 보유 지분 희석 또는 경영권 구도 변화 여부 확인 필요",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-07"
-        },
-        {
-          "summary": "세포치료제 규제 문턱 완화로 사업화 속도가 빨라질 것이라는 분석 보도",
-          "impact": "CGT 사업 실현 가능성 제고로 당사 보유 지분가치에 중기적 긍정 요인",
-          "level": "mid",
-          "date": "09/06",
-          "collected_at": "2026-09-07"
-        },
-        {
-          "summary": "주식 등 대량보유상황 보고서(일반) 공시 발생",
-          "impact": "지분구조 변동 가능성 확인 필요. 당사 보유 지분 희석·경영권 영향 여부 점검 요함.",
-          "level": "mid",
-          "date": "09/03",
-          "collected_at": "2026-09-08"
-        },
         {
           "summary": "주식등의 대량보유상황보고서(일반) DART 공시 접수",
           "impact": "주요 주주 지분구조 변동 가능성으로 당사 보유 지분 희석·경영권 영향 여부 점검 필요",
@@ -531,6 +477,13 @@
           "level": "low",
           "date": "10/06",
           "collected_at": "2026-10-07"
+        },
+        {
+          "summary": "차바이오텍 주가 하락 중",
+          "impact": "-",
+          "level": "low",
+          "date": "10/08",
+          "collected_at": "2026-10-09"
         }
       ]
     },
@@ -538,23 +491,23 @@
       "id": "025620",
       "name": "차AI헬스케어",
       "ticker": "025620",
-      "g": "C",
-      "event": "주요 변동 없음",
+      "g": "B",
+      "event": "공시·기사 확인 필요",
       "tags": [
-        "+0.00%",
+        "+1.28%",
         "당사 투자"
       ],
-      "priceText": "₩5,480",
-      "openText": "₩5,370",
-      "highText": "₩5,650",
+      "priceText": "₩5,550",
+      "openText": "₩5,500",
+      "highText": "₩5,580",
       "lowText": "₩5,370",
       "prevCloseText": "₩5,480",
-      "changeText": "+₩0",
+      "changeText": "+₩70",
       "thesis": "당사 투자 지분 보유. 외부사업 확장 상황 중점",
       "kpis": [
         [
           "종가",
-          "₩5,480",
+          "₩5,550",
           null
         ],
         [
@@ -569,27 +522,27 @@
         ],
         [
           "전일대비",
-          "+0.00%",
+          "+1.28%",
           null
         ],
         [
           "전주대비",
-          "+4.58%",
+          "+5.92%",
           null
         ],
         [
           "거래량(20일比)",
-          "5.30천 · 0.53x",
+          "1.10만 · 1.08x",
           null
         ],
         [
           "시가총액",
-          "997억",
+          "1,010억",
           null
         ],
         [
           "52주 고점대비",
-          "-72.30%",
+          "-71.94%",
           null
         ]
       ],
@@ -604,14 +557,11 @@
         }
       ],
       "events": [
-        "공시·기사 기준 특이사항 없음"
+        "차AI헬스케어 투자분석 2026. 10. 07",
+        "화장품, 스테이블코인, 패션/의류 등..."
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/6",
-          "close": 6680.0
-        },
         {
           "date": "7/7",
           "close": 7060.0
@@ -859,14 +809,52 @@
         {
           "date": "10/7",
           "close": 5480.0
+        },
+        {
+          "date": "10/8",
+          "close": 5550.0
         }
       ],
       "avgCost": null,
       "currency": "KRW",
-      "exchangeLine": "KRX · 10/7 종가",
-      "sourceUrl": null,
-      "sources": [],
-      "archive30d": []
+      "exchangeLine": "KRX · 10/8 종가",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVUUF0VUJuQ0pra3RoMGVRZ21tdUp6T2ZWZ2E2QVI2QWNrM0N2RHRadlQydWo5aWlNaTJKLWNfdnNrWDBCLUJ5X2NlTEJxU0VwWTNSc1c3MW1OQ3ZkS1BtUzZHTzFFQXZzcUh5SVhLNjk5TjA?oc=5",
+      "sources": [
+        {
+          "title": "차AI헬스케어 투자분석 2026. 10. 07",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVUUF0VUJuQ0pra3RoMGVRZ21tdUp6T2ZWZ2E2QVI2QWNrM0N2RHRadlQydWo5aWlNaTJKLWNfdnNrWDBCLUJ5X2NlTEJxU0VwWTNSc1c3MW1OQ3ZkS1BtUzZHTzFFQXZzcUh5SVhLNjk5TjA?oc=5",
+          "source": "주달",
+          "date": "10/08"
+        },
+        {
+          "title": "화장품, 스테이블코인, 패션/의류 등...",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jcGgxak1pTXN6WEJ0OXVjMml6OThXRFJ1SEEyRTYwVlo1bzRCWE92N3MyTlNZUUtvWFRlcjlIRjFXQmRIcGN5ZEgxRkFDVWFUZVZtbU5DcW1RQ2hXVERvYzd3T2E1UjZP?oc=5",
+          "source": "ThinkPool",
+          "date": "10/08"
+        },
+        {
+          "title": "스테이블코인, 화장품, 패션/의류 등...",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UVlp0N0RWTFo5cXNBcC1KTGI3NTV3dkYxemE0Nm12QVNfNENYLWk4RElGZF8xUENqbmxlYTNJMldGbi1YVS1UNWtsREE2eVVvUmhMd2otRnZqeXFBampPVUpFZGk3N1Vk?oc=5",
+          "source": "ThinkPool",
+          "date": "10/08"
+        }
+      ],
+      "archive30d": [
+        {
+          "summary": "차AI헬스케어 투자분석 2026. 10. 07",
+          "impact": "-",
+          "level": "low",
+          "date": "10/08",
+          "collected_at": "2026-10-09"
+        },
+        {
+          "summary": "화장품, 스테이블코인, 패션/의류 등...",
+          "impact": "-",
+          "level": "low",
+          "date": "10/08",
+          "collected_at": "2026-10-09"
+        }
+      ]
     },
     {
       "id": "LUMN",
@@ -875,21 +863,21 @@
       "g": "B",
       "event": "공시·기사 확인 필요",
       "tags": [
-        "-0.79%",
+        "+0.17%",
         "벤치마크"
       ],
-      "priceText": "$46.30",
-      "openText": "$47.55",
-      "highText": "$47.62",
-      "lowText": "$46.00",
-      "prevCloseText": "$46.67",
-      "changeText": "-$0.37",
+      "priceText": "$46.91",
+      "openText": "$46.76",
+      "highText": "$46.91",
+      "lowText": "$45.77",
+      "prevCloseText": "$46.83",
+      "changeText": "+$0.08",
       "thesis": "디지털 손보 벤치마크. IFP 성장률, Loss Ratio, EBITDA 흑자전환 시점 중점",
       "kpis": [
         [
           "종가",
-          "$46.30",
-          "₩62,000"
+          "$46.91",
+          "₩62,891"
         ],
         [
           "취득가",
@@ -903,27 +891,27 @@
         ],
         [
           "전일대비",
-          "-0.79%",
+          "+0.17%",
           null
         ],
         [
           "전주대비",
-          "-0.41%",
+          "+0.90%",
           null
         ],
         [
           "거래량(20일比)",
-          "86.24만 · 0.78x",
+          "154.49만 · 1.45x",
           null
         ],
         [
           "시가총액",
-          "$3.54B",
-          "4.74조"
+          "$3.62B",
+          "4.86조"
         ],
         [
           "52주 고점대비",
-          "-53.65%",
+          "-53.04%",
           null
         ]
       ],
@@ -938,19 +926,11 @@
         }
       ],
       "events": [
-        "루멘 Oct 2026 47.000 call (루멘261023C000470",
-        "루멘 (루멘) Options Chain"
+        "루멘 expands Tesla FSD insurance discounts",
+        "루멘 expands insurance coverage in Florida"
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/9",
-          "close": 70.33
-        },
-        {
-          "date": "7/10",
-          "close": 70.51
-        },
         {
           "date": "7/13",
           "close": 70.62
@@ -1194,46 +1174,47 @@
         {
           "date": "10/6",
           "close": 46.3
+        },
+        {
+          "date": "10/7",
+          "close": 46.83
+        },
+        {
+          "date": "10/8",
+          "close": 46.91
         }
       ],
       "avgCost": null,
       "currency": "USD",
-      "exchangeLine": "NYSE · 10/6 종가 (ET)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15VHBFV2R3cklBai1JbUkwcjhvWC1wVFFacXV4YWs1Sm1maHI3UUNfUjRzUlR1SjZSX2VPMEgxZmhBdVd0WDRVaklUZVVNZ0JxXzkxLUhYOEdWaDFKdDdpMngxTk9mdw?oc=5",
+      "exchangeLine": "NYSE · 10/8 종가 (ET)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00ZHVHbFIyVi05bmEwTWVOXzk4TUhQSlZUMVM4TVRwNzNZajFQZngyYWdFRzYzMEY0M3JjRDh5WlhLd2djUGFGTHBIcm5Dc3I2bmMzQ2FSMkxkVzF0eWM2M2NBdjNpMTJJUGd3NThpVlVmQ29YaDNSSXlMdXExQQ?oc=5",
       "sources": [
         {
-          "title": "루멘 Oct 2026 47.000 call (루멘261023C00047000) Stock Price, News, Quote & History",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15VHBFV2R3cklBai1JbUkwcjhvWC1wVFFacXV4YWs1Sm1maHI3UUNfUjRzUlR1SjZSX2VPMEgxZmhBdVd0WDRVaklUZVVNZ0JxXzkxLUhYOEdWaDFKdDdpMngxTk9mdw?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "date": "10/07"
+          "title": "루멘 expands Tesla FSD insurance discounts to HW3 vehicles",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00ZHVHbFIyVi05bmEwTWVOXzk4TUhQSlZUMVM4TVRwNzNZajFQZngyYWdFRzYzMEY0M3JjRDh5WlhLd2djUGFGTHBIcm5Dc3I2bmMzQ2FSMkxkVzF0eWM2M2NBdjNpMTJJUGd3NThpVlVmQ29YaDNSSXlMdXExQQ?oc=5",
+          "source": "Beinsure",
+          "date": "10/09"
         },
         {
-          "title": "루멘 (루멘) Options Chain",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc0ZPTnppelBxaHgwVUFvaXF3OGhlWlRYUzdDQ1NjQVdBNjM0SkpsTTdHcUpLejlKWVdMM2UzdlVjZ1hBam1iSGYyVzc2ZkNNNC1CZE9yZFNLVWt2aHV2ekVEMjhPQXU1d1VlOGlyWXhjNm9EaTZmV3g2WEZMeXBoNzY1Wlp3eGVhMFppbXk3MTZVQQ?oc=5",
-          "source": "Yahoo! Finance Canada",
-          "date": "10/06"
+          "title": "루멘 expands insurance coverage in Florida, Kentucky and Alaska",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR200Q045eFVMQVlCMjhfbzdRR3A4VGNPNFk4bXZuU3dHUk1QZVlJdXB0QmdJTWxqWlA0OTIySk9IXzctOGpWaVhBM0tCYkVvWHpRclJlUmltdDVsY25ON1hUTk5sSlpLTGFjRXZ3aXB1Sl9HTVdGVkdGRTNkWmxhSWZyQQ?oc=5",
+          "source": "Beinsure",
+          "date": "10/09"
         },
         {
-          "title": "루멘 Maintained by Morgan Stanley -- Price Target Lowers to $48",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUIteVY0NW95R2hORmtpYlhvTEszME5rbll4VEJMU2N0T0R3elQ5amRfa1NhS2d4R3JlaUsyN1pCYzAwa1NJdG9iMnBoRk5sVENXS0ZiNnJtR1FjVUxjM2EzZXhCeUdfX0o2d0tNcC1JN3J3WXVvT3YwT2VESjcxWVVYbTg4ZHM3UENYWHFfV0FvZVdXR3ZGTUIyRm9BN28?oc=5",
-          "source": "GuruFocus",
-          "date": "10/06"
+          "title": "Insurtech 루멘 launches renters insurance in Hawaii",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqSXUyX1FOcGhqaVBMMXRnMlVuOUNmNFA3MW9HZVBVX0xBSkVJWnRiOWRNSU40ejd6N1JDYjQ1QnJiRnNxdmdUMjRtM3l5RkRxOHlYZzlkZEtuYUNsNWJYYlJCWFJkdVE0U3M4cWVHMWYweGo3eTZDOWRwVWU?oc=5",
+          "source": "Beinsure",
+          "date": "10/09"
         },
         {
-          "title": "루멘 (루멘) Launches Renters Insurance in Hawaii with Compet",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEdWNnZfY3IwUFp5WUpXcl9hbFlSNTVhYzY3MjU0NThkUmhIa3lMSHJDbkswVERsNVNGVHlsUUxuVjY5VWFKWWJZdTlDd2ttRU9xb2IxeEFHQXhRWlR3anQwQUpZLTcyZ3NsS3pESFBXdlE2dkxCeHRzVHJsMU53Uk1hQnpBTnU5NTZESUliRFppLWpUU0xid21ScVlFaEtNeWxtdEFVVjJuUDljRU94SGNUeC0?oc=5",
-          "source": "GuruFocus",
-          "date": "10/06"
+          "title": "루멘 Oct 2026 43.500 put (루멘261009P00043500) interactive stock chart",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90SlJRUGxGV1dVcUxNNzdSNlFDZTJtU0RRSVhORmF6YlVjYTlqR25Mb3hfWmtfLWxNUnJudURCdVpFWEJaUTdHaDdxWWRwbU9PeEVkTXNqdmpTeElmV045cFY3VkM1M25BLW9vTkRn?oc=5",
+          "source": "Yahoo Finance Australia",
+          "date": "10/09"
         }
       ],
       "archive30d": [
-        {
-          "summary": "루멘이 메인주로 렌터스보험 서비스 지역을 확장함",
-          "impact": "IFP 성장 경로 확인 가능하나 신규 주 진출 비용이 EBITDA 흑자전환 시점에 미치는 영향 점검 필요",
-          "level": "low",
-          "date": "09/06",
-          "collected_at": "2026-09-07"
-        },
         {
           "summary": "KBW 보험 컨퍼런스에서 30%+ 성장 목표, AI 역량 확대, 수익성 근접 경로 제시",
           "impact": "IFP 성장률·Loss Ratio 실현 여부에 따라 신규 투자 검토 판단 근거로 활용 가능",
@@ -1345,6 +1326,20 @@
           "level": "low",
           "date": "10/06",
           "collected_at": "2026-10-07"
+        },
+        {
+          "summary": "루멘 expands Tesla FSD insurance discounts to HW3 vehicle",
+          "impact": "-",
+          "level": "low",
+          "date": "10/09",
+          "collected_at": "2026-10-09"
+        },
+        {
+          "summary": "루멘 expands insurance coverage in Florida, Kentucky and ",
+          "impact": "-",
+          "level": "low",
+          "date": "10/09",
+          "collected_at": "2026-10-09"
         }
       ]
     },
@@ -1355,21 +1350,21 @@
       "g": "C",
       "event": "주요 변동 없음",
       "tags": [
-        "-0.78%",
+        "+0.79%",
         "자회사"
       ],
       "priceText": "Rp640",
-      "openText": "Rp645",
-      "highText": "Rp665",
-      "lowText": "Rp640",
-      "prevCloseText": "Rp645",
-      "changeText": "-Rp5",
+      "openText": "Rp640",
+      "highText": "Rp685",
+      "lowText": "Rp605",
+      "prevCloseText": "Rp635",
+      "changeText": "+Rp5",
       "thesis": "당사 자회사(지분 61.5%, 2025.12 연결 편입). GWP 성장, 손해율/CR, OJK 규제 및 자본 적정성 중점",
       "kpis": [
         [
           "종가",
           "Rp640",
-          "₩47.9"
+          "₩48.0"
         ],
         [
           "취득가",
@@ -1383,7 +1378,7 @@
         ],
         [
           "전일대비",
-          "-0.78%",
+          "+0.79%",
           null
         ],
         [
@@ -1393,13 +1388,13 @@
         ],
         [
           "거래량(20일比)",
-          "8.80만 · 13.35x",
+          "1.36만 · 1.43x",
           null
         ],
         [
           "시가총액",
           "Rp1.9조",
-          "1,438억"
+          "1,440억"
         ],
         [
           "52주 고점대비",
@@ -1422,10 +1417,6 @@
       ],
       "watch": [],
       "spark": [
-        {
-          "date": "7/10",
-          "close": 690.0
-        },
         {
           "date": "7/13",
           "close": 670.0
@@ -1544,10 +1535,6 @@
         },
         {
           "date": "8/24",
-          "close": 645.0
-        },
-        {
-          "date": "8/25",
           "close": 645.0
         },
         {
@@ -1673,11 +1660,19 @@
         {
           "date": "10/7",
           "close": 640.0
+        },
+        {
+          "date": "10/8",
+          "close": 635.0
+        },
+        {
+          "date": "10/9",
+          "close": 640.0
         }
       ],
       "avgCost": 653.8,
       "currency": "IDR",
-      "exchangeLine": "IDX · 10/7 종가 (WIB)",
+      "exchangeLine": "IDX · 10/9 종가 (WIB)",
       "sourceUrl": null,
       "sources": [],
       "archive30d": [
@@ -3434,6 +3429,6 @@
         "comment": "FY24 당사 당기순이익 3,823억 (4개사 중 4위), 보험손익 3,982억"
       }
     },
-    "updated": "2026-10-07 23:30"
+    "updated": "2026-10-09 23:19"
   }
 }
